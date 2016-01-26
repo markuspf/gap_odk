@@ -3,6 +3,6 @@ source-base: http://mathhub.info/ODK/GAP
 narration-base: http://mathhub.info/ODK/GAP
 dependencies:
 responsible: f.rabe@jacobs-university.de
-title:LMFDB
+title:GAP System
 teaser:<p>The knowledge behind the computer algebra GAP (Computational Group Theory); see <a href="http://www.gap-system.org/">www.GAP-system.org</a></p>
 description:desc.html  
