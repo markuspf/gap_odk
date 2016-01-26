@@ -1,0 +1,4 @@
+id: GAP
+source-base: http://mathhub.info/ODK/GAP
+narration-base: http://mathhub.info/ODK/GAP
+dependencies:
