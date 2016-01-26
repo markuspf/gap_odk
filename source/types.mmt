@@ -1,0 +1,46 @@
+namespace http://www.gap-system.org 
+
+theory Types : odk:?Math =
+	Object : tp 
+
+	Family : tp 
+	Family_Of_Families : tm Family 
+	Families_are_Objects : Family < Object 
+	Family_Of_Object : tm Object → tm Family  # FamilyOf 1 
+	// Family_Of_Family_is_Family_of_Families : {F:tm Family} ⊦ eq Family (FamilyOf (tpCast Families_are_Objects F)) Family_Of_Families 
+
+	Filter : tp 
+	Elementary_Filter : tp 
+	Elementary_Filter_Is_Filter : Elementary_Filter < Filter 
+
+	Filter_applies : tm Filter → tm Object → prop  # 1 _ 2 
+	
+	filter_conj : tm Filter → tm Filter → tm Filter  # 1 + 2 prec 5
+	filter_conj_is_Conjunction : {F1,F2,O} ⊦ ((F1 + F2) _ O) ≐ ((F1 _ O) ∧ (F2 _ O))  role Simplify 
+	filter_conj_is_associative : {F1,F2,F3} ⊦ F1 + (F2 + F3) ≐ (F1 + F2) + F3 
+	filter_conj_is_commutative : {F1,F2} ⊦ F1 + F2 ≐ F2 + F1 
+
+	filter_def : (tm Object → prop) → tm Filter  # MakeFilter 1 
+	filter_def_application : {F,O} ⊦ ((MakeFilter F) _ O) ≐ F O 
+
+	GAPtype : tp 
+	Family_of_GAPtype : tm GAPtype → tm Family  # FamilyOf 1 
+	Filter_of_GAPtype : tm GAPtype → tm list Elementary_Filter   # FilterOf 1 
+	GAPtype_Constructor : tm Family → tm list Elementary_Filter → tm GAPtype  # GAPtp 1 2 
+	// Filter_applies_to_type_object : {O} ⊦ (FilterOf O) _ O 
+	
+	Operation : tp 
+	Name_of_Operation : tm Operation → tm string 
+	Arglength_of_Operation : tm Operation → tm ℕ 
+	Filter_of_Operation : {op: tm Operation} tm vector Filter (Arglength_of_Operation op) 
+	Operation_Constructor : {name: tm string, args: tm ℕ} tm vector Filter args → tm Operation 
+	
+	Category : tp 
+	Category_is_elementary_Filter : Category < Elementary_Filter 
+	
+	Property : tp 
+	Property_is_elementary_Filter : Property < Elementary_Filter 
+	Has : tm Property → tm Elementary_Filter 
+	OperationFromProperty : tm Property → tm Operation 
+	OperationSet : tm Property → tm Operation  # Set 1 
+
