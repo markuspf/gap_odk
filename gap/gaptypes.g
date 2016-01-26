@@ -1,3 +1,6 @@
+# Load into GAP using Read("gaptypes.g"); and export using
+# GAPTypesToJson("gap_types.json");
+
 LoadPackage("json");
 
 GAPFilterToFilterType := function(fid)
@@ -45,7 +48,7 @@ GAPTypesInfo := function()
 end;
 
 # Write the graph of type info to JSon file
-GAPTypeToJson := function(file)
+GAPTypesToJson := function(file)
     PrintTo(file, GapToJsonString(GAPTypesInfo()));
 end;
 
