@@ -43,7 +43,7 @@ end;
 GAPTypesInfo := function()
     local  res, lres, i, f, ff;
 
-    res := [];
+    res := [ rec( name := "IsObject", type := "GAP_Category", implied := [] ) ];
 
     for i in [1..Length(FILTERS)] do
         if IsBound(FILTERS[i]) then
