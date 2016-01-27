@@ -1,9 +1,64 @@
 # Load into GAP using Read("gaptypes.g"); and export using
 # GAPTypesToJson("gap_types.json");
 
+# Operations
+# Families (not necessary)
+# Types of Installed Methods ( with filters )
+
 LoadPackage("json");
 LoadPackage("io");
 
+FindOperationId := function( oper )
+    local i;
+
+    if IsOperation(oper) then
+        for i in [1..Length(OPERATIONS)/2] do
+            if OPERATIONS[2*i - 1] = oper then
+                return 2*i - 1;
+            fi;
+        od;
+        return fail;
+    else
+        Error("not an operation");
+    fi;
+    return fail;
+end;
+
+FiltersForOperation := function( oper )
+    local res, res2, filts, opid, fset, flags;
+
+    res := [];
+    opid := FindOperationId(oper);
+
+    filts := OPERATIONS[opid + 1];
+
+    for fset in filts do
+        res2 := [];
+        for flags in fset do
+            Add(res2, List(TRUES_FLAGS(flags), x -> FILTERS[x]));
+        od;
+        Add(res, res2);
+    od;
+
+    return res;
+end;
+
+GAPAndFilterUnpack := function(t)
+    local res;
+
+    res := [];
+
+    if IsOperation(t) then
+        if (IsInt(FLAG1_FILTER(t)) and IsInt(FLAG2_FILTER(t)))
+        then
+            Add(res, NAME_FUNC(t));
+        else
+            Append(res, GAPAndFilterUnpack(FLAG1_FILTER(t)));
+            Append(res, GAPAndFilterUnpack(FLAG2_FILTER(t)));
+        fi;
+    fi;
+    return res;
+end;
 
 GAPFilterToFilterType := function(fid)
     if INFO_FILTERS[fid] in FNUM_CATS then
@@ -20,24 +75,6 @@ GAPFilterToFilterType := function(fid)
         return "GAP_Filter";
     fi;
 end;
-
-GAPAndFilterUnpack := function(t)
-    local res;
-
-    res := [];
-
-    if IsOperation(t) then
-        if (IsInt(FLAG1_FILTER(t)) and IsInt(FLAG2_FILTER(t)))
-            then
-            Add(res, NAME_FUNC(t));
-        else
-            Append(res, GAPAndFilterUnpack(FLAG1_FILTER(t)));
-            Append(res, GAPAndFilterUnpack(FLAG2_FILTER(t)));
-        fi;
-    fi;
-    return res;
-end;
-
 
 # Make GAP Type graph as a record
 GAPTypesInfo := function()
@@ -83,8 +120,17 @@ GAPTypesInfo := function()
         lres.name  := ATTRIBUTES[i][1];
         Add(res, lres);
     od;
+    for i in [1..Length(OPERATIONS)/2] do
+        lres := rec();
+        lres.type := "GAP_Operation";
+        lres.name := NAME_FUNC(OPERATIONS[2*i - 1]);
+        lres.filters := FiltersForOperation(OPERATIONS[2*i - 1]);
+        lres.filters := List(lres.filters, x->List(x,y -> List(y,NAME_FUNC)));
+        Add(res, lres);
+    od;
     return res;
 end;
+
 
 # Write the graph of type info to JSon file
 GAPTypesToJson := function(file)
