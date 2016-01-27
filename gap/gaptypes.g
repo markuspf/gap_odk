@@ -2,6 +2,8 @@
 # GAPTypesToJson("gap_types.json");
 
 LoadPackage("json");
+LoadPackage("io");
+
 
 GAPFilterToFilterType := function(fid)
     if INFO_FILTERS[fid] in FNUM_CATS then
@@ -49,6 +51,15 @@ end;
 
 # Write the graph of type info to JSon file
 GAPTypesToJson := function(file)
-    PrintTo(file, GapToJsonString(GAPTypesInfo()));
+    local fd, n;
+
+    fd := IO_File(file, "w");
+    if fd = fail then
+        Error("Opening file ", file, "failed.");
+    fi;
+    n := IO_Write(fd, GapToJsonString(GAPTypesInfo()));
+    IO_Close(fd);
+
+    return n;
 end;
 
