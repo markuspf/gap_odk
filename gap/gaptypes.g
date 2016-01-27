@@ -31,8 +31,8 @@ GAPAndFilterUnpack := function(t)
             then
             Add(res, NAME_FUNC(t));
         else
-            Append(res, GAPTypeUnpack(FLAG1_FILTER(t)));
-            Append(res, GAPTypeUnpack(FLAG2_FILTER(t)));
+            Append(res, GAPAndFilterUnpack(FLAG1_FILTER(t)));
+            Append(res, GAPAndFilterUnpack(FLAG2_FILTER(t)));
         fi;
     fi;
     return res;
@@ -43,7 +43,7 @@ end;
 GAPTypesInfo := function()
     local  res, lres, i, f, ff;
 
-    res := rec();
+    res := [];
 
     for i in [1..Length(FILTERS)] do
         if IsBound(FILTERS[i]) then
@@ -53,23 +53,26 @@ GAPTypesInfo := function()
             lres.type := GAPFilterToFilterType(i);
             # if the filter is an attribute and FLAG1_FILTER of the filter
             # is not equal to it, then this is a tester.
+            ff := TRUES_FLAGS(WITH_IMPS_FLAGS(FLAGS_FILTER(FILTERS[i])));
+            ff := List(ff, function(f)
+                          if IsBound(FILTERS[f]) then
+                              return NAME_FUNC(FILTERS[f]);
+                          else
+                              return "<<unknown>>";
+                          fi;
+                      end);
             if lres.type = "GAP_Attribute" then
-                if 
-                    (FLAG1_FILTER(f)) <> 0 and (FLAG1_FILTER(f) <> i) then
+                if (FLAG1_FILTER(f)) <> 0 and (FLAG1_FILTER(f) <> i) then
                     lres.testerfor := NAME_FUNC(FILTERS[FLAG1_FILTER(f)]);
                 fi;
+                lres.filters := ff;
+            elif lres.type = "GAP_Property" then
+                lres.filters := ff;
+            else
+                lres.implied := ff;
             fi;
-
-            ff := TRUES_FLAGS(WITH_IMPS_FLAGS(FLAGS_FILTER(FILTERS[i])));
-            lres.implied := List(ff,
-                               function(f)
-                                   if IsBound(FILTERS[f]) then
-                                       return NAME_FUNC(FILTERS[f]);
-                                   else
-                                       return "<<unknown>>";
-                                   fi;
-                               end);
-            res.(NAME_FUNC(FILTERS[i])) := lres;
+            lres.name := (NAME_FUNC(FILTERS[i]));
+            Add(res, lres);
         fi;
     od;
     for i in [1..Length(ATTRIBUTES)] do
@@ -77,7 +80,8 @@ GAPTypesInfo := function()
         lres.type := "GAP_Attribute";
         lres.filters := GAPAndFilterUnpack(ATTRIBUTES[i][2]);
 
-        res.(ATTRIBUTES[i][1]) := lres;
+        lres.name  := ATTRIBUTES[i][1];
+        Add(res, lres);
     od;
     return res;
 end;
