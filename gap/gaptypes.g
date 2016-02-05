@@ -2,7 +2,9 @@
 # GAPTypesToJson("gap_types.json");
 
 # Operations
-# Families (not necessary)
+# Families (not necessary, there is an unbounded number of
+#           them and they do not convey any useful mathematical
+#           information)
 # Types of Installed Methods ( with filters )
 
 LoadPackage("json");
@@ -126,6 +128,12 @@ GAPTypesInfo := function()
         lres.name := NAME_FUNC(OPERATIONS[2*i - 1]);
         lres.filters := FiltersForOperation(OPERATIONS[2*i - 1]);
         lres.filters := List(lres.filters, x->List(x,y -> List(y,NAME_FUNC)));
+
+        for a in [1..6] do
+            meths := METHODS_OPERATION(OPERATIONS[2*i - 1], a);
+            
+        od;
+
         Add(res, lres);
     od;
     return res;
