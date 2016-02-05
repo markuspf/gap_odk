@@ -80,7 +80,7 @@ end;
 
 # Make GAP Type graph as a record
 GAPTypesInfo := function()
-    local  res, lres, i, f, ff;
+    local res, lres, i, j, f, ff, a, meths, mpos;
 
     res := [ rec( name := "IsObject", type := "GAP_Category", implied := [] ) ];
 
@@ -129,9 +129,26 @@ GAPTypesInfo := function()
         lres.filters := FiltersForOperation(OPERATIONS[2*i - 1]);
         lres.filters := List(lres.filters, x->List(x,y -> List(y,NAME_FUNC)));
 
+        lres.methods := rec( 0args := [], 1args := [], 2args := [],
+                             3args := [], 4args := [], 5args := [],
+                             6args := [] );
+
         for a in [1..6] do
             meths := METHODS_OPERATION(OPERATIONS[2*i - 1], a);
             
+            for j in [1..Int(Length(meths)/(a + 4))] do
+                mpos := (j - 1) * (a + 4) + 1;
+                Add(lres.methods.(Concatenation(String(a),"args")),
+                    rec(
+                         filters := List([1..a],
+                                         argnum ->
+                                            List(TRUES_FLAGS(meths[mpos + argnum]), x -> NAME_FUNC(FILTERS[x]))
+                                         ),
+                         rank := meths[mpos + a + 2],
+                         comment := meths[mpos + a + 3]
+                        )
+                   );
+            od;
         od;
 
         Add(res, lres);
