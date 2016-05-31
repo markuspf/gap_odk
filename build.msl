@@ -21,14 +21,18 @@ log+ steximporter
 //log+ scanner
 //log+ lf
 
-extension info.kwarc.mmt.planetary.PlanetaryPlugin
+extension info.kwarc.mmt.gap.GAPImporter
 extension info.kwarc.mmt.stex.STeXImporter
+extension info.kwarc.mmt.planetary.PlanetaryPlugin
+extension info.kwarc.mmt.planetary.PlanetaryPresenter
+extension info.kwarc.mmt.api.archives.GraphViz "/usr/bin/dot"
+extension info.kwarc.mmt.api.informal.IRelExtractor
 
 archive add .
 
-build GAP stex-omdoc
-build GAP index
-build GAP mws-content
-build GAP mws-narration
+build ODK/GAP gap-omdoc
+build ODK/GAP planetary
+build ODK/GAP svg
 
-exit
+server on 8080
+//exit

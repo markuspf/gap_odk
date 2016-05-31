@@ -20222,8 +20222,7 @@ gap> SubtractSet( set, [ 9, 4, 6, 8 ] );  set;
 <!-- % The results of <Ref Func="Set"/>, <Ref Func="Difference"/>, <Ref Func="Intersection"/>  and <Ref Func="Union"/> are known -->
 <!-- % to be sets by construction, and thus have the flag set upon creation. -->
 <!-- %  -->
-<!-- % If an argument to <Ref Func="IsSet"/>, <Ref Func="IsEqualSet"/>, <Ref Func="IsSubset"/>, <Ref Func="Set"/>, <Ref Func="Difference"/>, --\
->
+<!-- % If an argument to <Ref Func="IsSet"/>, <Ref Func="IsEqualSet"/>, <Ref Func="IsSubset"/>, <Ref Func="Set"/>, <Ref Func="Difference"/>, -->
 <!-- % <Ref Func="Intersection"/> or  <Ref Func="Union"/> is a proper  set, that does  not  yet have the -->
 <!-- % flag set, those functions will notice that and set the flag for this set. -->
 <!-- % Note that <K>in</K> will use linear search if the  right operand does not have -->
