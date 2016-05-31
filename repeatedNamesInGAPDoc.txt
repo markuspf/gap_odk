@@ -1,0 +1,991 @@
+Norm:
+    <Attr Label="for a class function" Arg="[tbl, ]chi" Name="Norm"/>
+    <Attr Arg="[L, [K, ]]z" Name="Norm"/>
+
+EmptyBinaryRelation:
+    <Func Label="for a domain" Arg="domain" Name="EmptyBinaryRelation"/>
+    <Func Label="for a degree" Arg="degree" Name="EmptyBinaryRelation"/>
+
+\<:
+    <Oper Label="for associative words" Arg="w1, w2" Name="\&lt;"/>
+    <Oper Arg="w1, w2" Label="for nonassociative words" Name="\&lt;"/>
+    <Oper Arg="left-expr, right-expr" Name="\&lt;"/>
+
+FreeProduct:
+    <Func Label="for a list" Arg="list" Name="FreeProduct"/>
+    <Func Label="for several groups" Arg="G[, H, ...]" Name="FreeProduct"/>
+
+FunctionField:
+    <Oper Label="for an integral ring and a list of indeterminate numbers" Arg="R, indetnums" Name="FunctionField"/>
+    <Oper Label="for an integral ring and a list of indeterminates" Arg="R, indets" Name="FunctionField"/>
+    <Oper Label="for an integral ring and a list of names (and an exclusion list)" Arg="R, names[, avoid]" Name="FunctionField"/>
+    <Oper Label="for an integral ring and a rank (and an exclusion list)" Arg="R, rank[, avoid]" Name="FunctionField"/>
+
+SolvableQuotient:
+    <Func Label="for a f.p. group and a list of tuples" Arg="F, tuples" Name="SolvableQuotient"/>
+    <Func Label="for a f.p. group and a list of primes" Arg="F, primes" Name="SolvableQuotient"/>
+    <Func Label="for a f.p. group and a size" Arg="F, size" Name="SolvableQuotient"/>
+
+CommutatorLength:
+    <Attr Label="for a character table" Arg="tbl" Name="CommutatorLength"/>
+    <Attr Arg="G" Name="CommutatorLength"/>
+
+Inverse:
+    <Attr Label="for a transformation" Arg="f" Name="Inverse"/>
+    <Attr Label="for a pcword" Arg="pcword" Name="Inverse"/>
+    <Attr Arg="elm" Name="Inverse"/>
+
+Int:
+    <Attr Label="for strings" Arg="str" Name="Int"/>
+    <Attr Arg="elm" Name="Int"/>
+
+ReadAsFunction:
+    <Oper Label="for streams" Arg="input-text-stream" Name="ReadAsFunction"/>
+    <Oper Arg="filename" Name="ReadAsFunction"/>
+
+ClassPositionsOfCentre:
+    <Attr Label="for a character" Arg="chi" Name="ClassPositionsOfCentre"/>
+    <Attr Label="for a character table" Arg="ordtbl" Name="ClassPositionsOfCentre"/>
+
+GaloisField:
+    <Func Label="for subfield and polynomial" Arg="subfield, pol" Name="GaloisField"/>
+    <Func Label="for characteristic and polynomial" Arg="p, pol" Name="GaloisField"/>
+    <Func Label="for subfield and degree" Arg="subfield, d" Name="GaloisField"/>
+    <Func Label="for characteristic and degree" Arg="p, d" Name="GaloisField"/>
+    <Func Label="for field size" Arg="p^d" Name="GaloisField"/>
+
+Projection:
+    <Oper Label="for group products" Arg="P, nr" Name="Projection"/>
+    <Oper Label="for a domain" Arg="S" Name="Projection"/>
+    <Oper Label="for a domain and a positive integer" Arg="S, i" Name="Projection"/>
+    <Oper Label="for two domains" Arg="S, T" Name="Projection"/>
+
+FreeLieAlgebra:
+    <Func Label="for ring and several names" Arg="R, name1, name2, ..." Name="FreeLieAlgebra"/>
+    <Func Label="for ring, rank (and name)" Arg="R, rank[, name]" Name="FreeLieAlgebra"/>
+
+RightOne:
+    <Attr Label="for a partial perm" Arg="f" Name="RightOne"/>
+    <Attr Label="for a transformation" Arg="f" Name="RightOne"/>
+
+IsCyclic:
+    <Prop Label="for a character table" Arg="tbl" Name="IsCyclic"/>
+    <Prop Arg="G" Name="IsCyclic"/>
+
+IntFFESymm:
+    <Attr Label="for a vector of FFEs" Arg="vec" Name="IntFFESymm"/>
+    <Attr Label="for a FFE" Arg="z" Name="IntFFESymm"/>
+
+Size:
+    <Attr Label="for a character table" Arg="tbl" Name="Size"/>
+    <Attr Arg="listorcoll" Name="Size"/>
+
+MinimalPolynomial:
+    <Oper Arg="R, elm[, ind]" Name="MinimalPolynomial"/>
+    <Oper Label="over a field" Arg="F, z[, ind]" Name="MinimalPolynomial"/>
+
+LieAlgebra:
+    <Func Label="for field and generators" Arg="F, gens[, zero][, &quot;basis&quot;]" Name="LieAlgebra"/>
+    <Func Label="for an associative algebra" Arg="L" Name="LieAlgebra"/>
+
+Transitivity:
+    <Attr Label="for a character" Arg="[tbl, ]chi" Name="Transitivity"/>
+    <Attr Label="for an external set" Arg="xset" Name="Transitivity"/>
+    <Oper Label="for a group and an action domain" Arg="G, Omega[, gens, acts][, act]" Name="Transitivity"/>
+
+VirtualCharacter:
+    <Oper Label="for a group and a list" Arg="G, values" Name="VirtualCharacter"/>
+    <Oper Label="for a character table and a list" Arg="tbl, values" Name="VirtualCharacter"/>
+
+ClassFunction:
+    <Oper Label="for a group and a list" Arg="G, values" Name="ClassFunction"/>
+    <Oper Label="for a character table and a list" Arg="tbl, values" Name="ClassFunction"/>
+
+SpecialPcgs:
+    <Attr Label="for a group" Arg="G" Name="SpecialPcgs"/>
+    <Attr Label="for a pcgs" Arg="pcgs" Name="SpecialPcgs"/>
+
+AppendTo:
+    <Func Label="for streams" Arg="output-stream, arg1, ..." Name="AppendTo"/>
+    <Func Arg="filename[, obj1, ...]" Name="AppendTo"/>
+
+UnionBlist:
+    <Func Label="for a list" Arg="list" Name="UnionBlist"/>
+    <Func Label="for various boolean lists" Arg="blist1,blist2[,...]" Name="UnionBlist"/>
+
+DominantCharacter:
+    <Oper Label="for a root system and a highest weight" Arg="R, maxw" Name="DominantCharacter"/>
+    <Oper Label="for a semisimple Lie algebra and a highest weight" Arg="L, maxw" Name="DominantCharacter"/>
+
+IsomorphismTypeInfoFiniteSimpleGroup:
+    <Attr Label="for a character table" Arg="tbl" Name="IsomorphismTypeInfoFiniteSimpleGroup"/>
+    <Attr Label="for a group order" Arg="n" Name="IsomorphismTypeInfoFiniteSimpleGroup"/>
+    <Attr Label="for a group" Arg="G" Name="IsomorphismTypeInfoFiniteSimpleGroup"/>
+
+NrMovedPoints:
+    <Attr Label="for a partial perm" Arg="f" Name="NrMovedPoints"/>
+    <Attr Label="for a transformation coll" Arg="coll" Name="NrMovedPoints"/>
+    <Attr Label="for a transformation" Arg="f" Name="NrMovedPoints"/>
+    <Attr Label="for a list or collection of permutations" Arg="C" Name="NrMovedPoints"/>
+    <Attr Label="for a permutation" Arg="perm" Name="NrMovedPoints"/>
+
+X:
+    <Oper Label="for a family and a number" Arg="fam, nr" Name="X"/>
+    <Oper Label="for a ring (and a name, and an exclusion list)" Arg="R[, name][, avoid]" Name="X"/>
+    <Oper Label="for a ring (and a number)" Arg="R[, nr]" Name="X"/>
+
+GL:
+    <Func Label="for dimension and field size" Arg="[filt, ]d, q" Name="GL"/>
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, R" Name="GL"/>
+
+SymplecticGroup:
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, ring" Name="SymplecticGroup"/>
+    <Func Label="for dimension and field size" Arg="[filt, ]d, q" Name="SymplecticGroup"/>
+
+GroupHomomorphismByFunction:
+    <Func Label="by function and function that computes one preimage" Arg="S, R, fun, false, prefun" Name="GroupHomomorphismByFunction"/>
+    <Func Label="by function (and inverse function) between two domains" Arg="S, R, fun[, invfun]" Name="GroupHomomorphismByFunction"/>
+
+GF:
+    <Func Label="for subfield and polynomial" Arg="subfield, pol" Name="GF"/>
+    <Func Label="for characteristic and polynomial" Arg="p, pol" Name="GF"/>
+    <Func Label="for subfield and degree" Arg="subfield, d" Name="GF"/>
+    <Func Label="for characteristic and degree" Arg="p, d" Name="GF"/>
+    <Func Label="for field size" Arg="p^d" Name="GF"/>
+
+SymmetricGroup:
+    <Func Label="for a domain" Arg="[filt, ]dom" Name="SymmetricGroup"/>
+    <Func Label="for a degree" Arg="[filt, ]deg" Name="SymmetricGroup"/>
+
+EnumeratorByFunctions:
+    <Func Label="for a family and a record" Arg="Fam, record" Name="EnumeratorByFunctions"/>
+    <Func Label="for a domain and a record" Arg="D, record" Name="EnumeratorByFunctions"/>
+
+Gcd:
+    <Func Label="for (a ring and) a list of elements" Arg="[R, ]list" Name="Gcd"/>
+    <Func Label="for (a ring and) several elements" Arg="[R, ]r1, r2, ..." Name="Gcd"/>
+
+IntersectionBlist:
+    <Func Label="for a list" Arg="list" Name="IntersectionBlist"/>
+    <Func Label="for various boolean lists" Arg="blist1,blist2[,...]" Name="IntersectionBlist"/>
+
+ConvertToMatrixRepNC:
+    <Func Label="for a list (and a prime power)" Arg="list[, fieldsize]" Name="ConvertToMatrixRepNC"/>
+    <Func Label="for a list (and a field)" Arg="list[, field]" Name="ConvertToMatrixRepNC"/>
+
+TestRelativelySM:
+    <Oper Label="for a character and a normal subgroup" Arg="chi, N" Name="TestRelativelySM"/>
+    <Oper Label="for a group and a normal subgroup" Arg="G, N" Name="TestRelativelySM"/>
+    <Attr Label="for a character" Arg="chi" Name="TestRelativelySM"/>
+    <Attr Label="for a group" Arg="G" Name="TestRelativelySM"/>
+
+ClosureNearAdditiveGroup:
+    <Oper Label="for two near-additive groups" Arg="A, B" Name="ClosureNearAdditiveGroup"/>
+    <Oper Label="for a near-additive group and an element" Arg="A, a" Name="ClosureNearAdditiveGroup"/>
+
+GaloisCyc:
+    <Oper Label="for a class function" Arg="chi, k" Name="GaloisCyc"/>
+    <Oper Label="for a list of cyclotomics" Arg="list, k" Name="GaloisCyc"/>
+    <Oper Label="for a cyclotomic" Arg="cyc, k" Name="GaloisCyc"/>
+
+GroupGeneralMappingByImagesNC:
+    <Oper Label="from group to itself" Arg="G, gens, imgs" Name="GroupGeneralMappingByImagesNC"/>
+    <Oper Arg="G, H, gens, imgs" Name="GroupGeneralMappingByImagesNC"/>
+
+GeneralLinearGroup:
+    <Func Label="for dimension and field size" Arg="[filt, ]d, q" Name="GeneralLinearGroup"/>
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, R" Name="GeneralLinearGroup"/>
+
+ExternalOrbitsStabilizers:
+    <Attr Label="for an external set" Arg="xset" Name="ExternalOrbitsStabilizers"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="ExternalOrbitsStabilizers"/>
+
+LinearCharacters:
+    <Attr Label="for a character table" Arg="tbl" Name="LinearCharacters"/>
+    <Attr Label="for a group" Arg="G[, p]" Name="LinearCharacters"/>
+
+InputLogTo:
+    <Oper Label="for streams" Arg="stream" Name="InputLogTo"/>
+    <Oper Label="stop logging input" Arg="" Name="InputLogTo"/>
+    <Oper Label="for a filename" Arg="filename" Name="InputLogTo"/>
+
+AbelianInvariants:
+    <Attr Label="for a character table" Arg="tbl" Name="AbelianInvariants"/>
+    <Attr Arg="G" Name="AbelianInvariants"/>
+
+Exponent:
+    <Attr Label="for a character table" Arg="tbl" Name="Exponent"/>
+    <Attr Arg="G" Name="Exponent"/>
+
+DefaultRing:
+    <Func Label="for finite field elements" Arg="list" Name="DefaultRing"/>
+    <Func Label="for a collection" Arg="coll" Name="DefaultRing"/>
+    <Func Label="for ring elements" Arg="r, s, ..." Name="DefaultRing"/>
+
+GroebnerBasis:
+    <Oper Label="for an ideal and a monomial ordering" Arg="I, O" Name="GroebnerBasis"/>
+    <Oper Label="for a list and a monomial ordering" Arg="L, O" Name="GroebnerBasis"/>
+
+UnivariatePolynomialRing:
+    <Oper Label="for a ring (and a name and an exclusion list)" Arg="R[, name][, avoid]" Name="UnivariatePolynomialRing"/>
+    <Oper Label="for a ring (and an indeterminate number)" Arg="R[, nr]" Name="UnivariatePolynomialRing"/>
+
+ZmodnZObj:
+    <Oper Label="for two integers" Arg="r, n" Name="ZmodnZObj"/>
+    <Oper Label="for a residue class family and integer" Arg="Fam, r" Name="ZmodnZObj"/>
+
+IsConfluent:
+    <Prop Label="for pc groups" Arg="G" Name="IsConfluent"/>
+    <Prop Label="for an algebra with canonical rewriting system" Arg="A" Name="IsConfluent"/>
+    <Prop Label="for a rewriting system" Arg="rws" Name="IsConfluent"/>
+
+IsTransitive:
+    <Prop Label="for a character" Arg="[tbl, ]chi" Name="IsTransitive"/>
+    <Prop Label="for an external set" Arg="xset" Name="IsTransitive"/>
+    <Prop Label="for a permutation group" Arg="G" Name="IsTransitive"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="IsTransitive"/>
+
+AlternatingGroup:
+    <Func Label="for a domain" Arg="[filt, ]dom" Name="AlternatingGroup"/>
+    <Func Label="for a degree" Arg="[filt, ]deg" Name="AlternatingGroup"/>
+
+ActionHomomorphism:
+    <Func Label="for an action image" Arg="action" Name="ActionHomomorphism"/>
+    <Func Label="for an external set" Arg="xset[, &quot;surjective&quot;]" Name="ActionHomomorphism"/>
+    <Func Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act][, &quot;surjective&quot;]" Name="ActionHomomorphism"/>
+
+TableOfMarks:
+    <Attr Label="for a matrix" Arg="matrix" Name="TableOfMarks"/>
+    <Attr Label="for a string" Arg="string" Name="TableOfMarks"/>
+    <Attr Label="for a group" Arg="G" Name="TableOfMarks"/>
+
+IsAbelian:
+    <Prop Label="for a character table" Arg="tbl" Name="IsAbelian"/>
+    <Prop Arg="M" Name="IsAbelian"/>
+
+ConjugacyClasses:
+    <Attr Label="for character tables" Arg="tbl" Name="ConjugacyClasses"/>
+    <Attr Label="attribute" Arg="G" Name="ConjugacyClasses"/>
+
+Normalizer:
+    <Oper Label="for a group and a group element" Arg="G, g" Name="Normalizer"/>
+    <Oper Label="for two groups" Arg="G, U" Name="Normalizer"/>
+
+RandomPartialPerm:
+    <Func Label="for domain and image" Arg="dom, img" Name="RandomPartialPerm"/>
+    <Func Label="for a set of positive       integers" Arg="set" Name="RandomPartialPerm"/>
+    <Func Label="for a positive integer" Arg="n" Name="RandomPartialPerm"/>
+
+FreeAssociativeAlgebraWithOne:
+    <Func Label="for ring and several names" Arg="R, name1, name2, ..." Name="FreeAssociativeAlgebraWithOne"/>
+    <Func Label="for ring, rank (and name)" Arg="R, rank[, name]" Name="FreeAssociativeAlgebraWithOne"/>
+
+BrauerTable:
+    <Oper Label="for a group, and a prime integer" Arg="G, p" Name="BrauerTable"/>
+    <Oper Label="for a character table, and a prime integer" Arg="ordtbl, p" Name="BrauerTable"/>
+
+KnuthBendixRewritingSystem:
+    <Oper Label="for a monoid and a reduction ordering" Arg="m, wordord" Name="KnuthBendixRewritingSystem"/>
+    <Oper Label="for a semigroup and a reduction ordering" Arg="s, wordord" Name="KnuthBendixRewritingSystem"/>
+
+AbelianInvariantsSubgroupFpGroupRrs:
+    <Func Label="for a group and a coset table" Arg="G, table" Name="AbelianInvariantsSubgroupFpGroupRrs"/>
+    <Func Label="for two groups" Arg="G, H" Name="AbelianInvariantsSubgroupFpGroupRrs"/>
+
+PermutationCharacter:
+    <Oper Label="for two groups" Arg="G, U" Name="PermutationCharacter"/>
+    <Oper Label="for a group, an action domain, and a function" Arg="G, D, opr" Name="PermutationCharacter"/>
+
+SmallestMovedPoint:
+    <Attr Label="for a partial perm" Arg="f" Name="SmallestMovedPoint"/>
+    <Attr Label="for a transformation" Arg="f" Name="SmallestMovedPoint"/>
+    <Attr Label="for a list or collection of permutations" Arg="C" Name="SmallestMovedPoint"/>
+    <Attr Label="for a permutation" Arg="perm" Name="SmallestMovedPoint"/>
+
+DirectSumOfAlgebraModules:
+    <Oper Label="for two Lie algebra modules" Arg="V, W" Name="DirectSumOfAlgebraModules"/>
+    <Oper Label="for a list of Lie algebra modules" Arg="list" Name="DirectSumOfAlgebraModules"/>
+
+LargestImageOfMovedPoint:
+    <Attr Label="for a partial permutation" Arg="f" Name="LargestImageOfMovedPoint"/>
+    <Attr Label="for a transformation" Arg="f" Name="LargestImageOfMovedPoint"/>
+
+FactorCosetAction:
+    <Oper Label="for fp groups" Arg="G, H" Name="FactorCosetAction"/>
+    <Oper Arg="G, U[, N]" Name="FactorCosetAction"/>
+
+StraightLineProgramNC:
+    <Func Label="for a string and a list of generators names" Arg="string, gens" Name="StraightLineProgramNC"/>
+    <Func Label="for a list of lines (and the number of generators)" Arg="lines[, nrgens]" Name="StraightLineProgramNC"/>
+
+UnderlyingGroup:
+    <Attr Label="for character tables" Arg="ordtbl" Name="UnderlyingGroup"/>
+    <Attr Label="for tables of marks" Arg="tom" Name="UnderlyingGroup"/>
+
+DefaultField:
+    <Func Label="for finite field elements" Arg="list" Name="DefaultField"/>
+    <Func Label="for a list of generators" Arg="list" Name="DefaultField"/>
+    <Func Label="for several generators" Arg="z, ..." Name="DefaultField"/>
+    <Func Label="for cyclotomics" Arg="list" Name="DefaultField"/>
+
+UntraceMethods:
+    <Func Label="for a list of operations" Arg="oprs" Name="UntraceMethods"/>
+    <Func Label="for operations" Arg="opr1, opr2, ..." Name="UntraceMethods"/>
+
+ElementaryAbelianSeries:
+    <Attr Label="for a list" Arg="list" Name="ElementaryAbelianSeries"/>
+    <Attr Label="for a group" Arg="G" Name="ElementaryAbelianSeries"/>
+
+SP:
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, ring" Name="SP"/>
+    <Func Label="for dimension and field size" Arg="[filt, ]d, q" Name="SP"/>
+
+Conductor:
+    <Attr Label="for a collection of cyclotomics" Arg="C" Name="Conductor"/>
+    <Attr Label="for a cyclotomic" Arg="cyc" Name="Conductor"/>
+
+Lcm:
+    <Func Label="for (a ring and) a list of elements" Arg="[R, ]list" Name="Lcm"/>
+    <Func Label="for (a ring and) several elements" Arg="[R, ]r1, r2, ..." Name="Lcm"/>
+
+TensorProductOfAlgebraModules:
+    <Oper Label="for two algebra modules" Arg="V, W" Name="TensorProductOfAlgebraModules"/>
+    <Oper Label="for a list of algebra modules" Arg="list" Name="TensorProductOfAlgebraModules"/>
+
+GroupByGenerators:
+    <Oper Label="with explicitly specified identity element" Arg="gens, id" Name="GroupByGenerators"/>
+    <Oper Arg="gens" Name="GroupByGenerators"/>
+
+PresentationSubgroupRrs:
+    <Func Label="for a group and a coset table (and a string)" Arg="G, table[, string]" Name="PresentationSubgroupRrs"/>
+    <Func Label="for two groups (and a string)" Arg="G, H[, string]" Name="PresentationSubgroupRrs"/>
+
+DirectSumOfAlgebras:
+    <Oper Label="for a list of algebras" Arg="list" Name="DirectSumOfAlgebras"/>
+    <Oper Label="for two algebras" Arg="A1, A2" Name="DirectSumOfAlgebras"/>
+
+Index:
+    <Oper Label="for two character tables" Arg="tbl, subtbl" Name="Index"/>
+    <Oper Label="for a group and its subgroup" Arg="G, U" Name="Index"/>
+
+Maximum:
+    <Func Label="for a list" Arg="list" Name="Maximum"/>
+    <Func Label="for various objects" Arg="obj1, obj2 ..." Name="Maximum"/>
+
+AsPartialPerm:
+    <Oper Label="for a transformation and a       set of positive integer" Arg="f, set" Name="AsPartialPerm"/>
+    <Oper Label="for a permutation and a set of     positive integers" Arg="f, set" Name="AsPartialPerm"/>
+
+SpecialLinearGroup:
+    <Func Label="for dimension and a field size" Arg="[filt, ]d, q" Name="SpecialLinearGroup"/>
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, R" Name="SpecialLinearGroup"/>
+
+IteratorOfCartesianProduct:
+    <Func Label="for a list of lists" Arg="list" Name="IteratorOfCartesianProduct"/>
+    <Func Label="for several lists" Arg="list1, list2 ..." Name="IteratorOfCartesianProduct"/>
+
+RNamObj:
+    <Func Label="for a positive integer" Arg="int" Name="RNamObj"/>
+    <Func Label="for a string" Arg="str" Name="RNamObj"/>
+
+Intersection:
+    <Func Label="for a list" Arg="list" Name="Intersection"/>
+    <Func Label="for various collections" Arg="C1, C2 ..." Name="Intersection"/>
+
+IsSubnormallyMonomial:
+    <Prop Label="for a character" Arg="chi" Name="IsSubnormallyMonomial"/>
+    <Prop Label="for a group" Arg="G" Name="IsSubnormallyMonomial"/>
+
+FreeAlgebraWithOne:
+    <Func Label="for ring and several names" Arg="R, name1, name2, ..." Name="FreeAlgebraWithOne"/>
+    <Func Label="for ring, rank (and name)" Arg="R, rank[, name]" Name="FreeAlgebraWithOne"/>
+
+TzSubstitute:
+    <Func Label="for a presentation (and an integer and 0/1/2)" Arg="P[, n[, eliminate]]" Name="TzSubstitute"/>
+    <Func Label="for a presentation and a word" Arg="P, word" Name="TzSubstitute"/>
+
+OperationAlgebraHomomorphism:
+    <Oper Label="action on a free left module" Arg="A, V[, opr]" Name="OperationAlgebraHomomorphism"/>
+    <Oper Label="action w.r.t. a basis of the module" Arg="A, B[, opr]" Name="OperationAlgebraHomomorphism"/>
+
+Concatenation:
+    <Func Label="for a list of lists" Arg="list" Name="Concatenation"/>
+    <Func Label="for several lists" Arg="list1, list2, ..." Name="Concatenation"/>
+
+LeftOne:
+    <Attr Label="for a partial perm" Arg="f" Name="LeftOne"/>
+    <Attr Label="for a transformation" Arg="f" Name="LeftOne"/>
+
+IsBergerCondition:
+    <Prop Label="for a character" Arg="chi" Name="IsBergerCondition"/>
+    <Prop Label="for a group" Arg="G" Name="IsBergerCondition"/>
+
+Subgroup:
+    <Func Label="for a group" Arg="G" Name="Subgroup"/>
+    <Func Arg="G, gens" Name="Subgroup"/>
+
+CyclotomicField:
+    <Func Label="for (subfield and) generators" Arg="[subfield, ]gens" Name="CyclotomicField"/>
+    <Func Label="for (subfield and) conductor" Arg="[subfield, ]n" Name="CyclotomicField"/>
+
+PermCharsTom:
+    <Oper Label="from a character table" Arg="tbl, tom" Name="PermCharsTom"/>
+    <Oper Label="via fusion map" Arg="fus, tom" Name="PermCharsTom"/>
+
+TzEliminate:
+    <Func Label="for a presentation (and an integer)" Arg="P[, n]" Name="TzEliminate"/>
+    <Func Label="for a presentation (and a generator)" Arg="P[, gen]" Name="TzEliminate"/>
+
+Cartesian:
+    <Func Label="for a list" Arg="list" Name="Cartesian"/>
+    <Func Label="for various objects" Arg="list1, list2 ..." Name="Cartesian"/>
+
+ComplexConjugate:
+    <Attr Label="for a class function" Arg="chi" Name="ComplexConjugate"/>
+    <Attr Arg="z" Name="ComplexConjugate"/>
+
+IsConjugate:
+    <Oper Label="for a group and two groups" Arg="G, U, V" Name="IsConjugate"/>
+    <Oper Label="for a group and two elements" Arg="G, x, y" Name="IsConjugate"/>
+
+GcdRepresentation:
+    <Func Label="for (a ring and) a list of elements" Arg="[R, ]list" Name="GcdRepresentation"/>
+    <Func Label="for (a ring and) several elements" Arg="[R, ]r1, r2, ..." Name="GcdRepresentation"/>
+
+Transformation:
+    <Oper Label="for a source and destination" Arg="src, dst" Name="Transformation"/>
+    <Oper Label="for a list and function" Arg="list, func" Name="Transformation"/>
+    <Oper Label="for an image list" Arg="list" Name="Transformation"/>
+
+MovedPoints:
+    <Attr Label="for a partial perm" Arg="f" Name="MovedPoints"/>
+    <Attr Label="for a transformation coll" Arg="coll" Name="MovedPoints"/>
+    <Attr Label="for a transformation" Arg="f" Name="MovedPoints"/>
+    <Attr Label="for a list or collection of permutations" Arg="C" Name="MovedPoints"/>
+    <Attr Label="for a permutation" Arg="perm" Name="MovedPoints"/>
+
+Images:
+    <Func Label="set of images of a collection under a mapping" Arg="map, coll" Name="Images"/>
+    <Func Label="set of images of an element under a mapping" Arg="map, elm" Name="Images"/>
+    <Func Label="set of images of the source of a general mapping" Arg="map" Name="Images"/>
+
+Centralizer:
+    <Attr Label="for a class of objects in a magma" Arg="class" Name="Centralizer"/>
+    <Oper Label="for a magma and a submagma" Arg="M, S" Name="Centralizer"/>
+    <Oper Label="for a magma and an element" Arg="M, elm" Name="Centralizer"/>
+
+GrowthFunctionOfGroup:
+    <Oper Label="with word length limit" Arg="G, radius" Name="GrowthFunctionOfGroup"/>
+    <Oper Arg="G" Name="GrowthFunctionOfGroup"/>
+
+TestMonomialQuick:
+    <Attr Label="for a group" Arg="G" Name="TestMonomialQuick"/>
+    <Attr Label="for a character" Arg="chi" Name="TestMonomialQuick"/>
+
+Monoid:
+    <Func Label="for a list" Arg="gens[, id]" Name="Monoid"/>
+    <Func Label="for various generators" Arg="gen1, gen2 ..." Name="Monoid"/>
+
+FreeAssociativeAlgebra:
+    <Func Label="for ring and several names" Arg="R, name1, name2, ..." Name="FreeAssociativeAlgebra"/>
+    <Func Label="for ring, rank (and name)" Arg="R, rank[, name]" Name="FreeAssociativeAlgebra"/>
+
+Z:
+    <Func Label="for prime and degree" Arg="p, d" Name="Z"/>
+    <Func Label="for field size" Arg="p^d" Name="Z"/>
+
+Irr:
+    <Attr Label="for a character table" Arg="tbl" Name="Irr"/>
+    <Attr Label="for a group" Arg="G[, p]" Name="Irr"/>
+
+Union:
+    <Func Label="for a list" Arg="list" Name="Union"/>
+    <Func Label="for various collections" Arg="C1, C2 ..." Name="Union"/>
+
+\=:
+    <Oper Label="for associative words" Arg="w1, w2" Name="\="/>
+    <Oper Arg="w1, w2" Label="for nonassociative words" Name="\="/>
+    <Oper Arg="left-expr, right-expr" Name="\="/>
+
+FusionConjugacyClassesOp:
+    <Attr Label="for a homomorphism" Arg="hom" Name="FusionConjugacyClassesOp"/>
+    <Oper Label="for two character tables" Arg="tbl1, tbl2" Name="FusionConjugacyClassesOp"/>
+
+Read:
+    <Oper Label="for streams" Arg="input-text-stream" Name="Read"/>
+    <Oper Arg="filename" Name="Read"/>
+
+OrbitLengthsDomain:
+    <Attr Label="of an external set" Arg="xset" Name="OrbitLengthsDomain"/>
+    <Oper Label="for a group and a set of seeds" Arg="G, Omega[, gens, acts][, act]" Name="OrbitLengthsDomain"/>
+
+Indeterminate:
+    <Oper Label="for a family and a number" Arg="fam, nr" Name="Indeterminate"/>
+    <Oper Label="for a ring (and a name, and an exclusion list)" Arg="R[, name][, avoid]" Name="Indeterminate"/>
+    <Oper Label="for a ring (and a number)" Arg="R[, nr]" Name="Indeterminate"/>
+
+Value:
+    <Oper Label="for a univariate rat. function, a value (and a one)" Arg="upol, value[, one]" Name="Value"/>
+    <Oper Label="for rat. function, a list of indeterminates, a value (and a one)" Arg="ratfun, indets, vals[, one]" Name="Value"/>
+
+Action:
+    <Func Label="for an external set" Arg="xset" Name="Action"/>
+    <Func Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="Action"/>
+
+SubstitutedWord:
+    <Oper Label="replace a subword by a given word" Arg="w, sub, from, by" Name="SubstitutedWord"/>
+    <Oper Label="replace an interval by a given word" Arg="w, from, to, by" Name="SubstitutedWord"/>
+
+OneCocycles:
+    <Func Label="for generators and a pcgs" Arg="gens, mpcgs" Name="OneCocycles"/>
+    <Func Label="for generators and a group" Arg="gens, M" Name="OneCocycles"/>
+    <Func Label="for a group and a pcgs" Arg="G, mpcgs" Name="OneCocycles"/>
+    <Func Label="for two groups" Arg="G, M" Name="OneCocycles"/>
+
+\mod:
+    <Oper Arg="left-expr, right-expr" Name="\mod"/>
+    <Oper Label="for residue class rings" Arg="r/s, n" Name="\mod"/>
+
+StabChainMutable:
+    <Attr Label="for a homomorphism" Arg="permhomom" Name="StabChainMutable"/>
+    <Attr Label="for a group" Arg="G" Name="StabChainMutable"/>
+
+PreImage:
+    <Func Label="set of preimages of a collection under a general mapping" Arg="map, coll" Name="PreImage"/>
+    <Func Label="unique preimage of an element under a general mapping" Arg="map, elm" Name="PreImage"/>
+    <Func Label="set of preimages of the range of a general mapping" Arg="map" Name="PreImage"/>
+
+MultiplicationTable:
+    <Attr Label="for a magma" Arg="M" Name="MultiplicationTable"/>
+    <Attr Label="for a list of elements" Arg="elms" Name="MultiplicationTable"/>
+
+StraightLineProgram:
+    <Func Label="for a string and a list of generators names" Arg="string, gens" Name="StraightLineProgram"/>
+    <Func Label="for a list of lines (and the number of generators)" Arg="lines[, nrgens]" Name="StraightLineProgram"/>
+
+Rat:
+    <Attr Label="for strings" Arg="str" Name="Rat"/>
+    <Attr Label="for floats" Arg="f" Name="Rat"/>
+    <Attr Arg="elm" Name="Rat"/>
+
+ConvertToMatrixRep:
+    <Func Label="for a list (and a prime power)" Arg="list[, fieldsize]" Name="ConvertToMatrixRep"/>
+    <Func Label="for a list (and a field)" Arg="list[, field]" Name="ConvertToMatrixRep"/>
+
+CF:
+    <Func Label="for (subfield and) generators" Arg="[subfield, ]gens" Name="CF"/>
+    <Func Label="for (subfield and) conductor" Arg="[subfield, ]n" Name="CF"/>
+
+SmallGroup:
+    <Func Label="for a pair [ order, index ]" Arg="pair" Name="SmallGroup"/>
+    <Func Label="for group order and index" Arg="order, i" Name="SmallGroup"/>
+
+AsBinaryRelationOnPoints:
+    <Func Label="for a binary relation" Arg="rel" Name="AsBinaryRelationOnPoints"/>
+    <Func Label="for a permutation" Arg="perm" Name="AsBinaryRelationOnPoints"/>
+    <Func Label="for a transformation" Arg="trans" Name="AsBinaryRelationOnPoints"/>
+
+IsPrimitive:
+    <Prop Label="for an external set" Arg="xset" Name="IsPrimitive"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="IsPrimitive"/>
+
+StabChain:
+    <Func Label="for a group and a base" Arg="G, base" Name="StabChain"/>
+    <Func Label="for a group (and a record)" Arg="G[, options]" Name="StabChain"/>
+
+PthPowerImage:
+    <Oper Label="for element and integer" Arg="x, n" Name="PthPowerImage"/>
+    <Oper Label="for element" Arg="x" Name="PthPowerImage"/>
+    <Oper Label="for basis and element" Arg="B, x" Name="PthPowerImage"/>
+
+FactorsInt:
+    <Func Label="using Pollard's Rho" Arg="n:RhoTrials:=trials" Name="FactorsInt"/>
+    <Func Arg="n" Name="FactorsInt"/>
+
+RankAction:
+    <Attr Label="for an external set" Arg="xset" Name="RankAction"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="RankAction"/>
+
+FreeGroup:
+    <Func Label="for infinitely many generators" Arg="[wfilt, ]infinity, name, init" Name="FreeGroup"/>
+    <Func Label="for a list of names" Arg="[wfilt, ]names" Name="FreeGroup"/>
+    <Func Label="for various names" Arg="[wfilt, ]name1, name2, ..." Name="FreeGroup"/>
+    <Func Label="for given rank" Arg="[wfilt, ]rank[, name]" Name="FreeGroup"/>
+
+OutputLogTo:
+    <Oper Label="for streams" Arg="stream" Name="OutputLogTo"/>
+    <Oper Label="stop logging output" Arg="" Name="OutputLogTo"/>
+    <Oper Label="for a filename" Arg="filename" Name="OutputLogTo"/>
+
+Random:
+    <Oper Label="for lower and upper bound" Arg="from, to" Name="Random"/>
+    <Oper Label="for a list or collection" Arg="listorcoll" Name="Random"/>
+    <Oper Label="for rationals" Arg="Rationals" Name="Random"/>
+    <Oper Label="for random source and two integers" Arg="rs, low, high" Name="Random"/>
+    <Oper Label="for random source and list" Arg="rs, list" Name="Random"/>
+
+FreeMagma:
+    <Func Label="for infinitely many generators" Arg="infinity, name, init" Name="FreeMagma"/>
+    <Func Label="for a list of names" Arg="names" Name="FreeMagma"/>
+    <Func Label="for various names" Arg="name1, name2, ..." Name="FreeMagma"/>
+    <Func Label="for given rank" Arg="rank[, name]" Name="FreeMagma"/>
+
+IsElementaryAbelian:
+    <Prop Label="for a character table" Arg="tbl" Name="IsElementaryAbelian"/>
+    <Prop Arg="G" Name="IsElementaryAbelian"/>
+
+UnderlyingCharacteristic:
+    <Attr Label="for a character" Arg="psi" Name="UnderlyingCharacteristic"/>
+    <Attr Label="for a character table" Arg="tbl" Name="UnderlyingCharacteristic"/>
+
+CharacterDegrees:
+    <Attr Label="for a character table" Arg="tbl" Name="CharacterDegrees"/>
+    <Attr Label="for a group" Arg="G[, p]" Name="CharacterDegrees"/>
+
+CyclicExtensionsTom:
+    <Attr Label="for a list of primes" Arg="tom[, list]" Name="CyclicExtensionsTom"/>
+    <Oper Label="for a prime" Arg="tom, p" Name="CyclicExtensionsTom"/>
+
+Trace:
+    <Attr Label="for a matrix" Arg="mat" Name="Trace"/>
+    <Attr Label="for a field element" Arg="[L, [K, ]]z" Name="Trace"/>
+    <Attr Label="of a matrix" Arg="mat" Name="Trace"/>
+
+Length:
+    <Attr Label="for a associative word" Arg="w" Name="Length"/>
+    <Attr Arg="list" Name="Length"/>
+
+UnderlyingSemigroup:
+    <Attr Label="for a Rees 0-matrix semigroup" Arg="R" Name="UnderlyingSemigroup"/>
+    <Attr Label="for a Rees matrix semigroup" Arg="R" Name="UnderlyingSemigroup"/>
+
+Characteristic:
+    <Attr Label="for a class function" Arg="chi" Name="Characteristic"/>
+    <Attr Arg="obj" Name="Characteristic"/>
+
+CharacterTable:
+    <Oper Label="for a string" Arg="name[, param]" Name="CharacterTable"/>
+    <Oper Label="for an ordinary character table" Arg="ordtbl, p" Name="CharacterTable"/>
+    <Oper Label="for a group" Arg="G[, p]" Name="CharacterTable"/>
+
+ExternalOrbits:
+    <Attr Label="for an external set" Arg="xset" Name="ExternalOrbits"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="ExternalOrbits"/>
+
+Blocks:
+    <Attr Label="for an external set" Arg="xset[, seed]" Name="Blocks"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, seed][, gens, acts][, act]" Name="Blocks"/>
+
+NaturalCharacter:
+    <Attr Label="for a homomorphism" Arg="hom" Name="NaturalCharacter"/>
+    <Attr Label="for a group" Arg="G" Name="NaturalCharacter"/>
+
+IsFinite:
+    <Prop Label="for a character table" Arg="tbl" Name="IsFinite"/>
+    <Prop Arg="C" Name="IsFinite"/>
+    <Prop Label="float" Arg="x" Name="IsFinite"/>
+
+MaximalBlocks:
+    <Attr Label="for an external set" Arg="xset[, seed]" Name="MaximalBlocks"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, seed][, gens, acts][, act]" Name="MaximalBlocks"/>
+
+Filename:
+    <Oper Label="for a list of directories and a string" Arg="list-of-dirs, name" Name="Filename"/>
+    <Oper Label="for a directory and a string" Arg="dir, name" Name="Filename"/>
+
+IsomorphismSCAlgebra:
+    <Attr Label="for an algebra" Arg="A" Name="IsomorphismSCAlgebra"/>
+    <Attr Label="w.r.t. a given basis" Arg="B" Name="IsomorphismSCAlgebra"/>
+
+FreeMagmaWithOne:
+    <Func Label="for infinitely many generators" Arg="infinity, name, init" Name="FreeMagmaWithOne"/>
+    <Func Label="for a list of names" Arg="names" Name="FreeMagmaWithOne"/>
+    <Func Label="for various names" Arg="name1, name2, ..." Name="FreeMagmaWithOne"/>
+    <Func Label="for given rank" Arg="rank[, name]" Name="FreeMagmaWithOne"/>
+
+SortedCharacterTable:
+    <Func Label="relative to the table of a factor group" Arg="tbl, facttbl, kernel" Name="SortedCharacterTable"/>
+    <Func Label="w.r.t. a series of normal subgroups" Arg="tbl, normalseries" Name="SortedCharacterTable"/>
+    <Func Label="w.r.t. a normal subgroup" Arg="tbl, kernel" Name="SortedCharacterTable"/>
+
+SmallestIdempotentPower:
+    <Attr Label="for a partial perm" Arg="f" Name="SmallestIdempotentPower"/>
+    <Attr Label="for a transformation" Arg="f" Name="SmallestIdempotentPower"/>
+
+PcgsElementaryAbelianSeries:
+    <Attr Label="for a list of normal subgroups" Arg="list" Name="PcgsElementaryAbelianSeries"/>
+    <Attr Label="for a group" Arg="G" Name="PcgsElementaryAbelianSeries"/>
+
+Embedding:
+    <Oper Label="for group products" Arg="P, nr" Name="Embedding"/>
+    <Oper Label="for a domain and a positive integer" Arg="S, i" Name="Embedding"/>
+    <Oper Label="for two domains" Arg="S, T" Name="Embedding"/>
+
+OrbitLengths:
+    <Attr Label="for an external set" Arg="xset" Name="OrbitLengths"/>
+    <Oper Label="for a group, a set of seeds, etc." Arg="G, seeds[, gens, acts][, act]" Name="OrbitLengths"/>
+
+ClosureRing:
+    <Oper Label="for two rings" Arg="R, S" Name="ClosureRing"/>
+    <Oper Label="for a ring and a ring element" Arg="R, r" Name="ClosureRing"/>
+
+Orbits:
+    <Attr Label="attribute" Arg="xset" Name="Orbits"/>
+    <Oper Label="operation" Arg="G, seeds[, gens, acts][, act]" Name="Orbits"/>
+
+FreeMonoid:
+    <Func Label="for infinitely many generators" Arg="[wfilt, ]infinity, name, init" Name="FreeMonoid"/>
+    <Func Label="for a list of names" Arg="[wfilt, ]names" Name="FreeMonoid"/>
+    <Func Label="for various names" Arg="[wfilt, ]name1, name2, ..." Name="FreeMonoid"/>
+    <Func Label="for given rank" Arg="[wfilt, ]rank[, name]" Name="FreeMonoid"/>
+
+ComplexificationQuat:
+    <Func Label="for a matrix" Arg="matrix" Name="ComplexificationQuat"/>
+    <Func Label="for a vector" Arg="vector" Name="ComplexificationQuat"/>
+
+GaloisGroup:
+    <Attr Label="of field" Arg="F" Name="GaloisGroup"/>
+    <Attr Label="of rational class of a group" Arg="ratcl" Name="GaloisGroup"/>
+
+CycleIndex:
+    <Func Label="for a permutation group and an action domain" Arg="G, Omega[, act]" Name="CycleIndex"/>
+    <Func Label="for a permutation and an action domain" Arg="g, Omega[, act]" Name="CycleIndex"/>
+
+ConvertToVectorRep:
+    <Func Label="for a list (and a prime power)" Arg="list[, fieldsize]" Name="ConvertToVectorRep"/>
+    <Func Label="for a list (and a field)" Arg="list[, field]" Name="ConvertToVectorRep"/>
+
+LargestMovedPoint:
+    <Attr Label="for a partial perm" Arg="f" Name="LargestMovedPoint"/>
+    <Attr Label="for a transformation" Arg="f" Name="LargestMovedPoint"/>
+    <Attr Label="for a list or collection of permutations" Arg="C" Name="LargestMovedPoint"/>
+    <Attr Label="for a permutation" Arg="perm" Name="LargestMovedPoint"/>
+
+TrivialCharacter:
+    <Attr Label="for a group" Arg="G" Name="TrivialCharacter"/>
+    <Attr Label="for a character table" Arg="tbl" Name="TrivialCharacter"/>
+
+MappingByFunction:
+    <Func Label="by function and function that computes one preimage" Arg="S, R, fun, false, prefun" Name="MappingByFunction"/>
+    <Func Label="by function (and inverse function) between two domains" Arg="S, R, fun[, invfun]" Name="MappingByFunction"/>
+
+Field:
+    <Func Label="for (a field and) a list of generators" Arg="[F, ]list" Name="Field"/>
+    <Func Label="for several generators" Arg="z, ..." Name="Field"/>
+
+Identifier:
+    <Attr Label="for character tables" Arg="tbl" Name="Identifier"/>
+    <Attr Label="for tables of marks" Arg="tom" Name="Identifier"/>
+
+GModuleByMats:
+    <Func Label="for empty list, the dimension, and a field" Arg="emptygens, dim, field" Name="GModuleByMats"/>
+    <Func Label="for generators and a field" Arg="gens, field" Name="GModuleByMats"/>
+
+UnderlyingElement:
+    <Oper Label="fp semigroup elements" Arg="elm" Name="UnderlyingElement"/>
+    <Oper Label="fp group elements" Arg="elm" Name="UnderlyingElement"/>
+
+PartialPerm:
+    <Func Label="for a dense image" Arg="list" Name="PartialPerm"/>
+    <Func Label="for a domain and image" Arg="dom, img" Name="PartialPerm"/>
+
+Omega:
+    <Oper Label="construct an orthogonal group" Arg="[filt, ][e, ]d, q" Name="Omega"/>
+    <Oper Arg="G, p[, n]" Name="Omega"/>
+
+Minimum:
+    <Func Label="for a list" Arg="list" Name="Minimum"/>
+    <Func Label="for various objects" Arg="obj1, obj2 ..." Name="Minimum"/>
+
+PreImages:
+    <Func Label="set of preimages of a collection under a general mapping" Arg="map, coll" Name="PreImages"/>
+    <Func Label="set of preimages of an elm under a general mapping" Arg="map, elm" Name="PreImages"/>
+    <Func Label="set of preimages of the range of a general mapping" Arg="map" Name="PreImages"/>
+
+IdentityBinaryRelation:
+    <Func Label="for a domain" Arg="domain" Name="IdentityBinaryRelation"/>
+    <Func Label="for a degree" Arg="degree" Name="IdentityBinaryRelation"/>
+
+Unbind:
+    <Oper Label="unbind a record component" Arg="r.name" Name="Unbind"/>
+    <Oper Label="for multiple indices" Arg="list[ix1,ix2,...]" Name="Unbind"/>
+    <Oper Label="unbind a list entry" Arg="list[n]" Name="Unbind"/>
+    <Func Label="unbind a variable" Arg="ident" Name="Unbind"/>
+
+Character:
+    <Oper Label="for a group and a list" Arg="G, values" Name="Character"/>
+    <Oper Label="for a character table and a list" Arg="tbl, values" Name="Character"/>
+
+FreeAlgebra:
+    <Func Label="for ring and several names" Arg="R, name1, name2, ..." Name="FreeAlgebra"/>
+    <Func Label="for ring, rank (and name)" Arg="R, rank[, name]" Name="FreeAlgebra"/>
+
+RankOfTransformation:
+    <Attr Label="for a transformation and a list" Arg="f[, list]" Name="RankOfTransformation"/>
+    <Attr Label="for a transformation and a positive integer" Arg="f[, n]" Name="RankOfTransformation"/>
+
+FusionConjugacyClasses:
+    <Oper Label="for a homomorphism" Arg="hom[, tbl1, tbl2]" Name="FusionConjugacyClasses"/>
+    <Oper Label="for two groups" Arg="H, G" Name="FusionConjugacyClasses"/>
+    <Oper Label="for two character tables" Arg="tbl1, tbl2" Name="FusionConjugacyClasses"/>
+
+IsSemiRegular:
+    <Prop Label="for an external set" Arg="xset" Name="IsSemiRegular"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="IsSemiRegular"/>
+
+Ring:
+    <Func Label="for a collection" Arg="coll" Name="Ring"/>
+    <Func Label="for ring elements" Arg="r, s, ..." Name="Ring"/>
+
+PolynomialRing:
+    <Oper Label="for a ring and a list of indeterminate numbers" Arg="R, indetnums" Name="PolynomialRing"/>
+    <Oper Label="for a ring and a list of indeterminates" Arg="R, indets" Name="PolynomialRing"/>
+    <Oper Label="for a ring and a list of names (and an exclusion list)" Arg="R, names[, avoid]" Name="PolynomialRing"/>
+    <Oper Label="for a ring and a rank (and an exclusion list)" Arg="R, rank[, avoid]" Name="PolynomialRing"/>
+
+Order:
+    <Attr Label="for a class function" Arg="chi" Name="Order"/>
+    <Attr Arg="elm" Name="Order"/>
+
+GroupGeneralMappingByImages:
+    <Oper Label="from group to itself" Arg="G, gens, imgs" Name="GroupGeneralMappingByImages"/>
+    <Oper Arg="G, H, gens, imgs" Name="GroupGeneralMappingByImages"/>
+
+NrConjugacyClasses:
+    <Attr Label="for a character table" Arg="tbl" Name="NrConjugacyClasses"/>
+    <Attr Arg="G" Name="NrConjugacyClasses"/>
+
+Sp:
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, ring" Name="Sp"/>
+    <Func Label="for dimension and field size" Arg="[filt, ]d, q" Name="Sp"/>
+
+IsBound:
+    <Oper Label="for a record component" Arg="r.name" Name="IsBound"/>
+    <Oper Label="for multiple indices" Arg="list[ix1,ix2,...]" Name="IsBound"/>
+    <Oper Label="for a list index" Arg="list[n]" Name="IsBound"/>
+    <Func Label="for a global variable" Arg="ident" Name="IsBound"/>
+
+LogTo:
+    <Oper Label="for streams" Arg="stream" Name="LogTo"/>
+    <Oper Label="stop logging" Arg="" Name="LogTo"/>
+    <Oper Label="for a filename" Arg="filename" Name="LogTo"/>
+
+Permutation:
+    <Func Label="for an external set" Arg="g, xset" Name="Permutation"/>
+    <Func Label="for a group, an action domain, etc." Arg="g, Omega[, gens, acts][, act]" Name="Permutation"/>
+
+SemidirectProduct:
+    <Oper Label="for a group of automorphisms and a group" Arg="autgp, N" Name="SemidirectProduct"/>
+    <Oper Label="for acting group, action, and a group" Arg="G, alpha, N" Name="SemidirectProduct"/>
+
+OrbitsDomain:
+    <Attr Label="of an external set" Arg="xset" Name="OrbitsDomain"/>
+    <Oper Label="for a group and an action domain" Arg="G, Omega[, gens, acts][, act]" Name="OrbitsDomain"/>
+
+SplitExtension:
+    <Oper Label="with specified homomorphism" Arg="G, aut, N" Name="SplitExtension"/>
+    <Oper Arg="G, M" Name="SplitExtension"/>
+
+RingWithOne:
+    <Func Label="for a collection" Arg="coll" Name="RingWithOne"/>
+    <Func Label="for ring elements" Arg="r, s, ..." Name="RingWithOne"/>
+
+ConvertToVectorRepNC:
+    <Func Label="for a list (and a prime power)" Arg="list[, fieldsize]" Name="ConvertToVectorRepNC"/>
+    <Func Label="for a list (and a field)" Arg="list[, field]" Name="ConvertToVectorRepNC"/>
+
+List:
+    <Func Label="for a collection" Arg="C" Name="List"/>
+    <Func Label="for a list (and a function)" Arg="list[, func]" Name="List"/>
+
+TestSubnormallyMonomial:
+    <Attr Label="for a character" Arg="chi" Name="TestSubnormallyMonomial"/>
+    <Attr Label="for a group" Arg="G" Name="TestSubnormallyMonomial"/>
+
+TestMonomial:
+    <Oper Label="for a group and a Boolean" Arg="G, uselattice" Name="TestMonomial"/>
+    <Oper Label="for a character and a Boolean" Arg="chi, uselattice" Name="TestMonomial"/>
+    <Attr Label="for a group" Arg="G" Name="TestMonomial"/>
+    <Attr Label="for a character" Arg="chi" Name="TestMonomial"/>
+
+IsRelativelySM:
+    <Prop Label="for a character" Arg="chi" Name="IsRelativelySM"/>
+    <Prop Label="for a group" Arg="G" Name="IsRelativelySM"/>
+
+FreeSemigroup:
+    <Func Label="for infinitely many generators" Arg="[wfilt, ]infinity, name, init" Name="FreeSemigroup"/>
+    <Func Label="for a list of names" Arg="[wfilt, ]names" Name="FreeSemigroup"/>
+    <Func Label="for various names" Arg="[wfilt, ]name1, name2, ..." Name="FreeSemigroup"/>
+    <Func Label="for given rank" Arg="[wfilt, ]rank[, name]" Name="FreeSemigroup"/>
+
+Image:
+    <Func Label="set of images of a collection under a mapping" Arg="map, coll" Name="Image"/>
+    <Func Label="unique image of an element under a mapping" Arg="map, elm" Name="Image"/>
+    <Func Label="set of images of the source of a general mapping" Arg="map" Name="Image"/>
+
+IsRegular:
+    <Prop Label="for an external set" Arg="xset" Name="IsRegular"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="IsRegular"/>
+
+SL:
+    <Func Label="for dimension and a field size" Arg="[filt, ]d, q" Name="SL"/>
+    <Func Label="for dimension and a ring" Arg="[filt, ]d, R" Name="SL"/>
+
+Semigroup:
+    <Func Label="for a list" Arg="gens" Name="Semigroup"/>
+    <Func Label="for various generators" Arg="gen1, gen2 ..." Name="Semigroup"/>
+
+RepresentativesMinimalBlocks:
+    <Attr Label="for an external set" Arg="xset" Name="RepresentativesMinimalBlocks"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="RepresentativesMinimalBlocks"/>
+
+OrdinaryCharacterTable:
+    <Attr Label="for a character table" Arg="modtbl" Name="OrdinaryCharacterTable"/>
+    <Attr Label="for a group" Arg="G" Name="OrdinaryCharacterTable"/>
+
+Earns:
+    <Attr Label="for an external set" Arg="xset" Name="Earns"/>
+    <Oper Label="for a group, an action domain, etc." Arg="G, Omega[, gens, acts][, act]" Name="Earns"/>
+
+SmallestImageOfMovedPoint:
+    <Attr Label="for a partial permutation" Arg="f" Name="SmallestImageOfMovedPoint"/>
+    <Attr Label="for a transformation" Arg="f" Name="SmallestImageOfMovedPoint"/>
+
+DisplayInformationPerfectGroups:
+    <Func Label="for a pair [ order, index ]" Arg="sizenumberpair" Name="DisplayInformationPerfectGroups"/>
+    <Func Label="for group order (and index)" Arg="size[, n]" Name="DisplayInformationPerfectGroups"/>
+
+PerfectGroup:
+    <Func Label="for a pair [ order, index ]" Arg="[filt, ]sizenumberpair" Name="PerfectGroup"/>
+    <Func Label="for group order (and index)" Arg="[filt, ]size[, n]" Name="PerfectGroup"/>
+
+PrintTo:
+    <Func Label="for streams" Arg="output-stream, arg1, ..." Name="PrintTo"/>
+    <Func Arg="filename[, obj1, ...]" Name="PrintTo"/>
+
+\in:
+    <Oper Label="for a collection" Arg="obj, C" Name="\in"/>
+    <Oper Label="element test for lists" Arg="obj, list" Name="\in"/>
+
+ReducedGroebnerBasis:
+    <Oper Label="for an ideal and a monomial ordering" Arg="I, O" Name="ReducedGroebnerBasis"/>
+    <Oper Label="for a list and a monomial ordering" Arg="L, O" Name="ReducedGroebnerBasis"/>
+
+PadicNumber:
+    <Oper Label="for a p-adic extension family and a list" Arg="extfam, list" Name="PadicNumber"/>
+    <Oper Label="for a pure p-adic numbers family and a list" Arg="purefam, list" Name="PadicNumber"/>
+    <Oper Label="for a p-adic extension family and a rational" Arg="fam, rat" Name="PadicNumber"/>
+    <Oper Label="for pure padics" Arg="fam, rat" Name="PadicNumber"/>
+
+InducedClassFunction:
+    <Oper Label="for the character table of a supergroup" Arg="[tbl, ]chi, suptbl" Name="InducedClassFunction"/>
+    <Oper Label="for a given monomorphism" Arg="[tbl, ]chi, hom" Name="InducedClassFunction"/>
+    <Oper Label="for a supergroup" Arg="[tbl, ]chi, H" Name="InducedClassFunction"/>
+
+TraceMethods:
+    <Func Label="for a list of operations" Arg="oprs" Name="TraceMethods"/>
+    <Func Label="for operations" Arg="opr1, opr2, ..." Name="TraceMethods"/>
+
+Group:
+    <Func Label="for a list of generators (and an identity element)" Arg="gens[, id]" Name="Group"/>
+    <Func Label="for several generators" Arg="gen, ..." Name="Group"/>
