@@ -21,6 +21,10 @@ for name in docNames:
 	if name not in sysNames:
 		docOnly.append(name)		
 
+shared.sort()
+docOnly.sort()
+sysOnly.sort()
+
 sn = open('sharedNames.txt', 'w')
 sn.write(mkstring(shared))
 sn.close
