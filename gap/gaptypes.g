@@ -126,6 +126,7 @@ GAPTypesInfo := function()
         lres := rec();
         lres.type := "GAP_Operation";
         lres.name := NAME_FUNC(OPERATIONS[2*i - 1]);
+        lres.locations := OPERATIONS_LOCATIONS[2*i];
         lres.filters := FiltersForOperation(OPERATIONS[2*i - 1]);
         lres.filters := List(lres.filters, x->List(x,y -> List(y,NAME_FUNC)));
 
