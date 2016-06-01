@@ -34,3 +34,4 @@ all.*.tex
 .!*.tex
 *.clog
 .DS_Store
+*~
