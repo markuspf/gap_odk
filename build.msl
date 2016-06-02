@@ -21,7 +21,7 @@ log+ steximporter
 //log+ scanner
 //log+ lf
 
-extension info.kwarc.mmt.odk.GAP.GAPDocImporter
+extension info.kwarc.mmt.odk.GAP.GAPImporter
 extension info.kwarc.mmt.stex.STeXImporter
 extension info.kwarc.mmt.planetary.PlanetaryPlugin
 extension info.kwarc.mmt.planetary.PlanetaryPresenter
