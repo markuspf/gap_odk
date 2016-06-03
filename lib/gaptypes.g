@@ -1,10 +1,23 @@
-# Load into GAP using Read("gaptypes.g"); and export using
-# GAPTypesToJson("gap_types.json");
+#
+## HOW TO USE THIS TOOL
+#
+# WARNING: At the moment this tool requires my custom
+#          patches to GAP, which should be available in the
+#          type-information branch in
+#          https://github.com/markuspf/gap
+#          The current plan is to integrate the type information
+#          tools into GAP in the near future.
+#
+# * Load into GAP using Read("gaptypes.g");
+# * Alternatively, run gap -q gaptypes.g
+#
+# In either case, you will get a file gaptypes_ugly.json, which
+# contains one long string of json. I usually pretty-print it with
+#
+#    cat gaptypes_ugly.json | python -mjson.tool > gaptypes.g
+#
 
 # Operations
-# Families (not necessary, there is an unbounded number of
-#           them and they do not convey any useful mathematical
-#           information)
 # Types of Installed Methods ( with filters )
 
 LoadPackage("json");
