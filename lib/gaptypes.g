@@ -190,7 +190,7 @@ end;
 
 # Make GAP Type graph as a record
 GAPTypesInfo := function()
-    local res, lres, i, j, f, ff, a, meths, mpos, objs, m, mres, n, t, notcovered, v;
+    local res, lres, i, j, f, ff, a, meths, mpos, objs, m, mres, n, t, notcovered, v, methsforop, mmpos, bindlocs;
 
     objs := NewDictionary(IsObject, true);
     res := [ rec( name := "IsObject", type := "GAP_Category", implied := [] ) ];
@@ -271,6 +271,7 @@ GAPTypesInfo := function()
                              3args := [], 4args := [], 5args := [],
                              6args := [] );
 
+        methsforop := Filtered(METHOD_LOCATIONS, x -> x[1] = OPERATIONS[2 * i - 1]);
         for a in [1..6] do
             meths := METHODS_OPERATION(OPERATIONS[2*i - 1], a);
 
@@ -281,12 +282,19 @@ GAPTypesInfo := function()
                                                     List(TRUES_FLAGS(meths[mpos + argnum]), x -> NameFunction(FILTERS[x]))
                                             ),
                              rank := meths[mpos + a + 2],
-                             comment := meths[mpos + a + 3]
+                             comment := meths[mpos + a + 3],
                            );
 
                 # Methods are not bound to global variables directly (usually...)
                 # but some methods might be global functions
                 AddDictionary(objs, meths[mpos + a + 1], mres);
+
+                mmpos := PositionProperty(methsforop, x -> x[2] = meths[mpos + a + 1]);
+                if mmpos <> fail then
+                    mres.location := methsforop[mmpos][6];
+                else
+                    Print("Warning: Could not find location of method installation: ", NameFunction(OPERATIONS[2*i - 1]));
+                fi;
 
                 Add(lres.methods.(Concatenation(String(a),"args")), mres);
             od;
@@ -301,6 +309,18 @@ GAPTypesInfo := function()
         lres.type := "GAP_Function";
         lres.name := GLOBAL_FUNCTION_NAMES[f];
         lres.location := rec();
+        mmpos := PositionProperty(GLOBAL_FUNCTION_DECL_LOCS, x -> x[1] = lres.name);
+        if mmpos <> fail then
+            lres.location.declaration := GLOBAL_FUNCTION_DECL_LOCS[mmpos];
+        else
+            Print("WARNING, could not find global function declaration for ", lres.name, " \n");
+        fi;
+        mmpos := PositionProperty(GLOBAL_FUNCTION_INST_LOCS, x -> x[1] = lres.name);
+        if mmpos <> fail then
+            lres.location.installation := GLOBAL_FUNCTION_INST_LOCS[mmpos];
+        else
+            Print("No function installed for ", lres.name, "\n");
+        fi;
         AddDictionary(objs, ValueGlobal(GLOBAL_FUNCTION_NAMES[f]), lres);
         Add(res, lres);
     od;
@@ -319,8 +339,14 @@ GAPTypesInfo := function()
                 fi;
             else
                 v := ValueGlobal(n);
+                bindlocs := Filtered(BIND_LOCS, x -> x[1] = n);
                 if IsFilter(v) then
                     lres := rec();
+                    if bindlocs <> [] then
+                        lres.location := bindlocs[Length(bindlocs)][2];
+                    else
+                        Print("no location info for ", n, "\n");
+                    fi;
                     lres.type := "GAP_AndFilter";
                     ff := FLAGS_FILTER(v);
                     if ff <> false then
@@ -366,5 +392,5 @@ GAPTypesToJson := function(file)
     return n;
 end;
 
-GAPTypesToJson("gaptypes.json");
+GAPTypesToJson("gaptypes_ugly.json");
 QUIT_GAP(0);
