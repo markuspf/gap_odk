@@ -1,0 +1,145 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="classic" base="http://www.gap-system.org/grp" meta="http://www.gap-system.org/?Types"><import from="http://www.gap-system.org/lib?magma"></import><import from="http://www.gap-system.org/lib?cyclotom"></import><import from="http://www.gap-system.org/lib?addmagma"></import><import from="http://www.gap-system.org/lib?semiring"></import><constant name="GeneralLinearGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="SymplecticGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="SpecialUnitaryGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ProjectiveSpecialLinearGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="SpecialOrthogonalGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ProjectiveSymplecticGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ProjectiveGeneralUnitaryGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="SpecialSemilinearGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="SpecialLinearGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ProjectiveOmegaCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="GeneralSemilinearGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="GeneralOrthogonalGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ProjectiveSpecialUnitaryGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="OmegaCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ProjectiveGeneralLinearGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="GeneralUnitaryGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

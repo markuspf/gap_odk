@@ -1,0 +1,78 @@
+theory http://www.gap-system.org/lib?wordrep
+HasMeta http://www.gap-system.org/lib?wordrep http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfiniteListOfNamesRep
+constant http://www.gap-system.org/lib?wordrep?IsInfiniteListOfNamesRep
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfiniteListOfNamesRep_st0
+constant http://www.gap-system.org/lib?wordrep?IsInfiniteListOfNamesRep_st0
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfiniteListOfGeneratorsRep
+constant http://www.gap-system.org/lib?wordrep?IsInfiniteListOfGeneratorsRep
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfiniteListOfGeneratorsRep_st0
+constant http://www.gap-system.org/lib?wordrep?IsInfiniteListOfGeneratorsRep_st0
+Includes http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?word
+Includes http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordass
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st0
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st0
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st1
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st1
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st2
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st2
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st3
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st3
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st4
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st4
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st5
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st5
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st6
+constant http://www.gap-system.org/lib?wordrep?Is32BitsAssocWord_st6
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st0
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st0
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st1
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st1
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st2
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st2
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st3
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st3
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st4
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st4
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st5
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st5
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st6
+constant http://www.gap-system.org/lib?wordrep?Is16BitsAssocWord_st6
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st0
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st0
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st1
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st1
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st2
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st2
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st3
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st3
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st4
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st4
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st5
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st5
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st6
+constant http://www.gap-system.org/lib?wordrep?Is8BitsAssocWord_st6
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st0
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st0
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st1
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st1
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st2
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st2
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st3
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st3
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st4
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st4
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st5
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st5
+Declares http://www.gap-system.org/lib?wordrep http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st6
+constant http://www.gap-system.org/lib?wordrep?IsInfBitsAssocWord_st6

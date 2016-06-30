@@ -1,0 +1,1437 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="mgmcong" base="http://www.gap-system.org/lib" meta="http://www.gap-system.org/?Types"><import from="http://www.gap-system.org/lib?mapping"></import><import from="http://www.gap-system.org/lib?relation"></import><constant name="IsLeftMagmaCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsEndoGeneralMapping"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsEndoGeneralMapping"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsTotal"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st3">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsTotal"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st4">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsReflexiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st5">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsReflexiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st6">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsSymmetricBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st7">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsSymmetricBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st8">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsTransitiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st9">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsTransitiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st10">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsPreOrderBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st11">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsPreOrderBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st12">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsLeftMagmaCongruence_st13">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsEndoGeneralMapping"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsEndoGeneralMapping"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsTotal"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st3">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsTotal"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st4">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsReflexiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st5">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsReflexiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st6">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsSymmetricBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st7">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsSymmetricBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st8">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsTransitiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st9">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsTransitiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st10">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsPreOrderBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st11">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsPreOrderBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st12">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsRightMagmaCongruence_st13">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?mapphomo"></import><import from="http://www.gap-system.org/lib?mgmcong"></import><constant name="IsMagmaCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsEndoGeneralMapping"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsEndoGeneralMapping"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsTotal"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st3">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapping" name="IsTotal"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st4">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapphomo" name="RespectsMultiplication"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st5">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mapphomo" name="RespectsMultiplication"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st6">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsReflexiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st7">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsReflexiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st8">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsSymmetricBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st9">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsSymmetricBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st10">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsTransitiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st11">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsTransitiveBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st12">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsPreOrderBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st13">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsPreOrderBinaryRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st14">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="propertyFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st15">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="Has"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceRelation"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st16">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsLeftMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaCongruence_st17">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsRightMagmaCongruence"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="GeneratingPairsOfLeftMagmaCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="MeetMagmaCongruences">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="JoinMagmaCongruences">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?coll"></import><import from="http://www.gap-system.org/lib?list"></import><import from="http://www.gap-system.org/lib?arith"></import><import from="http://www.gap-system.org/lib?domain"></import><constant name="IsCongruenceClass">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="coll" name="IsListOrCollection"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="coll" name="IsCollection"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st2">
+       
+       
+       
+       
+     </constant><constant name="IsCongruenceClass_st3">
+       
+       
+       
+       
+     </constant><constant name="IsCongruenceClass_st4">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsExtLElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st5">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsExtRElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st6">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st7">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="domain" name="IsGeneralizedDomain"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsCongruenceClass_st8">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="mgmcong" name="IsCongruenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="relation" name="IsEquivalenceClass"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="PartialClosureOfCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?magma"></import><constant name="LeftMagmaCongruenceByGeneratingPairs">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="GeneratingPairsOfRightMagmaCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="GeneratingPairsOfMagmaCongruence">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="RightMagmaCongruenceByGeneratingPairs">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="MagmaCongruenceByGeneratingPairs">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

@@ -1,0 +1,112 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="mgmideal" base="http://www.gap-system.org/lib" meta="http://www.gap-system.org/?Types"><import from="http://www.gap-system.org/lib?coll"></import><import from="http://www.gap-system.org/lib?domain"></import><constant name="AsRightMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="AsMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?extlset"></import><import from="http://www.gap-system.org/lib?magma"></import><constant name="IsLeftMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       <definition><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="extlset" name="IsLeftActedOnBySuperset"></om:OMS>
+      </om:OMA><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="magma" name="IsMagma"></om:OMS>
+      </om:OMA>
+      </om:OMA></om:OMOBJ></definition>
+       
+     </constant><constant name="AsLeftMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?extrset"></import><constant name="IsRightMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       <definition><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="extrset" name="IsRightActedOnBySuperset"></om:OMS>
+      </om:OMA><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="magma" name="IsMagma"></om:OMS>
+      </om:OMA>
+      </om:OMA></om:OMOBJ></definition>
+       
+     </constant><constant name="GeneratorsOfMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMagmaIdeal">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       <definition><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="extlset" name="IsLeftActedOnBySuperset"></om:OMS>
+      </om:OMA><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="extrset" name="IsRightActedOnBySuperset"></om:OMS>
+      </om:OMA><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="magma" name="IsMagma"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMA></om:OMOBJ></definition>
+       
+     </constant><constant name="MagmaIdealByGenerators">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="LeftMagmaIdealByGenerators">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="RightMagmaIdealByGenerators">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

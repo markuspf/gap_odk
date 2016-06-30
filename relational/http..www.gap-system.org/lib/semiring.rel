@@ -1,0 +1,49 @@
+theory http://www.gap-system.org/lib?semiring
+HasMeta http://www.gap-system.org/lib?semiring http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsLDistributive
+constant http://www.gap-system.org/lib?semiring?IsLDistributive
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsRDistributive
+constant http://www.gap-system.org/lib?semiring?IsRDistributive
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?AsSemiringWithZero
+constant http://www.gap-system.org/lib?semiring?AsSemiringWithZero
+Includes http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?GeneratorsOfSemiringWithZero
+constant http://www.gap-system.org/lib?semiring?GeneratorsOfSemiringWithZero
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?ClosureSemiring
+constant http://www.gap-system.org/lib?semiring?ClosureSemiring
+Includes http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?SemiringWithOneAndZeroByGenerators
+constant http://www.gap-system.org/lib?semiring?SemiringWithOneAndZeroByGenerators
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsSemiringWithZero
+constant http://www.gap-system.org/lib?semiring?IsSemiringWithZero
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsSemiringWithOne
+constant http://www.gap-system.org/lib?semiring?IsSemiringWithOne
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?GeneratorsOfSemiringWithOne
+constant http://www.gap-system.org/lib?semiring?GeneratorsOfSemiringWithOne
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?CentralIdempotentsOfSemiring
+constant http://www.gap-system.org/lib?semiring?CentralIdempotentsOfSemiring
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsSemiring
+constant http://www.gap-system.org/lib?semiring?IsSemiring
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?GeneratorsOfSemiring
+constant http://www.gap-system.org/lib?semiring?GeneratorsOfSemiring
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?SemiringWithOneByGenerators
+constant http://www.gap-system.org/lib?semiring?SemiringWithOneByGenerators
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?AsSemiringWithOne
+constant http://www.gap-system.org/lib?semiring?AsSemiringWithOne
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsDistributive
+constant http://www.gap-system.org/lib?semiring?IsDistributive
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?SemiringWithZeroByGenerators
+constant http://www.gap-system.org/lib?semiring?SemiringWithZeroByGenerators
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?AsSemiring
+constant http://www.gap-system.org/lib?semiring?AsSemiring
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?AsSemiringWithOneAndZero
+constant http://www.gap-system.org/lib?semiring?AsSemiringWithOneAndZero
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?SemiringByGenerators
+constant http://www.gap-system.org/lib?semiring?SemiringByGenerators
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?GeneratorsOfSemiringWithOneAndZero
+constant http://www.gap-system.org/lib?semiring?GeneratorsOfSemiringWithOneAndZero
+Declares http://www.gap-system.org/lib?semiring http://www.gap-system.org/lib?semiring?IsSemiringWithOneAndZero
+constant http://www.gap-system.org/lib?semiring?IsSemiringWithOneAndZero

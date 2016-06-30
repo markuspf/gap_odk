@@ -1,0 +1,96 @@
+theory http://www.gap-system.org/lib?algebra
+HasMeta http://www.gap-system.org/lib?algebra http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?AsFLMLOR
+constant http://www.gap-system.org/lib?algebra?AsFLMLOR
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?AsSubFLMLORWithOne
+constant http://www.gap-system.org/lib?algebra?AsSubFLMLORWithOne
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IndicesOfAdjointBasis
+constant http://www.gap-system.org/lib?algebra?IndicesOfAdjointBasis
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion
+constant http://www.gap-system.org/lib?algebra?IsQuaternion
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st0
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st0
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st1
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st1
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st2
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st2
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st3
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st3
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st4
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st4
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st5
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st5
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st6
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st6
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st7
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st7
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st8
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st8
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st9
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st9
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st10
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st10
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsQuaternion_st11
+constant http://www.gap-system.org/lib?algebra?IsQuaternion_st11
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsMatrixFLMLOR
+constant http://www.gap-system.org/lib?algebra?IsMatrixFLMLOR
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsFLMLOR
+constant http://www.gap-system.org/lib?algebra?IsFLMLOR
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?ProductSpace
+constant http://www.gap-system.org/lib?algebra?ProductSpace
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?NullAlgebra
+constant http://www.gap-system.org/lib?algebra?NullAlgebra
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsAlgebraWithOne
+constant http://www.gap-system.org/lib?algebra?IsAlgebraWithOne
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?RadicalOfAlgebra
+constant http://www.gap-system.org/lib?algebra?RadicalOfAlgebra
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsNilpotentElement
+constant http://www.gap-system.org/lib?algebra?IsNilpotentElement
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?PowerSubalgebraSeries
+constant http://www.gap-system.org/lib?algebra?PowerSubalgebraSeries
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?LeviMalcevDecomposition
+constant http://www.gap-system.org/lib?algebra?LeviMalcevDecomposition
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?AsFLMLORWithOne
+constant http://www.gap-system.org/lib?algebra?AsFLMLORWithOne
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?FLMLORWithOneByGenerators
+constant http://www.gap-system.org/lib?algebra?FLMLORWithOneByGenerators
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?DirectSumOfAlgebras
+constant http://www.gap-system.org/lib?algebra?DirectSumOfAlgebras
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?ClosureLeftOperatorRing
+constant http://www.gap-system.org/lib?algebra?ClosureLeftOperatorRing
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?GeneratorsOfLeftOperatorRing
+constant http://www.gap-system.org/lib?algebra?GeneratorsOfLeftOperatorRing
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsFLMLORWithOne
+constant http://www.gap-system.org/lib?algebra?IsFLMLORWithOne
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?FLMLORByGenerators
+constant http://www.gap-system.org/lib?algebra?FLMLORByGenerators
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsAlgebra
+constant http://www.gap-system.org/lib?algebra?IsAlgebra
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?GeneratorsOfLeftOperatorRingWithOne
+constant http://www.gap-system.org/lib?algebra?GeneratorsOfLeftOperatorRingWithOne
+Includes http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsLieAlgebra
+constant http://www.gap-system.org/lib?algebra?IsLieAlgebra
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?Grading
+constant http://www.gap-system.org/lib?algebra?Grading
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?AsSubFLMLOR
+constant http://www.gap-system.org/lib?algebra?AsSubFLMLOR
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?AdjointBasis
+constant http://www.gap-system.org/lib?algebra?AdjointBasis
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?DirectSumDecomposition
+constant http://www.gap-system.org/lib?algebra?DirectSumDecomposition
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?IsSimpleAlgebra
+constant http://www.gap-system.org/lib?algebra?IsSimpleAlgebra
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?LieAlgebraByDomain
+constant http://www.gap-system.org/lib?algebra?LieAlgebraByDomain
+Declares http://www.gap-system.org/lib?algebra http://www.gap-system.org/lib?algebra?AsLieAlgebra
+constant http://www.gap-system.org/lib?algebra?AsLieAlgebra

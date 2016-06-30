@@ -1,0 +1,158 @@
+theory http://www.gap-system.org/lib?pcgsperm
+HasMeta http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep
+constant http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st0
+constant http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st0
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st1
+constant http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st1
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st2
+constant http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st2
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st3
+constant http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st3
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st4
+constant http://www.gap-system.org/lib?pcgsperm?IsPcgsPermGroupRep_st4
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?permutat
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?semigrp
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?grp
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?fitfree
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st0
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st0
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st1
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st1
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st2
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st2
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st3
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st3
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st4
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st4
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st5
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st5
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st6
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st6
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st7
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st7
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st8
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st8
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st9
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st9
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st10
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st10
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st11
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st11
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st12
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st12
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st13
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st13
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st14
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st14
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st15
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st15
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st16
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st16
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st17
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st17
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st18
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st18
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st19
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st19
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st20
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st20
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st21
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st21
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st22
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st22
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st23
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st23
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st24
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st24
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st25
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st25
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st26
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st26
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st27
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st27
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st28
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st28
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st29
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st29
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st30
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st30
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st31
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st31
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st32
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st32
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st33
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st33
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st34
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st34
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st35
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st35
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st36
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st36
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st37
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st37
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st38
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st38
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st39
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st39
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st40
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st40
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st41
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st41
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st42
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st42
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st43
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st43
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st44
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st44
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st45
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st45
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st46
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st46
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st47
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st47
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st48
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st48
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st49
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st49
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st50
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st50
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st51
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st51
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st52
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st52
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st53
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st53
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st54
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st54
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st55
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st55
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st56
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st56
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st57
+constant http://www.gap-system.org/lib?pcgsperm?IsMemberPcSeriesPermGroup_st57
+Includes http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st0
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st0
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st1
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st1
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st2
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st2
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st3
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st3
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st4
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st4
+Declares http://www.gap-system.org/lib?pcgsperm http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st5
+constant http://www.gap-system.org/lib?pcgsperm?IsModuloPcgsPermGroupRep_st5

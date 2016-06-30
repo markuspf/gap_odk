@@ -1,0 +1,102 @@
+theory http://www.gap-system.org/lib?algsc
+HasMeta http://www.gap-system.org/lib?algsc http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsCanonicalBasisFullSCAlgebra
+constant http://www.gap-system.org/lib?algsc?IsCanonicalBasisFullSCAlgebra
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsDenseCoeffVectorRep
+constant http://www.gap-system.org/lib?algsc?IsDenseCoeffVectorRep
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsDenseCoeffVectorRep_st0
+constant http://www.gap-system.org/lib?algsc?IsDenseCoeffVectorRep_st0
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st0
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st0
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st1
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st1
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st2
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st2
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st3
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st3
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st4
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st4
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st5
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st5
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st6
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st6
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st7
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st7
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st8
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st8
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st9
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObj_st9
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsFamilyOverFullCoefficientsFamily
+constant http://www.gap-system.org/lib?algsc?IsFamilyOverFullCoefficientsFamily
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsFamilyOverFullCoefficientsFamily_st0
+constant http://www.gap-system.org/lib?algsc?IsFamilyOverFullCoefficientsFamily_st0
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st0
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st0
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st1
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st1
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st2
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st2
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st3
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st3
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st4
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st4
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st5
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st5
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st6
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st6
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st7
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st7
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st8
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st8
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st9
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st9
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st10
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st10
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st11
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st11
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st12
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st12
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st13
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st13
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st14
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st14
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st15
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st15
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st16
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st16
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st17
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st17
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st18
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st18
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st19
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st19
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st20
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st20
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st21
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st21
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st22
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st22
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st23
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st23
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st24
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st24
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st25
+constant http://www.gap-system.org/lib?algsc?IsSCAlgebraObjSpace_st25
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc
+Declares http://www.gap-system.org/lib?algsc http://www.gap-system.org/lib?algsc?IsFullSCAlgebra
+constant http://www.gap-system.org/lib?algsc?IsFullSCAlgebra

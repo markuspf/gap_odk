@@ -1,0 +1,19 @@
+theory http://www.gap-system.org/lib?csetperm
+HasMeta http://www.gap-system.org/lib?csetperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?grp
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st0
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st0
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st1
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st1
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st2
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st2
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st3
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st3
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st4
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st4
+Declares http://www.gap-system.org/lib?csetperm http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st5
+constant http://www.gap-system.org/lib?csetperm?IsRightTransversalPermGroupRep_st5

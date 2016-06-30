@@ -1,0 +1,119 @@
+theory http://www.gap-system.org/lib?pcgsind
+HasMeta http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?oper
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st0
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st0
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st1
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st1
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st2
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st2
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st3
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st3
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st4
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st4
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st5
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st5
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st6
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st6
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st7
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st7
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st8
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st8
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st9
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st9
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st10
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st10
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st11
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st11
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st12
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st12
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st13
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st13
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st14
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st14
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st15
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st15
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st16
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st16
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st17
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st17
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st18
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st18
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st19
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st19
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st20
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgs_st20
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?ParentPcgs
+constant http://www.gap-system.org/lib?pcgsind?ParentPcgs
+Includes http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgsind?IsInducedPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?InducedPcgsByGeneratorsNC
+constant http://www.gap-system.org/lib?pcgsind?InducedPcgsByGeneratorsNC
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?InducedPcgsByPcSequence
+constant http://www.gap-system.org/lib?pcgsind?InducedPcgsByPcSequence
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsCanonicalPcgs
+constant http://www.gap-system.org/lib?pcgsind?IsCanonicalPcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsParentPcgsFamilyPcgs
+constant http://www.gap-system.org/lib?pcgsind?IsParentPcgsFamilyPcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?HomomorphicCanonicalPcgs
+constant http://www.gap-system.org/lib?pcgsind?HomomorphicCanonicalPcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?CanonicalPcgsByGeneratorsWithImages
+constant http://www.gap-system.org/lib?pcgsind?CanonicalPcgsByGeneratorsWithImages
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?HomomorphicInducedPcgs
+constant http://www.gap-system.org/lib?pcgsind?HomomorphicInducedPcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?CanonicalPcgs
+constant http://www.gap-system.org/lib?pcgsind?CanonicalPcgs
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?InducedPcgsByGeneratorsWithImages
+constant http://www.gap-system.org/lib?pcgsind?InducedPcgsByGeneratorsWithImages
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?InducedPcgsByGenerators
+constant http://www.gap-system.org/lib?pcgsind?InducedPcgsByGenerators
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?InducedPcgsByPcSequenceNC
+constant http://www.gap-system.org/lib?pcgsind?InducedPcgsByPcSequenceNC
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?CanonicalPcElement
+constant http://www.gap-system.org/lib?pcgsind?CanonicalPcElement
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep
+constant http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st3
+constant http://www.gap-system.org/lib?pcgsind?IsSubsetInducedPcgsRep_st3
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?InducedPcgsByPcSequenceAndGenerators
+constant http://www.gap-system.org/lib?pcgsind?InducedPcgsByPcSequenceAndGenerators
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?LeadCoeffsIGS
+constant http://www.gap-system.org/lib?pcgsind?LeadCoeffsIGS
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?ElementaryAbelianSubseries
+constant http://www.gap-system.org/lib?pcgsind?ElementaryAbelianSubseries
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep
+constant http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st3
+constant http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st3
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st4
+constant http://www.gap-system.org/lib?pcgsind?IsTailInducedPcgsRep_st4
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?SiftedPcElement
+constant http://www.gap-system.org/lib?pcgsind?SiftedPcElement
+Declares http://www.gap-system.org/lib?pcgsind http://www.gap-system.org/lib?pcgsind?AsInducedPcgs
+constant http://www.gap-system.org/lib?pcgsind?AsInducedPcgs

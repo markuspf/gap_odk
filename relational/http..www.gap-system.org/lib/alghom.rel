@@ -1,0 +1,253 @@
+theory http://www.gap-system.org/lib?alghom
+HasMeta http://www.gap-system.org/lib?alghom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsomorphismMatrixFLMLOR
+constant http://www.gap-system.org/lib?alghom?IsomorphismMatrixFLMLOR
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsomorphismSCFLMLOR
+constant http://www.gap-system.org/lib?alghom?IsomorphismSCFLMLOR
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?AlgebraWithOneHomomorphismByImagesNC
+constant http://www.gap-system.org/lib?alghom?AlgebraWithOneHomomorphismByImagesNC
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?AlgebraHomomorphismByImagesNC
+constant http://www.gap-system.org/lib?alghom?AlgebraHomomorphismByImagesNC
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?MakePreImagesInfoOperationAlgebraHomomorphism
+constant http://www.gap-system.org/lib?alghom?MakePreImagesInfoOperationAlgebraHomomorphism
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?RepresentativeLinearOperation
+constant http://www.gap-system.org/lib?alghom?RepresentativeLinearOperation
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st0
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st0
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st1
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st1
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st2
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st2
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st3
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st3
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st4
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st4
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st5
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st5
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st6
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st6
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st7
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st7
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st8
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st8
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st9
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st9
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st10
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st10
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st11
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st11
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st12
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st12
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st13
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st13
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st14
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st14
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st15
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st15
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st16
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st16
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st17
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st17
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st18
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st18
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st19
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st19
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st20
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st20
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st21
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st21
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st22
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st22
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st23
+constant http://www.gap-system.org/lib?alghom?IsAlgebraGeneralMappingByImagesDefaultRep_st23
+Includes http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st0
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st0
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st1
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st1
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st2
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st2
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st3
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st3
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st4
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st4
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st5
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st5
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st6
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st6
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st7
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st7
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st8
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st8
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st9
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st9
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st10
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st10
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st11
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st11
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st12
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st12
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st13
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st13
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st14
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st14
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st15
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st15
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st16
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st16
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st17
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st17
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st18
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st18
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st19
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st19
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st20
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st20
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st21
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st21
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st22
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st22
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st23
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st23
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st24
+constant http://www.gap-system.org/lib?alghom?IsPolynomialRingDefaultGeneratorMapping_st24
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsomorphismFpFLMLOR
+constant http://www.gap-system.org/lib?alghom?IsomorphismFpFLMLOR
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st0
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st0
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st1
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st1
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st2
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st2
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st3
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st3
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st4
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st4
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st5
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st5
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st6
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st6
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st7
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st7
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st8
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st8
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st9
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st9
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st10
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st10
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st11
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st11
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st12
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st12
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st13
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st13
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st14
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st14
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st15
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st15
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st16
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st16
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st17
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st17
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st18
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st18
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st19
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st19
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st20
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st20
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st21
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st21
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st22
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st22
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st23
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st23
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st24
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st24
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st25
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st25
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st26
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st26
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st27
+constant http://www.gap-system.org/lib?alghom?IsAlgebraHomomorphismFromFpRep_st27
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?OperationAlgebraHomomorphism
+constant http://www.gap-system.org/lib?alghom?OperationAlgebraHomomorphism
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?AlgebraGeneralMappingByImages
+constant http://www.gap-system.org/lib?alghom?AlgebraGeneralMappingByImages
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?AlgebraWithOneGeneralMappingByImages
+constant http://www.gap-system.org/lib?alghom?AlgebraWithOneGeneralMappingByImages
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st0
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st0
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st1
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st1
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st2
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st2
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st3
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st3
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st4
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st4
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st5
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st5
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st6
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st6
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st7
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st7
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st8
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st8
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st9
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st9
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st10
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st10
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st11
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st11
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st12
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st12
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st13
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st13
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st14
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st14
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st15
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st15
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st16
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st16
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st17
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st17
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st18
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st18
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st19
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st19
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st20
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st20
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st21
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st21
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st22
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st22
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st23
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st23
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st24
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st24
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st25
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st25
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st26
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st26
+Declares http://www.gap-system.org/lib?alghom http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st27
+constant http://www.gap-system.org/lib?alghom?IsOperationAlgebraHomomorphismDefaultRep_st27

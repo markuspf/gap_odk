@@ -1,0 +1,100 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="basic" base="http://www.gap-system.org/grp" meta="http://www.gap-system.org/?Types"><import from="http://www.gap-system.org/lib?magma"></import><import from="http://www.gap-system.org/lib?list"></import><constant name="AbelianGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?cyclotom"></import><constant name="QuaternionGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ExtraspecialGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="CyclicGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="DihedralGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="FreeAbelianGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="MathieuGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ElementaryAbelianGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="TrivialGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="SymmetricGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="AlternatingGroupCons">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

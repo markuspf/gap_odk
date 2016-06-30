@@ -1,0 +1,16 @@
+theory http://www.gap-system.org/lib?grpperm
+HasMeta http://www.gap-system.org/lib?grpperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?permutat
+Includes http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?grpperm?ONanScottType
+constant http://www.gap-system.org/lib?grpperm?ONanScottType
+Declares http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?grpperm?AllBlocks
+constant http://www.gap-system.org/lib?grpperm?AllBlocks
+Declares http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?grpperm?IsPermGroup
+constant http://www.gap-system.org/lib?grpperm?IsPermGroup
+Declares http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?grpperm?SocleTypePrimitiveGroup
+constant http://www.gap-system.org/lib?grpperm?SocleTypePrimitiveGroup
+Declares http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?grpperm?TransitiveIdentification
+constant http://www.gap-system.org/lib?grpperm?TransitiveIdentification
+Declares http://www.gap-system.org/lib?grpperm http://www.gap-system.org/lib?grpperm?PrimitiveIdentification
+constant http://www.gap-system.org/lib?grpperm?PrimitiveIdentification

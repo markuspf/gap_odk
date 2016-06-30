@@ -1,0 +1,216 @@
+theory http://www.gap-system.org/lib?ghompcgs
+HasMeta http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghom
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupGeneralMappingByImages_st16
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsToPcGroupHomomorphismByImages
+constant http://www.gap-system.org/lib?ghompcgs?IsToPcGroupHomomorphismByImages
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st0
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st0
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st1
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st1
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st2
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st2
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st3
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st3
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st4
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st4
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st5
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st5
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st6
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st6
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st7
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st7
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st8
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st8
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st9
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st9
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st10
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st10
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st11
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st11
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st12
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st12
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st13
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st13
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st14
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st14
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st15
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st15
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st16
+constant http://www.gap-system.org/lib?ghompcgs?IsGroupGeneralMappingByPcgs_st16
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st17
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupGeneralMappingByImages_st17
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st17
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st17
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st18
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st18
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st19
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsGeneralMappingByImages_st19
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st0
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st0
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st1
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st1
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st2
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st2
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st3
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st3
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st4
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st4
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st5
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st5
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st6
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st6
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st7
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st7
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st8
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st8
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st9
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st9
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st10
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st10
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st11
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st11
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st12
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st12
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st13
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st13
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st14
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st14
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st15
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st15
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st16
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st16
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st17
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st17
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st18
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st18
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st19
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st19
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st20
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st20
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st21
+constant http://www.gap-system.org/lib?ghompcgs?IsNaturalHomomorphismPcGroupRep_st21
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsHomomorphism
+constant http://www.gap-system.org/lib?ghompcgs?IsPcgsToPcgsHomomorphism
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?IsPcGroupHomomorphismByImages
+constant http://www.gap-system.org/lib?ghompcgs?IsPcGroupHomomorphismByImages
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?ghompcgs http://www.gap-system.org/lib?ghompcgs?NaturalIsomorphismByPcgs
+constant http://www.gap-system.org/lib?ghompcgs?NaturalIsomorphismByPcgs

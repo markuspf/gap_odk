@@ -1,0 +1,26 @@
+theory http://www.gap-system.org/lib?grppcext
+HasMeta http://www.gap-system.org/lib?grppcext http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppc
+Includes http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?Extension
+constant http://www.gap-system.org/lib?grppcext?Extension
+Includes http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?CyclicTopExtensions
+constant http://www.gap-system.org/lib?grppcext?CyclicTopExtensions
+Includes http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?SocleComplement
+constant http://www.gap-system.org/lib?grppcext?SocleComplement
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?ModuleOfExtension
+constant http://www.gap-system.org/lib?grppcext?ModuleOfExtension
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?SocleDimensions
+constant http://www.gap-system.org/lib?grppcext?SocleDimensions
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?TopExtensionsByAutomorphism
+constant http://www.gap-system.org/lib?grppcext?TopExtensionsByAutomorphism
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?ExtensionRepresentatives
+constant http://www.gap-system.org/lib?grppcext?ExtensionRepresentatives
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?ExtensionNC
+constant http://www.gap-system.org/lib?grppcext?ExtensionNC
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?Extensions
+constant http://www.gap-system.org/lib?grppcext?Extensions
+Declares http://www.gap-system.org/lib?grppcext http://www.gap-system.org/lib?grppcext?SplitExtension
+constant http://www.gap-system.org/lib?grppcext?SplitExtension

@@ -1,0 +1,41 @@
+theory http://www.gap-system.org/lib?stbc
+HasMeta http://www.gap-system.org/lib?stbc http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?StabChainOp
+constant http://www.gap-system.org/lib?stbc?StabChainOp
+Includes http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?MembershipTestKnownBase
+constant http://www.gap-system.org/lib?stbc?MembershipTestKnownBase
+Includes http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?permutat
+Includes http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st0
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st0
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st1
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st1
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st2
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st2
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st3
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st3
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st4
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st4
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st5
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st5
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st6
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st6
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st7
+constant http://www.gap-system.org/lib?stbc?IsPermOnEnumerator_st7
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?StabChainMutable
+constant http://www.gap-system.org/lib?stbc?StabChainMutable
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?StabChainOptions
+constant http://www.gap-system.org/lib?stbc?StabChainOptions
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?MinimalStabChain
+constant http://www.gap-system.org/lib?stbc?MinimalStabChain
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?PermOnEnumerator
+constant http://www.gap-system.org/lib?stbc?PermOnEnumerator
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?BaseOfGroup
+constant http://www.gap-system.org/lib?stbc?BaseOfGroup
+Declares http://www.gap-system.org/lib?stbc http://www.gap-system.org/lib?stbc?StabChainImmutable
+constant http://www.gap-system.org/lib?stbc?StabChainImmutable

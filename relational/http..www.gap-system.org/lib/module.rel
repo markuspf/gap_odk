@@ -1,0 +1,145 @@
+theory http://www.gap-system.org/lib?module
+HasMeta http://www.gap-system.org/lib?module http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?addmagma
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st0
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st0
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st1
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st1
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st2
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st2
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st3
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st3
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st4
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st4
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st5
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st5
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st6
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st6
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st7
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st7
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st8
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st8
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st9
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st9
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st10
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st10
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st11
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st11
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st12
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st12
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st13
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st13
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st14
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st14
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st15
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st15
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st16
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st16
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st17
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st17
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st18
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st18
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st19
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st19
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st20
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st20
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFreeLeftModule_st21
+constant http://www.gap-system.org/lib?module?IsFreeLeftModule_st21
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st0
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st0
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st1
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st1
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st2
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st2
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st3
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st3
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st4
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st4
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st5
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st5
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st6
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st6
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st7
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st7
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st8
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st8
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st9
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st9
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st10
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st10
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st11
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st11
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st12
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st12
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st13
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st13
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st14
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st14
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st15
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st15
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st16
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st16
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st17
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st17
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st18
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st18
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st19
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st19
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st20
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st20
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st21
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st21
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st22
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st22
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st23
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st23
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st24
+constant http://www.gap-system.org/lib?module?IsHandledByNiceBasis_st24
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?AsLeftModule
+constant http://www.gap-system.org/lib?module?AsLeftModule
+Includes http://www.gap-system.org/lib?module http://www.gap-system.org/lib?extrset
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsRightModule
+constant http://www.gap-system.org/lib?module?IsRightModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?GeneratorsOfLeftOperatorAdditiveGroup
+constant http://www.gap-system.org/lib?module?GeneratorsOfLeftOperatorAdditiveGroup
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?DimensionOfVectors
+constant http://www.gap-system.org/lib?module?DimensionOfVectors
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsRightOperatorAdditiveGroup
+constant http://www.gap-system.org/lib?module?IsRightOperatorAdditiveGroup
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsMatrixModule
+constant http://www.gap-system.org/lib?module?IsMatrixModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFiniteDimensional
+constant http://www.gap-system.org/lib?module?IsFiniteDimensional
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?Dimension
+constant http://www.gap-system.org/lib?module?Dimension
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFullRowModule
+constant http://www.gap-system.org/lib?module?IsFullRowModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?GeneratorsOfRightOperatorAdditiveGroup
+constant http://www.gap-system.org/lib?module?GeneratorsOfRightOperatorAdditiveGroup
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?LeftModuleByGenerators
+constant http://www.gap-system.org/lib?module?LeftModuleByGenerators
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsLeftOperatorAdditiveGroup
+constant http://www.gap-system.org/lib?module?IsLeftOperatorAdditiveGroup
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsRowModule
+constant http://www.gap-system.org/lib?module?IsRowModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsFullMatrixModule
+constant http://www.gap-system.org/lib?module?IsFullMatrixModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?UseBasis
+constant http://www.gap-system.org/lib?module?UseBasis
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?IsLeftModule
+constant http://www.gap-system.org/lib?module?IsLeftModule
+Declares http://www.gap-system.org/lib?module http://www.gap-system.org/lib?module?ClosureLeftModule
+constant http://www.gap-system.org/lib?module?ClosureLeftModule

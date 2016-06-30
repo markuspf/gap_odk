@@ -1,0 +1,22 @@
+theory http://www.gap-system.org/lib?files
+HasMeta http://www.gap-system.org/lib?files http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?files http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?ReadAsFunction
+constant http://www.gap-system.org/lib?files?ReadAsFunction
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?Directory
+constant http://www.gap-system.org/lib?files?Directory
+Includes http://www.gap-system.org/lib?files http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?IsDirectoryRep
+constant http://www.gap-system.org/lib?files?IsDirectoryRep
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?IsDirectoryRep_st0
+constant http://www.gap-system.org/lib?files?IsDirectoryRep_st0
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?IsDirectory
+constant http://www.gap-system.org/lib?files?IsDirectory
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?Read
+constant http://www.gap-system.org/lib?files?Read
+Includes http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files
+Includes http://www.gap-system.org/lib?files http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?Filename
+constant http://www.gap-system.org/lib?files?Filename
+Declares http://www.gap-system.org/lib?files http://www.gap-system.org/lib?files?ExternalFilename
+constant http://www.gap-system.org/lib?files?ExternalFilename

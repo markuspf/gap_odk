@@ -1,0 +1,16 @@
+theory http://www.gap-system.org/lib?ctblsolv
+HasMeta http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?ctblsolv?BaumClausenInfo
+constant http://www.gap-system.org/lib?ctblsolv?BaumClausenInfo
+Declares http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?ctblsolv?IrrBaumClausen
+constant http://www.gap-system.org/lib?ctblsolv?IrrBaumClausen
+Includes http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?ctblsolv?IrreducibleRepresentations
+constant http://www.gap-system.org/lib?ctblsolv?IrreducibleRepresentations
+Declares http://www.gap-system.org/lib?ctblsolv http://www.gap-system.org/lib?ctblsolv?IrrConlon
+constant http://www.gap-system.org/lib?ctblsolv?IrrConlon

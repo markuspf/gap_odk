@@ -1,0 +1,17 @@
+theory http://www.gap-system.org/lib?rvecempt
+HasMeta http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep
+constant http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep
+Declares http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st0
+constant http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st0
+Declares http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st1
+constant http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st1
+Declares http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st2
+constant http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st2
+Declares http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st3
+constant http://www.gap-system.org/lib?rvecempt?IsEmptyRowVectorRep_st3
+Declares http://www.gap-system.org/lib?rvecempt http://www.gap-system.org/lib?rvecempt?EmptyRowVector
+constant http://www.gap-system.org/lib?rvecempt?EmptyRowVector

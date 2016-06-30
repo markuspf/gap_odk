@@ -1,0 +1,766 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="rwspcgrp" base="http://www.gap-system.org/lib" meta="http://www.gap-system.org/?Types"><import from="http://www.gap-system.org/lib?type"></import><constant name="IsNBitsPcWordRep">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsNBitsPcWordRep_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsNBitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsDataObjectRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsKernelPcWord">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?list"></import><constant name="PolycyclicFactorGroup">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="PolycyclicFactorGroupByRelators">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?arith"></import><import from="http://www.gap-system.org/lib?rwsgrp"></import><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsExtLElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsExtRElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st3">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElementWithOne"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st4">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElementWithInverse"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st5">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsAssociativeElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsMultiplicativeElementWithInverseByPolycyclicCollector_st6">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsMultiplicativeElementWithInverseByPolycyclicCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwsgrp" name="IsMultiplicativeElementWithInverseByRws"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="DefiningPcgs">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy8BitsSingleCollector">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy8BitsSingleCollector_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementsFamilyBy8BitsSingleCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsFamily"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy8BitsSingleCollector_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementsFamilyBy8BitsSingleCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwsgrp" name="IsElementsFamilyByRws"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?rwspcgrp"></import><constant name="Is32BitsPcWordRep">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is32BitsPcWordRep_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is32BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsDataObjectRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is32BitsPcWordRep_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is32BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsKernelPcWord"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is32BitsPcWordRep_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is32BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsNBitsPcWordRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementFinitePolycyclicGroup"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsExtLElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementFinitePolycyclicGroup"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsExtRElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementFinitePolycyclicGroup"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup_st3">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementFinitePolycyclicGroup"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElementWithOne"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup_st4">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementFinitePolycyclicGroup"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsMultiplicativeElementWithInverse"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementFinitePolycyclicGroup_st5">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementFinitePolycyclicGroup"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="arith" name="IsAssociativeElement"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><import from="http://www.gap-system.org/lib?magma"></import><constant name="IsPcGroup">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="PolycyclicFactorGroupNC">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is16BitsPcWordRep">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is16BitsPcWordRep_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is16BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsDataObjectRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is16BitsPcWordRep_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is16BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsKernelPcWord"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is16BitsPcWordRep_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is16BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsNBitsPcWordRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy32BitsSingleCollector">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy32BitsSingleCollector_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementsFamilyBy32BitsSingleCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsFamily"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy32BitsSingleCollector_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementsFamilyBy32BitsSingleCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwsgrp" name="IsElementsFamilyByRws"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="PolycyclicFactorGroupByRelatorsNC">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy16BitsSingleCollector">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy16BitsSingleCollector_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementsFamilyBy16BitsSingleCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsFamily"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsElementsFamilyBy16BitsSingleCollector_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsElementsFamilyBy16BitsSingleCollector"></om:OMS>
+      </om:OMA>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="catFilter"></om:OMS><om:OMS base="http://www.gap-system.org/lib" module="rwsgrp" name="IsElementsFamilyByRws"></om:OMS>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is8BitsPcWordRep">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is8BitsPcWordRep_st0">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is8BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="type" name="IsDataObjectRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is8BitsPcWordRep_st1">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is8BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsKernelPcWord"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Is8BitsPcWordRep_st2">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="Is8BitsPcWordRep"></om:OMS>
+      </om:OMA></type></om:OMV></om:OMBVAR>
+                 <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"></om:OMV><om:OMS base="http://www.gap-system.org/lib" module="rwspcgrp" name="IsNBitsPcWordRep"></om:OMS>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

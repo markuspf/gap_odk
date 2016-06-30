@@ -1,0 +1,13 @@
+theory http://www.gap-system.org/lib?pquot
+HasMeta http://www.gap-system.org/lib?pquot http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?pquot?EpimorphismPGroup
+constant http://www.gap-system.org/lib?pquot?EpimorphismPGroup
+Includes http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?quotsys
+Declares http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?pquot?Nucleus
+constant http://www.gap-system.org/lib?pquot?Nucleus
+Declares http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?pquot?EpimorphismNilpotentQuotientOp
+constant http://www.gap-system.org/lib?pquot?EpimorphismNilpotentQuotientOp
+Declares http://www.gap-system.org/lib?pquot http://www.gap-system.org/lib?pquot?EpimorphismQuotientSystem
+constant http://www.gap-system.org/lib?pquot?EpimorphismQuotientSystem

@@ -1,0 +1,33 @@
+theory http://www.gap-system.org/lib?matint
+HasMeta http://www.gap-system.org/lib?matint http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?TriangulizeIntegerMat
+constant http://www.gap-system.org/lib?matint?TriangulizeIntegerMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?TriangulizedIntegerMat
+constant http://www.gap-system.org/lib?matint?TriangulizedIntegerMat
+Includes http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?BaseIntMat
+constant http://www.gap-system.org/lib?matint?BaseIntMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?NullspaceIntMat
+constant http://www.gap-system.org/lib?matint?NullspaceIntMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?TriangulizedIntegerMatTransform
+constant http://www.gap-system.org/lib?matint?TriangulizedIntegerMatTransform
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?SolutionNullspaceIntMat
+constant http://www.gap-system.org/lib?matint?SolutionNullspaceIntMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?HermiteNormalFormIntegerMat
+constant http://www.gap-system.org/lib?matint?HermiteNormalFormIntegerMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?BaseIntersectionIntMats
+constant http://www.gap-system.org/lib?matint?BaseIntersectionIntMats
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?HermiteNormalFormIntegerMatTransform
+constant http://www.gap-system.org/lib?matint?HermiteNormalFormIntegerMatTransform
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?SmithNormalFormIntegerMat
+constant http://www.gap-system.org/lib?matint?SmithNormalFormIntegerMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?SmithNormalFormIntegerMatTransforms
+constant http://www.gap-system.org/lib?matint?SmithNormalFormIntegerMatTransforms
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?AbelianInvariantsOfList
+constant http://www.gap-system.org/lib?matint?AbelianInvariantsOfList
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?ComplementIntMat
+constant http://www.gap-system.org/lib?matint?ComplementIntMat
+Declares http://www.gap-system.org/lib?matint http://www.gap-system.org/lib?matint?SolutionIntMat
+constant http://www.gap-system.org/lib?matint?SolutionIntMat

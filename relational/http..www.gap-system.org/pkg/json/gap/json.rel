@@ -1,0 +1,5 @@
+theory http://www.gap-system.org/pkg/json/gap?json
+HasMeta http://www.gap-system.org/pkg/json/gap?json http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/pkg/json/gap?json http://www.gap-system.org/lib?streams
+Declares http://www.gap-system.org/pkg/json/gap?json http://www.gap-system.org/pkg/json/gap?json?_GapToJsonStreamInternal
+constant http://www.gap-system.org/pkg/json/gap?json?_GapToJsonStreamInternal

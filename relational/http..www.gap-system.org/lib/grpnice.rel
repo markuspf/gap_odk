@@ -1,0 +1,28 @@
+theory http://www.gap-system.org/lib?grpnice
+HasMeta http://www.gap-system.org/lib?grpnice http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?GroupByNiceMonomorphism
+constant http://www.gap-system.org/lib?grpnice?GroupByNiceMonomorphism
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?IsNiceMonomorphism
+constant http://www.gap-system.org/lib?grpnice?IsNiceMonomorphism
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?NiceObject
+constant http://www.gap-system.org/lib?grpnice?NiceObject
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?SeedFaithfulAction
+constant http://www.gap-system.org/lib?grpnice?SeedFaithfulAction
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?IsHandledByNiceMonomorphism
+constant http://www.gap-system.org/lib?grpnice?IsHandledByNiceMonomorphism
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?CanonicalNiceMonomorphism
+constant http://www.gap-system.org/lib?grpnice?CanonicalNiceMonomorphism
+Includes http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?IsEnumeratorByNiceomorphismRep
+constant http://www.gap-system.org/lib?grpnice?IsEnumeratorByNiceomorphismRep
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?IsEnumeratorByNiceomorphismRep_st0
+constant http://www.gap-system.org/lib?grpnice?IsEnumeratorByNiceomorphismRep_st0
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?IsEnumeratorByNiceomorphismRep_st1
+constant http://www.gap-system.org/lib?grpnice?IsEnumeratorByNiceomorphismRep_st1
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?NiceMonomorphism
+constant http://www.gap-system.org/lib?grpnice?NiceMonomorphism
+Declares http://www.gap-system.org/lib?grpnice http://www.gap-system.org/lib?grpnice?IsCanonicalNiceMonomorphism
+constant http://www.gap-system.org/lib?grpnice?IsCanonicalNiceMonomorphism

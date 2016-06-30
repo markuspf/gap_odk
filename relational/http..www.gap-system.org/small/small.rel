@@ -1,0 +1,11 @@
+theory http://www.gap-system.org/small?small
+HasMeta http://www.gap-system.org/small?small http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/small?small http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/small?small http://www.gap-system.org/small?small?Gap3CatalogueIdGroup
+constant http://www.gap-system.org/small?small?Gap3CatalogueIdGroup
+Declares http://www.gap-system.org/small?small http://www.gap-system.org/small?small?IdGroup
+constant http://www.gap-system.org/small?small?IdGroup
+Declares http://www.gap-system.org/small?small http://www.gap-system.org/small?small?FrattinifactorSize
+constant http://www.gap-system.org/small?small?FrattinifactorSize
+Declares http://www.gap-system.org/small?small http://www.gap-system.org/small?small?FrattinifactorId
+constant http://www.gap-system.org/small?small?FrattinifactorId

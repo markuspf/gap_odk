@@ -1,0 +1,76 @@
+theory http://www.gap-system.org/lib?morpheus
+HasMeta http://www.gap-system.org/lib?morpheus http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?InnerAutomorphismsAutomorphismGroup
+constant http://www.gap-system.org/lib?morpheus?InnerAutomorphismsAutomorphismGroup
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsGroupOfAutomorphisms
+constant http://www.gap-system.org/lib?morpheus?IsGroupOfAutomorphisms
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsAutomorphismGroup
+constant http://www.gap-system.org/lib?morpheus?IsAutomorphismGroup
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?GQuotients
+constant http://www.gap-system.org/lib?morpheus?GQuotients
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsGroupOfAutomorphismsFiniteGroup
+constant http://www.gap-system.org/lib?morpheus?IsGroupOfAutomorphismsFiniteGroup
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?ghom
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?oprt
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st0
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st0
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st1
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st1
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st2
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st2
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st3
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st3
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st4
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st4
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st5
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st5
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st6
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st6
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st7
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st7
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st8
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st8
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st9
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st9
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st10
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st10
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st11
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st11
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st12
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st12
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st13
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st13
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st14
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st14
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st15
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st15
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st16
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st16
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st17
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st17
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st18
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st18
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st19
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st19
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st20
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st20
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st21
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st21
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st22
+constant http://www.gap-system.org/lib?morpheus?IsActionHomomorphismAutomGroup_st22
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?IsomorphicSubgroups
+constant http://www.gap-system.org/lib?morpheus?IsomorphicSubgroups
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?AutomorphismDomain
+constant http://www.gap-system.org/lib?morpheus?AutomorphismDomain
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?morpheus http://www.gap-system.org/lib?morpheus?AutomorphismGroup
+constant http://www.gap-system.org/lib?morpheus?AutomorphismGroup

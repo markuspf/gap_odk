@@ -1,0 +1,6 @@
+theory http://www.gap-system.org/grp?ree
+HasMeta http://www.gap-system.org/grp?ree http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/grp?ree http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/grp?ree http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/grp?ree http://www.gap-system.org/grp?ree?ReeGroupCons
+constant http://www.gap-system.org/grp?ree?ReeGroupCons

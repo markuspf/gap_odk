@@ -1,0 +1,35 @@
+theory http://www.gap-system.org/lib?fpmon
+HasMeta http://www.gap-system.org/lib?fpmon http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid
+constant http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st0
+constant http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st0
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st1
+constant http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st1
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st2
+constant http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st2
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st3
+constant http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st3
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st4
+constant http://www.gap-system.org/lib?fpmon?IsElementOfFpMonoid_st4
+Includes http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?FreeGeneratorsOfFpMonoid
+constant http://www.gap-system.org/lib?fpmon?FreeGeneratorsOfFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?FpMonoidOfElementOfFpMonoid
+constant http://www.gap-system.org/lib?fpmon?FpMonoidOfElementOfFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsSubmonoidFpMonoid
+constant http://www.gap-system.org/lib?fpmon?IsSubmonoidFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?FreeMonoidOfFpMonoid
+constant http://www.gap-system.org/lib?fpmon?FreeMonoidOfFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsomorphismFpMonoid
+constant http://www.gap-system.org/lib?fpmon?IsomorphismFpMonoid
+Includes http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?word
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?ElementOfFpMonoid
+constant http://www.gap-system.org/lib?fpmon?ElementOfFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?RelationsOfFpMonoid
+constant http://www.gap-system.org/lib?fpmon?RelationsOfFpMonoid
+Declares http://www.gap-system.org/lib?fpmon http://www.gap-system.org/lib?fpmon?IsFpMonoid
+constant http://www.gap-system.org/lib?fpmon?IsFpMonoid

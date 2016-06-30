@@ -1,0 +1,28 @@
+theory http://www.gap-system.org/lib?sgpres
+HasMeta http://www.gap-system.org/lib?sgpres http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?AugmentedCosetTableMtcInWholeGroup
+constant http://www.gap-system.org/lib?sgpres?AugmentedCosetTableMtcInWholeGroup
+Includes http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?IsPresentation
+constant http://www.gap-system.org/lib?sgpres?IsPresentation
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?IsPresentation_st0
+constant http://www.gap-system.org/lib?sgpres?IsPresentation_st0
+Includes http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?PrimaryGeneratorWords
+constant http://www.gap-system.org/lib?sgpres?PrimaryGeneratorWords
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?CosetTableBySubgroup
+constant http://www.gap-system.org/lib?sgpres?CosetTableBySubgroup
+Includes http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?IsPresentationDefaultRep
+constant http://www.gap-system.org/lib?sgpres?IsPresentationDefaultRep
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?IsPresentationDefaultRep_st0
+constant http://www.gap-system.org/lib?sgpres?IsPresentationDefaultRep_st0
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?IsPresentationDefaultRep_st1
+constant http://www.gap-system.org/lib?sgpres?IsPresentationDefaultRep_st1
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?AugmentedCosetTableRrsInWholeGroup
+constant http://www.gap-system.org/lib?sgpres?AugmentedCosetTableRrsInWholeGroup
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?AugmentedCosetTableNormalClosure
+constant http://www.gap-system.org/lib?sgpres?AugmentedCosetTableNormalClosure
+Declares http://www.gap-system.org/lib?sgpres http://www.gap-system.org/lib?sgpres?AugmentedCosetTableNormalClosureInWholeGroup
+constant http://www.gap-system.org/lib?sgpres?AugmentedCosetTableNormalClosureInWholeGroup

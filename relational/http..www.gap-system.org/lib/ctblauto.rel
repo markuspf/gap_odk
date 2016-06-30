@@ -1,0 +1,16 @@
+theory http://www.gap-system.org/lib?ctblauto
+HasMeta http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?ctblauto?TransformingPermutations
+constant http://www.gap-system.org/lib?ctblauto?TransformingPermutations
+Includes http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?permutat
+Includes http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?ctblauto?MatrixAutomorphisms
+constant http://www.gap-system.org/lib?ctblauto?MatrixAutomorphisms
+Includes http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?ctblauto?TransformingPermutationsCharacterTables
+constant http://www.gap-system.org/lib?ctblauto?TransformingPermutationsCharacterTables
+Includes http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?ctblauto http://www.gap-system.org/lib?ctblauto?TableAutomorphisms
+constant http://www.gap-system.org/lib?ctblauto?TableAutomorphisms

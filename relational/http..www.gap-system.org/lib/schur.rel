@@ -1,0 +1,17 @@
+theory http://www.gap-system.org/lib?schur
+HasMeta http://www.gap-system.org/lib?schur http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?NonabelianExteriorSquare
+constant http://www.gap-system.org/lib?schur?NonabelianExteriorSquare
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?Epicentre
+constant http://www.gap-system.org/lib?schur?Epicentre
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?EpimorphismSchurCover
+constant http://www.gap-system.org/lib?schur?EpimorphismSchurCover
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?EpimorphismNonabelianExteriorSquare
+constant http://www.gap-system.org/lib?schur?EpimorphismNonabelianExteriorSquare
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?IsCentralFactor
+constant http://www.gap-system.org/lib?schur?IsCentralFactor
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?AbelianInvariantsMultiplier
+constant http://www.gap-system.org/lib?schur?AbelianInvariantsMultiplier
+Declares http://www.gap-system.org/lib?schur http://www.gap-system.org/lib?schur?SchurCover
+constant http://www.gap-system.org/lib?schur?SchurCover

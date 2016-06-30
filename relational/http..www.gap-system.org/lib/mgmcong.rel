@@ -1,0 +1,147 @@
+theory http://www.gap-system.org/lib?mgmcong
+HasMeta http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?relation
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st0
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st0
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st1
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st1
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st2
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st2
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st3
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st3
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st4
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st4
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st5
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st5
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st6
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st6
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st7
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st7
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st8
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st8
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st9
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st9
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st10
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st10
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st11
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st11
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st12
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st12
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st13
+constant http://www.gap-system.org/lib?mgmcong?IsLeftMagmaCongruence_st13
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st0
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st0
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st1
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st1
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st2
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st2
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st3
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st3
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st4
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st4
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st5
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st5
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st6
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st6
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st7
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st7
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st8
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st8
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st9
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st9
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st10
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st10
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st11
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st11
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st12
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st12
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st13
+constant http://www.gap-system.org/lib?mgmcong?IsRightMagmaCongruence_st13
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st0
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st0
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st1
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st1
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st2
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st2
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st3
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st3
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st4
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st4
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st5
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st5
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st6
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st6
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st7
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st7
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st8
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st8
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st9
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st9
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st10
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st10
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st11
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st11
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st12
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st12
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st13
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st13
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st14
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st14
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st15
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st15
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st16
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st16
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st17
+constant http://www.gap-system.org/lib?mgmcong?IsMagmaCongruence_st17
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?GeneratingPairsOfLeftMagmaCongruence
+constant http://www.gap-system.org/lib?mgmcong?GeneratingPairsOfLeftMagmaCongruence
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?MeetMagmaCongruences
+constant http://www.gap-system.org/lib?mgmcong?MeetMagmaCongruences
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?JoinMagmaCongruences
+constant http://www.gap-system.org/lib?mgmcong?JoinMagmaCongruences
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st0
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st0
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st1
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st1
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st2
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st2
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st3
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st3
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st4
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st4
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st5
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st5
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st6
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st6
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st7
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st7
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st8
+constant http://www.gap-system.org/lib?mgmcong?IsCongruenceClass_st8
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?PartialClosureOfCongruence
+constant http://www.gap-system.org/lib?mgmcong?PartialClosureOfCongruence
+Includes http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?LeftMagmaCongruenceByGeneratingPairs
+constant http://www.gap-system.org/lib?mgmcong?LeftMagmaCongruenceByGeneratingPairs
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?GeneratingPairsOfRightMagmaCongruence
+constant http://www.gap-system.org/lib?mgmcong?GeneratingPairsOfRightMagmaCongruence
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?GeneratingPairsOfMagmaCongruence
+constant http://www.gap-system.org/lib?mgmcong?GeneratingPairsOfMagmaCongruence
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?RightMagmaCongruenceByGeneratingPairs
+constant http://www.gap-system.org/lib?mgmcong?RightMagmaCongruenceByGeneratingPairs
+Declares http://www.gap-system.org/lib?mgmcong http://www.gap-system.org/lib?mgmcong?MagmaCongruenceByGeneratingPairs
+constant http://www.gap-system.org/lib?mgmcong?MagmaCongruenceByGeneratingPairs

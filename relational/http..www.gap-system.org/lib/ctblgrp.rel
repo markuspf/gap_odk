@@ -1,0 +1,10 @@
+theory http://www.gap-system.org/lib?ctblgrp
+HasMeta http://www.gap-system.org/lib?ctblgrp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblgrp http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ctblgrp http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?ctblgrp http://www.gap-system.org/lib?ctblgrp?IrrDixonSchneider
+constant http://www.gap-system.org/lib?ctblgrp?IrrDixonSchneider
+Declares http://www.gap-system.org/lib?ctblgrp http://www.gap-system.org/lib?ctblgrp?DxPreparation
+constant http://www.gap-system.org/lib?ctblgrp?DxPreparation
+Declares http://www.gap-system.org/lib?ctblgrp http://www.gap-system.org/lib?ctblgrp?DixonRecord
+constant http://www.gap-system.org/lib?ctblgrp?DixonRecord

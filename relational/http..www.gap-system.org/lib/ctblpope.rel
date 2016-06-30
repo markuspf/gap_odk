@@ -1,0 +1,6 @@
+theory http://www.gap-system.org/lib?ctblpope
+HasMeta http://www.gap-system.org/lib?ctblpope http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblpope http://www.gap-system.org/lib?ctbl
+Includes http://www.gap-system.org/lib?ctblpope http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ctblpope http://www.gap-system.org/lib?ctblpope?Inequalities
+constant http://www.gap-system.org/lib?ctblpope?Inequalities

@@ -1,0 +1,207 @@
+theory http://www.gap-system.org/lib?lierep
+HasMeta http://www.gap-system.org/lib?lierep http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?alglie
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?DominantCharacter
+constant http://www.gap-system.org/lib?lierep?DominantCharacter
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?DominantWeights
+constant http://www.gap-system.org/lib?lierep?DominantWeights
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st0
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st1
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st2
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st2
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st3
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st3
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st4
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st4
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st5
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st5
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st6
+constant http://www.gap-system.org/lib?lierep?IsBasisOfWeightRepElementSpace_st6
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?algrep
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?Coboundaries
+constant http://www.gap-system.org/lib?lierep?Coboundaries
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeylGroup
+constant http://www.gap-system.org/lib?lierep?IsWeylGroup
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?SparseCartanMatrix
+constant http://www.gap-system.org/lib?lierep?SparseCartanMatrix
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?LatticeGeneratorsInUEA
+constant http://www.gap-system.org/lib?lierep?LatticeGeneratorsInUEA
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?PositiveRootsAsWeights
+constant http://www.gap-system.org/lib?lierep?PositiveRootsAsWeights
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?Cochain
+constant http://www.gap-system.org/lib?lierep?Cochain
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsSearchTable
+constant http://www.gap-system.org/lib?lierep?IsSearchTable
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTable
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTable
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTable_st0
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTable_st0
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain
+constant http://www.gap-system.org/lib?lierep?IsCochain
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st0
+constant http://www.gap-system.org/lib?lierep?IsCochain_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st1
+constant http://www.gap-system.org/lib?lierep?IsCochain_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st2
+constant http://www.gap-system.org/lib?lierep?IsCochain_st2
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st3
+constant http://www.gap-system.org/lib?lierep?IsCochain_st3
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st4
+constant http://www.gap-system.org/lib?lierep?IsCochain_st4
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st5
+constant http://www.gap-system.org/lib?lierep?IsCochain_st5
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochain_st6
+constant http://www.gap-system.org/lib?lierep?IsCochain_st6
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?WeylOrbitIterator
+constant http://www.gap-system.org/lib?lierep?WeylOrbitIterator
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?Cocycles
+constant http://www.gap-system.org/lib?lierep?Cocycles
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st0
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st1
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st2
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st2
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st3
+constant http://www.gap-system.org/lib?lierep?IsVectorSearchTableDefaultRep_st3
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?Search
+constant http://www.gap-system.org/lib?lierep?Search
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?WeylGroup
+constant http://www.gap-system.org/lib?lierep?WeylGroup
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?HighestWeightModule
+constant http://www.gap-system.org/lib?lierep?HighestWeightModule
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsZeroCochainRep
+constant http://www.gap-system.org/lib?lierep?IsZeroCochainRep
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsZeroCochainRep_st0
+constant http://www.gap-system.org/lib?lierep?IsZeroCochainRep_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsZeroCochainRep_st1
+constant http://www.gap-system.org/lib?lierep?IsZeroCochainRep_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?Insert
+constant http://www.gap-system.org/lib?lierep?Insert
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st0
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st1
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st2
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st2
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st3
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st3
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st4
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st4
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st5
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st5
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st6
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st6
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st7
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st7
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st8
+constant http://www.gap-system.org/lib?lierep?IsUEALatticeElement_st8
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?LeadingUEALatticeMonomial
+constant http://www.gap-system.org/lib?lierep?LeadingUEALatticeMonomial
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?DecomposeTensorProduct
+constant http://www.gap-system.org/lib?lierep?DecomposeTensorProduct
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?DimensionOfHighestWeightModule
+constant http://www.gap-system.org/lib?lierep?DimensionOfHighestWeightModule
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?LongestWeylWordPerm
+constant http://www.gap-system.org/lib?lierep?LongestWeylWordPerm
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st0
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st1
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st2
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st2
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st3
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st3
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st4
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st4
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st5
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st5
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsWeightRepElement_st6
+constant http://www.gap-system.org/lib?lierep?IsWeightRepElement_st6
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?CochainSpace
+constant http://www.gap-system.org/lib?lierep?CochainSpace
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st0
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st0
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st1
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st1
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st2
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st2
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st3
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st3
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st4
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st4
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st5
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st5
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st6
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st6
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st7
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st7
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st8
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st8
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st9
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st9
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st10
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st10
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st11
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st11
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st12
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st12
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st13
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st13
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st14
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st14
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st15
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st15
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st16
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st16
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st17
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st17
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st18
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st18
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st19
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st19
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st20
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st20
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st21
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st21
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st22
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st22
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st23
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st23
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st24
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st24
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?IsCochainsSpace_st25
+constant http://www.gap-system.org/lib?lierep?IsCochainsSpace_st25
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?ApplySimpleReflection
+constant http://www.gap-system.org/lib?lierep?ApplySimpleReflection
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?ConjugateDominantWeightWithWord
+constant http://www.gap-system.org/lib?lierep?ConjugateDominantWeightWithWord
+Declares http://www.gap-system.org/lib?lierep http://www.gap-system.org/lib?lierep?ConjugateDominantWeight
+constant http://www.gap-system.org/lib?lierep?ConjugateDominantWeight

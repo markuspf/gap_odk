@@ -1,0 +1,10 @@
+theory http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom
+HasMeta http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom http://www.gap-system.org/lib?random
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom?IsRealRandomSource
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom?IsRealRandomSource
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom?IsRealRandomSource_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom?IsRealRandomSource_st0
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom?IsRealRandomSource_st1
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?realrandom?IsRealRandomSource_st1

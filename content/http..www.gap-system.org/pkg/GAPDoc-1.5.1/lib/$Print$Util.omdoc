@@ -1,0 +1,6 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="PrintUtil" base="http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib" meta="http://www.gap-system.org/?Types"><constant name="IsObjToBePrinted">
+       
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

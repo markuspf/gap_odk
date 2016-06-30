@@ -1,0 +1,19 @@
+theory http://www.gap-system.org/lib?upoly
+HasMeta http://www.gap-system.org/lib?upoly http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?ringpoly
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?ratfun
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?upoly?FactorsSquarefree
+constant http://www.gap-system.org/lib?upoly?FactorsSquarefree
+Declares http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?upoly?IrrFacsPol
+constant http://www.gap-system.org/lib?upoly?IrrFacsPol
+Declares http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?upoly?SplittingField
+constant http://www.gap-system.org/lib?upoly?SplittingField
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?upoly http://www.gap-system.org/lib?upoly?IsPrimitivePolynomial
+constant http://www.gap-system.org/lib?upoly?IsPrimitivePolynomial

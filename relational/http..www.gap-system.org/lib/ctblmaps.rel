@@ -1,0 +1,25 @@
+theory http://www.gap-system.org/lib?ctblmaps
+HasMeta http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?ComputedClassFusions
+constant http://www.gap-system.org/lib?ctblmaps?ComputedClassFusions
+Includes http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?FusionConjugacyClasses
+constant http://www.gap-system.org/lib?ctblmaps?FusionConjugacyClasses
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?ComputedPowerMaps
+constant http://www.gap-system.org/lib?ctblmaps?ComputedPowerMaps
+Includes http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?cyclotom
+Includes http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?PossiblePowerMaps
+constant http://www.gap-system.org/lib?ctblmaps?PossiblePowerMaps
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?PowerMapOp
+constant http://www.gap-system.org/lib?ctblmaps?PowerMapOp
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?NamesOfFusionSources
+constant http://www.gap-system.org/lib?ctblmaps?NamesOfFusionSources
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?FusionConjugacyClassesOp
+constant http://www.gap-system.org/lib?ctblmaps?FusionConjugacyClassesOp
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?PowerMap
+constant http://www.gap-system.org/lib?ctblmaps?PowerMap
+Declares http://www.gap-system.org/lib?ctblmaps http://www.gap-system.org/lib?ctblmaps?PossibleClassFusions
+constant http://www.gap-system.org/lib?ctblmaps?PossibleClassFusions

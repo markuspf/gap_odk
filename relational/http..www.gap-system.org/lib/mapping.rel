@@ -1,0 +1,161 @@
+theory http://www.gap-system.org/lib?mapping
+HasMeta http://www.gap-system.org/lib?mapping http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping_st0
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping_st0
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping_st1
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping_st1
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping_st2
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping_st2
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping_st3
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping_st3
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping_st4
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping_st4
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralMapping_st5
+constant http://www.gap-system.org/lib?mapping?IsGeneralMapping_st5
+Includes http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsTotal
+constant http://www.gap-system.org/lib?mapping?IsTotal
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSingleValued
+constant http://www.gap-system.org/lib?mapping?IsSingleValued
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st0
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st0
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st1
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st1
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st2
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st2
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st3
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st3
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st4
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st4
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st5
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st5
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st6
+constant http://www.gap-system.org/lib?mapping?IsSPGeneralMapping_st6
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsEndoGeneralMapping
+constant http://www.gap-system.org/lib?mapping?IsEndoGeneralMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?PreImagesRepresentative
+constant http://www.gap-system.org/lib?mapping?PreImagesRepresentative
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?PreImagesElm
+constant http://www.gap-system.org/lib?mapping?PreImagesElm
+Includes http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st0
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st0
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st1
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st1
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st2
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st2
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st3
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st3
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st4
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st4
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st5
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st5
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st6
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st6
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st7
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st7
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st8
+constant http://www.gap-system.org/lib?mapping?IsGeneralRestrictedMappingRep_st8
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st0
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st0
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st1
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st1
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st2
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st2
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st3
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st3
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st4
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st4
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st5
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st5
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st6
+constant http://www.gap-system.org/lib?mapping?IsNonSPGeneralMapping_st6
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?FamilyRange
+constant http://www.gap-system.org/lib?mapping?FamilyRange
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?Range
+constant http://www.gap-system.org/lib?mapping?Range
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?FamiliesOfGeneralMappingsAndRanges
+constant http://www.gap-system.org/lib?mapping?FamiliesOfGeneralMappingsAndRanges
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsInjective
+constant http://www.gap-system.org/lib?mapping?IsInjective
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsSurjective
+constant http://www.gap-system.org/lib?mapping?IsSurjective
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?FamilySource
+constant http://www.gap-system.org/lib?mapping?FamilySource
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?ImagesElm
+constant http://www.gap-system.org/lib?mapping?ImagesElm
+Includes http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?ImagesSet
+constant http://www.gap-system.org/lib?mapping?ImagesSet
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsEndoMapping
+constant http://www.gap-system.org/lib?mapping?IsEndoMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsMapping
+constant http://www.gap-system.org/lib?mapping?IsMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?UnderlyingRelation
+constant http://www.gap-system.org/lib?mapping?UnderlyingRelation
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?MappingGeneratorsImages
+constant http://www.gap-system.org/lib?mapping?MappingGeneratorsImages
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?Source
+constant http://www.gap-system.org/lib?mapping?Source
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?ImagesSource
+constant http://www.gap-system.org/lib?mapping?ImagesSource
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IdentityMapping
+constant http://www.gap-system.org/lib?mapping?IdentityMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?InverseGeneralMapping
+constant http://www.gap-system.org/lib?mapping?InverseGeneralMapping
+Includes http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?Projection
+constant http://www.gap-system.org/lib?mapping?Projection
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?ImagesRepresentative
+constant http://www.gap-system.org/lib?mapping?ImagesRepresentative
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?CompositionMapping2
+constant http://www.gap-system.org/lib?mapping?CompositionMapping2
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?PreImagesSet
+constant http://www.gap-system.org/lib?mapping?PreImagesSet
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsConstantTimeAccessGeneralMapping
+constant http://www.gap-system.org/lib?mapping?IsConstantTimeAccessGeneralMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?UnderlyingGeneralMapping
+constant http://www.gap-system.org/lib?mapping?UnderlyingGeneralMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?RestrictedMapping
+constant http://www.gap-system.org/lib?mapping?RestrictedMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?ZeroMapping
+constant http://www.gap-system.org/lib?mapping?ZeroMapping
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsBijective
+constant http://www.gap-system.org/lib?mapping?IsBijective
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st0
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st0
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st1
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st1
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st2
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st2
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st3
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st3
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st4
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st4
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st5
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st5
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st6
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st6
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st7
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st7
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st8
+constant http://www.gap-system.org/lib?mapping?IsCompositionMappingRep_st8
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?PreImagesRange
+constant http://www.gap-system.org/lib?mapping?PreImagesRange
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?PreImageElm
+constant http://www.gap-system.org/lib?mapping?PreImageElm
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?Embedding
+constant http://www.gap-system.org/lib?mapping?Embedding
+Declares http://www.gap-system.org/lib?mapping http://www.gap-system.org/lib?mapping?ImageElm
+constant http://www.gap-system.org/lib?mapping?ImageElm

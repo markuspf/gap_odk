@@ -1,0 +1,13 @@
+theory http://www.gap-system.org/lib?monoid
+HasMeta http://www.gap-system.org/lib?monoid http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?monoid?IsMonoid
+constant http://www.gap-system.org/lib?monoid?IsMonoid
+Includes http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?monoid?AsMonoid
+constant http://www.gap-system.org/lib?monoid?AsMonoid
+Includes http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?monoid?AsSubmonoid
+constant http://www.gap-system.org/lib?monoid?AsSubmonoid
+Declares http://www.gap-system.org/lib?monoid http://www.gap-system.org/lib?monoid?MonoidByGenerators
+constant http://www.gap-system.org/lib?monoid?MonoidByGenerators

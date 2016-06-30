@@ -1,0 +1,121 @@
+theory http://www.gap-system.org/lib?rwspcclt
+HasMeta http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rws
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st0
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st0
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st1
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st1
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st2
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st2
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st3
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st3
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st4
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st4
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st5
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st5
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st6
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st6
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st7
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st7
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st8
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st8
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st9
+constant http://www.gap-system.org/lib?rwspcclt?IsPolycyclicCollector_st9
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?UpdatePolycyclicCollector
+constant http://www.gap-system.org/lib?rwspcclt?UpdatePolycyclicCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?NonTrivialRightHandSides
+constant http://www.gap-system.org/lib?rwspcclt?NonTrivialRightHandSides
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?OutdatePolycyclicCollector
+constant http://www.gap-system.org/lib?rwspcclt?OutdatePolycyclicCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?GetPowerNC
+constant http://www.gap-system.org/lib?rwspcclt?GetPowerNC
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapANA
+constant http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapANA
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st0
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st0
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st1
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st1
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st2
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st2
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st3
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st3
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st4
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st4
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st5
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st5
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st6
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st6
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st7
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st7
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st8
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st8
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st9
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st9
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st10
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerConjugateCollector_st10
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?CombinatorialCollector
+constant http://www.gap-system.org/lib?rwspcclt?CombinatorialCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?GetConjugateNC
+constant http://www.gap-system.org/lib?rwspcclt?GetConjugateNC
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?SingleCollectorByGenerators
+constant http://www.gap-system.org/lib?rwspcclt?SingleCollectorByGenerators
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?SingleCollector
+constant http://www.gap-system.org/lib?rwspcclt?SingleCollector
+Includes http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?RelativeOrders
+constant http://www.gap-system.org/lib?rwspcclt?RelativeOrders
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?CombinatorialCollectorByGenerators
+constant http://www.gap-system.org/lib?rwspcclt?CombinatorialCollectorByGenerators
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st0
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st0
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st1
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st1
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st2
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st2
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st3
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st3
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st4
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st4
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st5
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st5
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st6
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st6
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st7
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st7
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st8
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st8
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st9
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st9
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st10
+constant http://www.gap-system.org/lib?rwspcclt?IsPowerCommutatorCollector_st10
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?CollectWordOrFail
+constant http://www.gap-system.org/lib?rwspcclt?CollectWordOrFail
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?ObjByExponents
+constant http://www.gap-system.org/lib?rwspcclt?ObjByExponents
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?GetCommutatorNC
+constant http://www.gap-system.org/lib?rwspcclt?GetCommutatorNC
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapBNA
+constant http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapBNA
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?CollectWord
+constant http://www.gap-system.org/lib?rwspcclt?CollectWord
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?DeepThoughtCollectorByGenerators
+constant http://www.gap-system.org/lib?rwspcclt?DeepThoughtCollectorByGenerators
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?DeepThoughtCollector
+constant http://www.gap-system.org/lib?rwspcclt?DeepThoughtCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?IsUpToDatePolycyclicCollector
+constant http://www.gap-system.org/lib?rwspcclt?IsUpToDatePolycyclicCollector
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapCBA
+constant http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapCBA
+Declares http://www.gap-system.org/lib?rwspcclt http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapBAN
+constant http://www.gap-system.org/lib?rwspcclt?EvaluateOverlapBAN

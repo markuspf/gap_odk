@@ -1,0 +1,37 @@
+theory http://www.gap-system.org/lib?ctblmono
+HasMeta http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblfuns
+Includes http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsRelativelySM
+constant http://www.gap-system.org/lib?ctblmono?IsRelativelySM
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?TestSubnormallyMonomial
+constant http://www.gap-system.org/lib?ctblmono?TestSubnormallyMonomial
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsPrimitiveCharacter
+constant http://www.gap-system.org/lib?ctblmono?IsPrimitiveCharacter
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?TestRelativelySM
+constant http://www.gap-system.org/lib?ctblmono?TestRelativelySM
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsInducedFromNormalSubgroup
+constant http://www.gap-system.org/lib?ctblmono?IsInducedFromNormalSubgroup
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?TestMonomialQuick
+constant http://www.gap-system.org/lib?ctblmono?TestMonomialQuick
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?TestMonomial
+constant http://www.gap-system.org/lib?ctblmono?TestMonomial
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?Alpha
+constant http://www.gap-system.org/lib?ctblmono?Alpha
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?Delta
+constant http://www.gap-system.org/lib?ctblmono?Delta
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?TestQuasiPrimitive
+constant http://www.gap-system.org/lib?ctblmono?TestQuasiPrimitive
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsMinimalNonmonomial
+constant http://www.gap-system.org/lib?ctblmono?IsMinimalNonmonomial
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsBergerCondition
+constant http://www.gap-system.org/lib?ctblmono?IsBergerCondition
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsMonomialCharacter
+constant http://www.gap-system.org/lib?ctblmono?IsMonomialCharacter
+Includes http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsMonomialNumber
+constant http://www.gap-system.org/lib?ctblmono?IsMonomialNumber
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsQuasiPrimitive
+constant http://www.gap-system.org/lib?ctblmono?IsQuasiPrimitive
+Declares http://www.gap-system.org/lib?ctblmono http://www.gap-system.org/lib?ctblmono?IsSubnormallyMonomial
+constant http://www.gap-system.org/lib?ctblmono?IsSubnormallyMonomial

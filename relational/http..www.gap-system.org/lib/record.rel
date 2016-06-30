@@ -1,0 +1,15 @@
+theory http://www.gap-system.org/lib?record
+HasMeta http://www.gap-system.org/lib?record http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record?IsRecord
+constant http://www.gap-system.org/lib?record?IsRecord
+Includes http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record?RecNames
+constant http://www.gap-system.org/lib?record?RecNames
+Declares http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record?Unbind.
+constant http://www.gap-system.org/lib?record?Unbind.
+Declares http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record?IsBound.
+constant http://www.gap-system.org/lib?record?IsBound.
+Declares http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record?.:=
+constant http://www.gap-system.org/lib?record?.:=
+Declares http://www.gap-system.org/lib?record http://www.gap-system.org/lib?record?.
+constant http://www.gap-system.org/lib?record?.

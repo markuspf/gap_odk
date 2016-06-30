@@ -1,0 +1,60 @@
+theory http://www.gap-system.org/lib?object
+HasMeta http://www.gap-system.org/lib?object http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsCopyable
+constant http://www.gap-system.org/lib?object?IsCopyable
+Includes http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsMutable
+constant http://www.gap-system.org/lib?object?IsMutable
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsMutable_st0
+constant http://www.gap-system.org/lib?object?IsMutable_st0
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?MemoryUsage
+constant http://www.gap-system.org/lib?object?MemoryUsage
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?KnownTruePropertiesOfObject
+constant http://www.gap-system.org/lib?object?KnownTruePropertiesOfObject
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?DisplayString
+constant http://www.gap-system.org/lib?object?DisplayString
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?=
+constant http://www.gap-system.org/lib?object?=
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?Name
+constant http://www.gap-system.org/lib?object?Name
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?ShallowCopy
+constant http://www.gap-system.org/lib?object?ShallowCopy
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?KnownPropertiesOfObject
+constant http://www.gap-system.org/lib?object?KnownPropertiesOfObject
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsInternallyConsistent
+constant http://www.gap-system.org/lib?object?IsInternallyConsistent
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?KnownAttributesOfObject
+constant http://www.gap-system.org/lib?object?KnownAttributesOfObject
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?CategoriesOfObject
+constant http://www.gap-system.org/lib?object?CategoriesOfObject
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?PostMakeImmutable
+constant http://www.gap-system.org/lib?object?PostMakeImmutable
+Includes http://www.gap-system.org/lib?object http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?ObjByExtRep
+constant http://www.gap-system.org/lib?object?ObjByExtRep
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?RepresentationsOfObject
+constant http://www.gap-system.org/lib?object?RepresentationsOfObject
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?Display
+constant http://www.gap-system.org/lib?object?Display
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?ExtRepOfObj
+constant http://www.gap-system.org/lib?object?ExtRepOfObj
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsPackedElementDefaultRep
+constant http://www.gap-system.org/lib?object?IsPackedElementDefaultRep
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsPackedElementDefaultRep_st0
+constant http://www.gap-system.org/lib?object?IsPackedElementDefaultRep_st0
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?in
+constant http://www.gap-system.org/lib?object?in
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?IsImpossible
+constant http://www.gap-system.org/lib?object?IsImpossible
+Includes http://www.gap-system.org/lib?object http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?PrintString
+constant http://www.gap-system.org/lib?object?PrintString
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?PrintObj
+constant http://www.gap-system.org/lib?object?PrintObj
+Includes http://www.gap-system.org/lib?object http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?InfoText
+constant http://www.gap-system.org/lib?object?InfoText
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?String
+constant http://www.gap-system.org/lib?object?String
+Declares http://www.gap-system.org/lib?object http://www.gap-system.org/lib?object?<
+constant http://www.gap-system.org/lib?object?<

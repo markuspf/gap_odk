@@ -1,0 +1,592 @@
+theory http://www.gap-system.org/lib?oprt
+HasMeta http://www.gap-system.org/lib?oprt http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?PermutationOp
+constant http://www.gap-system.org/lib?oprt?PermutationOp
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSet
+constant http://www.gap-system.org/lib?oprt?IsExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSet_st0
+constant http://www.gap-system.org/lib?oprt?IsExternalSet_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSet_st1
+constant http://www.gap-system.org/lib?oprt?IsExternalSet_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSet_st2
+constant http://www.gap-system.org/lib?oprt?IsExternalSet_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSet_st3
+constant http://www.gap-system.org/lib?oprt?IsExternalSet_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSet_st4
+constant http://www.gap-system.org/lib?oprt?IsExternalSet_st4
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?ctblfuns
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsTransitive
+constant http://www.gap-system.org/lib?oprt?IsTransitive
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?RepresentativesMinimalBlocksOp
+constant http://www.gap-system.org/lib?oprt?RepresentativesMinimalBlocksOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?Transitivity
+constant http://www.gap-system.org/lib?oprt?Transitivity
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CanonicalRepresentativeOfExternalSet
+constant http://www.gap-system.org/lib?oprt?CanonicalRepresentativeOfExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?MaximalBlocksOp
+constant http://www.gap-system.org/lib?oprt?MaximalBlocksOp
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?ghom
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st0
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st1
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st2
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st3
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st4
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st5
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st6
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st7
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st8
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st9
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st10
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st11
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st12
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st13
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st14
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st15
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st16
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st17
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st18
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st19
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st20
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphism_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st0
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st1
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st2
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st3
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st4
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st5
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st6
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st7
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st8
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st9
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st10
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st11
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st12
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st13
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st14
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st15
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st16
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st17
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st18
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st19
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st20
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st21
+constant http://www.gap-system.org/lib?oprt?IsBlocksHomomorphism_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st0
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st1
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st2
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st3
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st4
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st5
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st6
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st7
+constant http://www.gap-system.org/lib?oprt?IsExternalSetDefaultRep_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?PermutationCycleOp
+constant http://www.gap-system.org/lib?oprt?PermutationCycleOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st0
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st1
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st2
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st3
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st4
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st5
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st6
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSubset_st7
+constant http://www.gap-system.org/lib?oprt?IsExternalSubset_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st0
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st1
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st2
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st3
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st4
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st5
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st6
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st7
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalOrbit_st8
+constant http://www.gap-system.org/lib?oprt?IsExternalOrbit_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?StabilizerFuncOp
+constant http://www.gap-system.org/lib?oprt?StabilizerFuncOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CycleIndexOp
+constant http://www.gap-system.org/lib?oprt?CycleIndexOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st0
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st1
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st2
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st3
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st4
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st5
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st6
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st7
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st8
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st9
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st10
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st11
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st12
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st13
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st14
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st15
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st16
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st17
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st18
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st19
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st20
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st21
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismSubset_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ActionKernelExternalSet
+constant http://www.gap-system.org/lib?oprt?ActionKernelExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?RepresentativeActionOp
+constant http://www.gap-system.org/lib?oprt?RepresentativeActionOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitOp
+constant http://www.gap-system.org/lib?oprt?OrbitOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st0
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st1
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st2
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st3
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st4
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st5
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st6
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st7
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st8
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st9
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st10
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st11
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st12
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st13
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st14
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st15
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st16
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st17
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st18
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st19
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st20
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st21
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByBase_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?BlocksOp
+constant http://www.gap-system.org/lib?oprt?BlocksOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?RankAction
+constant http://www.gap-system.org/lib?oprt?RankAction
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ExternalOrbitsStabilizers
+constant http://www.gap-system.org/lib?oprt?ExternalOrbitsStabilizers
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CyclesOp
+constant http://www.gap-system.org/lib?oprt?CyclesOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitLengths
+constant http://www.gap-system.org/lib?oprt?OrbitLengths
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsSemiRegular
+constant http://www.gap-system.org/lib?oprt?IsSemiRegular
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st0
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st1
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st2
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st3
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st4
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st5
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st6
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st7
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByActorsRep_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?BlocksAttr
+constant http://www.gap-system.org/lib?oprt?BlocksAttr
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ActingDomain
+constant http://www.gap-system.org/lib?oprt?ActingDomain
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitLengthsDomain
+constant http://www.gap-system.org/lib?oprt?OrbitLengthsDomain
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st0
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st1
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st2
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st3
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st4
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st5
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st6
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st7
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st8
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st9
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st10
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st11
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st12
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st13
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st14
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st15
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st16
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st17
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st18
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st19
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st20
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st21
+constant http://www.gap-system.org/lib?oprt?IsActionHomomorphismByActors_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ExternalOrbitOp
+constant http://www.gap-system.org/lib?oprt?ExternalOrbitOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?FunctionAction
+constant http://www.gap-system.org/lib?oprt?FunctionAction
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CanonicalRepresentativeDeterminatorOfExternalSet
+constant http://www.gap-system.org/lib?oprt?CanonicalRepresentativeDeterminatorOfExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitsDomain
+constant http://www.gap-system.org/lib?oprt?OrbitsDomain
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?RestrictedExternalSet
+constant http://www.gap-system.org/lib?oprt?RestrictedExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?Earns
+constant http://www.gap-system.org/lib?oprt?Earns
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?Orbits
+constant http://www.gap-system.org/lib?oprt?Orbits
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitStabilizerOp
+constant http://www.gap-system.org/lib?oprt?OrbitStabilizerOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?DomainForAction
+constant http://www.gap-system.org/lib?oprt?DomainForAction
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ExternalSet
+constant http://www.gap-system.org/lib?oprt?ExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsRegular
+constant http://www.gap-system.org/lib?oprt?IsRegular
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?StabilizerOfExternalSet
+constant http://www.gap-system.org/lib?oprt?StabilizerOfExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st0
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st1
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st2
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st3
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st4
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st5
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st6
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st7
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st8
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st9
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st10
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st11
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st12
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st13
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st14
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st15
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st16
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st17
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st18
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st19
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st20
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st21
+constant http://www.gap-system.org/lib?oprt?IsProjectiveActionHomomorphism_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?AbelianSubfactorAction
+constant http://www.gap-system.org/lib?oprt?AbelianSubfactorAction
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st0
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st1
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st2
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st3
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st4
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st5
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st6
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st7
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st8
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st9
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st10
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st11
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st12
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st13
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st14
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st15
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st16
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st17
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st18
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st19
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st20
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st21
+constant http://www.gap-system.org/lib?oprt?IsLinearActionHomomorphism_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ActionHomomorphismAttr
+constant http://www.gap-system.org/lib?oprt?ActionHomomorphismAttr
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?LinearActionBasis
+constant http://www.gap-system.org/lib?oprt?LinearActionBasis
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?RepresentativesMinimalBlocksAttr
+constant http://www.gap-system.org/lib?oprt?RepresentativesMinimalBlocksAttr
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CycleLengthOp
+constant http://www.gap-system.org/lib?oprt?CycleLengthOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?SortedSparseActionHomomorphismOp
+constant http://www.gap-system.org/lib?oprt?SortedSparseActionHomomorphismOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CycleOp
+constant http://www.gap-system.org/lib?oprt?CycleOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitLengthOp
+constant http://www.gap-system.org/lib?oprt?OrbitLengthOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CycleLengthsOp
+constant http://www.gap-system.org/lib?oprt?CycleLengthsOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?PreOrbishProcessing
+constant http://www.gap-system.org/lib?oprt?PreOrbishProcessing
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ActorOfExternalSet
+constant http://www.gap-system.org/lib?oprt?ActorOfExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?HomeEnumerator
+constant http://www.gap-system.org/lib?oprt?HomeEnumerator
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ExternalOrbits
+constant http://www.gap-system.org/lib?oprt?ExternalOrbits
+Includes http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?OrbitStabilizerAlgorithm
+constant http://www.gap-system.org/lib?oprt?OrbitStabilizerAlgorithm
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?SparseActionHomomorphismOp
+constant http://www.gap-system.org/lib?oprt?SparseActionHomomorphismOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsPrimitiveAffine
+constant http://www.gap-system.org/lib?oprt?IsPrimitiveAffine
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st0
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st1
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st2
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st3
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st4
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st5
+constant http://www.gap-system.org/lib?oprt?IsExternalSetByPcgs_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st0
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st0
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st1
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st1
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st2
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st2
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st3
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st3
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st4
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st4
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st5
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st5
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st6
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st6
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st7
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st7
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st8
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st8
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st9
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st9
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st10
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st10
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st11
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st11
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st12
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st12
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st13
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st13
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st14
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st14
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st15
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st15
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st16
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st16
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st17
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st17
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st18
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st18
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st19
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st19
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st20
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st20
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st21
+constant http://www.gap-system.org/lib?oprt?IsConstituentHomomorphism_st21
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?SurjectiveActionHomomorphismAttr
+constant http://www.gap-system.org/lib?oprt?SurjectiveActionHomomorphismAttr
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?UnderlyingExternalSet
+constant http://www.gap-system.org/lib?oprt?UnderlyingExternalSet
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?MaximalBlocksAttr
+constant http://www.gap-system.org/lib?oprt?MaximalBlocksAttr
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?ExternalSubsetOp
+constant http://www.gap-system.org/lib?oprt?ExternalSubsetOp
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?IsPrimitive
+constant http://www.gap-system.org/lib?oprt?IsPrimitive
+Declares http://www.gap-system.org/lib?oprt http://www.gap-system.org/lib?oprt?CanEasilyDetermineCanonicalRepresentativeExternalSet
+constant http://www.gap-system.org/lib?oprt?CanEasilyDetermineCanonicalRepresentativeExternalSet

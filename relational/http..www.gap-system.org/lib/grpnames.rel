@@ -1,0 +1,53 @@
+theory http://www.gap-system.org/lib?grpnames
+HasMeta http://www.gap-system.org/lib?grpnames http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?DecompositionTypesOfGroup
+constant http://www.gap-system.org/lib?grpnames?DecompositionTypesOfGroup
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?NormalComplement
+constant http://www.gap-system.org/lib?grpnames?NormalComplement
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?StructureDescription
+constant http://www.gap-system.org/lib?grpnames?StructureDescription
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?IsTrivialNormalIntersection
+constant http://www.gap-system.org/lib?grpnames?IsTrivialNormalIntersection
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?PSLUnderlyingField
+constant http://www.gap-system.org/lib?grpnames?PSLUnderlyingField
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?GLDegree
+constant http://www.gap-system.org/lib?grpnames?GLDegree
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?GLUnderlyingField
+constant http://www.gap-system.org/lib?grpnames?GLUnderlyingField
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?AlternatingDegree
+constant http://www.gap-system.org/lib?grpnames?AlternatingDegree
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?QuaternionGenerators
+constant http://www.gap-system.org/lib?grpnames?QuaternionGenerators
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?NormalComplementNC
+constant http://www.gap-system.org/lib?grpnames?NormalComplementNC
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?IsPSL
+constant http://www.gap-system.org/lib?grpnames?IsPSL
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?PSLDegree
+constant http://www.gap-system.org/lib?grpnames?PSLDegree
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?ParametersOfGroupViewedAsPSL
+constant http://www.gap-system.org/lib?grpnames?ParametersOfGroupViewedAsPSL
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?SemidirectFactorsOfGroup
+constant http://www.gap-system.org/lib?grpnames?SemidirectFactorsOfGroup
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?ParametersOfGroupViewedAsSL
+constant http://www.gap-system.org/lib?grpnames?ParametersOfGroupViewedAsSL
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?SymmetricDegree
+constant http://www.gap-system.org/lib?grpnames?SymmetricDegree
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?IsQuasiDihedralGroup
+constant http://www.gap-system.org/lib?grpnames?IsQuasiDihedralGroup
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?IsQuaternionGroup
+constant http://www.gap-system.org/lib?grpnames?IsQuaternionGroup
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?ParametersOfGroupViewedAsGL
+constant http://www.gap-system.org/lib?grpnames?ParametersOfGroupViewedAsGL
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?DihedralGenerators
+constant http://www.gap-system.org/lib?grpnames?DihedralGenerators
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?IsDihedralGroup
+constant http://www.gap-system.org/lib?grpnames?IsDihedralGroup
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?DirectFactorsOfGroup
+constant http://www.gap-system.org/lib?grpnames?DirectFactorsOfGroup
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?SLUnderlyingField
+constant http://www.gap-system.org/lib?grpnames?SLUnderlyingField
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?SLDegree
+constant http://www.gap-system.org/lib?grpnames?SLDegree
+Declares http://www.gap-system.org/lib?grpnames http://www.gap-system.org/lib?grpnames?QuasiDihedralGenerators
+constant http://www.gap-system.org/lib?grpnames?QuasiDihedralGenerators

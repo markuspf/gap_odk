@@ -1,0 +1,262 @@
+theory http://www.gap-system.org/lib?mapprep
+HasMeta http://www.gap-system.org/lib?mapprep http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st9
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st9
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st10
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st10
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st11
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st11
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st12
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionRep_st12
+Includes http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st9
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st9
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st10
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st10
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st11
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st11
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st12
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st12
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st13
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st13
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st14
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionRep_st14
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsDefaultGeneralMappingRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st9
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st9
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st10
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st10
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st11
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st11
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st12
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st12
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st13
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st13
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st14
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st14
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st15
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st15
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st16
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st16
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st17
+constant http://www.gap-system.org/lib?mapprep?IsMappingByFunctionWithInverseRep_st17
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st9
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st9
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st10
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st10
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st11
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st11
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st12
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st12
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st13
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st13
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st14
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st14
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st15
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st15
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st16
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st16
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st17
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st17
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st18
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st18
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st19
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st19
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st20
+constant http://www.gap-system.org/lib?mapprep?IsSPMappingByFunctionWithInverseRep_st20
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st9
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st9
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st10
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st10
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st11
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st11
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st12
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st12
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st13
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st13
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st14
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionRep_st14
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st7
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st8
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st8
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st9
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st9
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st10
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st10
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st11
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st11
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st12
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st12
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st13
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st13
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st14
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st14
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st15
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st15
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st16
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st16
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st17
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st17
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st18
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st18
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st19
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st19
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st20
+constant http://www.gap-system.org/lib?mapprep?IsNonSPMappingByFunctionWithInverseRep_st20
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st0
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st0
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st1
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st1
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st2
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st2
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st3
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st3
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st4
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st4
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st5
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st5
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st6
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st6
+Declares http://www.gap-system.org/lib?mapprep http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st7
+constant http://www.gap-system.org/lib?mapprep?IsInverseGeneralMappingRep_st7

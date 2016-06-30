@@ -1,0 +1,36 @@
+theory http://www.gap-system.org/lib?mat8bit
+HasMeta http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st0
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st0
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st1
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st1
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st2
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st2
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st3
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st3
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st4
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st4
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st5
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st5
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st6
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st6
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st7
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st7
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st8
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st8
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st9
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st9
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st10
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st10
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st11
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st11
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st12
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st12
+Declares http://www.gap-system.org/lib?mat8bit http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st13
+constant http://www.gap-system.org/lib?mat8bit?Is8BitMatrixRep_st13

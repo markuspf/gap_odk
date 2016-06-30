@@ -1,0 +1,7 @@
+theory http://www.gap-system.org/lib?polyrat
+HasMeta http://www.gap-system.org/lib?polyrat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?polyrat http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?polyrat http://www.gap-system.org/lib?polyrat?PrimitivePolynomial
+constant http://www.gap-system.org/lib?polyrat?PrimitivePolynomial
+Declares http://www.gap-system.org/lib?polyrat http://www.gap-system.org/lib?polyrat?MinimizedBombieriNorm
+constant http://www.gap-system.org/lib?polyrat?MinimizedBombieriNorm

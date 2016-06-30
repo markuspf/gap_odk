@@ -1,0 +1,28 @@
+theory http://www.gap-system.org/lib?pcgsspec
+HasMeta http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?LGLength
+constant http://www.gap-system.org/lib?pcgsspec?LGLength
+Includes http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?IsInducedPcgsWrtSpecialPcgs
+constant http://www.gap-system.org/lib?pcgsspec?IsInducedPcgsWrtSpecialPcgs
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?SpecialPcgs
+constant http://www.gap-system.org/lib?pcgsspec?SpecialPcgs
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?IsCanonicalPcgsWrtSpecialPcgs
+constant http://www.gap-system.org/lib?pcgsspec?IsCanonicalPcgsWrtSpecialPcgs
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?LGWeights
+constant http://www.gap-system.org/lib?pcgsspec?LGWeights
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?LGTails
+constant http://www.gap-system.org/lib?pcgsspec?LGTails
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?LGLayers
+constant http://www.gap-system.org/lib?pcgsspec?LGLayers
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?LGFirst
+constant http://www.gap-system.org/lib?pcgsspec?LGFirst
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?LGHeads
+constant http://www.gap-system.org/lib?pcgsspec?LGHeads
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?InducedPcgsWrtSpecialPcgs
+constant http://www.gap-system.org/lib?pcgsspec?InducedPcgsWrtSpecialPcgs
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?IsSpecialPcgs
+constant http://www.gap-system.org/lib?pcgsspec?IsSpecialPcgs
+Declares http://www.gap-system.org/lib?pcgsspec http://www.gap-system.org/lib?pcgsspec?CanonicalPcgsWrtSpecialPcgs
+constant http://www.gap-system.org/lib?pcgsspec?CanonicalPcgsWrtSpecialPcgs

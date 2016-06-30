@@ -1,0 +1,12 @@
+theory http://www.gap-system.org/lib?obsolete
+HasMeta http://www.gap-system.org/lib?obsolete http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?obsolete http://www.gap-system.org/lib?obsolete?TeXObj
+constant http://www.gap-system.org/lib?obsolete?TeXObj
+Includes http://www.gap-system.org/lib?obsolete http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?obsolete http://www.gap-system.org/lib?obsolete?PositionFirstComponent
+constant http://www.gap-system.org/lib?obsolete?PositionFirstComponent
+Includes http://www.gap-system.org/lib?obsolete http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?obsolete http://www.gap-system.org/lib?obsolete?ShrinkCoeffs
+constant http://www.gap-system.org/lib?obsolete?ShrinkCoeffs
+Declares http://www.gap-system.org/lib?obsolete http://www.gap-system.org/lib?obsolete?LaTeXObj
+constant http://www.gap-system.org/lib?obsolete?LaTeXObj

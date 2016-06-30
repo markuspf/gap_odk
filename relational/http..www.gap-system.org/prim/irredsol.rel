@@ -1,0 +1,8 @@
+theory http://www.gap-system.org/prim?irredsol
+HasMeta http://www.gap-system.org/prim?irredsol http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/prim?irredsol http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/prim?irredsol http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/prim?irredsol http://www.gap-system.org/prim?irredsol?MinimalBlockDimension
+constant http://www.gap-system.org/prim?irredsol?MinimalBlockDimension
+Declares http://www.gap-system.org/prim?irredsol http://www.gap-system.org/prim?irredsol?IsPrimitiveMatrixGroup
+constant http://www.gap-system.org/prim?irredsol?IsPrimitiveMatrixGroup

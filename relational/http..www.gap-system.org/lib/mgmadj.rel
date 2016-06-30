@@ -1,0 +1,68 @@
+theory http://www.gap-system.org/lib?mgmadj
+HasMeta http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero
+constant http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero_st0
+constant http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero_st0
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero_st1
+constant http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero_st1
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero_st2
+constant http://www.gap-system.org/lib?mgmadj?IsMultiplicativeElementWithZero_st2
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st0
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st0
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st1
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st1
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st2
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st2
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st3
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st3
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st4
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st4
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st5
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoinedElementRep_st5
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?MultiplicativeZero
+constant http://www.gap-system.org/lib?mgmadj?MultiplicativeZero
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMultiplicativeZero
+constant http://www.gap-system.org/lib?mgmadj?IsMultiplicativeZero
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st0
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st0
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st1
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st1
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st2
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st2
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st3
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st3
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st4
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st4
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st5
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st5
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st6
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st6
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st7
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st7
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st8
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st8
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st9
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st9
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st10
+constant http://www.gap-system.org/lib?mgmadj?IsMagmaWithZeroAdjoined_st10
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?UnderlyingInjectionZeroMagma
+constant http://www.gap-system.org/lib?mgmadj?UnderlyingInjectionZeroMagma
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?MagmaWithZeroAdjoined
+constant http://www.gap-system.org/lib?mgmadj?MagmaWithZeroAdjoined
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?InjectionZeroMagma
+constant http://www.gap-system.org/lib?mgmadj?InjectionZeroMagma
+Includes http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?reesmat
+Declares http://www.gap-system.org/lib?mgmadj http://www.gap-system.org/lib?mgmadj?MultiplicativeZeroOp
+constant http://www.gap-system.org/lib?mgmadj?MultiplicativeZeroOp

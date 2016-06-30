@@ -1,0 +1,18 @@
+theory http://www.gap-system.org/lib?info
+HasMeta http://www.gap-system.org/lib?info http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info?IsInfoClass
+constant http://www.gap-system.org/lib?info?IsInfoClass
+Includes http://www.gap-system.org/lib?info http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info
+Declares http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info?IsInfoSelector
+constant http://www.gap-system.org/lib?info?IsInfoSelector
+Includes http://www.gap-system.org/lib?info http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info?IsInfoClassListRep
+constant http://www.gap-system.org/lib?info?IsInfoClassListRep
+Declares http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info?IsInfoClassListRep_st0
+constant http://www.gap-system.org/lib?info?IsInfoClassListRep_st0
+Declares http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info?InfoLevel
+constant http://www.gap-system.org/lib?info?InfoLevel
+Includes http://www.gap-system.org/lib?info http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?info http://www.gap-system.org/lib?info?NewInfoClass
+constant http://www.gap-system.org/lib?info?NewInfoClass

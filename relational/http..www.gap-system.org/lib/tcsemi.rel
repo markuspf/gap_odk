@@ -1,0 +1,5 @@
+theory http://www.gap-system.org/lib?tcsemi
+HasMeta http://www.gap-system.org/lib?tcsemi http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?tcsemi http://www.gap-system.org/lib?mgmcong
+Declares http://www.gap-system.org/lib?tcsemi http://www.gap-system.org/lib?tcsemi?CosetTableOfFpSemigroup
+constant http://www.gap-system.org/lib?tcsemi?CosetTableOfFpSemigroup

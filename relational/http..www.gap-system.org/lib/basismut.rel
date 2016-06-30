@@ -1,0 +1,31 @@
+theory http://www.gap-system.org/lib?basismut
+HasMeta http://www.gap-system.org/lib?basismut http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?IsMutableBasis
+constant http://www.gap-system.org/lib?basismut?IsMutableBasis
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?IsContainedInSpan
+constant http://www.gap-system.org/lib?basismut?IsContainedInSpan
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?NrBasisVectors
+constant http://www.gap-system.org/lib?basismut?NrBasisVectors
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?ImmutableBasis
+constant http://www.gap-system.org/lib?basismut?ImmutableBasis
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?IsMutableBasisViaNiceMutableBasisRep
+constant http://www.gap-system.org/lib?basismut?IsMutableBasisViaNiceMutableBasisRep
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?IsMutableBasisViaNiceMutableBasisRep_st0
+constant http://www.gap-system.org/lib?basismut?IsMutableBasisViaNiceMutableBasisRep_st0
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?CloseMutableBasis
+constant http://www.gap-system.org/lib?basismut?CloseMutableBasis
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?MutableBasis
+constant http://www.gap-system.org/lib?basismut?MutableBasis
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?IsMutableBasisByImmutableBasisRep
+constant http://www.gap-system.org/lib?basismut?IsMutableBasisByImmutableBasisRep
+Declares http://www.gap-system.org/lib?basismut http://www.gap-system.org/lib?basismut?IsMutableBasisByImmutableBasisRep_st0
+constant http://www.gap-system.org/lib?basismut?IsMutableBasisByImmutableBasisRep_st0

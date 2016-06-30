@@ -1,0 +1,131 @@
+theory http://www.gap-system.org/lib?clas
+HasMeta http://www.gap-system.org/lib?clas http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?oprt
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st0
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st0
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st1
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st1
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st2
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st2
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st3
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st3
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st4
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st4
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st5
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st5
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st6
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st6
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st7
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st7
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st8
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st8
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st9
+constant http://www.gap-system.org/lib?clas?IsRationalClassGroupRep_st9
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?DecomposedRationalClass
+constant http://www.gap-system.org/lib?clas?DecomposedRationalClass
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st0
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st0
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st1
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st1
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st2
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st2
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st3
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st3
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st4
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st4
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st5
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st5
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st6
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st6
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st7
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st7
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st8
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st8
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st9
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassGroupRep_st9
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st0
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st0
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st1
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st1
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st2
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st2
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st3
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st3
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st4
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st4
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st5
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st5
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st6
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st6
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st7
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st7
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st8
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st8
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st9
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st9
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st10
+constant http://www.gap-system.org/lib?clas?IsRationalClassPermGroupRep_st10
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st0
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st0
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st1
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st1
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st2
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st2
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st3
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st3
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st4
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st4
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st5
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st5
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st6
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st6
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st7
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st7
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st8
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st8
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st9
+constant http://www.gap-system.org/lib?clas?IsExternalOrbitByStabilizerRep_st9
+Includes http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?ConjugacyClass
+constant http://www.gap-system.org/lib?clas?ConjugacyClass
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?RationalClass
+constant http://www.gap-system.org/lib?clas?RationalClass
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st0
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st0
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st1
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st1
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st2
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st2
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st3
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st3
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st4
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st4
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st5
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st5
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st6
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st6
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st7
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st7
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st8
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st8
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st9
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st9
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st10
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st10
+Declares http://www.gap-system.org/lib?clas http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st11
+constant http://www.gap-system.org/lib?clas?IsConjugacyClassPermGroupRep_st11

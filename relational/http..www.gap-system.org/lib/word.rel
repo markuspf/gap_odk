@@ -1,0 +1,72 @@
+theory http://www.gap-system.org/lib?word
+HasMeta http://www.gap-system.org/lib?word http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?word http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsWord
+constant http://www.gap-system.org/lib?word?IsWord
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsWord_st0
+constant http://www.gap-system.org/lib?word?IsWord_st0
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsWord_st1
+constant http://www.gap-system.org/lib?word?IsWord_st1
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsWord_st2
+constant http://www.gap-system.org/lib?word?IsWord_st2
+Includes http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsWordWithOne
+constant http://www.gap-system.org/lib?word?IsWordWithOne
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWord
+constant http://www.gap-system.org/lib?word?IsNonassocWord
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWord_st0
+constant http://www.gap-system.org/lib?word?IsNonassocWord_st0
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWord_st1
+constant http://www.gap-system.org/lib?word?IsNonassocWord_st1
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWord_st2
+constant http://www.gap-system.org/lib?word?IsNonassocWord_st2
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWord_st3
+constant http://www.gap-system.org/lib?word?IsNonassocWord_st3
+Includes http://www.gap-system.org/lib?word http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily_st0
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily_st0
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily_st1
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily_st1
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily_st2
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneFamily_st2
+Includes http://www.gap-system.org/lib?word http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?MappedWord
+constant http://www.gap-system.org/lib?word?MappedWord
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOne
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOne
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsBracketRep
+constant http://www.gap-system.org/lib?word?IsBracketRep
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsBracketRep_st0
+constant http://www.gap-system.org/lib?word?IsBracketRep_st0
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsWordWithInverse
+constant http://www.gap-system.org/lib?word?IsWordWithInverse
+Includes http://www.gap-system.org/lib?word http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsFreeMagma
+constant http://www.gap-system.org/lib?word?IsFreeMagma
+Includes http://www.gap-system.org/lib?word http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st0
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st0
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st1
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st1
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st2
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st2
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st3
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st3
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st4
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st4
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st5
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st5
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st6
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st6
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st7
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st7
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st8
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st8
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st9
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st9
+Declares http://www.gap-system.org/lib?word http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st10
+constant http://www.gap-system.org/lib?word?IsNonassocWordWithOneCollection_st10

@@ -1,0 +1,80 @@
+theory http://www.gap-system.org/lib?mapphomo
+HasMeta http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsMultiplication
+constant http://www.gap-system.org/lib?mapphomo?RespectsMultiplication
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsOne
+constant http://www.gap-system.org/lib?mapphomo?RespectsOne
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsAddition
+constant http://www.gap-system.org/lib?mapphomo?RespectsAddition
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsAdditiveInverses
+constant http://www.gap-system.org/lib?mapphomo?RespectsAdditiveInverses
+Includes http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsRingWithOneHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsRingWithOneHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsInverses
+constant http://www.gap-system.org/lib?mapphomo?RespectsInverses
+Includes http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsLinearMapping
+constant http://www.gap-system.org/lib?mapphomo?IsLinearMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsScalarMultiplication
+constant http://www.gap-system.org/lib?mapphomo?RespectsScalarMultiplication
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?RespectsZero
+constant http://www.gap-system.org/lib?mapphomo?RespectsZero
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?TransformsInversesIntoAdditiveInverses
+constant http://www.gap-system.org/lib?mapphomo?TransformsInversesIntoAdditiveInverses
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsGroupHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsGroupHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?TransformsMultiplicationIntoAddition
+constant http://www.gap-system.org/lib?mapphomo?TransformsMultiplicationIntoAddition
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?TransformsAdditionIntoMultiplication
+constant http://www.gap-system.org/lib?mapphomo?TransformsAdditionIntoMultiplication
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?TransformsAdditiveInversesIntoInverses
+constant http://www.gap-system.org/lib?mapphomo?TransformsAdditiveInversesIntoInverses
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupToGroupGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupToGroupGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsGroupToAdditiveGroupGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsGroupToAdditiveGroupGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?CoKernelOfMultiplicativeGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?CoKernelOfMultiplicativeGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?KernelOfAdditiveGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?KernelOfAdditiveGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsFieldHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsFieldHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsRingWithOneGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsRingWithOneGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAlgebraGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsAlgebraGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsRingHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsRingHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?TransformsZeroIntoOne
+constant http://www.gap-system.org/lib?mapphomo?TransformsZeroIntoOne
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsRingGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsRingGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupToGroupHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupToGroupHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?TranformsOneIntoZero
+constant http://www.gap-system.org/lib?mapphomo?TranformsOneIntoZero
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAlgebraHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsAlgebraHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsGroupToAdditiveGroupHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsGroupToAdditiveGroupHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?KernelOfMultiplicativeGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?KernelOfMultiplicativeGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAlgebraWithOneGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsAlgebraWithOneGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsLeftModuleHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsLeftModuleHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsGroupGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsGroupGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAlgebraWithOneHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsAlgebraWithOneHomomorphism
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsLeftModuleGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsLeftModuleGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?CoKernelOfAdditiveGeneralMapping
+constant http://www.gap-system.org/lib?mapphomo?CoKernelOfAdditiveGeneralMapping
+Declares http://www.gap-system.org/lib?mapphomo http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupHomomorphism
+constant http://www.gap-system.org/lib?mapphomo?IsAdditiveGroupHomomorphism

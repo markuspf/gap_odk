@@ -1,0 +1,181 @@
+theory http://www.gap-system.org/lib?dict
+HasMeta http://www.gap-system.org/lib?dict http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionary
+constant http://www.gap-system.org/lib?dict?IsDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsDictionary_st1
+Includes http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?AddDictionary
+constant http://www.gap-system.org/lib?dict?AddDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?KnowsDictionary
+constant http://www.gap-system.org/lib?dict?KnowsDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsLookupDictionary
+constant http://www.gap-system.org/lib?dict?IsLookupDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsLookupDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsLookupDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsLookupDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsLookupDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsLookupDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsLookupDictionary_st2
+Includes http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep
+constant http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st0
+constant http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st1
+constant http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st2
+constant http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st3
+constant http://www.gap-system.org/lib?dict?IsDictionaryDefaultRep_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListDictionary
+constant http://www.gap-system.org/lib?dict?IsListDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsListDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsListDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsListDictionary_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListDictionary_st3
+constant http://www.gap-system.org/lib?dict?IsListDictionary_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListDictionary_st4
+constant http://www.gap-system.org/lib?dict?IsListDictionary_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st3
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st4
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st5
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st5
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsListLookupDictionary_st6
+constant http://www.gap-system.org/lib?dict?IsListLookupDictionary_st6
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary
+constant http://www.gap-system.org/lib?dict?IsSortDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsSortDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsSortDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsSortDictionary_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary_st3
+constant http://www.gap-system.org/lib?dict?IsSortDictionary_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary_st4
+constant http://www.gap-system.org/lib?dict?IsSortDictionary_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortDictionary_st5
+constant http://www.gap-system.org/lib?dict?IsSortDictionary_st5
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st3
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st4
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st5
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st5
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st6
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st6
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st7
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st7
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st8
+constant http://www.gap-system.org/lib?dict?IsSortLookupDictionary_st8
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?SparseIntKey
+constant http://www.gap-system.org/lib?dict?SparseIntKey
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?ListKeyEnumerator
+constant http://www.gap-system.org/lib?dict?ListKeyEnumerator
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionDictionary
+constant http://www.gap-system.org/lib?dict?IsPositionDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsPositionDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsPositionDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsPositionDictionary_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionDictionary_st3
+constant http://www.gap-system.org/lib?dict?IsPositionDictionary_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionDictionary_st4
+constant http://www.gap-system.org/lib?dict?IsPositionDictionary_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsHash
+constant http://www.gap-system.org/lib?dict?IsHash
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsHash_st0
+constant http://www.gap-system.org/lib?dict?IsHash_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsHash_st1
+constant http://www.gap-system.org/lib?dict?IsHash_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsHash_st2
+constant http://www.gap-system.org/lib?dict?IsHash_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsHash_st3
+constant http://www.gap-system.org/lib?dict?IsHash_st3
+Includes http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?PrintHashWithNames
+constant http://www.gap-system.org/lib?dict?PrintHashWithNames
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?GetHashEntryAtLastIndex
+constant http://www.gap-system.org/lib?dict?GetHashEntryAtLastIndex
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?DenseIntKey
+constant http://www.gap-system.org/lib?dict?DenseIntKey
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep_st0
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep_st1
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep_st2
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep_st3
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep_st4
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsDenseHashRep_st5
+constant http://www.gap-system.org/lib?dict?IsDenseHashRep_st5
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?RemoveDictionary
+constant http://www.gap-system.org/lib?dict?RemoveDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?RandomHashKey
+constant http://www.gap-system.org/lib?dict?RandomHashKey
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st0
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st1
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st2
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st3
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st4
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st5
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st5
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st6
+constant http://www.gap-system.org/lib?dict?IsPositionLookupDictionary_st6
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep_st0
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep_st0
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep_st1
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep_st1
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep_st2
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep_st2
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep_st3
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep_st3
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep_st4
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep_st4
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?IsSparseHashRep_st5
+constant http://www.gap-system.org/lib?dict?IsSparseHashRep_st5
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?TableHasIntKeyFun
+constant http://www.gap-system.org/lib?dict?TableHasIntKeyFun
+Declares http://www.gap-system.org/lib?dict http://www.gap-system.org/lib?dict?LookupDictionary
+constant http://www.gap-system.org/lib?dict?LookupDictionary

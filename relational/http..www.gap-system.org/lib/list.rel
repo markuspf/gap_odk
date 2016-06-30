@@ -1,0 +1,268 @@
+theory http://www.gap-system.org/lib?list
+HasMeta http://www.gap-system.org/lib?list http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsDuplicateFree
+constant http://www.gap-system.org/lib?list?IsDuplicateFree
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsList
+constant http://www.gap-system.org/lib?list?IsList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsList_st0
+constant http://www.gap-system.org/lib?list?IsList_st0
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsDenseList
+constant http://www.gap-system.org/lib?list?IsDenseList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsDenseList_st0
+constant http://www.gap-system.org/lib?list?IsDenseList_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsDenseList_st1
+constant http://www.gap-system.org/lib?list?IsDenseList_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsHomogeneousList
+constant http://www.gap-system.org/lib?list?IsHomogeneousList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsHomogeneousList_st0
+constant http://www.gap-system.org/lib?list?IsHomogeneousList_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsHomogeneousList_st1
+constant http://www.gap-system.org/lib?list?IsHomogeneousList_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsHomogeneousList_st2
+constant http://www.gap-system.org/lib?list?IsHomogeneousList_st2
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsConstantTimeAccessList
+constant http://www.gap-system.org/lib?list?IsConstantTimeAccessList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsConstantTimeAccessList_st0
+constant http://www.gap-system.org/lib?list?IsConstantTimeAccessList_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsConstantTimeAccessList_st1
+constant http://www.gap-system.org/lib?list?IsConstantTimeAccessList_st1
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Shuffle
+constant http://www.gap-system.org/lib?list?Shuffle
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsSmallList
+constant http://www.gap-system.org/lib?list?IsSmallList
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?function
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionSortedOp
+constant http://www.gap-system.org/lib?list?PositionSortedOp
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBound[]
+constant http://www.gap-system.org/lib?list?IsBound[]
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsTable
+constant http://www.gap-system.org/lib?list?IsTable
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsTable_st0
+constant http://www.gap-system.org/lib?list?IsTable_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsTable_st1
+constant http://www.gap-system.org/lib?list?IsTable_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsTable_st2
+constant http://www.gap-system.org/lib?list?IsTable_st2
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsTable_st3
+constant http://www.gap-system.org/lib?list?IsTable_st3
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsTable_st4
+constant http://www.gap-system.org/lib?list?IsTable_st4
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsMatchingSublist
+constant http://www.gap-system.org/lib?list?IsMatchingSublist
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsNSortedList
+constant http://www.gap-system.org/lib?list?IsNSortedList
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?permutat
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Permuted
+constant http://www.gap-system.org/lib?list?Permuted
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Position
+constant http://www.gap-system.org/lib?list?Position
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRectangularTable
+constant http://www.gap-system.org/lib?list?IsRectangularTable
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?word
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Length
+constant http://www.gap-system.org/lib?list?Length
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Append
+constant http://www.gap-system.org/lib?list?Append
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Collected
+constant http://www.gap-system.org/lib?list?Collected
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsDuplicateFreeList
+constant http://www.gap-system.org/lib?list?IsDuplicateFreeList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?MaximumList
+constant http://www.gap-system.org/lib?list?MaximumList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Remove
+constant http://www.gap-system.org/lib?list?Remove
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Sort
+constant http://www.gap-system.org/lib?list?Sort
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsSSortedList
+constant http://www.gap-system.org/lib?list?IsSSortedList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsSortedList
+constant http://www.gap-system.org/lib?list?IsSortedList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionsProperty
+constant http://www.gap-system.org/lib?list?PositionsProperty
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?SortingPerm
+constant http://www.gap-system.org/lib?list?SortingPerm
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?SortBy
+constant http://www.gap-system.org/lib?list?SortBy
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?{}:=
+constant http://www.gap-system.org/lib?list?{}:=
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?{}
+constant http://www.gap-system.org/lib?list?{}
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?DuplicateFreeList
+constant http://www.gap-system.org/lib?list?DuplicateFreeList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Unbind[]
+constant http://www.gap-system.org/lib?list?Unbind[]
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Compacted
+constant http://www.gap-system.org/lib?list?Compacted
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionBound
+constant http://www.gap-system.org/lib?list?PositionBound
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsPositionsList
+constant http://www.gap-system.org/lib?list?IsPositionsList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault
+constant http://www.gap-system.org/lib?list?IsListDefault
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st0
+constant http://www.gap-system.org/lib?list?IsListDefault_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st1
+constant http://www.gap-system.org/lib?list?IsListDefault_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st2
+constant http://www.gap-system.org/lib?list?IsListDefault_st2
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st3
+constant http://www.gap-system.org/lib?list?IsListDefault_st3
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st4
+constant http://www.gap-system.org/lib?list?IsListDefault_st4
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st5
+constant http://www.gap-system.org/lib?list?IsListDefault_st5
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st6
+constant http://www.gap-system.org/lib?list?IsListDefault_st6
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st7
+constant http://www.gap-system.org/lib?list?IsListDefault_st7
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsListDefault_st8
+constant http://www.gap-system.org/lib?list?IsListDefault_st8
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionsOp
+constant http://www.gap-system.org/lib?list?PositionsOp
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?ReversedOp
+constant http://www.gap-system.org/lib?list?ReversedOp
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRangeRep
+constant http://www.gap-system.org/lib?list?IsRangeRep
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRangeRep_st0
+constant http://www.gap-system.org/lib?list?IsRangeRep_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsQuickPositionList
+constant http://www.gap-system.org/lib?list?IsQuickPositionList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlistRep
+constant http://www.gap-system.org/lib?list?IsBlistRep
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlistRep_st0
+constant http://www.gap-system.org/lib?list?IsBlistRep_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsPlistRep
+constant http://www.gap-system.org/lib?list?IsPlistRep
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsPlistRep_st0
+constant http://www.gap-system.org/lib?list?IsPlistRep_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsPlistRep_st1
+constant http://www.gap-system.org/lib?list?IsPlistRep_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?[]:=
+constant http://www.gap-system.org/lib?list?[]:=
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Sortex
+constant http://www.gap-system.org/lib?list?Sortex
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?AsDuplicateFreeList
+constant http://www.gap-system.org/lib?list?AsDuplicateFreeList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlist
+constant http://www.gap-system.org/lib?list?IsBlist
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlist_st0
+constant http://www.gap-system.org/lib?list?IsBlist_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlist_st1
+constant http://www.gap-system.org/lib?list?IsBlist_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlist_st2
+constant http://www.gap-system.org/lib?list?IsBlist_st2
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsBlist_st3
+constant http://www.gap-system.org/lib?list?IsBlist_st3
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Elm0List
+constant http://www.gap-system.org/lib?list?Elm0List
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Add
+constant http://www.gap-system.org/lib?list?Add
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?ConstantTimeAccessList
+constant http://www.gap-system.org/lib?list?ConstantTimeAccessList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionCanonical
+constant http://www.gap-system.org/lib?list?PositionCanonical
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Flat
+constant http://www.gap-system.org/lib?list?Flat
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PlainListCopyOp
+constant http://www.gap-system.org/lib?list?PlainListCopyOp
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?Iterated
+constant http://www.gap-system.org/lib?list?Iterated
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?StableSortBy
+constant http://www.gap-system.org/lib?list?StableSortBy
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?DifferenceLists
+constant http://www.gap-system.org/lib?list?DifferenceLists
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?SortParallel
+constant http://www.gap-system.org/lib?list?SortParallel
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?StableSortParallel
+constant http://www.gap-system.org/lib?list?StableSortParallel
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionNonZero
+constant http://www.gap-system.org/lib?list?PositionNonZero
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?semigrp
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange
+constant http://www.gap-system.org/lib?list?IsRange
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st0
+constant http://www.gap-system.org/lib?list?IsRange_st0
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st1
+constant http://www.gap-system.org/lib?list?IsRange_st1
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st2
+constant http://www.gap-system.org/lib?list?IsRange_st2
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st3
+constant http://www.gap-system.org/lib?list?IsRange_st3
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st4
+constant http://www.gap-system.org/lib?list?IsRange_st4
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st5
+constant http://www.gap-system.org/lib?list?IsRange_st5
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st6
+constant http://www.gap-system.org/lib?list?IsRange_st6
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st7
+constant http://www.gap-system.org/lib?list?IsRange_st7
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st8
+constant http://www.gap-system.org/lib?list?IsRange_st8
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st9
+constant http://www.gap-system.org/lib?list?IsRange_st9
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st10
+constant http://www.gap-system.org/lib?list?IsRange_st10
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st11
+constant http://www.gap-system.org/lib?list?IsRange_st11
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st12
+constant http://www.gap-system.org/lib?list?IsRange_st12
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st13
+constant http://www.gap-system.org/lib?list?IsRange_st13
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st14
+constant http://www.gap-system.org/lib?list?IsRange_st14
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st15
+constant http://www.gap-system.org/lib?list?IsRange_st15
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st16
+constant http://www.gap-system.org/lib?list?IsRange_st16
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st17
+constant http://www.gap-system.org/lib?list?IsRange_st17
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st18
+constant http://www.gap-system.org/lib?list?IsRange_st18
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st19
+constant http://www.gap-system.org/lib?list?IsRange_st19
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st20
+constant http://www.gap-system.org/lib?list?IsRange_st20
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st21
+constant http://www.gap-system.org/lib?list?IsRange_st21
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st22
+constant http://www.gap-system.org/lib?list?IsRange_st22
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st23
+constant http://www.gap-system.org/lib?list?IsRange_st23
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st24
+constant http://www.gap-system.org/lib?list?IsRange_st24
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st25
+constant http://www.gap-system.org/lib?list?IsRange_st25
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st26
+constant http://www.gap-system.org/lib?list?IsRange_st26
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st27
+constant http://www.gap-system.org/lib?list?IsRange_st27
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsRange_st28
+constant http://www.gap-system.org/lib?list?IsRange_st28
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?IsDuplicateFreeCollection
+constant http://www.gap-system.org/lib?list?IsDuplicateFreeCollection
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionNot
+constant http://www.gap-system.org/lib?list?PositionNot
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?MinimumList
+constant http://www.gap-system.org/lib?list?MinimumList
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionNthOccurrence
+constant http://www.gap-system.org/lib?list?PositionNthOccurrence
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?FirstOp
+constant http://www.gap-system.org/lib?list?FirstOp
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionProperty
+constant http://www.gap-system.org/lib?list?PositionProperty
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?PositionSublist
+constant http://www.gap-system.org/lib?list?PositionSublist
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?StableSort
+constant http://www.gap-system.org/lib?list?StableSort
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?AsPlist
+constant http://www.gap-system.org/lib?list?AsPlist
+Includes http://www.gap-system.org/lib?list http://www.gap-system.org/lib?reesmat
+Declares http://www.gap-system.org/lib?list http://www.gap-system.org/lib?list?[]
+constant http://www.gap-system.org/lib?list?[]

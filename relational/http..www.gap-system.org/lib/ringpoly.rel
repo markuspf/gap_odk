@@ -1,0 +1,415 @@
+theory http://www.gap-system.org/lib?ringpoly
+HasMeta http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?PolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?PolynomialRing
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st0
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st1
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st2
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st3
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st4
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st5
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st6
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st7
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st8
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st9
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st10
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st11
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st12
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st13
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st14
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st15
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st16
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st17
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st18
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st19
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st20
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st21
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st22
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st23
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st24
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st25
+constant http://www.gap-system.org/lib?ringpoly?IsPolynomialRing_st25
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st0
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st1
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st2
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st3
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st4
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st5
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st6
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st7
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st8
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st9
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st10
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st11
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st12
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st13
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st14
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st15
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st16
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st17
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st18
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st19
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st20
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st21
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st22
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st23
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st24
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st25
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st25
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st26
+constant http://www.gap-system.org/lib?ringpoly?IsAlgebraicExtensionPolynomialRing_st26
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st0
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st1
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st2
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st3
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st4
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st5
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st6
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st7
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st8
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st9
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st10
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st11
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st12
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st13
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st14
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st15
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st16
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st17
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st18
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st19
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st20
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st21
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st22
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st23
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st24
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFunctionField_st25
+constant http://www.gap-system.org/lib?ringpoly?IsFunctionField_st25
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st0
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st1
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st2
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st3
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st4
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st5
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st6
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st7
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st8
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st9
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st10
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st11
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st12
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st13
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st14
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st15
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st16
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st17
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st18
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st19
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st20
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st21
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st22
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st23
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st24
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st25
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st25
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st26
+constant http://www.gap-system.org/lib?ringpoly?IsFiniteFieldPolynomialRing_st26
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st0
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st1
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st2
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st3
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st4
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st5
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st6
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st7
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st8
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st9
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st10
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st11
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st12
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st13
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st14
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st15
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st16
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st17
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st18
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st19
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st20
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st21
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st22
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st23
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st24
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st25
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st25
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st26
+constant http://www.gap-system.org/lib?ringpoly?IsUnivariatePolynomialRing_st26
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IndeterminatesOfPolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IndeterminatesOfPolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st0
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st1
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st2
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st3
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st4
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st5
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st6
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st7
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st8
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st9
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st10
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st11
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st12
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st13
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st14
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st15
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st16
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st17
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st18
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st19
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st20
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st21
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st22
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st23
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st24
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st25
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st25
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st26
+constant http://www.gap-system.org/lib?ringpoly?IsAbelianNumberFieldPolynomialRing_st26
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st0
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st0
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st1
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st1
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st2
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st2
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st3
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st3
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st4
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st4
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st5
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st5
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st6
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st6
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st7
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st7
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st8
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st8
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st9
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st9
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st10
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st10
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st11
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st11
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st12
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st12
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st13
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st13
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st14
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st14
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st15
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st15
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st16
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st16
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st17
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st17
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st18
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st18
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st19
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st19
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st20
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st20
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st21
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st21
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st22
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st22
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st23
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st23
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st24
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st24
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st25
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st25
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st26
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st26
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st27
+constant http://www.gap-system.org/lib?ringpoly?IsRationalsPolynomialRing_st27
+Includes http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?MinimalPolynomial
+constant http://www.gap-system.org/lib?ringpoly?MinimalPolynomial
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?UnivariatePolynomialRing
+constant http://www.gap-system.org/lib?ringpoly?UnivariatePolynomialRing
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?Indeterminate
+constant http://www.gap-system.org/lib?ringpoly?Indeterminate
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?FunctionField
+constant http://www.gap-system.org/lib?ringpoly?FunctionField
+Declares http://www.gap-system.org/lib?ringpoly http://www.gap-system.org/lib?ringpoly?CoefficientsRing
+constant http://www.gap-system.org/lib?ringpoly?CoefficientsRing

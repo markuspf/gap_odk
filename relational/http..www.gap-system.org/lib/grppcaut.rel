@@ -1,0 +1,5 @@
+theory http://www.gap-system.org/lib?grppcaut
+HasMeta http://www.gap-system.org/lib?grppcaut http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grppcaut http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grppcaut http://www.gap-system.org/lib?grppcaut?IsFrattiniFree
+constant http://www.gap-system.org/lib?grppcaut?IsFrattiniFree

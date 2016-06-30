@@ -1,0 +1,78 @@
+theory http://www.gap-system.org/lib?pperm
+HasMeta http://www.gap-system.org/lib?pperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm_st0
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm_st0
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm_st1
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm_st1
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm_st2
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm_st2
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm_st3
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm_st3
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm_st4
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm_st4
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPartialPerm_st5
+constant http://www.gap-system.org/lib?pperm?IsPartialPerm_st5
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?FixedPointsOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?FixedPointsOfPartialPerm
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPPerm2Rep
+constant http://www.gap-system.org/lib?pperm?IsPPerm2Rep
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPPerm2Rep_st0
+constant http://www.gap-system.org/lib?pperm?IsPPerm2Rep_st0
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?function
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?PartialPermOpNC
+constant http://www.gap-system.org/lib?pperm?PartialPermOpNC
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?RestrictedPartialPerm
+constant http://www.gap-system.org/lib?pperm?RestrictedPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?PermLeftQuoPartialPermNC
+constant http://www.gap-system.org/lib?pperm?PermLeftQuoPartialPermNC
+Includes http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?ComponentPartialPermInt
+constant http://www.gap-system.org/lib?pperm?ComponentPartialPermInt
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?AsPartialPerm
+constant http://www.gap-system.org/lib?pperm?AsPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?ComponentRepsOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?ComponentRepsOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?NrFixedPoints
+constant http://www.gap-system.org/lib?pperm?NrFixedPoints
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?TrimPartialPerm
+constant http://www.gap-system.org/lib?pperm?TrimPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?DomainOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?DomainOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IndexPeriodOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?IndexPeriodOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?PartialPermOp
+constant http://www.gap-system.org/lib?pperm?PartialPermOp
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?PermLeftQuoPartialPerm
+constant http://www.gap-system.org/lib?pperm?PermLeftQuoPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?ImageSetOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?ImageSetOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?CodegreeOfPartialPermCollection
+constant http://www.gap-system.org/lib?pperm?CodegreeOfPartialPermCollection
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?RankOfPartialPermCollection
+constant http://www.gap-system.org/lib?pperm?RankOfPartialPermCollection
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?ComponentsOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?ComponentsOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?DomainOfPartialPermCollection
+constant http://www.gap-system.org/lib?pperm?DomainOfPartialPermCollection
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPPerm4Rep
+constant http://www.gap-system.org/lib?pperm?IsPPerm4Rep
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?IsPPerm4Rep_st0
+constant http://www.gap-system.org/lib?pperm?IsPPerm4Rep_st0
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?NrComponentsOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?NrComponentsOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?ImageOfPartialPermCollection
+constant http://www.gap-system.org/lib?pperm?ImageOfPartialPermCollection
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?ImageListOfPartialPerm
+constant http://www.gap-system.org/lib?pperm?ImageListOfPartialPerm
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?DegreeOfPartialPermCollection
+constant http://www.gap-system.org/lib?pperm?DegreeOfPartialPermCollection
+Declares http://www.gap-system.org/lib?pperm http://www.gap-system.org/lib?pperm?PreImagePartialPerm
+constant http://www.gap-system.org/lib?pperm?PreImagePartialPerm

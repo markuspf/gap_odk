@@ -1,0 +1,80 @@
+theory http://www.gap-system.org/lib?tuples
+HasMeta http://www.gap-system.org/lib?tuples http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?DirectProductElementsFamily
+constant http://www.gap-system.org/lib?tuples?DirectProductElementsFamily
+Includes http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?DirectProductElement
+constant http://www.gap-system.org/lib?tuples?DirectProductElement
+Includes http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st0
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st0
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st1
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st1
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st2
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st2
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st3
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st3
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st4
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st4
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st5
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st5
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st6
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st6
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st7
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st7
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st8
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st8
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st9
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st9
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st10
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st10
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st11
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st11
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st12
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st12
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDirectProductElement_st13
+constant http://www.gap-system.org/lib?tuples?IsDirectProductElement_st13
+Includes http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?ComponentsOfDirectProductElementsFamily
+constant http://www.gap-system.org/lib?tuples?ComponentsOfDirectProductElementsFamily
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?DirectProductElementNC
+constant http://www.gap-system.org/lib?tuples?DirectProductElementNC
+Includes http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st0
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st0
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st1
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st1
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st2
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st2
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st3
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st3
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st4
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st4
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st5
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st5
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st6
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st6
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st7
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st7
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st8
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st8
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st9
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st9
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st10
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st10
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st11
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st11
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st12
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st12
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st13
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st13
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st14
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st14
+Declares http://www.gap-system.org/lib?tuples http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st15
+constant http://www.gap-system.org/lib?tuples?IsDefaultDirectProductElementRep_st15

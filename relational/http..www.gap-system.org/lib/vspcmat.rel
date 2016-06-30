@@ -1,0 +1,13 @@
+theory http://www.gap-system.org/lib?vspcmat
+HasMeta http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/lib?vspcmat?IsSemiEchelonBasisOfGaussianMatrixSpaceRep
+constant http://www.gap-system.org/lib?vspcmat?IsSemiEchelonBasisOfGaussianMatrixSpaceRep
+Declares http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/lib?vspcmat?IsSemiEchelonBasisOfGaussianMatrixSpaceRep_st0
+constant http://www.gap-system.org/lib?vspcmat?IsSemiEchelonBasisOfGaussianMatrixSpaceRep_st0
+Declares http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/lib?vspcmat?IsSemiEchelonBasisOfGaussianMatrixSpaceRep_st1
+constant http://www.gap-system.org/lib?vspcmat?IsSemiEchelonBasisOfGaussianMatrixSpaceRep_st1
+Declares http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/lib?vspcmat?IsMutableBasisOfGaussianMatrixSpaceRep
+constant http://www.gap-system.org/lib?vspcmat?IsMutableBasisOfGaussianMatrixSpaceRep
+Declares http://www.gap-system.org/lib?vspcmat http://www.gap-system.org/lib?vspcmat?IsMutableBasisOfGaussianMatrixSpaceRep_st0
+constant http://www.gap-system.org/lib?vspcmat?IsMutableBasisOfGaussianMatrixSpaceRep_st0

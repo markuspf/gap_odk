@@ -1,0 +1,320 @@
+theory http://www.gap-system.org/lib?algrep
+HasMeta http://www.gap-system.org/lib?algrep http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?addmagma
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModule
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModule
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?ModuleByRestriction
+constant http://www.gap-system.org/lib?algrep?ModuleByRestriction
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st0
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st1
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st2
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st3
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st4
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st5
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElement_st6
+constant http://www.gap-system.org/lib?algrep?IsMonomialElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?ConvertToNormalFormMonomialElement
+constant http://www.gap-system.org/lib?algrep?ConvertToNormalFormMonomialElement
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?ExteriorPowerOfAlgebraModule
+constant http://www.gap-system.org/lib?algrep?ExteriorPowerOfAlgebraModule
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st0
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st1
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st2
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st3
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st4
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st5
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st6
+constant http://www.gap-system.org/lib?algrep?IsBasisOfAlgebraModuleElementSpace_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?MatrixOfAction
+constant http://www.gap-system.org/lib?algrep?MatrixOfAction
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModule
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st0
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st1
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st2
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st3
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st4
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st5
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st6
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsWedgeElement_st7
+constant http://www.gap-system.org/lib?algrep?IsWedgeElement_st7
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st0
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st1
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st2
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st3
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st4
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st5
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st6
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st7
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st7
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st8
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st8
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st9
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st9
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st10
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st10
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st11
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st11
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st12
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st12
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st13
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st13
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st14
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st14
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st15
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st15
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st16
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st16
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st17
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st17
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st18
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st18
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st19
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st19
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st20
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st20
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st21
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st21
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st22
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st22
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st23
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st23
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st24
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st24
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st25
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElementsSpace_st25
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?SymmetricPowerOfAlgebraModule
+constant http://www.gap-system.org/lib?algrep?SymmetricPowerOfAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?NaturalHomomorphismBySubAlgebraModule
+constant http://www.gap-system.org/lib?algrep?NaturalHomomorphismBySubAlgebraModule
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?RightAlgebraModuleByGenerators
+constant http://www.gap-system.org/lib?algrep?RightAlgebraModuleByGenerators
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?LeftActingAlgebra
+constant http://www.gap-system.org/lib?algrep?LeftActingAlgebra
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfMonomialSpaceRep
+constant http://www.gap-system.org/lib?algrep?IsBasisOfMonomialSpaceRep
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfMonomialSpaceRep_st0
+constant http://www.gap-system.org/lib?algrep?IsBasisOfMonomialSpaceRep_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st0
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st1
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st2
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st3
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st4
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st5
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st6
+constant http://www.gap-system.org/lib?algrep?IsSparseRowSpaceElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?DirectSumOfAlgebraModules
+constant http://www.gap-system.org/lib?algrep?DirectSumOfAlgebraModules
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?GeneratorsOfAlgebraModule
+constant http://www.gap-system.org/lib?algrep?GeneratorsOfAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMutableBasisViaUnderlyingMutableBasisRep
+constant http://www.gap-system.org/lib?algrep?IsMutableBasisViaUnderlyingMutableBasisRep
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMutableBasisViaUnderlyingMutableBasisRep_st0
+constant http://www.gap-system.org/lib?algrep?IsMutableBasisViaUnderlyingMutableBasisRep_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?LeftAlgebraModuleByGenerators
+constant http://www.gap-system.org/lib?algrep?LeftAlgebraModuleByGenerators
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?TensorProductOfAlgebraModules
+constant http://www.gap-system.org/lib?algrep?TensorProductOfAlgebraModules
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?LeftModuleByHomomorphismToMatAlg
+constant http://www.gap-system.org/lib?algrep?LeftModuleByHomomorphismToMatAlg
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?LeftAlgebraModule
+constant http://www.gap-system.org/lib?algrep?LeftAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?RightAlgebraModule
+constant http://www.gap-system.org/lib?algrep?RightAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?BiAlgebraModuleByGenerators
+constant http://www.gap-system.org/lib?algrep?BiAlgebraModuleByGenerators
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st0
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st1
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st2
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st3
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st4
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st5
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st6
+constant http://www.gap-system.org/lib?algrep?IsAlgebraModuleElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st0
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st1
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st2
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st3
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st4
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st5
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st6
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st7
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModuleElement_st7
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?ActingAlgebra
+constant http://www.gap-system.org/lib?algrep?ActingAlgebra
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?AdjointModule
+constant http://www.gap-system.org/lib?algrep?AdjointModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?TensorProductOp
+constant http://www.gap-system.org/lib?algrep?TensorProductOp
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElementRep
+constant http://www.gap-system.org/lib?algrep?IsMonomialElementRep
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsMonomialElementRep_st0
+constant http://www.gap-system.org/lib?algrep?IsMonomialElementRep_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfSparseRowSpaceRep
+constant http://www.gap-system.org/lib?algrep?IsBasisOfSparseRowSpaceRep
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsBasisOfSparseRowSpaceRep_st0
+constant http://www.gap-system.org/lib?algrep?IsBasisOfSparseRowSpaceRep_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?FullSparseRowSpace
+constant http://www.gap-system.org/lib?algrep?FullSparseRowSpace
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?SubAlgebraModule
+constant http://www.gap-system.org/lib?algrep?SubAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?BiAlgebraModule
+constant http://www.gap-system.org/lib?algrep?BiAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?TranslatorSubalgebra
+constant http://www.gap-system.org/lib?algrep?TranslatorSubalgebra
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?RightModuleByHomomorphismToMatAlg
+constant http://www.gap-system.org/lib?algrep?RightModuleByHomomorphismToMatAlg
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?ExteriorPower
+constant http://www.gap-system.org/lib?algrep?ExteriorPower
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?SymmetricPower
+constant http://www.gap-system.org/lib?algrep?SymmetricPower
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st0
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st1
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st2
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st3
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st4
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st5
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsDirectSumElement_st6
+constant http://www.gap-system.org/lib?algrep?IsDirectSumElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsLeftAlgebraModule
+constant http://www.gap-system.org/lib?algrep?IsLeftAlgebraModule
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?RightActingAlgebra
+constant http://www.gap-system.org/lib?algrep?RightActingAlgebra
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st0
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st1
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st2
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st3
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st4
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st5
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st6
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st7
+constant http://www.gap-system.org/lib?algrep?IsRightAlgebraModuleElement_st7
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st0
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st1
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st2
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st3
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st4
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st5
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st6
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st7
+constant http://www.gap-system.org/lib?algrep?IsSymmetricPowerElement_st7
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement
+constant http://www.gap-system.org/lib?algrep?IsTensorElement
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st0
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st0
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st1
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st1
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st2
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st2
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st3
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st3
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st4
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st4
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st5
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st5
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st6
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st6
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?IsTensorElement_st7
+constant http://www.gap-system.org/lib?algrep?IsTensorElement_st7
+Declares http://www.gap-system.org/lib?algrep http://www.gap-system.org/lib?algrep?FaithfulModule
+constant http://www.gap-system.org/lib?algrep?FaithfulModule

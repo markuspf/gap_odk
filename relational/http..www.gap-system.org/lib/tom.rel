@@ -1,0 +1,110 @@
+theory http://www.gap-system.org/lib?tom
+HasMeta http://www.gap-system.org/lib?tom http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsTableOfMarks
+constant http://www.gap-system.org/lib?tom?IsTableOfMarks
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?ContainingTom
+constant http://www.gap-system.org/lib?tom?ContainingTom
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?FusionCharTableTom
+constant http://www.gap-system.org/lib?tom?FusionCharTableTom
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?CyclicExtensionsTomOp
+constant http://www.gap-system.org/lib?tom?CyclicExtensionsTomOp
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?DerivedSubgroupTom
+constant http://www.gap-system.org/lib?tom?DerivedSubgroupTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?MarksTom
+constant http://www.gap-system.org/lib?tom?MarksTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?NormalizersTom
+constant http://www.gap-system.org/lib?tom?NormalizersTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?LengthsTom
+constant http://www.gap-system.org/lib?tom?LengthsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?StraightLineProgramsTom
+constant http://www.gap-system.org/lib?tom?StraightLineProgramsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?RepresentativeTomByGeneratorsNC
+constant http://www.gap-system.org/lib?tom?RepresentativeTomByGeneratorsNC
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?PermCharsTom
+constant http://www.gap-system.org/lib?tom?PermCharsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?DecomposedFixedPointVector
+constant http://www.gap-system.org/lib?tom?DecomposedFixedPointVector
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?MaximalSubgroupsTom
+constant http://www.gap-system.org/lib?tom?MaximalSubgroupsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IdempotentsTomInfo
+constant http://www.gap-system.org/lib?tom?IdempotentsTomInfo
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?RepresentativeTom
+constant http://www.gap-system.org/lib?tom?RepresentativeTom
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?TableOfMarks
+constant http://www.gap-system.org/lib?tom?TableOfMarks
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsAbelianTom
+constant http://www.gap-system.org/lib?tom?IsAbelianTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsPerfectTom
+constant http://www.gap-system.org/lib?tom?IsPerfectTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?ComputedCyclicExtensionsTom
+constant http://www.gap-system.org/lib?tom?ComputedCyclicExtensionsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsSolvableTom
+constant http://www.gap-system.org/lib?tom?IsSolvableTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?NrSubsTom
+constant http://www.gap-system.org/lib?tom?NrSubsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsTableOfMarksWithGens
+constant http://www.gap-system.org/lib?tom?IsTableOfMarksWithGens
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IntersectionsTom
+constant http://www.gap-system.org/lib?tom?IntersectionsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?ContainedTom
+constant http://www.gap-system.org/lib?tom?ContainedTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?ClassTypesTom
+constant http://www.gap-system.org/lib?tom?ClassTypesTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?OrdersTom
+constant http://www.gap-system.org/lib?tom?OrdersTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?WeightsTom
+constant http://www.gap-system.org/lib?tom?WeightsTom
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?permutat
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?SortedTom
+constant http://www.gap-system.org/lib?tom?SortedTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?ClassNamesTom
+constant http://www.gap-system.org/lib?tom?ClassNamesTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?MinimalSupergroupsTom
+constant http://www.gap-system.org/lib?tom?MinimalSupergroupsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?DerivedSubgroupsTomUnique
+constant http://www.gap-system.org/lib?tom?DerivedSubgroupsTomUnique
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?TableOfMarksDihedral
+constant http://www.gap-system.org/lib?tom?TableOfMarksDihedral
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?CyclicExtensionsTom
+constant http://www.gap-system.org/lib?tom?CyclicExtensionsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?PermutationTom
+constant http://www.gap-system.org/lib?tom?PermutationTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?RepresentativeTomByGenerators
+constant http://www.gap-system.org/lib?tom?RepresentativeTomByGenerators
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsNilpotentTom
+constant http://www.gap-system.org/lib?tom?IsNilpotentTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?MatTom
+constant http://www.gap-system.org/lib?tom?MatTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?SubsTom
+constant http://www.gap-system.org/lib?tom?SubsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?DerivedSubgroupsTomPossible
+constant http://www.gap-system.org/lib?tom?DerivedSubgroupsTomPossible
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?MoebiusTom
+constant http://www.gap-system.org/lib?tom?MoebiusTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?NormalizerTom
+constant http://www.gap-system.org/lib?tom?NormalizerTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?EulerianFunctionByTom
+constant http://www.gap-system.org/lib?tom?EulerianFunctionByTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?TableOfMarksCyclic
+constant http://www.gap-system.org/lib?tom?TableOfMarksCyclic
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?FusionsTom
+constant http://www.gap-system.org/lib?tom?FusionsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IsCyclicTom
+constant http://www.gap-system.org/lib?tom?IsCyclicTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?GeneratorsSubgroupsTom
+constant http://www.gap-system.org/lib?tom?GeneratorsSubgroupsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?TableOfMarksFrobenius
+constant http://www.gap-system.org/lib?tom?TableOfMarksFrobenius
+Includes http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?PossibleFusionsCharTableTom
+constant http://www.gap-system.org/lib?tom?PossibleFusionsCharTableTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?IdempotentsTom
+constant http://www.gap-system.org/lib?tom?IdempotentsTom
+Declares http://www.gap-system.org/lib?tom http://www.gap-system.org/lib?tom?FactorGroupTom
+constant http://www.gap-system.org/lib?tom?FactorGroupTom

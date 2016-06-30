@@ -1,0 +1,72 @@
+theory http://www.gap-system.org/lib?gprd
+HasMeta http://www.gap-system.org/lib?gprd http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?WreathProduct
+constant http://www.gap-system.org/lib?gprd?WreathProduct
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep
+constant http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep_st0
+constant http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep_st0
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep_st1
+constant http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep_st1
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep_st2
+constant http://www.gap-system.org/lib?gprd?IsPcgsDirectProductRep_st2
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?DirectProductInfo
+constant http://www.gap-system.org/lib?gprd?DirectProductInfo
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement_st0
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement_st0
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement_st1
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement_st1
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement_st2
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement_st2
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement_st3
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement_st3
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement_st4
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement_st4
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElement_st5
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElement_st5
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?StandardWreathProduct
+constant http://www.gap-system.org/lib?gprd?StandardWreathProduct
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?FreeProductOp
+constant http://www.gap-system.org/lib?gprd?FreeProductOp
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?WreathProductInfo
+constant http://www.gap-system.org/lib?gprd?WreathProductInfo
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?DirectProductOp
+constant http://www.gap-system.org/lib?gprd?DirectProductOp
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?SubdirectProductInfo
+constant http://www.gap-system.org/lib?gprd?SubdirectProductInfo
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?FreeProductInfo
+constant http://www.gap-system.org/lib?gprd?FreeProductInfo
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?SubdirectProductOp
+constant http://www.gap-system.org/lib?gprd?SubdirectProductOp
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?SemidirectProduct
+constant http://www.gap-system.org/lib?gprd?SemidirectProduct
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?SemidirectProductInfo
+constant http://www.gap-system.org/lib?gprd?SemidirectProductInfo
+Includes http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st0
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st0
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st1
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st1
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st2
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st2
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st3
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st3
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st4
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st4
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st5
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st5
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st6
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st6
+Declares http://www.gap-system.org/lib?gprd http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st7
+constant http://www.gap-system.org/lib?gprd?IsWreathProductElementDefaultRep_st7

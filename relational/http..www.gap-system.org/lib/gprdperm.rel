@@ -1,0 +1,292 @@
+theory http://www.gap-system.org/lib?gprdperm
+HasMeta http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st0
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st0
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st1
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st1
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st2
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st2
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st3
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st3
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st4
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st4
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st5
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st5
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st6
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st6
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st7
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st7
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st8
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st8
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st9
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st9
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st10
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st10
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st11
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st11
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st12
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st12
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st13
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st13
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st14
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st14
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st15
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st15
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st16
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st16
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st17
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st17
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st18
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st18
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st19
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st19
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st20
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st20
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st21
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingDirectProductPermGroup_st21
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st0
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st0
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st1
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st1
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st2
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st2
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st3
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st3
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st4
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st4
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st5
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st5
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st6
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st6
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st7
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st7
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st8
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st8
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st9
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st9
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st10
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st10
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st11
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st11
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st12
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st12
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st13
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st13
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st14
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st14
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st15
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st15
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st16
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st16
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st17
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st17
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st18
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st18
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st19
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st19
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st20
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st20
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st21
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionDirectProductPermGroup_st21
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st0
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st0
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st1
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st1
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st2
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st2
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st3
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st3
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st4
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st4
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st5
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st5
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st6
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st6
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st7
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st7
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st8
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st8
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st9
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st9
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st10
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st10
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st11
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st11
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st12
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st12
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st13
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st13
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st14
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st14
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st15
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st15
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st16
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st16
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st17
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st17
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st18
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st18
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st19
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st19
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st20
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st20
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st21
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingWreathProductPermGroup_st21
+Includes http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st0
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st0
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st1
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st1
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st2
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st2
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st3
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st3
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st4
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st4
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st5
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st5
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st6
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st6
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st7
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st7
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st8
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st8
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st9
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st9
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st10
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st10
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st11
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st11
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st12
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st12
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st13
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st13
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st14
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st14
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st15
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st15
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st16
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st16
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st17
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st17
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st18
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st18
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st19
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st19
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st20
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st20
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st21
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st21
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st22
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingImprimitiveWreathProductPermGroup_st22
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st0
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st0
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st1
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st1
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st2
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st2
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st3
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st3
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st4
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st4
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st5
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st5
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st6
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st6
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st7
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st7
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st8
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st8
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st9
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st9
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st10
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st10
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st11
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st11
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st12
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st12
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st13
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st13
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st14
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st14
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st15
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st15
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st16
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st16
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st17
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st17
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st18
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st18
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st19
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st19
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st20
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st20
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st21
+constant http://www.gap-system.org/lib?gprdperm?IsProjectionSubdirectProductPermGroup_st21
+Includes http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?ghom
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st0
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st0
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st1
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st1
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st2
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st2
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st3
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st3
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st4
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st4
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st5
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st5
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st6
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st6
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st7
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st7
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st8
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st8
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st9
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st9
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st10
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st10
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st11
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st11
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st12
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st12
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st13
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st13
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st14
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st14
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st15
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st15
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st16
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st16
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st17
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st17
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st18
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st18
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st19
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st19
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st20
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st20
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st21
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st21
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st22
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st22
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st23
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st23
+Declares http://www.gap-system.org/lib?gprdperm http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st24
+constant http://www.gap-system.org/lib?gprdperm?IsEmbeddingProductActionWreathProductPermGroup_st24

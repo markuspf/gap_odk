@@ -1,0 +1,98 @@
+theory http://www.gap-system.org/lib?rwspcgrp
+HasMeta http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsNBitsPcWordRep
+constant http://www.gap-system.org/lib?rwspcgrp?IsNBitsPcWordRep
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsNBitsPcWordRep_st0
+constant http://www.gap-system.org/lib?rwspcgrp?IsNBitsPcWordRep_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsKernelPcWord
+constant http://www.gap-system.org/lib?rwspcgrp?IsKernelPcWord
+Includes http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroup
+constant http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroup
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroupByRelators
+constant http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroupByRelators
+Includes http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwsgrp
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st0
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st1
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st2
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st2
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st3
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st3
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st4
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st4
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st5
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st5
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st6
+constant http://www.gap-system.org/lib?rwspcgrp?IsMultiplicativeElementWithInverseByPolycyclicCollector_st6
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?DefiningPcgs
+constant http://www.gap-system.org/lib?rwspcgrp?DefiningPcgs
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy8BitsSingleCollector
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy8BitsSingleCollector
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy8BitsSingleCollector_st0
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy8BitsSingleCollector_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy8BitsSingleCollector_st1
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy8BitsSingleCollector_st1
+Includes http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep
+constant http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep_st0
+constant http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep_st1
+constant http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep_st2
+constant http://www.gap-system.org/lib?rwspcgrp?Is32BitsPcWordRep_st2
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st0
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st1
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st2
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st2
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st3
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st3
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st4
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st4
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st5
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementFinitePolycyclicGroup_st5
+Includes http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsPcGroup
+constant http://www.gap-system.org/lib?rwspcgrp?IsPcGroup
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroupNC
+constant http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroupNC
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep
+constant http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep_st0
+constant http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep_st1
+constant http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep_st2
+constant http://www.gap-system.org/lib?rwspcgrp?Is16BitsPcWordRep_st2
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy32BitsSingleCollector
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy32BitsSingleCollector
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy32BitsSingleCollector_st0
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy32BitsSingleCollector_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy32BitsSingleCollector_st1
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy32BitsSingleCollector_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroupByRelatorsNC
+constant http://www.gap-system.org/lib?rwspcgrp?PolycyclicFactorGroupByRelatorsNC
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy16BitsSingleCollector
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy16BitsSingleCollector
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy16BitsSingleCollector_st0
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy16BitsSingleCollector_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy16BitsSingleCollector_st1
+constant http://www.gap-system.org/lib?rwspcgrp?IsElementsFamilyBy16BitsSingleCollector_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep
+constant http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep_st0
+constant http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep_st0
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep_st1
+constant http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep_st1
+Declares http://www.gap-system.org/lib?rwspcgrp http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep_st2
+constant http://www.gap-system.org/lib?rwspcgrp?Is8BitsPcWordRep_st2

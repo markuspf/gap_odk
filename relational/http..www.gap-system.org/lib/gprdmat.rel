@@ -1,0 +1,144 @@
+theory http://www.gap-system.org/lib?gprdmat
+HasMeta http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st0
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st0
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st1
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st1
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st2
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st2
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st3
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st3
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st4
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st4
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st5
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st5
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st6
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st6
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st7
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st7
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st8
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st8
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st9
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st9
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st10
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st10
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st11
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st11
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st12
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st12
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st13
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st13
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st14
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st14
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st15
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st15
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st16
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st16
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st17
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st17
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st18
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st18
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st19
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st19
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st20
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st20
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st21
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingDirectProductMatrixGroup_st21
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st0
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st0
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st1
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st1
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st2
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st2
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st3
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st3
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st4
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st4
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st5
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st5
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st6
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st6
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st7
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st7
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st8
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st8
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st9
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st9
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st10
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st10
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st11
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st11
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st12
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st12
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st13
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st13
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st14
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st14
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st15
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st15
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st16
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st16
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st17
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st17
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st18
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st18
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st19
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st19
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st20
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st20
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st21
+constant http://www.gap-system.org/lib?gprdmat?IsProjectionDirectProductMatrixGroup_st21
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st0
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st0
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st1
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st1
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st2
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st2
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st3
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st3
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st4
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st4
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st5
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st5
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st6
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st6
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st7
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st7
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st8
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st8
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st9
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st9
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st10
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st10
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st11
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st11
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st12
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st12
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st13
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st13
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st14
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st14
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st15
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st15
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st16
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st16
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st17
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st17
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st18
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st18
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st19
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st19
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st20
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st20
+Declares http://www.gap-system.org/lib?gprdmat http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st21
+constant http://www.gap-system.org/lib?gprdmat?IsEmbeddingImprimitiveWreathProductMatrixGroup_st21

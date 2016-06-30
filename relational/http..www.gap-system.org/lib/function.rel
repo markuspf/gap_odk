@@ -1,0 +1,16 @@
+theory http://www.gap-system.org/lib?function
+HasMeta http://www.gap-system.org/lib?function http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function?IsFunction
+constant http://www.gap-system.org/lib?function?IsFunction
+Declares http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function?NameFunction
+constant http://www.gap-system.org/lib?function?NameFunction
+Includes http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function?IsOperation
+constant http://www.gap-system.org/lib?function?IsOperation
+Declares http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function?IsOperation_st0
+constant http://www.gap-system.org/lib?function?IsOperation_st0
+Includes http://www.gap-system.org/lib?function http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function?CallFuncList
+constant http://www.gap-system.org/lib?function?CallFuncList
+Declares http://www.gap-system.org/lib?function http://www.gap-system.org/lib?function?NumberArgumentsFunction
+constant http://www.gap-system.org/lib?function?NumberArgumentsFunction

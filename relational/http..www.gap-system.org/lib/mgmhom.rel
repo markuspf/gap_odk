@@ -1,0 +1,9 @@
+theory http://www.gap-system.org/lib?mgmhom
+HasMeta http://www.gap-system.org/lib?mgmhom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mgmhom http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?mgmhom http://www.gap-system.org/lib?mgmhom?NaturalHomomorphismByGenerators
+constant http://www.gap-system.org/lib?mgmhom?NaturalHomomorphismByGenerators
+Includes http://www.gap-system.org/lib?mgmhom http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?mgmhom http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?mgmhom http://www.gap-system.org/lib?mgmhom?IsMagmaHomomorphism
+constant http://www.gap-system.org/lib?mgmhom?IsMagmaHomomorphism

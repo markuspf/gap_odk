@@ -1,0 +1,12 @@
+theory http://www.gap-system.org/lib?rwssmg
+HasMeta http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/lib?rws
+Declares http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/lib?rwssmg?FreeSemigroupOfRewritingSystem
+constant http://www.gap-system.org/lib?rwssmg?FreeSemigroupOfRewritingSystem
+Declares http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/lib?rwssmg?FreeMonoidOfRewritingSystem
+constant http://www.gap-system.org/lib?rwssmg?FreeMonoidOfRewritingSystem
+Declares http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/lib?rwssmg?FamilyForRewritingSystem
+constant http://www.gap-system.org/lib?rwssmg?FamilyForRewritingSystem
+Includes http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?rwssmg http://www.gap-system.org/lib?rwssmg?ReducedConfluentRewritingSystem
+constant http://www.gap-system.org/lib?rwssmg?ReducedConfluentRewritingSystem

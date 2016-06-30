@@ -1,0 +1,5 @@
+theory http://www.gap-system.org/grp?simple
+HasMeta http://www.gap-system.org/grp?simple http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/grp?simple http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/grp?simple http://www.gap-system.org/grp?simple?DataAboutSimpleGroup
+constant http://www.gap-system.org/grp?simple?DataAboutSimpleGroup

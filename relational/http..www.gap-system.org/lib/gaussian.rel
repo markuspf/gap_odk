@@ -1,0 +1,9 @@
+theory http://www.gap-system.org/lib?gaussian
+HasMeta http://www.gap-system.org/lib?gaussian http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?gaussian http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?gaussian http://www.gap-system.org/lib?gaussian?IsCanonicalBasisGaussianIntegersRep
+constant http://www.gap-system.org/lib?gaussian?IsCanonicalBasisGaussianIntegersRep
+Declares http://www.gap-system.org/lib?gaussian http://www.gap-system.org/lib?gaussian?IsCanonicalBasisGaussianIntegersRep_st0
+constant http://www.gap-system.org/lib?gaussian?IsCanonicalBasisGaussianIntegersRep_st0
+Declares http://www.gap-system.org/lib?gaussian http://www.gap-system.org/lib?gaussian?IsCanonicalBasisGaussianIntegersRep_st1
+constant http://www.gap-system.org/lib?gaussian?IsCanonicalBasisGaussianIntegersRep_st1

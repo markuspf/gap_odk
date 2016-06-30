@@ -1,0 +1,441 @@
+theory http://www.gap-system.org/lib?ratfun
+HasMeta http://www.gap-system.org/lib?ratfun http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st0
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st1
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st2
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st3
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st4
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st5
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st6
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st7
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st8
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st9
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st10
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunction_st10
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st0
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st1
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st2
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st3
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st4
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st5
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st6
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st7
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st8
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st9
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st10
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunction_st11
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunction_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomial
+constant http://www.gap-system.org/lib?ratfun?IsPolynomial
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?Discriminant
+constant http://www.gap-system.org/lib?ratfun?Discriminant
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st0
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st1
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st2
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st3
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st4
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st5
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st6
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st7
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st8
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st9
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st10
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st11
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st12
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamilyElement_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomial
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?CoefficientsOfLaurentPolynomial
+constant http://www.gap-system.org/lib?ratfun?CoefficientsOfLaurentPolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st0
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st1
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st2
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st3
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st4
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st5
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st6
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st7
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st8
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st9
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st10
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st11
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st12
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamilyElement_st12
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?LaurentPolynomialByCoefficients
+constant http://www.gap-system.org/lib?ratfun?LaurentPolynomialByCoefficients
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?ExtRepPolynomialRatFun
+constant http://www.gap-system.org/lib?ratfun?ExtRepPolynomialRatFun
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?CoefficientsFamily
+constant http://www.gap-system.org/lib?ratfun?CoefficientsFamily
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunction
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st0
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st1
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st2
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st3
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st4
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st5
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st6
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st7
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st8
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st9
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st10
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st11
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st12
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st13
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st13
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st14
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st14
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st15
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st15
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st16
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st16
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st17
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialDefaultRep_st17
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?Resultant
+constant http://www.gap-system.org/lib?ratfun?Resultant
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?DenominatorOfRationalFunction
+constant http://www.gap-system.org/lib?ratfun?DenominatorOfRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamily
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamily
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamily_st0
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamily_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st0
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st1
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st2
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st3
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamily_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st0
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st1
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st2
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st3
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st4
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st5
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st6
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st7
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st8
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st9
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st10
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st11
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st12
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st13
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st13
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st14
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st14
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st15
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialDefaultRep_st15
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?ZippedSum
+constant http://www.gap-system.org/lib?ratfun?ZippedSum
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?DegreeOfLaurentPolynomial
+constant http://www.gap-system.org/lib?ratfun?DegreeOfLaurentPolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?PolynomialCoefficientsOfPolynomial
+constant http://www.gap-system.org/lib?ratfun?PolynomialCoefficientsOfPolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st0
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st1
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st2
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st3
+constant http://www.gap-system.org/lib?ratfun?IsLaurentPolynomialsFamily_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamily
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamily
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamily_st0
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomialsFamily_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st0
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st1
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st2
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st3
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st4
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st5
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st6
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st7
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st8
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st9
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st10
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st11
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st12
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st13
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st13
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st14
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st14
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st15
+constant http://www.gap-system.org/lib?ratfun?IsUnivariateRationalFunctionDefaultRep_st15
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?LeadingCoefficient
+constant http://www.gap-system.org/lib?ratfun?LeadingCoefficient
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st0
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st1
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st2
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st3
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st4
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st5
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st6
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st7
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st8
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st9
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st10
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st11
+constant http://www.gap-system.org/lib?ratfun?IsPolynomialFunctionsFamilyElement_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?CoefficientsOfUnivariateRationalFunction
+constant http://www.gap-system.org/lib?ratfun?CoefficientsOfUnivariateRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?ExtRepDenominatorRatFun
+constant http://www.gap-system.org/lib?ratfun?ExtRepDenominatorRatFun
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?ZeroCoefficientRatFun
+constant http://www.gap-system.org/lib?ratfun?ZeroCoefficientRatFun
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?LeadingMonomial
+constant http://www.gap-system.org/lib?ratfun?LeadingMonomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?NumeratorOfRationalFunction
+constant http://www.gap-system.org/lib?ratfun?NumeratorOfRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsZeroRationalFunction
+constant http://www.gap-system.org/lib?ratfun?IsZeroRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st0
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st1
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st2
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st3
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st4
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st5
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st6
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st7
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st8
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st9
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st10
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st11
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st12
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st13
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionsFamilyElement_st13
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?DegreeIndeterminate
+constant http://www.gap-system.org/lib?ratfun?DegreeIndeterminate
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?HeuristicCancelPolynomialsExtRep
+constant http://www.gap-system.org/lib?ratfun?HeuristicCancelPolynomialsExtRep
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?UnivariatePolynomialByCoefficients
+constant http://www.gap-system.org/lib?ratfun?UnivariatePolynomialByCoefficients
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?Derivative
+constant http://www.gap-system.org/lib?ratfun?Derivative
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?AsPolynomial
+constant http://www.gap-system.org/lib?ratfun?AsPolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomial
+constant http://www.gap-system.org/lib?ratfun?IsUnivariatePolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IndeterminateName
+constant http://www.gap-system.org/lib?ratfun?IndeterminateName
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?RationalFunctionsFamily
+constant http://www.gap-system.org/lib?ratfun?RationalFunctionsFamily
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?UnivariatePolynomial
+constant http://www.gap-system.org/lib?ratfun?UnivariatePolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?ZippedProduct
+constant http://www.gap-system.org/lib?ratfun?ZippedProduct
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st0
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st1
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st2
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st3
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st4
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st5
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st6
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st7
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st8
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st9
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st10
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st11
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st12
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st13
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st13
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st14
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionDefaultRep_st14
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?UnivariateRationalFunctionByCoefficients
+constant http://www.gap-system.org/lib?ratfun?UnivariateRationalFunctionByCoefficients
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?CoefficientsOfUnivariatePolynomial
+constant http://www.gap-system.org/lib?ratfun?CoefficientsOfUnivariatePolynomial
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IndeterminateOfUnivariateRationalFunction
+constant http://www.gap-system.org/lib?ratfun?IndeterminateOfUnivariateRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st0
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st0
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st1
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st1
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st2
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st2
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st3
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st3
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st4
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st4
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st5
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st5
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st6
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st6
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st7
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st7
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st8
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st8
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st9
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st9
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st10
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st10
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st11
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st11
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st12
+constant http://www.gap-system.org/lib?ratfun?IsRationalFunctionOverField_st12
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IndeterminateNumberOfUnivariateRationalFunction
+constant http://www.gap-system.org/lib?ratfun?IndeterminateNumberOfUnivariateRationalFunction
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?ExtRepNumeratorRatFun
+constant http://www.gap-system.org/lib?ratfun?ExtRepNumeratorRatFun
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?IsConstantRationalFunction
+constant http://www.gap-system.org/lib?ratfun?IsConstantRationalFunction
+Includes http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?float
+Declares http://www.gap-system.org/lib?ratfun http://www.gap-system.org/lib?ratfun?Value
+constant http://www.gap-system.org/lib?ratfun?Value

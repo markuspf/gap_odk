@@ -1,0 +1,8 @@
+theory http://www.gap-system.org/lib?variable
+HasMeta http://www.gap-system.org/lib?variable http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?variable http://www.gap-system.org/lib?variable?IsLVarsBag
+constant http://www.gap-system.org/lib?variable?IsLVarsBag
+Declares http://www.gap-system.org/lib?variable http://www.gap-system.org/lib?variable?IsToBeDefinedObj
+constant http://www.gap-system.org/lib?variable?IsToBeDefinedObj
+Declares http://www.gap-system.org/lib?variable http://www.gap-system.org/lib?variable?FlushCaches
+constant http://www.gap-system.org/lib?variable?FlushCaches

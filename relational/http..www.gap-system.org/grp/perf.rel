@@ -1,0 +1,84 @@
+theory http://www.gap-system.org/grp?perf
+HasMeta http://www.gap-system.org/grp?perf http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/grp?perf http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/grp?perf http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/grp?perf http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/grp?perf http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/grp?perf http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/grp?perf http://www.gap-system.org/lib?semigrp
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st0
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st0
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st1
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st1
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st2
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st2
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st3
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st3
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st4
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st4
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st5
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st5
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st6
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st6
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st7
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st7
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st8
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st8
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st9
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st9
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st10
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st10
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st11
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st11
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st12
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st12
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st13
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st13
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st14
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st14
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st15
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st15
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st16
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st16
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st17
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st17
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st18
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st18
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st19
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st19
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st20
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st20
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st21
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st21
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st22
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st22
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st23
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st23
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st24
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st24
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st25
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st25
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st26
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st26
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st27
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st27
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st28
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st28
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st29
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st29
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st30
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st30
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st31
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st31
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st32
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st32
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st33
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st33
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st34
+constant http://www.gap-system.org/grp?perf?IsPerfectLibraryGroup_st34
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?PerfGrpConst
+constant http://www.gap-system.org/grp?perf?PerfGrpConst
+Declares http://www.gap-system.org/grp?perf http://www.gap-system.org/grp?perf?PerfectIdentification
+constant http://www.gap-system.org/grp?perf?PerfectIdentification

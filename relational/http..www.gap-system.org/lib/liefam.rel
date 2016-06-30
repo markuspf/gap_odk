@@ -1,0 +1,141 @@
+theory http://www.gap-system.org/lib?liefam
+HasMeta http://www.gap-system.org/lib?liefam http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieEmbeddingRep
+constant http://www.gap-system.org/lib?liefam?IsLieEmbeddingRep
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieEmbeddingRep_st0
+constant http://www.gap-system.org/lib?liefam?IsLieEmbeddingRep_st0
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieEmbeddingRep_st1
+constant http://www.gap-system.org/lib?liefam?IsLieEmbeddingRep_st1
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?LieObject
+constant http://www.gap-system.org/lib?liefam?LieObject
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?LieFamily
+constant http://www.gap-system.org/lib?liefam?LieFamily
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject
+constant http://www.gap-system.org/lib?liefam?IsLieObject
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st0
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st0
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st1
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st1
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st2
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st2
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st3
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st3
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st4
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st4
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st5
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st5
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st6
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st6
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st7
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st7
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st8
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st8
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObject_st9
+constant http://www.gap-system.org/lib?liefam?IsLieObject_st9
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?UnderlyingRingElement
+constant http://www.gap-system.org/lib?liefam?UnderlyingRingElement
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st0
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st0
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st1
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st1
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st2
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st2
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st3
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st3
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st4
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st4
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st5
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st5
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st6
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st6
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st7
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st7
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st8
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st8
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st9
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st9
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st10
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st10
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st11
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st11
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st12
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st12
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st13
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st13
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st14
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st14
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st15
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st15
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st16
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st16
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st17
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObjectCollection_st17
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsRestrictedLieObject
+constant http://www.gap-system.org/lib?liefam?IsRestrictedLieObject
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?UnderlyingFamily
+constant http://www.gap-system.org/lib?liefam?UnderlyingFamily
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st0
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st0
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st1
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st1
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st2
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st2
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st3
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st3
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st4
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st4
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st5
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st5
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st6
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st6
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st7
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st7
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st8
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st8
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st9
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st9
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st10
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st10
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st11
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st11
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st12
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st12
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st13
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st13
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st14
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st14
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st15
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st15
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st16
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st16
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st17
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st17
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st18
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st18
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st19
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st19
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st20
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st20
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st21
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st21
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st22
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st22
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st23
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st23
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st24
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st24
+Declares http://www.gap-system.org/lib?liefam http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st25
+constant http://www.gap-system.org/lib?liefam?IsLieObjectsModule_st25

@@ -1,0 +1,36 @@
+theory http://www.gap-system.org/lib?overload
+HasMeta http://www.gap-system.org/lib?overload http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?DerivedSeries
+constant http://www.gap-system.org/lib?overload?DerivedSeries
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?Determinant
+constant http://www.gap-system.org/lib?overload?Determinant
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?Kernel
+constant http://www.gap-system.org/lib?overload?Kernel
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsMonomial
+constant http://www.gap-system.org/lib?overload?IsMonomial
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsSimple
+constant http://www.gap-system.org/lib?overload?IsSimple
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?Degree
+constant http://www.gap-system.org/lib?overload?Degree
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?CoKernel
+constant http://www.gap-system.org/lib?overload?CoKernel
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsSolvable
+constant http://www.gap-system.org/lib?overload?IsSolvable
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?Rank
+constant http://www.gap-system.org/lib?overload?Rank
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsIrreducible
+constant http://www.gap-system.org/lib?overload?IsIrreducible
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsPerfect
+constant http://www.gap-system.org/lib?overload?IsPerfect
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsSupersolvable
+constant http://www.gap-system.org/lib?overload?IsSupersolvable
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsAlmostSimple
+constant http://www.gap-system.org/lib?overload?IsAlmostSimple
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsSporadicSimple
+constant http://www.gap-system.org/lib?overload?IsSporadicSimple
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?IsNilpotent
+constant http://www.gap-system.org/lib?overload?IsNilpotent
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?LowerCentralSeries
+constant http://www.gap-system.org/lib?overload?LowerCentralSeries
+Declares http://www.gap-system.org/lib?overload http://www.gap-system.org/lib?overload?UpperCentralSeries
+constant http://www.gap-system.org/lib?overload?UpperCentralSeries

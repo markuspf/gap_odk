@@ -1,0 +1,79 @@
+theory http://www.gap-system.org/lib?matobj2
+HasMeta http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj1
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?Fold
+constant http://www.gap-system.org/lib?matobj2?Fold
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?CopySubMatrix
+constant http://www.gap-system.org/lib?matobj2?CopySubMatrix
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?NewRowVector
+constant http://www.gap-system.org/lib?matobj2?NewRowVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?RowLength
+constant http://www.gap-system.org/lib?matobj2?RowLength
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ConstructingFilter
+constant http://www.gap-system.org/lib?matobj2?ConstructingFilter
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ZeroMatrix
+constant http://www.gap-system.org/lib?matobj2?ZeroMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?Unpack
+constant http://www.gap-system.org/lib?matobj2?Unpack
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?Unfold
+constant http://www.gap-system.org/lib?matobj2?Unfold
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?IdentityMatrix
+constant http://www.gap-system.org/lib?matobj2?IdentityMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?WeightOfVector
+constant http://www.gap-system.org/lib?matobj2?WeightOfVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?BaseDomain
+constant http://www.gap-system.org/lib?matobj2?BaseDomain
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?NewIdentityMatrix
+constant http://www.gap-system.org/lib?matobj2?NewIdentityMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?Vector
+constant http://www.gap-system.org/lib?matobj2?Vector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?MatElm
+constant http://www.gap-system.org/lib?matobj2?MatElm
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?MultMatrix
+constant http://www.gap-system.org/lib?matobj2?MultMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ChangedBaseDomain
+constant http://www.gap-system.org/lib?matobj2?ChangedBaseDomain
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ExtractSubMatrix
+constant http://www.gap-system.org/lib?matobj2?ExtractSubMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?AddMatrix
+constant http://www.gap-system.org/lib?matobj2?AddMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?NewZeroMatrix
+constant http://www.gap-system.org/lib?matobj2?NewZeroMatrix
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?random
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?Randomize
+constant http://www.gap-system.org/lib?matobj2?Randomize
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ZeroVector
+constant http://www.gap-system.org/lib?matobj2?ZeroVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?DistanceOfVectors
+constant http://www.gap-system.org/lib?matobj2?DistanceOfVectors
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?NewCompanionMatrix
+constant http://www.gap-system.org/lib?matobj2?NewCompanionMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?NewZeroVector
+constant http://www.gap-system.org/lib?matobj2?NewZeroVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?CopySubVector
+constant http://www.gap-system.org/lib?matobj2?CopySubVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?CompatibleMatrix
+constant http://www.gap-system.org/lib?matobj2?CompatibleMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ExtractSubVector
+constant http://www.gap-system.org/lib?matobj2?ExtractSubVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?PositionLastNonZero
+constant http://www.gap-system.org/lib?matobj2?PositionLastNonZero
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?CompatibleVector
+constant http://www.gap-system.org/lib?matobj2?CompatibleVector
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?ProductTransposedMatMat
+constant http://www.gap-system.org/lib?matobj2?ProductTransposedMatMat
+Includes http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?reesmat
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?Matrix
+constant http://www.gap-system.org/lib?matobj2?Matrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?CompanionMatrix
+constant http://www.gap-system.org/lib?matobj2?CompanionMatrix
+Declares http://www.gap-system.org/lib?matobj2 http://www.gap-system.org/lib?matobj2?NewMatrix
+constant http://www.gap-system.org/lib?matobj2?NewMatrix

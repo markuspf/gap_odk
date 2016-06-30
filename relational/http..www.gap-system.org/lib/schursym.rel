@@ -1,0 +1,7 @@
+theory http://www.gap-system.org/lib?schursym
+HasMeta http://www.gap-system.org/lib?schursym http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?schursym http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?schursym http://www.gap-system.org/lib?schursym?SchurCoverOfSymmetricGroup
+constant http://www.gap-system.org/lib?schursym?SchurCoverOfSymmetricGroup
+Declares http://www.gap-system.org/lib?schursym http://www.gap-system.org/lib?schursym?DoubleCoverOfAlternatingGroup
+constant http://www.gap-system.org/lib?schursym?DoubleCoverOfAlternatingGroup

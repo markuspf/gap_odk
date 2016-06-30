@@ -1,0 +1,203 @@
+theory http://www.gap-system.org/lib?ring
+HasMeta http://www.gap-system.org/lib?ring http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st0
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st0
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st1
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st1
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st2
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st2
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st3
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st3
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st4
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st4
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st5
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st5
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st6
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st6
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st7
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st7
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st8
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st8
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st9
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st9
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st10
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st10
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st11
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st11
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st12
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st12
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st13
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st13
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st14
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st14
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st15
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st15
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st16
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st16
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st17
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st17
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st18
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st18
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st19
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st19
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st20
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st20
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st21
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st21
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st22
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st22
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st23
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st23
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st24
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st24
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st25
+constant http://www.gap-system.org/lib?ring?IsUniqueFactorizationRing_st25
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st0
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st0
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st1
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st1
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st2
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st2
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st3
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st3
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st4
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st4
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st5
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st5
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st6
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st6
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st7
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st7
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st8
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st8
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st9
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st9
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st10
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st10
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st11
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st11
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st12
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st12
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st13
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st13
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st14
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st14
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st15
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st15
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st16
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st16
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st17
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st17
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st18
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st18
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st19
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st19
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st20
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st20
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st21
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st21
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st22
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st22
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st23
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st23
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st24
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st24
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st25
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st25
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st26
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st26
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st27
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st27
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st28
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st28
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsEuclideanRing_st29
+constant http://www.gap-system.org/lib?ring?IsEuclideanRing_st29
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsJacobianRing
+constant http://www.gap-system.org/lib?ring?IsJacobianRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsZeroSquaredRing
+constant http://www.gap-system.org/lib?ring?IsZeroSquaredRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsZeroMultiplicationRing
+constant http://www.gap-system.org/lib?ring?IsZeroMultiplicationRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?InterpolatedPolynomial
+constant http://www.gap-system.org/lib?ring?InterpolatedPolynomial
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsIntegralRing
+constant http://www.gap-system.org/lib?ring?IsIntegralRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?GcdRepresentationOp
+constant http://www.gap-system.org/lib?ring?GcdRepresentationOp
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?AsRing
+constant http://www.gap-system.org/lib?ring?AsRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?AsNearRing
+constant http://www.gap-system.org/lib?ring?AsNearRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsIrreducibleRingElement
+constant http://www.gap-system.org/lib?ring?IsIrreducibleRingElement
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsPrime
+constant http://www.gap-system.org/lib?ring?IsPrime
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?DefaultRingByGenerators
+constant http://www.gap-system.org/lib?ring?DefaultRingByGenerators
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?QuotientRemainder
+constant http://www.gap-system.org/lib?ring?QuotientRemainder
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?LcmOp
+constant http://www.gap-system.org/lib?ring?LcmOp
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsAssociated
+constant http://www.gap-system.org/lib?ring?IsAssociated
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?EuclideanQuotient
+constant http://www.gap-system.org/lib?ring?EuclideanQuotient
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsRingWithOne
+constant http://www.gap-system.org/lib?ring?IsRingWithOne
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?Units
+constant http://www.gap-system.org/lib?ring?Units
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?ClosureRing
+constant http://www.gap-system.org/lib?ring?ClosureRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsNearRing
+constant http://www.gap-system.org/lib?ring?IsNearRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?StandardAssociateUnit
+constant http://www.gap-system.org/lib?ring?StandardAssociateUnit
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?GcdOp
+constant http://www.gap-system.org/lib?ring?GcdOp
+Includes http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?PowerMod
+constant http://www.gap-system.org/lib?ring?PowerMod
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?Factors
+constant http://www.gap-system.org/lib?ring?Factors
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsRing
+constant http://www.gap-system.org/lib?ring?IsRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?Quotient
+constant http://www.gap-system.org/lib?ring?Quotient
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsNearRingWithOne
+constant http://www.gap-system.org/lib?ring?IsNearRingWithOne
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?GeneratorsOfRing
+constant http://www.gap-system.org/lib?ring?GeneratorsOfRing
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?EuclideanRemainder
+constant http://www.gap-system.org/lib?ring?EuclideanRemainder
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?RingByGenerators
+constant http://www.gap-system.org/lib?ring?RingByGenerators
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?QuotientMod
+constant http://www.gap-system.org/lib?ring?QuotientMod
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?StandardAssociate
+constant http://www.gap-system.org/lib?ring?StandardAssociate
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsAnticommutative
+constant http://www.gap-system.org/lib?ring?IsAnticommutative
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?PadicValuation
+constant http://www.gap-system.org/lib?ring?PadicValuation
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?EuclideanDegree
+constant http://www.gap-system.org/lib?ring?EuclideanDegree
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?GeneratorsOfRingWithOne
+constant http://www.gap-system.org/lib?ring?GeneratorsOfRingWithOne
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?RingWithOneByGenerators
+constant http://www.gap-system.org/lib?ring?RingWithOneByGenerators
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?IsUnit
+constant http://www.gap-system.org/lib?ring?IsUnit
+Declares http://www.gap-system.org/lib?ring http://www.gap-system.org/lib?ring?Associates
+constant http://www.gap-system.org/lib?ring?Associates

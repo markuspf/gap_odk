@@ -1,0 +1,35 @@
+theory http://www.gap-system.org/lib?grpramat
+HasMeta http://www.gap-system.org/lib?grpramat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?cyclotom
+Includes http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?IsCyclotomicMatrixGroup
+constant http://www.gap-system.org/lib?grpramat?IsCyclotomicMatrixGroup
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?ZClassRepsQClass
+constant http://www.gap-system.org/lib?grpramat?ZClassRepsQClass
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?InvariantLattice
+constant http://www.gap-system.org/lib?grpramat?InvariantLattice
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?BravaisGroup
+constant http://www.gap-system.org/lib?grpramat?BravaisGroup
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?IsIntegerMatrixGroup
+constant http://www.gap-system.org/lib?grpramat?IsIntegerMatrixGroup
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?BravaisSupergroups
+constant http://www.gap-system.org/lib?grpramat?BravaisSupergroups
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?NormalizerInGLnZBravaisGroup
+constant http://www.gap-system.org/lib?grpramat?NormalizerInGLnZBravaisGroup
+Includes http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpmat
+Includes http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?IsNaturalSLnZ
+constant http://www.gap-system.org/lib?grpramat?IsNaturalSLnZ
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?IsBravaisGroup
+constant http://www.gap-system.org/lib?grpramat?IsBravaisGroup
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?IsRationalMatrixGroup
+constant http://www.gap-system.org/lib?grpramat?IsRationalMatrixGroup
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?CentralizerInGLnZ
+constant http://www.gap-system.org/lib?grpramat?CentralizerInGLnZ
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?NormalizerInGLnZ
+constant http://www.gap-system.org/lib?grpramat?NormalizerInGLnZ
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?IsNaturalGLnZ
+constant http://www.gap-system.org/lib?grpramat?IsNaturalGLnZ
+Declares http://www.gap-system.org/lib?grpramat http://www.gap-system.org/lib?grpramat?BravaisSubgroups
+constant http://www.gap-system.org/lib?grpramat?BravaisSubgroups

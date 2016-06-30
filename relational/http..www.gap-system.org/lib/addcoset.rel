@@ -1,0 +1,39 @@
+theory http://www.gap-system.org/lib?addcoset
+HasMeta http://www.gap-system.org/lib?addcoset http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?extaset
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st0
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st0
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st1
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st1
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st2
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st2
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st3
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st3
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st4
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st4
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st5
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st5
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st6
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st6
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st7
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st7
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st8
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st8
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st9
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st9
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st10
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCoset_st10
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addmagma
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?AdditiveCoset
+constant http://www.gap-system.org/lib?addcoset?AdditiveCoset
+Includes http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCosetDefaultRep
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCosetDefaultRep
+Declares http://www.gap-system.org/lib?addcoset http://www.gap-system.org/lib?addcoset?IsAdditiveCosetDefaultRep_st0
+constant http://www.gap-system.org/lib?addcoset?IsAdditiveCosetDefaultRep_st0

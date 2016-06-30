@@ -1,0 +1,8 @@
+theory http://www.gap-system.org/lib?process
+HasMeta http://www.gap-system.org/lib?process http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?process http://www.gap-system.org/lib?files
+Includes http://www.gap-system.org/lib?process http://www.gap-system.org/lib?string
+Includes http://www.gap-system.org/lib?process http://www.gap-system.org/lib?streams
+Includes http://www.gap-system.org/lib?process http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?process http://www.gap-system.org/lib?process?Process
+constant http://www.gap-system.org/lib?process?Process

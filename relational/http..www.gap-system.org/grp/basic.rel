@@ -1,0 +1,27 @@
+theory http://www.gap-system.org/grp?basic
+HasMeta http://www.gap-system.org/grp?basic http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/grp?basic http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/grp?basic http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?AbelianGroupCons
+constant http://www.gap-system.org/grp?basic?AbelianGroupCons
+Includes http://www.gap-system.org/grp?basic http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?QuaternionGroupCons
+constant http://www.gap-system.org/grp?basic?QuaternionGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?ExtraspecialGroupCons
+constant http://www.gap-system.org/grp?basic?ExtraspecialGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?CyclicGroupCons
+constant http://www.gap-system.org/grp?basic?CyclicGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?DihedralGroupCons
+constant http://www.gap-system.org/grp?basic?DihedralGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?FreeAbelianGroupCons
+constant http://www.gap-system.org/grp?basic?FreeAbelianGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?MathieuGroupCons
+constant http://www.gap-system.org/grp?basic?MathieuGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?ElementaryAbelianGroupCons
+constant http://www.gap-system.org/grp?basic?ElementaryAbelianGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?TrivialGroupCons
+constant http://www.gap-system.org/grp?basic?TrivialGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?SymmetricGroupCons
+constant http://www.gap-system.org/grp?basic?SymmetricGroupCons
+Declares http://www.gap-system.org/grp?basic http://www.gap-system.org/grp?basic?AlternatingGroupCons
+constant http://www.gap-system.org/grp?basic?AlternatingGroupCons

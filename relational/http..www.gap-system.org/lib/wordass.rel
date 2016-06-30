@@ -1,0 +1,284 @@
+theory http://www.gap-system.org/lib?wordass
+HasMeta http://www.gap-system.org/lib?wordass http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?word
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableWordsFamily
+constant http://www.gap-system.org/lib?wordass?IsSyllableWordsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableWordsFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsSyllableWordsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableWordsFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsSyllableWordsFamily_st1
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?PositionWord
+constant http://www.gap-system.org/lib?wordass?PositionWord
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWord
+constant http://www.gap-system.org/lib?wordass?IsAssocWord
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is16BitsFamily
+constant http://www.gap-system.org/lib?wordass?Is16BitsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is16BitsFamily_st0
+constant http://www.gap-system.org/lib?wordass?Is16BitsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is16BitsFamily_st1
+constant http://www.gap-system.org/lib?wordass?Is16BitsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is16BitsFamily_st2
+constant http://www.gap-system.org/lib?wordass?Is16BitsFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?ExponentSums
+constant http://www.gap-system.org/lib?wordass?ExponentSums
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?ExponentSumWord
+constant http://www.gap-system.org/lib?wordass?ExponentSumWord
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?semigrp
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st0
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st1
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st2
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st3
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st4
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st5
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st5
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st6
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st6
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st7
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st7
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st8
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st8
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st9
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st9
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st10
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st10
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st11
+constant http://www.gap-system.org/lib?wordass?IsAssocWordCollection_st11
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep
+constant http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st0
+constant http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st1
+constant http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st2
+constant http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st3
+constant http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st4
+constant http://www.gap-system.org/lib?wordass?IsSyllableAssocWordRep_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?ExponentSyllable
+constant http://www.gap-system.org/lib?wordass?ExponentSyllable
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsInfBitsFamily
+constant http://www.gap-system.org/lib?wordass?IsInfBitsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsInfBitsFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsInfBitsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsInfBitsFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsInfBitsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsInfBitsFamily_st2
+constant http://www.gap-system.org/lib?wordass?IsInfBitsFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterWordsFamily
+constant http://www.gap-system.org/lib?wordass?IsLetterWordsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterWordsFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsLetterWordsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterWordsFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsLetterWordsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily
+constant http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily_st2
+constant http://www.gap-system.org/lib?wordass?IsWLetterWordsFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?SyllableRepAssocWord
+constant http://www.gap-system.org/lib?wordass?SyllableRepAssocWord
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsFreeMonoid
+constant http://www.gap-system.org/lib?wordass?IsFreeMonoid
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Subword
+constant http://www.gap-system.org/lib?wordass?Subword
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordFamily
+constant http://www.gap-system.org/lib?wordass?IsAssocWordFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsAssocWordFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsAssocWordFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?EliminatedWord
+constant http://www.gap-system.org/lib?wordass?EliminatedWord
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?SubSyllables
+constant http://www.gap-system.org/lib?wordass?SubSyllables
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?LetterRepAssocWord
+constant http://www.gap-system.org/lib?wordass?LetterRepAssocWord
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?AssignGeneratorVariables
+constant http://www.gap-system.org/lib?wordass?AssignGeneratorVariables
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?NumberSyllables
+constant http://www.gap-system.org/lib?wordass?NumberSyllables
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily_st2
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsFreeGroup
+constant http://www.gap-system.org/lib?wordass?IsFreeGroup
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st0
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st1
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st2
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st3
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st4
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st5
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st5
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st6
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st6
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st7
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st7
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st8
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st8
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st9
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st9
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st10
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st10
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st11
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st11
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st12
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st12
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st13
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOneCollection_st13
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st2
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st3
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseFamily_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is8BitsFamily
+constant http://www.gap-system.org/lib?wordass?Is8BitsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is8BitsFamily_st0
+constant http://www.gap-system.org/lib?wordass?Is8BitsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is8BitsFamily_st1
+constant http://www.gap-system.org/lib?wordass?Is8BitsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is8BitsFamily_st2
+constant http://www.gap-system.org/lib?wordass?Is8BitsFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithOne
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithOne
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is32BitsFamily
+constant http://www.gap-system.org/lib?wordass?Is32BitsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is32BitsFamily_st0
+constant http://www.gap-system.org/lib?wordass?Is32BitsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is32BitsFamily_st1
+constant http://www.gap-system.org/lib?wordass?Is32BitsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?Is32BitsFamily_st2
+constant http://www.gap-system.org/lib?wordass?Is32BitsFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsFreeSemigroup
+constant http://www.gap-system.org/lib?wordass?IsFreeSemigroup
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverse
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverse
+Includes http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?RenumberedWord
+constant http://www.gap-system.org/lib?wordass?RenumberedWord
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?SubstitutedWord
+constant http://www.gap-system.org/lib?wordass?SubstitutedWord
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st0
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st1
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st2
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st3
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st4
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st5
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st5
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st6
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st6
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st7
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st7
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st8
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st8
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st9
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st9
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st10
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st10
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st11
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st11
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st12
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st12
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st13
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st13
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st14
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st14
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st15
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st15
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st16
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st16
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st17
+constant http://www.gap-system.org/lib?wordass?IsAssocWordWithInverseCollection_st17
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep
+constant http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st0
+constant http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st1
+constant http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st2
+constant http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st3
+constant http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st4
+constant http://www.gap-system.org/lib?wordass?IsLetterAssocWordRep_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st0
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st1
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st2
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st3
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st4
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st5
+constant http://www.gap-system.org/lib?wordass?IsWLetterAssocWordRep_st5
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?AssocWordByLetterRep
+constant http://www.gap-system.org/lib?wordass?AssocWordByLetterRep
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily
+constant http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily_st0
+constant http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily_st1
+constant http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily_st2
+constant http://www.gap-system.org/lib?wordass?IsBLetterWordsFamily_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st0
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st0
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st1
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st1
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st2
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st2
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st3
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st3
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st4
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st4
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st5
+constant http://www.gap-system.org/lib?wordass?IsBLetterAssocWordRep_st5
+Declares http://www.gap-system.org/lib?wordass http://www.gap-system.org/lib?wordass?GeneratorSyllable
+constant http://www.gap-system.org/lib?wordass?GeneratorSyllable

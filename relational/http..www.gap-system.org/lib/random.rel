@@ -1,0 +1,35 @@
+theory http://www.gap-system.org/lib?random
+HasMeta http://www.gap-system.org/lib?random http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?random http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsRandomSource
+constant http://www.gap-system.org/lib?random?IsRandomSource
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsRandomSource_st0
+constant http://www.gap-system.org/lib?random?IsRandomSource_st0
+Includes http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsGAPRandomSource
+constant http://www.gap-system.org/lib?random?IsGAPRandomSource
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsGAPRandomSource_st0
+constant http://www.gap-system.org/lib?random?IsGAPRandomSource_st0
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsGAPRandomSource_st1
+constant http://www.gap-system.org/lib?random?IsGAPRandomSource_st1
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsGlobalRandomSource
+constant http://www.gap-system.org/lib?random?IsGlobalRandomSource
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsGlobalRandomSource_st0
+constant http://www.gap-system.org/lib?random?IsGlobalRandomSource_st0
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsGlobalRandomSource_st1
+constant http://www.gap-system.org/lib?random?IsGlobalRandomSource_st1
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?Init
+constant http://www.gap-system.org/lib?random?Init
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?Reset
+constant http://www.gap-system.org/lib?random?Reset
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsMersenneTwister
+constant http://www.gap-system.org/lib?random?IsMersenneTwister
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsMersenneTwister_st0
+constant http://www.gap-system.org/lib?random?IsMersenneTwister_st0
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?IsMersenneTwister_st1
+constant http://www.gap-system.org/lib?random?IsMersenneTwister_st1
+Includes http://www.gap-system.org/lib?random http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?RandomSource
+constant http://www.gap-system.org/lib?random?RandomSource
+Declares http://www.gap-system.org/lib?random http://www.gap-system.org/lib?random?State
+constant http://www.gap-system.org/lib?random?State

@@ -1,0 +1,8 @@
+theory http://www.gap-system.org/lib?oper
+HasMeta http://www.gap-system.org/lib?oper http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?oper http://www.gap-system.org/lib?oper?IsNoImmediateMethodsObject
+constant http://www.gap-system.org/lib?oper?IsNoImmediateMethodsObject
+Declares http://www.gap-system.org/lib?oper http://www.gap-system.org/lib?oper?ViewObj
+constant http://www.gap-system.org/lib?oper?ViewObj
+Declares http://www.gap-system.org/lib?oper http://www.gap-system.org/lib?oper?ViewString
+constant http://www.gap-system.org/lib?oper?ViewString

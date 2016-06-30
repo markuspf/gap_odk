@@ -1,0 +1,18 @@
+theory http://www.gap-system.org/lib?set
+HasMeta http://www.gap-system.org/lib?set http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?set http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?set http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?IntersectSet
+constant http://www.gap-system.org/lib?set?IntersectSet
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?RemoveSet
+constant http://www.gap-system.org/lib?set?RemoveSet
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?IsEqualSet
+constant http://www.gap-system.org/lib?set?IsEqualSet
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?AddSet
+constant http://www.gap-system.org/lib?set?AddSet
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?UniteSet
+constant http://www.gap-system.org/lib?set?UniteSet
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?SubtractSet
+constant http://www.gap-system.org/lib?set?SubtractSet
+Declares http://www.gap-system.org/lib?set http://www.gap-system.org/lib?set?IsSubsetSet
+constant http://www.gap-system.org/lib?set?IsSubsetSet

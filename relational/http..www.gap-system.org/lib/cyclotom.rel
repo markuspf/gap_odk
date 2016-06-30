@@ -1,0 +1,338 @@
+theory http://www.gap-system.org/lib?cyclotom
+HasMeta http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st0
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st1
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st2
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st3
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st4
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st5
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st6
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st7
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st8
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st9
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st10
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st11
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st12
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st13
+constant http://www.gap-system.org/lib?cyclotom?IsCyclotomic_st13
+Includes http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc
+constant http://www.gap-system.org/lib?cyclotom?IsCyc
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st0
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st1
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st2
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st3
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st4
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st5
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st6
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st7
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st8
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st9
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st10
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st11
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st12
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st13
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsCyc_st14
+constant http://www.gap-system.org/lib?cyclotom?IsCyc_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat
+constant http://www.gap-system.org/lib?cyclotom?IsRat
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st0
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st1
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st2
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st3
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st4
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st5
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st6
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st7
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st8
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st9
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st10
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st11
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st12
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st13
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st14
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsRat_st15
+constant http://www.gap-system.org/lib?cyclotom?IsRat_st15
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt
+constant http://www.gap-system.org/lib?cyclotom?IsInt
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st0
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st1
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st2
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st3
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st4
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st5
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st6
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st7
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st8
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st9
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st10
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st11
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st12
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st13
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st14
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st15
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st15
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInt_st16
+constant http://www.gap-system.org/lib?cyclotom?IsInt_st16
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st0
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st1
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st2
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st3
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st4
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st5
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st6
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st7
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st8
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st9
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st10
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st11
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st12
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st13
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st14
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st15
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st15
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosRat_st16
+constant http://www.gap-system.org/lib?cyclotom?IsPosRat_st16
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st0
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st1
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st2
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st3
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st4
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st5
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st6
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st7
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st8
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st9
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st10
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st11
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st12
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st13
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st14
+constant http://www.gap-system.org/lib?cyclotom?IsNegInfinity_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?GaloisCyc
+constant http://www.gap-system.org/lib?cyclotom?GaloisCyc
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st0
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st1
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st2
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st3
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st4
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st5
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st6
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st7
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st8
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st9
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st10
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st11
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st12
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st13
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st14
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st15
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st15
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st16
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st16
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st17
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st17
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st18
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st18
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st19
+constant http://www.gap-system.org/lib?cyclotom?IsZeroCyc_st19
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsPosInt
+constant http://www.gap-system.org/lib?cyclotom?IsPosInt
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st0
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st1
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st2
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st3
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st4
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st5
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st6
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st7
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st8
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st9
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st10
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st11
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st12
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st13
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsInfinity_st14
+constant http://www.gap-system.org/lib?cyclotom?IsInfinity_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st0
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st1
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st1
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st2
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st2
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st3
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st3
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st4
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st4
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st5
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st5
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st6
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st6
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st7
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st7
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st8
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st8
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st9
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st9
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st10
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st10
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st11
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st11
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st12
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st12
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st13
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st13
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st14
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st14
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st15
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st15
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegRat_st16
+constant http://www.gap-system.org/lib?cyclotom?IsNegRat_st16
+Includes http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?RationalizedMat
+constant http://www.gap-system.org/lib?cyclotom?RationalizedMat
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsNegInt
+constant http://www.gap-system.org/lib?cyclotom?IsNegInt
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsIntegralCyclotomic
+constant http://www.gap-system.org/lib?cyclotom?IsIntegralCyclotomic
+Includes http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsSmallIntRep
+constant http://www.gap-system.org/lib?cyclotom?IsSmallIntRep
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?IsSmallIntRep_st0
+constant http://www.gap-system.org/lib?cyclotom?IsSmallIntRep_st0
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?GaloisMat
+constant http://www.gap-system.org/lib?cyclotom?GaloisMat
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?RoundCycDown
+constant http://www.gap-system.org/lib?cyclotom?RoundCycDown
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?RoundCyc
+constant http://www.gap-system.org/lib?cyclotom?RoundCyc
+Declares http://www.gap-system.org/lib?cyclotom http://www.gap-system.org/lib?cyclotom?Conductor
+constant http://www.gap-system.org/lib?cyclotom?Conductor

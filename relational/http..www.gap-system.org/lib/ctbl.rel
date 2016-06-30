@@ -1,0 +1,187 @@
+theory http://www.gap-system.org/lib?ctbl
+HasMeta http://www.gap-system.org/lib?ctbl http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsNearlyCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsNearlyCharacterTable
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsCharacterTable_st0
+constant http://www.gap-system.org/lib?ctbl?IsCharacterTable_st0
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsOrdinaryTable
+constant http://www.gap-system.org/lib?ctbl?IsOrdinaryTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsOrdinaryTable_st0
+constant http://www.gap-system.org/lib?ctbl?IsOrdinaryTable_st0
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsOrdinaryTable_st1
+constant http://www.gap-system.org/lib?ctbl?IsOrdinaryTable_st1
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfSolvableResiduum
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfSolvableResiduum
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?FactorsOfDirectProduct
+constant http://www.gap-system.org/lib?ctbl?FactorsOfDirectProduct
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfUpperCentralSeries
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfUpperCentralSeries
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsCharacterTableInProgress
+constant http://www.gap-system.org/lib?ctbl?IsCharacterTableInProgress
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsCharacterTableInProgress_st0
+constant http://www.gap-system.org/lib?ctbl?IsCharacterTableInProgress_st0
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfSupersolvableResiduum
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfSupersolvableResiduum
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?string
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?permutat
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterTableWithSortedClasses
+constant http://www.gap-system.org/lib?ctbl?CharacterTableWithSortedClasses
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsPSolvableCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsPSolvableCharacterTable
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?LinearCharacters
+constant http://www.gap-system.org/lib?ctbl?LinearCharacters
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?RealClasses
+constant http://www.gap-system.org/lib?ctbl?RealClasses
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfSolvableRadical
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfSolvableRadical
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsGenericCharacterTableRep
+constant http://www.gap-system.org/lib?ctbl?IsGenericCharacterTableRep
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsGenericCharacterTableRep_st0
+constant http://www.gap-system.org/lib?ctbl?IsGenericCharacterTableRep_st0
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfElementaryAbelianSeries
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfElementaryAbelianSeries
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?OrdinaryCharacterTable
+constant http://www.gap-system.org/lib?ctbl?OrdinaryCharacterTable
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?tom
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?Identifier
+constant http://www.gap-system.org/lib?ctbl?Identifier
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterTableIsoclinic
+constant http://www.gap-system.org/lib?ctbl?CharacterTableIsoclinic
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?UnderlyingCharacteristic
+constant http://www.gap-system.org/lib?ctbl?UnderlyingCharacteristic
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterTableFactorGroup
+constant http://www.gap-system.org/lib?ctbl?CharacterTableFactorGroup
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?Indicator
+constant http://www.gap-system.org/lib?ctbl?Indicator
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfMaximalNormalSubgroups
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfMaximalNormalSubgroups
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?Irr
+constant http://www.gap-system.org/lib?ctbl?Irr
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterTableWithSortedCharacters
+constant http://www.gap-system.org/lib?ctbl?CharacterTableWithSortedCharacters
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfAgemo
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfAgemo
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?PrimeBlocksOp
+constant http://www.gap-system.org/lib?ctbl?PrimeBlocksOp
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassOrbit
+constant http://www.gap-system.org/lib?ctbl?ClassOrbit
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?SizesCentralizers
+constant http://www.gap-system.org/lib?ctbl?SizesCentralizers
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ComputedPrimeBlockss
+constant http://www.gap-system.org/lib?ctbl?ComputedPrimeBlockss
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsMonomialCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsMonomialCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?SizesConjugacyClasses
+constant http://www.gap-system.org/lib?ctbl?SizesConjugacyClasses
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassParameters
+constant http://www.gap-system.org/lib?ctbl?ClassParameters
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterParameters
+constant http://www.gap-system.org/lib?ctbl?CharacterParameters
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?UnderlyingGroup
+constant http://www.gap-system.org/lib?ctbl?UnderlyingGroup
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsSupersolvableCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsSupersolvableCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ComputedIndicators
+constant http://www.gap-system.org/lib?ctbl?ComputedIndicators
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsPerfectCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsPerfectCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfPCore
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfPCore
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?DisplayOptions
+constant http://www.gap-system.org/lib?ctbl?DisplayOptions
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPermutation
+constant http://www.gap-system.org/lib?ctbl?ClassPermutation
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IndicatorOp
+constant http://www.gap-system.org/lib?ctbl?IndicatorOp
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?SortedCharacters
+constant http://www.gap-system.org/lib?ctbl?SortedCharacters
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ComputedIsPSolvableCharacterTables
+constant http://www.gap-system.org/lib?ctbl?ComputedIsPSolvableCharacterTables
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?BrauerTable
+constant http://www.gap-system.org/lib?ctbl?BrauerTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfNormalClosure
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfNormalClosure
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsBrauerTable
+constant http://www.gap-system.org/lib?ctbl?IsBrauerTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsBrauerTable_st0
+constant http://www.gap-system.org/lib?ctbl?IsBrauerTable_st0
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsBrauerTable_st1
+constant http://www.gap-system.org/lib?ctbl?IsBrauerTable_st1
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?DecompositionMatrix
+constant http://www.gap-system.org/lib?ctbl?DecompositionMatrix
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?BrauerTableOp
+constant http://www.gap-system.org/lib?ctbl?BrauerTableOp
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterNames
+constant http://www.gap-system.org/lib?ctbl?CharacterNames
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfLowerCentralSeries
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfLowerCentralSeries
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?AutomorphismsOfTable
+constant http://www.gap-system.org/lib?ctbl?AutomorphismsOfTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?OrdersClassRepresentatives
+constant http://www.gap-system.org/lib?ctbl?OrdersClassRepresentatives
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterTableDirectProduct
+constant http://www.gap-system.org/lib?ctbl?CharacterTableDirectProduct
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfCentre
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfCentre
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfDerivedSubgroup
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfDerivedSubgroup
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IBr
+constant http://www.gap-system.org/lib?ctbl?IBr
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsSporadicSimpleCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsSporadicSimpleCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterTable
+constant http://www.gap-system.org/lib?ctbl?CharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfDirectProductDecompositions
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfDirectProductDecompositions
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsSolvableCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsSolvableCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?InverseClasses
+constant http://www.gap-system.org/lib?ctbl?InverseClasses
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?PrimeBlocks
+constant http://www.gap-system.org/lib?ctbl?PrimeBlocks
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfFittingSubgroup
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfFittingSubgroup
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfMinimalNormalSubgroups
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfMinimalNormalSubgroups
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IdentificationOfConjugacyClasses
+constant http://www.gap-system.org/lib?ctbl?IdentificationOfConjugacyClasses
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CharacterDegrees
+constant http://www.gap-system.org/lib?ctbl?CharacterDegrees
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ComputedBrauerTables
+constant http://www.gap-system.org/lib?ctbl?ComputedBrauerTables
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsLibraryCharacterTableRep
+constant http://www.gap-system.org/lib?ctbl?IsLibraryCharacterTableRep
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsLibraryCharacterTableRep_st0
+constant http://www.gap-system.org/lib?ctbl?IsLibraryCharacterTableRep_st0
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsLibraryCharacterTableRep_st1
+constant http://www.gap-system.org/lib?ctbl?IsLibraryCharacterTableRep_st1
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsPSolvableCharacterTableOp
+constant http://www.gap-system.org/lib?ctbl?IsPSolvableCharacterTableOp
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassPositionsOfNormalSubgroups
+constant http://www.gap-system.org/lib?ctbl?ClassPositionsOfNormalSubgroups
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?NormalSubgroupClassesInfo
+constant http://www.gap-system.org/lib?ctbl?NormalSubgroupClassesInfo
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassRoots
+constant http://www.gap-system.org/lib?ctbl?ClassRoots
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?SourceOfIsoclinicTable
+constant http://www.gap-system.org/lib?ctbl?SourceOfIsoclinicTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsSimpleCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsSimpleCharacterTable
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?ClassNames
+constant http://www.gap-system.org/lib?ctbl?ClassNames
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?BlocksInfo
+constant http://www.gap-system.org/lib?ctbl?BlocksInfo
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsNilpotentCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsNilpotentCharacterTable
+Includes http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?CompatibleConjugacyClasses
+constant http://www.gap-system.org/lib?ctbl?CompatibleConjugacyClasses
+Declares http://www.gap-system.org/lib?ctbl http://www.gap-system.org/lib?ctbl?IsAlmostSimpleCharacterTable
+constant http://www.gap-system.org/lib?ctbl?IsAlmostSimpleCharacterTable

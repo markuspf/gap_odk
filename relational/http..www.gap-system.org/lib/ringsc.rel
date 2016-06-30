@@ -1,0 +1,42 @@
+theory http://www.gap-system.org/lib?ringsc
+HasMeta http://www.gap-system.org/lib?ringsc http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?Subrings
+constant http://www.gap-system.org/lib?ringsc?Subrings
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?Ideals
+constant http://www.gap-system.org/lib?ringsc?Ideals
+Includes http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st0
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st0
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st1
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st1
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st2
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st2
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st3
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st3
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st4
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st4
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st5
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st5
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st6
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st6
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st7
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st7
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st8
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st8
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSCRingObj_st9
+constant http://www.gap-system.org/lib?ringsc?IsSCRingObj_st9
+Includes http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?StandardGeneratorsSubringSCRing
+constant http://www.gap-system.org/lib?ringsc?StandardGeneratorsSubringSCRing
+Includes http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?DirectSumOp
+constant http://www.gap-system.org/lib?ringsc?DirectSumOp
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?IsSubringSCRing
+constant http://www.gap-system.org/lib?ringsc?IsSubringSCRing
+Declares http://www.gap-system.org/lib?ringsc http://www.gap-system.org/lib?ringsc?DirectSumInfo
+constant http://www.gap-system.org/lib?ringsc?DirectSumInfo

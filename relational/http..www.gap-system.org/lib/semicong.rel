@@ -1,0 +1,20 @@
+theory http://www.gap-system.org/lib?semicong
+HasMeta http://www.gap-system.org/lib?semicong http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?mgmcong
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?IsSemigroupCongruence
+constant http://www.gap-system.org/lib?semicong?IsSemigroupCongruence
+Includes http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?IsReesCongruence
+constant http://www.gap-system.org/lib?semicong?IsReesCongruence
+Includes http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?SemigroupCongruenceByGeneratingPairs
+constant http://www.gap-system.org/lib?semicong?SemigroupCongruenceByGeneratingPairs
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?RightSemigroupCongruenceByGeneratingPairs
+constant http://www.gap-system.org/lib?semicong?RightSemigroupCongruenceByGeneratingPairs
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?IsRightSemigroupCongruence
+constant http://www.gap-system.org/lib?semicong?IsRightSemigroupCongruence
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?IsLeftSemigroupCongruence
+constant http://www.gap-system.org/lib?semicong?IsLeftSemigroupCongruence
+Declares http://www.gap-system.org/lib?semicong http://www.gap-system.org/lib?semicong?LeftSemigroupCongruenceByGeneratingPairs
+constant http://www.gap-system.org/lib?semicong?LeftSemigroupCongruenceByGeneratingPairs

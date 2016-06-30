@@ -1,0 +1,77 @@
+theory http://www.gap-system.org/lib?grplatt
+HasMeta http://www.gap-system.org/lib?grplatt http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?oprt
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st0
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st0
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st1
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st1
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st2
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st2
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st3
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st3
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st4
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st4
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st5
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st5
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st6
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st6
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st7
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st7
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st8
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st8
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st9
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsRep_st9
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?ConjugacyClassSubgroups
+constant http://www.gap-system.org/lib?grplatt?ConjugacyClassSubgroups
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsLatticeSubgroupsRep
+constant http://www.gap-system.org/lib?grplatt?IsLatticeSubgroupsRep
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsLatticeSubgroupsRep_st0
+constant http://www.gap-system.org/lib?grplatt?IsLatticeSubgroupsRep_st0
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsLatticeSubgroupsRep_st1
+constant http://www.gap-system.org/lib?grplatt?IsLatticeSubgroupsRep_st1
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?MinimalSupergroupsLattice
+constant http://www.gap-system.org/lib?grplatt?MinimalSupergroupsLattice
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?clas
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st0
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st0
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st1
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st1
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st2
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st2
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st3
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st3
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st4
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st4
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st5
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st5
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st6
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st6
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st7
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st7
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st8
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st8
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st9
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st9
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st10
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st10
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st11
+constant http://www.gap-system.org/lib?grplatt?IsConjugacyClassSubgroupsByStabilizerRep_st11
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?TomDataAlmostSimpleRecognition
+constant http://www.gap-system.org/lib?grplatt?TomDataAlmostSimpleRecognition
+Includes http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?ClassElementLattice
+constant http://www.gap-system.org/lib?grplatt?ClassElementLattice
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?MaximalSubgroupsLattice
+constant http://www.gap-system.org/lib?grplatt?MaximalSubgroupsLattice
+Declares http://www.gap-system.org/lib?grplatt http://www.gap-system.org/lib?grplatt?Zuppos
+constant http://www.gap-system.org/lib?grplatt?Zuppos

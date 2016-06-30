@@ -1,0 +1,237 @@
+theory http://www.gap-system.org/lib?field
+HasMeta http://www.gap-system.org/lib?field http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsField
+constant http://www.gap-system.org/lib?field?IsField
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?RealPart
+constant http://www.gap-system.org/lib?field?RealPart
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?DivisionRingByGenerators
+constant http://www.gap-system.org/lib?field?DivisionRingByGenerators
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?NormalBase
+constant http://www.gap-system.org/lib?field?NormalBase
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?Conjugates
+constant http://www.gap-system.org/lib?field?Conjugates
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?ClosureDivisionRing
+constant http://www.gap-system.org/lib?field?ClosureDivisionRing
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?semigrp
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st0
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st0
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st1
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st1
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st2
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st2
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st3
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st3
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st4
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st4
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st5
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st5
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st6
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st6
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st7
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st7
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st8
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st8
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st9
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st9
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st10
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st10
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st11
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st11
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st12
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st12
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st13
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st13
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st14
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st14
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st15
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st15
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st16
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st16
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st17
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st17
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st18
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st18
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st19
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st19
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st20
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st20
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st21
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st21
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st22
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st22
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st23
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st23
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st24
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st24
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st25
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st25
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st26
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st26
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st27
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st27
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st28
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st28
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st29
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st29
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st30
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st30
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st31
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st31
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st32
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st32
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st33
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st33
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st34
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st34
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st35
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st35
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st36
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st36
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st37
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st37
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st38
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st38
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st39
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st39
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st40
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st40
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st41
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st41
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st42
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st42
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st43
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st43
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st44
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st44
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st45
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st45
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st46
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st46
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st47
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st47
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st48
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st48
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st49
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st49
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st50
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st50
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st51
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st51
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st52
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st52
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st53
+constant http://www.gap-system.org/lib?field?IsFieldControlledByGaloisGroup_st53
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?PrimeField
+constant http://www.gap-system.org/lib?field?PrimeField
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?TracePolynomial
+constant http://www.gap-system.org/lib?field?TracePolynomial
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?FieldOverItselfByGenerators
+constant http://www.gap-system.org/lib?field?FieldOverItselfByGenerators
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st0
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st0
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st1
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st1
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st2
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st2
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st3
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st3
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st4
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st4
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st5
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st5
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st6
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st6
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st7
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st7
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st8
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st8
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st9
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st9
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st10
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st10
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st11
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st11
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st12
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st12
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st13
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st13
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st14
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st14
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st15
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st15
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st16
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st16
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st17
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st17
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st18
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st18
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st19
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st19
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st20
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st20
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st21
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st21
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st22
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st22
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st23
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st23
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st24
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st24
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsFieldElementsSpace_st25
+constant http://www.gap-system.org/lib?field?IsFieldElementsSpace_st25
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?DefaultFieldByGenerators
+constant http://www.gap-system.org/lib?field?DefaultFieldByGenerators
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?DefiningPolynomial
+constant http://www.gap-system.org/lib?field?DefiningPolynomial
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?DegreeOverPrimeField
+constant http://www.gap-system.org/lib?field?DegreeOverPrimeField
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?FrobeniusAutomorphism
+constant http://www.gap-system.org/lib?field?FrobeniusAutomorphism
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?AsDivisionRing
+constant http://www.gap-system.org/lib?field?AsDivisionRing
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?PrimitiveRoot
+constant http://www.gap-system.org/lib?field?PrimitiveRoot
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?Subfields
+constant http://www.gap-system.org/lib?field?Subfields
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?NthRoot
+constant http://www.gap-system.org/lib?field?NthRoot
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?ComplexConjugate
+constant http://www.gap-system.org/lib?field?ComplexConjugate
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?PrimitiveElement
+constant http://www.gap-system.org/lib?field?PrimitiveElement
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?IsPrimeField
+constant http://www.gap-system.org/lib?field?IsPrimeField
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?clas
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?GaloisGroup
+constant http://www.gap-system.org/lib?field?GaloisGroup
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?ctblfuns
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?Norm
+constant http://www.gap-system.org/lib?field?Norm
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?ImaginaryPart
+constant http://www.gap-system.org/lib?field?ImaginaryPart
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?RootOfDefiningPolynomial
+constant http://www.gap-system.org/lib?field?RootOfDefiningPolynomial
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?GeneratorsOfDivisionRing
+constant http://www.gap-system.org/lib?field?GeneratorsOfDivisionRing
+Includes http://www.gap-system.org/lib?field http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?FieldExtension
+constant http://www.gap-system.org/lib?field?FieldExtension
+Declares http://www.gap-system.org/lib?field http://www.gap-system.org/lib?field?Trace
+constant http://www.gap-system.org/lib?field?Trace
