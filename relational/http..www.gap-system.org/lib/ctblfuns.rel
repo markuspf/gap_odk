@@ -1,0 +1,205 @@
+theory http://www.gap-system.org/lib?ctblfuns
+HasMeta http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st0
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st0
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st1
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st1
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st2
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st2
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st3
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st3
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st4
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st4
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st5
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st5
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st6
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st6
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st7
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st7
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st8
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st8
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st9
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st9
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st10
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st10
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st11
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st11
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st12
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st12
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st13
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st13
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st14
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st14
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st15
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st15
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st16
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st16
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st17
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st17
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st18
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st18
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st19
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st19
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st20
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st20
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st21
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st21
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st22
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st22
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st23
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st23
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st24
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st24
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st25
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st25
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st26
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st26
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st27
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st27
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st28
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st28
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st29
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunction_st29
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsCharacter
+constant http://www.gap-system.org/lib?ctblfuns?IsCharacter
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?CycleStructureClass
+constant http://www.gap-system.org/lib?ctblfuns?CycleStructureClass
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?Symmetrizations
+constant http://www.gap-system.org/lib?ctblfuns?Symmetrizations
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?ReducedCharacters
+constant http://www.gap-system.org/lib?ctblfuns?ReducedCharacters
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?ClassFunction
+constant http://www.gap-system.org/lib?ctblfuns?ClassFunction
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?CorrespondingPermutations
+constant http://www.gap-system.org/lib?ctblfuns?CorrespondingPermutations
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?Character
+constant http://www.gap-system.org/lib?ctblfuns?Character
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?BrauerCharacterValue
+constant http://www.gap-system.org/lib?ctblfuns?BrauerCharacterValue
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?CentreOfCharacter
+constant http://www.gap-system.org/lib?ctblfuns?CentreOfCharacter
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st0
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st0
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st1
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st1
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st2
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st2
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st3
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st3
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st4
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st4
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st5
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st5
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st6
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st6
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st7
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st7
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st8
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st8
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st9
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st9
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st10
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st10
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st11
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st11
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st12
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st12
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st13
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st13
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st14
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st14
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st15
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st15
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st16
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st16
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st17
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st17
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st18
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st18
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st19
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st19
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st20
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st20
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st21
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st21
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st22
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st22
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st23
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st23
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st24
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st24
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st25
+constant http://www.gap-system.org/lib?ctblfuns?IsClassFunctionsSpace_st25
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?Tensored
+constant http://www.gap-system.org/lib?ctblfuns?Tensored
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?Restricted
+constant http://www.gap-system.org/lib?ctblfuns?Restricted
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?ConstituentsOfCharacter
+constant http://www.gap-system.org/lib?ctblfuns?ConstituentsOfCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?VirtualCharacter
+constant http://www.gap-system.org/lib?ctblfuns?VirtualCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?ReducedClassFunctions
+constant http://www.gap-system.org/lib?ctblfuns?ReducedClassFunctions
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?MatScalarProducts
+constant http://www.gap-system.org/lib?ctblfuns?MatScalarProducts
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?InducedClassFunctions
+constant http://www.gap-system.org/lib?ctblfuns?InducedClassFunctions
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsIrreducibleCharacter
+constant http://www.gap-system.org/lib?ctblfuns?IsIrreducibleCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?InducedClassFunction
+constant http://www.gap-system.org/lib?ctblfuns?InducedClassFunction
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?InertiaSubgroup
+constant http://www.gap-system.org/lib?ctblfuns?InertiaSubgroup
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?EigenvaluesChar
+constant http://www.gap-system.org/lib?ctblfuns?EigenvaluesChar
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?ValuesOfClassFunction
+constant http://www.gap-system.org/lib?ctblfuns?ValuesOfClassFunction
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?GlobalPartitionOfClasses
+constant http://www.gap-system.org/lib?ctblfuns?GlobalPartitionOfClasses
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?PermutationCharacter
+constant http://www.gap-system.org/lib?ctblfuns?PermutationCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?DeterminantOfCharacter
+constant http://www.gap-system.org/lib?ctblfuns?DeterminantOfCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?CentralCharacter
+constant http://www.gap-system.org/lib?ctblfuns?CentralCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?ClassPositionsOfKernel
+constant http://www.gap-system.org/lib?ctblfuns?ClassPositionsOfKernel
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?KernelOfCharacter
+constant http://www.gap-system.org/lib?ctblfuns?KernelOfCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?UnderlyingCharacterTable
+constant http://www.gap-system.org/lib?ctblfuns?UnderlyingCharacterTable
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?TrivialCharacter
+constant http://www.gap-system.org/lib?ctblfuns?TrivialCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?RestrictedClassFunction
+constant http://www.gap-system.org/lib?ctblfuns?RestrictedClassFunction
+Includes http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?InducedCyclic
+constant http://www.gap-system.org/lib?ctblfuns?InducedCyclic
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?DegreeOfCharacter
+constant http://www.gap-system.org/lib?ctblfuns?DegreeOfCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?IsVirtualCharacter
+constant http://www.gap-system.org/lib?ctblfuns?IsVirtualCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?Induced
+constant http://www.gap-system.org/lib?ctblfuns?Induced
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?NaturalCharacter
+constant http://www.gap-system.org/lib?ctblfuns?NaturalCharacter
+Declares http://www.gap-system.org/lib?ctblfuns http://www.gap-system.org/lib?ctblfuns?RestrictedClassFunctions
+constant http://www.gap-system.org/lib?ctblfuns?RestrictedClassFunctions

@@ -1,0 +1,108 @@
+theory http://www.gap-system.org/lib?fitfree
+HasMeta http://www.gap-system.org/lib?fitfree http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?ChiefSeriesTF
+constant http://www.gap-system.org/lib?fitfree?ChiefSeriesTF
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?semigrp
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?grp
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st0
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st0
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st1
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st1
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st2
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st2
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st3
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st3
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st4
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st4
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st5
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st5
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st6
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st6
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st7
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st7
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st8
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st8
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st9
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st9
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st10
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st10
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st11
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st11
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st12
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st12
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st13
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st13
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st14
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st14
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st15
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st15
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st16
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st16
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st17
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st17
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st18
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st18
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st19
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st19
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st20
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st20
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st21
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st21
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st22
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st22
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st23
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st23
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st24
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st24
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st25
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st25
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st26
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st26
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st27
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st27
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st28
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st28
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st29
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st29
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st30
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st30
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st31
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st31
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st32
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st32
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st33
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st33
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st34
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st34
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st35
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st35
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st36
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st36
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st37
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st37
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st38
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st38
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st39
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st39
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st40
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st40
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st41
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st41
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st42
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st42
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st43
+constant http://www.gap-system.org/lib?fitfree?CanComputeFittingFree_st43
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?DirectFactorsFittingFreeSocle
+constant http://www.gap-system.org/lib?fitfree?DirectFactorsFittingFreeSocle
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?FittingFreeLiftSetup
+constant http://www.gap-system.org/lib?fitfree?FittingFreeLiftSetup
+Includes http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?fitfree http://www.gap-system.org/lib?fitfree?RecogDecompinfoHomomorphism
+constant http://www.gap-system.org/lib?fitfree?RecogDecompinfoHomomorphism

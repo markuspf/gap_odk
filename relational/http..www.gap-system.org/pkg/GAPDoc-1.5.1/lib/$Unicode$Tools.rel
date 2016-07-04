@@ -1,0 +1,68 @@
+theory http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools
+HasMeta http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/lib?string
+Includes http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st0
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st0
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st1
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st1
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st2
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st2
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st3
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st3
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st4
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st4
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st5
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeString_st5
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?Unicode
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?Unicode
+Includes http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?Encode
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?Encode
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?UChar
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?UChar
+Includes http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/lib?cyclotom
+Includes http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st0
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st0
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st1
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st1
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st2
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st2
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st3
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st3
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st4
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st4
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st5
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st5
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st6
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st6
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st7
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st7
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st8
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st8
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st9
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st9
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st10
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st10
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st11
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st11
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st12
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st12
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st13
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st13
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st14
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st14
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st15
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st15
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st16
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st16
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st17
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st17
+Declares http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st18
+constant http://www.gap-system.org/pkg/GAPDoc-1.5.1/lib?UnicodeTools?IsUnicodeCharacter_st18

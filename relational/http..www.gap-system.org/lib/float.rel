@@ -1,0 +1,372 @@
+theory http://www.gap-system.org/lib?float
+HasMeta http://www.gap-system.org/lib?float http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat
+constant http://www.gap-system.org/lib?float?IsFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st0
+constant http://www.gap-system.org/lib?float?IsFloat_st0
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st1
+constant http://www.gap-system.org/lib?float?IsFloat_st1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st2
+constant http://www.gap-system.org/lib?float?IsFloat_st2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st3
+constant http://www.gap-system.org/lib?float?IsFloat_st3
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st4
+constant http://www.gap-system.org/lib?float?IsFloat_st4
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st5
+constant http://www.gap-system.org/lib?float?IsFloat_st5
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st6
+constant http://www.gap-system.org/lib?float?IsFloat_st6
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st7
+constant http://www.gap-system.org/lib?float?IsFloat_st7
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st8
+constant http://www.gap-system.org/lib?float?IsFloat_st8
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st9
+constant http://www.gap-system.org/lib?float?IsFloat_st9
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st10
+constant http://www.gap-system.org/lib?float?IsFloat_st10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloat_st11
+constant http://www.gap-system.org/lib?float?IsFloat_st11
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?AbsoluteValue
+constant http://www.gap-system.org/lib?float?AbsoluteValue
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Coth
+constant http://www.gap-system.org/lib?float?Coth
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?EqFloat
+constant http://www.gap-system.org/lib?float?EqFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Sup
+constant http://www.gap-system.org/lib?float?Sup
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsPInfinity
+constant http://www.gap-system.org/lib?float?IsPInfinity
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Csc
+constant http://www.gap-system.org/lib?float?Csc
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Round
+constant http://www.gap-system.org/lib?float?Round
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Frac
+constant http://www.gap-system.org/lib?float?Frac
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Log10
+constant http://www.gap-system.org/lib?float?Log10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsNInfinity
+constant http://www.gap-system.org/lib?float?IsNInfinity
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?BisectInterval
+constant http://www.gap-system.org/lib?float?BisectInterval
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?PrecisionFloat
+constant http://www.gap-system.org/lib?float?PrecisionFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?FrExp
+constant http://www.gap-system.org/lib?float?FrExp
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Expm1
+constant http://www.gap-system.org/lib?float?Expm1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Zeta
+constant http://www.gap-system.org/lib?float?Zeta
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Tan
+constant http://www.gap-system.org/lib?float?Tan
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Erf
+constant http://www.gap-system.org/lib?float?Erf
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Sec
+constant http://www.gap-system.org/lib?float?Sec
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval
+constant http://www.gap-system.org/lib?float?IsFloatInterval
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st0
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st0
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st1
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st2
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st3
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st3
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st4
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st4
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st5
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st5
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st6
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st6
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st7
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st7
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st8
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st8
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st9
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st9
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st10
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st11
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st11
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st12
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st12
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st13
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st13
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatInterval_st14
+constant http://www.gap-system.org/lib?float?IsFloatInterval_st14
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat
+constant http://www.gap-system.org/lib?float?IsComplexFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st0
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st0
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st1
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st2
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st3
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st3
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st4
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st4
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st5
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st5
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st6
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st6
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st7
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st7
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st8
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st8
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st9
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st9
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st10
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st11
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st11
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloat_st12
+constant http://www.gap-system.org/lib?float?IsComplexFloat_st12
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st0
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st0
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st1
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st2
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st3
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st3
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st4
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st4
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st5
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st5
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st6
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st6
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st7
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st7
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st8
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st8
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st9
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st9
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st10
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st11
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st11
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st12
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st12
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st13
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st13
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st14
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st14
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st15
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st15
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsComplexFloatInterval_st16
+constant http://www.gap-system.org/lib?float?IsComplexFloatInterval_st16
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?MakeFloat
+constant http://www.gap-system.org/lib?float?MakeFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?ComplexI
+constant http://www.gap-system.org/lib?float?ComplexI
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Sinh
+constant http://www.gap-system.org/lib?float?Sinh
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IncreaseInterval
+constant http://www.gap-system.org/lib?float?IncreaseInterval
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?RelativeDiameter
+constant http://www.gap-system.org/lib?float?RelativeDiameter
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Cosh
+constant http://www.gap-system.org/lib?float?Cosh
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Exp
+constant http://www.gap-system.org/lib?float?Exp
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Exp2
+constant http://www.gap-system.org/lib?float?Exp2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsDisjoint
+constant http://www.gap-system.org/lib?float?IsDisjoint
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st0
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st0
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st1
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st2
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st3
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st3
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st4
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st4
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st5
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st5
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st6
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st6
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st7
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st7
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st8
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st8
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st9
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st9
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st10
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st11
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st11
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st12
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st12
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st13
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st13
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st14
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st14
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st15
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st15
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st16
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st16
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st17
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st17
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st18
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st18
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st19
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st19
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st20
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st20
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st21
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st21
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st22
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st22
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st23
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st23
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st24
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st24
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st25
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st25
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st26
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st26
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st27
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st27
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st28
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st28
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st29
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st29
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st30
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st30
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st31
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st31
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st32
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st32
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st33
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st33
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st34
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st34
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPseudoField_st35
+constant http://www.gap-system.org/lib?float?IsFloatPseudoField_st35
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsNaN
+constant http://www.gap-system.org/lib?float?IsNaN
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Atan
+constant http://www.gap-system.org/lib?float?Atan
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Cot
+constant http://www.gap-system.org/lib?float?Cot
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Square
+constant http://www.gap-system.org/lib?float?Square
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Cos
+constant http://www.gap-system.org/lib?float?Cos
+Includes http://www.gap-system.org/lib?float http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st0
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st0
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st1
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st1
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st2
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st3
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st3
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st4
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st4
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st5
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st5
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st6
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st6
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st7
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st7
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st8
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st8
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st9
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st9
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st10
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st11
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st11
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatRationalFunction_st12
+constant http://www.gap-system.org/lib?float?IsFloatRationalFunction_st12
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Log1p
+constant http://www.gap-system.org/lib?float?Log1p
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Argument
+constant http://www.gap-system.org/lib?float?Argument
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatPolynomial
+constant http://www.gap-system.org/lib?float?IsFloatPolynomial
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Asin
+constant http://www.gap-system.org/lib?float?Asin
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Cyc
+constant http://www.gap-system.org/lib?float?Cyc
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Ceil
+constant http://www.gap-system.org/lib?float?Ceil
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Overlaps
+constant http://www.gap-system.org/lib?float?Overlaps
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?SinCos
+constant http://www.gap-system.org/lib?float?SinCos
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Gamma
+constant http://www.gap-system.org/lib?float?Gamma
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Trunc
+constant http://www.gap-system.org/lib?float?Trunc
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Atan2
+constant http://www.gap-system.org/lib?float?Atan2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?CubeRoot
+constant http://www.gap-system.org/lib?float?CubeRoot
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Sin
+constant http://www.gap-system.org/lib?float?Sin
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Inf
+constant http://www.gap-system.org/lib?float?Inf
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?SignFloat
+constant http://www.gap-system.org/lib?float?SignFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Acosh
+constant http://www.gap-system.org/lib?float?Acosh
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Acos
+constant http://www.gap-system.org/lib?float?Acos
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Sech
+constant http://www.gap-system.org/lib?float?Sech
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?AbsoluteDiameter
+constant http://www.gap-system.org/lib?float?AbsoluteDiameter
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?NewFloat
+constant http://www.gap-system.org/lib?float?NewFloat
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?LdExp
+constant http://www.gap-system.org/lib?float?LdExp
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Tanh
+constant http://www.gap-system.org/lib?float?Tanh
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?ValueInterval
+constant http://www.gap-system.org/lib?float?ValueInterval
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?RootsFloatOp
+constant http://www.gap-system.org/lib?float?RootsFloatOp
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Log2
+constant http://www.gap-system.org/lib?float?Log2
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Floor
+constant http://www.gap-system.org/lib?float?Floor
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Mid
+constant http://www.gap-system.org/lib?float?Mid
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?BlowupInterval
+constant http://www.gap-system.org/lib?float?BlowupInterval
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Exp10
+constant http://www.gap-system.org/lib?float?Exp10
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsXInfinity
+constant http://www.gap-system.org/lib?float?IsXInfinity
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?IsFloatUnivariatePolynomial
+constant http://www.gap-system.org/lib?float?IsFloatUnivariatePolynomial
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Asinh
+constant http://www.gap-system.org/lib?float?Asinh
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Csch
+constant http://www.gap-system.org/lib?float?Csch
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Atanh
+constant http://www.gap-system.org/lib?float?Atanh
+Declares http://www.gap-system.org/lib?float http://www.gap-system.org/lib?float?Hypothenuse
+constant http://www.gap-system.org/lib?float?Hypothenuse

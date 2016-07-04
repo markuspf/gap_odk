@@ -1,0 +1,8 @@
+theory http://www.gap-system.org/lib?tietze
+HasMeta http://www.gap-system.org/lib?tietze http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?tietze http://www.gap-system.org/lib?sgpres
+Declares http://www.gap-system.org/lib?tietze http://www.gap-system.org/lib?tietze?TzOptions
+constant http://www.gap-system.org/lib?tietze?TzOptions
+Includes http://www.gap-system.org/lib?tietze http://www.gap-system.org/lib?grpfp
+Declares http://www.gap-system.org/lib?tietze http://www.gap-system.org/lib?tietze?TietzeOrigin
+constant http://www.gap-system.org/lib?tietze?TietzeOrigin

@@ -1,0 +1,40 @@
+theory http://www.gap-system.org/lib?invsgp
+HasMeta http://www.gap-system.org/lib?invsgp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?AsInverseSubsemigroup
+constant http://www.gap-system.org/lib?invsgp?AsInverseSubsemigroup
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?InverseMonoidByGenerators
+constant http://www.gap-system.org/lib?invsgp?InverseMonoidByGenerators
+Includes http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?semigrp
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?GeneratorsOfInverseSemigroup
+constant http://www.gap-system.org/lib?invsgp?GeneratorsOfInverseSemigroup
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?IsGeneratorsOfInverseSemigroup
+constant http://www.gap-system.org/lib?invsgp?IsGeneratorsOfInverseSemigroup
+Includes http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?NaturalPartialOrder
+constant http://www.gap-system.org/lib?invsgp?NaturalPartialOrder
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?AsInverseSubmonoid
+constant http://www.gap-system.org/lib?invsgp?AsInverseSubmonoid
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?GeneratorsOfInverseMonoid
+constant http://www.gap-system.org/lib?invsgp?GeneratorsOfInverseMonoid
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?ReverseNaturalPartialOrder
+constant http://www.gap-system.org/lib?invsgp?ReverseNaturalPartialOrder
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?IsInverseMonoid
+constant http://www.gap-system.org/lib?invsgp?IsInverseMonoid
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?InverseSubmonoid
+constant http://www.gap-system.org/lib?invsgp?InverseSubmonoid
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?AsInverseSemigroup
+constant http://www.gap-system.org/lib?invsgp?AsInverseSemigroup
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?InverseSubsemigroupNC
+constant http://www.gap-system.org/lib?invsgp?InverseSubsemigroupNC
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?AsInverseMonoid
+constant http://www.gap-system.org/lib?invsgp?AsInverseMonoid
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?IsInverseSubsemigroup
+constant http://www.gap-system.org/lib?invsgp?IsInverseSubsemigroup
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?InverseSubsemigroup
+constant http://www.gap-system.org/lib?invsgp?InverseSubsemigroup
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?InverseSemigroupByGenerators
+constant http://www.gap-system.org/lib?invsgp?InverseSemigroupByGenerators
+Declares http://www.gap-system.org/lib?invsgp http://www.gap-system.org/lib?invsgp?InverseSubmonoidNC
+constant http://www.gap-system.org/lib?invsgp?InverseSubmonoidNC

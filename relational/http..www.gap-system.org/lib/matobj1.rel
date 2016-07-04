@@ -1,0 +1,99 @@
+theory http://www.gap-system.org/lib?matobj1
+HasMeta http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st0
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st0
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st1
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st1
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st2
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st2
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st3
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st3
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st4
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st4
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st5
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st5
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st6
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st6
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st7
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st7
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st8
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st8
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st9
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st9
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsMatrixObj_st10
+constant http://www.gap-system.org/lib?matobj1?IsMatrixObj_st10
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st0
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st0
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st1
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st1
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st2
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st2
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st3
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st3
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st4
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st4
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st5
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st5
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st6
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st6
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st7
+constant http://www.gap-system.org/lib?matobj1?IsRowVectorObj_st7
+Includes http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st0
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st0
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st1
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st1
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st2
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st2
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st3
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st3
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st4
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st4
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st5
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st5
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st6
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st6
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st7
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st7
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st8
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st8
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st9
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st9
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st10
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st10
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st11
+constant http://www.gap-system.org/lib?matobj1?IsRowListMatrix_st11
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st0
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st0
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st1
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st1
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st2
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st2
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st3
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st3
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st4
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st4
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st5
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st5
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st6
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st6
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st7
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st7
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st8
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st8
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st9
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st9
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st10
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st10
+Declares http://www.gap-system.org/lib?matobj1 http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st11
+constant http://www.gap-system.org/lib?matobj1?IsFlatMatrix_st11

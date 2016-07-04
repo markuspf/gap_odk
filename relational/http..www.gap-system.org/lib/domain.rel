@@ -1,0 +1,16 @@
+theory http://www.gap-system.org/lib?domain
+HasMeta http://www.gap-system.org/lib?domain http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?domain?IsGeneralizedDomain
+constant http://www.gap-system.org/lib?domain?IsGeneralizedDomain
+Includes http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?domain?ParentAttr
+constant http://www.gap-system.org/lib?domain?ParentAttr
+Declares http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?domain?GeneratorsOfDomain
+constant http://www.gap-system.org/lib?domain?GeneratorsOfDomain
+Includes http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?domain?DomainByGenerators
+constant http://www.gap-system.org/lib?domain?DomainByGenerators
+Declares http://www.gap-system.org/lib?domain http://www.gap-system.org/lib?domain?IsDomain
+constant http://www.gap-system.org/lib?domain?IsDomain

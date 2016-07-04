@@ -1,0 +1,98 @@
+theory http://www.gap-system.org/lib?padics
+HasMeta http://www.gap-system.org/lib?padics http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber
+constant http://www.gap-system.org/lib?padics?IsPadicNumber
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st0
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st0
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st1
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st1
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st2
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st2
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st3
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st3
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st4
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st4
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st5
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st5
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st6
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st6
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st7
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st7
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st8
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st8
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st9
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st9
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st10
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st10
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumber_st11
+constant http://www.gap-system.org/lib?padics?IsPadicNumber_st11
+Includes http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumberList
+constant http://www.gap-system.org/lib?padics?IsPadicNumberList
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicNumberTable
+constant http://www.gap-system.org/lib?padics?IsPadicNumberTable
+Includes http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?ShiftedPadicNumber
+constant http://www.gap-system.org/lib?padics?ShiftedPadicNumber
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?PadicNumber
+constant http://www.gap-system.org/lib?padics?PadicNumber
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st0
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st0
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st1
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st1
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st2
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st2
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st3
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st3
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st4
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st4
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st5
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st5
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st6
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st6
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st7
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st7
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st8
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st8
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st9
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st9
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st10
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st10
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st11
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st11
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPurePadicNumber_st12
+constant http://www.gap-system.org/lib?padics?IsPurePadicNumber_st12
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?Valuation
+constant http://www.gap-system.org/lib?padics?Valuation
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st0
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st0
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st1
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st1
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st2
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st2
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st3
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st3
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st4
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st4
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st5
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st5
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st6
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st6
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st7
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st7
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st8
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st8
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st9
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st9
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st10
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st10
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st11
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st11
+Declares http://www.gap-system.org/lib?padics http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st12
+constant http://www.gap-system.org/lib?padics?IsPadicExtensionNumber_st12

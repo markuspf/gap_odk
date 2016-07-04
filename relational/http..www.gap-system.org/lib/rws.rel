@@ -1,0 +1,91 @@
+theory http://www.gap-system.org/lib?rws
+HasMeta http://www.gap-system.org/lib?rws http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsRewritingSystem
+constant http://www.gap-system.org/lib?rws?IsRewritingSystem
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsRewritingSystem_st0
+constant http://www.gap-system.org/lib?rws?IsRewritingSystem_st0
+Includes http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?NumberGeneratorsOfRws
+constant http://www.gap-system.org/lib?rws?NumberGeneratorsOfRws
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromMagma
+constant http://www.gap-system.org/lib?rws?IsBuiltFromMagma
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromMagmaWithOne
+constant http://www.gap-system.org/lib?rws?IsBuiltFromMagmaWithOne
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromMagmaWithInverses
+constant http://www.gap-system.org/lib?rws?IsBuiltFromMagmaWithInverses
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromGroup
+constant http://www.gap-system.org/lib?rws?IsBuiltFromGroup
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedForm
+constant http://www.gap-system.org/lib?rws?ReducedForm
+Includes http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedDifference
+constant http://www.gap-system.org/lib?rws?ReducedDifference
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?Rules
+constant http://www.gap-system.org/lib?rws?Rules
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromAdditiveMagmaWithInverses
+constant http://www.gap-system.org/lib?rws?IsBuiltFromAdditiveMagmaWithInverses
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsReducedConfluentRewritingSystem
+constant http://www.gap-system.org/lib?rws?IsReducedConfluentRewritingSystem
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsReducedConfluentRewritingSystem_st0
+constant http://www.gap-system.org/lib?rws?IsReducedConfluentRewritingSystem_st0
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsReducedConfluentRewritingSystem_st1
+constant http://www.gap-system.org/lib?rws?IsReducedConfluentRewritingSystem_st1
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedComm
+constant http://www.gap-system.org/lib?rws?ReducedComm
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedProduct
+constant http://www.gap-system.org/lib?rws?ReducedProduct
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?SemigroupOfRewritingSystem
+constant http://www.gap-system.org/lib?rws?SemigroupOfRewritingSystem
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedInverse
+constant http://www.gap-system.org/lib?rws?ReducedInverse
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedOne
+constant http://www.gap-system.org/lib?rws?ReducedOne
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?MakeConfluent
+constant http://www.gap-system.org/lib?rws?MakeConfluent
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsReducedForm
+constant http://www.gap-system.org/lib?rws?IsReducedForm
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedZero
+constant http://www.gap-system.org/lib?rws?ReducedZero
+Includes http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?AddGenerators
+constant http://www.gap-system.org/lib?rws?AddGenerators
+Includes http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedPower
+constant http://www.gap-system.org/lib?rws?ReducedPower
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?MonoidOfRewritingSystem
+constant http://www.gap-system.org/lib?rws?MonoidOfRewritingSystem
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedConjugate
+constant http://www.gap-system.org/lib?rws?ReducedConjugate
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?FreeStructureOfRewritingSystem
+constant http://www.gap-system.org/lib?rws?FreeStructureOfRewritingSystem
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?OrderingOfRewritingSystem
+constant http://www.gap-system.org/lib?rws?OrderingOfRewritingSystem
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsConfluent
+constant http://www.gap-system.org/lib?rws?IsConfluent
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedLeftQuotient
+constant http://www.gap-system.org/lib?rws?ReducedLeftQuotient
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ConfluentRws
+constant http://www.gap-system.org/lib?rws?ConfluentRws
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedSum
+constant http://www.gap-system.org/lib?rws?ReducedSum
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedQuotient
+constant http://www.gap-system.org/lib?rws?ReducedQuotient
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?AddRule
+constant http://www.gap-system.org/lib?rws?AddRule
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?GeneratorsOfRws
+constant http://www.gap-system.org/lib?rws?GeneratorsOfRws
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedScalarProduct
+constant http://www.gap-system.org/lib?rws?ReducedScalarProduct
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReducedAdditiveInverse
+constant http://www.gap-system.org/lib?rws?ReducedAdditiveInverse
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?ReduceRules
+constant http://www.gap-system.org/lib?rws?ReduceRules
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsReduced
+constant http://www.gap-system.org/lib?rws?IsReduced
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromSemigroup
+constant http://www.gap-system.org/lib?rws?IsBuiltFromSemigroup
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?IsBuiltFromMonoid
+constant http://www.gap-system.org/lib?rws?IsBuiltFromMonoid
+Declares http://www.gap-system.org/lib?rws http://www.gap-system.org/lib?rws?AddRuleReduced
+constant http://www.gap-system.org/lib?rws?AddRuleReduced

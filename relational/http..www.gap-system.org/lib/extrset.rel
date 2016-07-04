@@ -1,0 +1,178 @@
+theory http://www.gap-system.org/lib?extrset
+HasMeta http://www.gap-system.org/lib?extrset http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsExtRSet
+constant http://www.gap-system.org/lib?extrset?IsExtRSet
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsExtRSet_st0
+constant http://www.gap-system.org/lib?extrset?IsExtRSet_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsExtRSet_st1
+constant http://www.gap-system.org/lib?extrset?IsExtRSet_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsExtRSet_st2
+constant http://www.gap-system.org/lib?extrset?IsExtRSet_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsExtRSet_st3
+constant http://www.gap-system.org/lib?extrset?IsExtRSet_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsExtRSet_st4
+constant http://www.gap-system.org/lib?extrset?IsExtRSet_st4
+Includes http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st0
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st1
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st2
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st3
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st4
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st5
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnBySuperset_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st0
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st1
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st2
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st3
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st4
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st5
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpEProd_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st0
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st1
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st2
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st3
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st4
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st5
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDSum_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st0
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st1
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st2
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st3
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st4
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st5
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpESum_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st0
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st1
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st2
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st3
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st4
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st5
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEOne_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st0
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st1
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st2
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st3
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st4
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st5
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByRing_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?RightActingDomain
+constant http://www.gap-system.org/lib?extrset?RightActingDomain
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?GeneratorsOfExtRSet
+constant http://www.gap-system.org/lib?extrset?GeneratorsOfExtRSet
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st0
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st1
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st2
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st3
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st4
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st5
+constant http://www.gap-system.org/lib?extrset?IsTrivialROpEZero_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st0
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st1
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st2
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st3
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st4
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st5
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpDProd_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st0
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st1
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st2
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st3
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st4
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st5
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st6
+constant http://www.gap-system.org/lib?extrset?IsRightActedOnByDivisionRing_st6
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st0
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st1
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st2
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st3
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st4
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st5
+constant http://www.gap-system.org/lib?extrset?IsAssociativeROpDProd_st5
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st0
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st0
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st1
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st1
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st2
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st2
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st3
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st3
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st4
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st4
+Declares http://www.gap-system.org/lib?extrset http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st5
+constant http://www.gap-system.org/lib?extrset?IsDistributiveROpEProd_st5

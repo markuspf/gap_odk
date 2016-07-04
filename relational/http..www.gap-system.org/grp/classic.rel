@@ -1,0 +1,38 @@
+theory http://www.gap-system.org/grp?classic
+HasMeta http://www.gap-system.org/grp?classic http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/grp?classic http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/grp?classic http://www.gap-system.org/lib?cyclotom
+Includes http://www.gap-system.org/grp?classic http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/grp?classic http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?GeneralLinearGroupCons
+constant http://www.gap-system.org/grp?classic?GeneralLinearGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?SymplecticGroupCons
+constant http://www.gap-system.org/grp?classic?SymplecticGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?SpecialUnitaryGroupCons
+constant http://www.gap-system.org/grp?classic?SpecialUnitaryGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?ProjectiveSpecialLinearGroupCons
+constant http://www.gap-system.org/grp?classic?ProjectiveSpecialLinearGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?SpecialOrthogonalGroupCons
+constant http://www.gap-system.org/grp?classic?SpecialOrthogonalGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?ProjectiveSymplecticGroupCons
+constant http://www.gap-system.org/grp?classic?ProjectiveSymplecticGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?ProjectiveGeneralUnitaryGroupCons
+constant http://www.gap-system.org/grp?classic?ProjectiveGeneralUnitaryGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?SpecialSemilinearGroupCons
+constant http://www.gap-system.org/grp?classic?SpecialSemilinearGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?SpecialLinearGroupCons
+constant http://www.gap-system.org/grp?classic?SpecialLinearGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?ProjectiveOmegaCons
+constant http://www.gap-system.org/grp?classic?ProjectiveOmegaCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?GeneralSemilinearGroupCons
+constant http://www.gap-system.org/grp?classic?GeneralSemilinearGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?GeneralOrthogonalGroupCons
+constant http://www.gap-system.org/grp?classic?GeneralOrthogonalGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?ProjectiveSpecialUnitaryGroupCons
+constant http://www.gap-system.org/grp?classic?ProjectiveSpecialUnitaryGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?OmegaCons
+constant http://www.gap-system.org/grp?classic?OmegaCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?ProjectiveGeneralLinearGroupCons
+constant http://www.gap-system.org/grp?classic?ProjectiveGeneralLinearGroupCons
+Declares http://www.gap-system.org/grp?classic http://www.gap-system.org/grp?classic?GeneralUnitaryGroupCons
+constant http://www.gap-system.org/grp?classic?GeneralUnitaryGroupCons

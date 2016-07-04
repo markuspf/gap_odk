@@ -1,0 +1,130 @@
+theory http://www.gap-system.org/lib?coll
+HasMeta http://www.gap-system.org/lib?coll http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsListOrCollection
+constant http://www.gap-system.org/lib?coll?IsListOrCollection
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsCollection
+constant http://www.gap-system.org/lib?coll?IsCollection
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsCollection_st0
+constant http://www.gap-system.org/lib?coll?IsCollection_st0
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?float
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsFinite
+constant http://www.gap-system.org/lib?coll?IsFinite
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsNonTrivial
+constant http://www.gap-system.org/lib?coll?IsNonTrivial
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsIterator
+constant http://www.gap-system.org/lib?coll?IsIterator
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsDoneIterator
+constant http://www.gap-system.org/lib?coll?IsDoneIterator
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsWholeFamily
+constant http://www.gap-system.org/lib?coll?IsWholeFamily
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Randomizer
+constant http://www.gap-system.org/lib?coll?Randomizer
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CollectionsFamily
+constant http://www.gap-system.org/lib?coll?CollectionsFamily
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsTrivial
+constant http://www.gap-system.org/lib?coll?IsTrivial
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Difference
+constant http://www.gap-system.org/lib?coll?Difference
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CanComputeSize
+constant http://www.gap-system.org/lib?coll?CanComputeSize
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?ElementsFamily
+constant http://www.gap-system.org/lib?coll?ElementsFamily
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsSubset
+constant http://www.gap-system.org/lib?coll?IsSubset
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CanEasilySortElements
+constant http://www.gap-system.org/lib?coll?CanEasilySortElements
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?UseFactorRelation
+constant http://www.gap-system.org/lib?coll?UseFactorRelation
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?NextIterator
+constant http://www.gap-system.org/lib?coll?NextIterator
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Union2
+constant http://www.gap-system.org/lib?coll?Union2
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?RepresentativeSmallest
+constant http://www.gap-system.org/lib?coll?RepresentativeSmallest
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?PseudoRandomSeed
+constant http://www.gap-system.org/lib?coll?PseudoRandomSeed
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsEmpty
+constant http://www.gap-system.org/lib?coll?IsEmpty
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsIteratorByFunctionsRep
+constant http://www.gap-system.org/lib?coll?IsIteratorByFunctionsRep
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsIteratorByFunctionsRep_st0
+constant http://www.gap-system.org/lib?coll?IsIteratorByFunctionsRep_st0
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?SSortedList
+constant http://www.gap-system.org/lib?coll?SSortedList
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?AsSSortedList
+constant http://www.gap-system.org/lib?coll?AsSSortedList
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IteratorSorted
+constant http://www.gap-system.org/lib?coll?IteratorSorted
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?SumOp
+constant http://www.gap-system.org/lib?coll?SumOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CheapRandomizer
+constant http://www.gap-system.org/lib?coll?CheapRandomizer
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CanEasilyCompareElements
+constant http://www.gap-system.org/lib?coll?CanEasilyCompareElements
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?PseudoRandom
+constant http://www.gap-system.org/lib?coll?PseudoRandom
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?ProductOp
+constant http://www.gap-system.org/lib?coll?ProductOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?UseIsomorphismRelation
+constant http://www.gap-system.org/lib?coll?UseIsomorphismRelation
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?AsList
+constant http://www.gap-system.org/lib?coll?AsList
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?AsSSortedListNonstored
+constant http://www.gap-system.org/lib?coll?AsSSortedListNonstored
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsEnumeratorByFunctionsRep
+constant http://www.gap-system.org/lib?coll?IsEnumeratorByFunctionsRep
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsEnumeratorByFunctionsRep_st0
+constant http://www.gap-system.org/lib?coll?IsEnumeratorByFunctionsRep_st0
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?ForAllOp
+constant http://www.gap-system.org/lib?coll?ForAllOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Enumerator
+constant http://www.gap-system.org/lib?coll?Enumerator
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?SortedList
+constant http://www.gap-system.org/lib?coll?SortedList
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Iterator
+constant http://www.gap-system.org/lib?coll?Iterator
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?FilteredOp
+constant http://www.gap-system.org/lib?coll?FilteredOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsIteratorByFunctions
+constant http://www.gap-system.org/lib?coll?IsIteratorByFunctions
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?NumberOp
+constant http://www.gap-system.org/lib?coll?NumberOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?EnumeratorSorted
+constant http://www.gap-system.org/lib?coll?EnumeratorSorted
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?UnderlyingCollection
+constant http://www.gap-system.org/lib?coll?UnderlyingCollection
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CanComputeIsSubset
+constant http://www.gap-system.org/lib?coll?CanComputeIsSubset
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?ListOp
+constant http://www.gap-system.org/lib?coll?ListOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Size
+constant http://www.gap-system.org/lib?coll?Size
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?CheapRandomizerAttr
+constant http://www.gap-system.org/lib?coll?CheapRandomizerAttr
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?ForAnyOp
+constant http://www.gap-system.org/lib?coll?ForAnyOp
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Intersection2
+constant http://www.gap-system.org/lib?coll?Intersection2
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsEnumeratorByFunctions
+constant http://www.gap-system.org/lib?coll?IsEnumeratorByFunctions
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?AsSortedList
+constant http://www.gap-system.org/lib?coll?AsSortedList
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?IsStandardIterator
+constant http://www.gap-system.org/lib?coll?IsStandardIterator
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?cyclotom
+Includes http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?random
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Random
+constant http://www.gap-system.org/lib?coll?Random
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?Representative
+constant http://www.gap-system.org/lib?coll?Representative
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?RandomizerAttr
+constant http://www.gap-system.org/lib?coll?RandomizerAttr
+Declares http://www.gap-system.org/lib?coll http://www.gap-system.org/lib?coll?UseSubsetRelation
+constant http://www.gap-system.org/lib?coll?UseSubsetRelation

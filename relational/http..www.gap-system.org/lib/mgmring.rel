@@ -1,0 +1,458 @@
+theory http://www.gap-system.org/lib?mgmring
+HasMeta http://www.gap-system.org/lib?mgmring http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st0
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st1
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st2
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st3
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st4
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st5
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st6
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st7
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st8
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st9
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloRelations_st9
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st0
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st1
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st2
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st3
+constant http://www.gap-system.org/lib?mgmring?IsElementOfMagmaRingModuloSpanOfZeroFamily_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?ZeroCoefficient
+constant http://www.gap-system.org/lib?mgmring?ZeroCoefficient
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st0
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st1
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st2
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st3
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st4
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st5
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st6
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st7
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st8
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st9
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st10
+constant http://www.gap-system.org/lib?mgmring?IsElementOfFreeMagmaRing_st10
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?NormalizedElementOfMagmaRingModuloRelations
+constant http://www.gap-system.org/lib?mgmring?NormalizedElementOfMagmaRingModuloRelations
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingObjDefaultRep
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingObjDefaultRep
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingObjDefaultRep_st0
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingObjDefaultRep_st0
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep
+constant http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st0
+constant http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st1
+constant http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st2
+constant http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st3
+constant http://www.gap-system.org/lib?mgmring?IsCanonicalBasisFreeMagmaRingRep_st3
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st0
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st1
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st2
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st3
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st4
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st5
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st6
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st7
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st8
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st9
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st10
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st10
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st11
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st11
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st12
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st12
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st13
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st13
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st14
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st14
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st15
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st15
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st16
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st16
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st17
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st17
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st18
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st18
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st19
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st19
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st20
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st20
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st21
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st21
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st22
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st22
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st23
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st23
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st24
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st24
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st25
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st25
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st26
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st26
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st27
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st27
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st28
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st28
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st29
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st29
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st30
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st30
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st31
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st31
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st32
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st32
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st33
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloRelations_st33
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st0
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st1
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st2
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st3
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st4
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st5
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st6
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st7
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st8
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st9
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st10
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st10
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st11
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st11
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st12
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st12
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st13
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st13
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st14
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st14
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st15
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st15
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st16
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st16
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st17
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st17
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st18
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st18
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st19
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st19
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st20
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st20
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st21
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st21
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st22
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st22
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st23
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st23
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st24
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st24
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st25
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st25
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st26
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st26
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st27
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st27
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st28
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st28
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st29
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st29
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st30
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st30
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st31
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st31
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st32
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st32
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st33
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st33
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st34
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRing_st34
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?UnderlyingMagma
+constant http://www.gap-system.org/lib?mgmring?UnderlyingMagma
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?AugmentationIdeal
+constant http://www.gap-system.org/lib?mgmring?AugmentationIdeal
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st0
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st1
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st2
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st3
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st4
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st5
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st6
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st7
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st8
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st9
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st10
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st10
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st11
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st11
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st12
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st12
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st13
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st13
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st14
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st14
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st15
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st15
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st16
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st16
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st17
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingMagmaMagmaRing_st17
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?CoefficientsAndMagmaElements
+constant http://www.gap-system.org/lib?mgmring?CoefficientsAndMagmaElements
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsGroupRing
+constant http://www.gap-system.org/lib?mgmring?IsGroupRing
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st0
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st1
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st2
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st3
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st4
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st5
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st6
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st7
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st8
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st9
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st10
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st10
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st11
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st11
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st12
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st12
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st13
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st13
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st14
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st14
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st15
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st15
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st16
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st16
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st17
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st17
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st18
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st18
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st19
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st19
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st20
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st20
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st21
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st21
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st22
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st22
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st23
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st23
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st24
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st24
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st25
+constant http://www.gap-system.org/lib?mgmring?IsSpaceOfElementsOfMagmaRing_st25
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsFreeMagmaRingWithOne
+constant http://www.gap-system.org/lib?mgmring?IsFreeMagmaRingWithOne
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st0
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st1
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st2
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st3
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st4
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st5
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st6
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st7
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st8
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st9
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st10
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st10
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st11
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st11
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st12
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st12
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st13
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st13
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st14
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st14
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st15
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st15
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st16
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st16
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st17
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st17
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st18
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st18
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st19
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st19
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st20
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st20
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st21
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st21
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st22
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st22
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st23
+constant http://www.gap-system.org/lib?mgmring?IsEmbeddingRingMagmaRing_st23
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st0
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st0
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st1
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st1
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st2
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st2
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st3
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st3
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st4
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st4
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st5
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st5
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st6
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st6
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st7
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st7
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st8
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st8
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st9
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st9
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st10
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st10
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st11
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st11
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st12
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st12
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st13
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st13
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st14
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st14
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st15
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st15
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st16
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st16
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st17
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st17
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st18
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st18
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st19
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st19
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st20
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st20
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st21
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st21
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st22
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st22
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st23
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st23
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st24
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st24
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st25
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st25
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st26
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st26
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st27
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st27
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st28
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st28
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st29
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st29
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st30
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st30
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st31
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st31
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st32
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st32
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st33
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st33
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st34
+constant http://www.gap-system.org/lib?mgmring?IsMagmaRingModuloSpanOfZero_st34
+Declares http://www.gap-system.org/lib?mgmring http://www.gap-system.org/lib?mgmring?ElementOfMagmaRing
+constant http://www.gap-system.org/lib?mgmring?ElementOfMagmaRing

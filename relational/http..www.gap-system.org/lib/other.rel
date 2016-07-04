@@ -1,0 +1,5 @@
+theory http://www.gap-system.org/lib?other
+HasMeta http://www.gap-system.org/lib?other http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?other http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?other http://www.gap-system.org/lib?other?MagmaInputString
+constant http://www.gap-system.org/lib?other?MagmaInputString

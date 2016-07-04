@@ -1,0 +1,46 @@
+theory http://www.gap-system.org/pkg/io-4.4.4/gap?iohub
+HasMeta http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IOHub
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IOHub
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHubCat
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHubCat
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHubCat_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHubCat_st0
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHub
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHub
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHub_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHub_st0
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHub_st1
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?IsIOHub_st1
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?Shutdown
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?Shutdown
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?OutputQueue
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?OutputQueue
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?DoIO
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?DoIO
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/lib?cyclotom
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?SubmitOutput
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?SubmitOutput
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?GetInput
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?GetInput
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?NewTCPConnection
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?NewTCPConnection
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?ShutdownServingSocket
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?ShutdownServingSocket
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?CloseConnection
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?CloseConnection
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?AttachServingSocket
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?AttachServingSocket
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?NewConnection
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?NewConnection
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?GetLenFrom8Bytes
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?GetLenFrom8Bytes
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?AcceptNewConnection
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?AcceptNewConnection
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?StoreLenIn8Bytes
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?StoreLenIn8Bytes
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?iohub http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?InputQueue
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?iohub?InputQueue

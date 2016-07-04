@@ -1,0 +1,28 @@
+theory http://www.gap-system.org/lib?rwspcsng
+HasMeta http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?IsSingleCollectorRep
+constant http://www.gap-system.org/lib?rwspcsng?IsSingleCollectorRep
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?IsSingleCollectorRep_st0
+constant http://www.gap-system.org/lib?rwspcsng?IsSingleCollectorRep_st0
+Includes http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is8BitsSingleCollectorRep
+constant http://www.gap-system.org/lib?rwspcsng?Is8BitsSingleCollectorRep
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is8BitsSingleCollectorRep_st0
+constant http://www.gap-system.org/lib?rwspcsng?Is8BitsSingleCollectorRep_st0
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is8BitsSingleCollectorRep_st1
+constant http://www.gap-system.org/lib?rwspcsng?Is8BitsSingleCollectorRep_st1
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is32BitsSingleCollectorRep
+constant http://www.gap-system.org/lib?rwspcsng?Is32BitsSingleCollectorRep
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is32BitsSingleCollectorRep_st0
+constant http://www.gap-system.org/lib?rwspcsng?Is32BitsSingleCollectorRep_st0
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is32BitsSingleCollectorRep_st1
+constant http://www.gap-system.org/lib?rwspcsng?Is32BitsSingleCollectorRep_st1
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?IsDefaultRhsTypeSingleCollector
+constant http://www.gap-system.org/lib?rwspcsng?IsDefaultRhsTypeSingleCollector
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is16BitsSingleCollectorRep
+constant http://www.gap-system.org/lib?rwspcsng?Is16BitsSingleCollectorRep
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is16BitsSingleCollectorRep_st0
+constant http://www.gap-system.org/lib?rwspcsng?Is16BitsSingleCollectorRep_st0
+Declares http://www.gap-system.org/lib?rwspcsng http://www.gap-system.org/lib?rwspcsng?Is16BitsSingleCollectorRep_st1
+constant http://www.gap-system.org/lib?rwspcsng?Is16BitsSingleCollectorRep_st1

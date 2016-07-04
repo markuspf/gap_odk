@@ -1,0 +1,64 @@
+theory http://www.gap-system.org/lib?orders
+HasMeta http://www.gap-system.org/lib?orders http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?WreathProductOrdering
+constant http://www.gap-system.org/lib?orders?WreathProductOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsOrdering
+constant http://www.gap-system.org/lib?orders?IsOrdering
+Includes http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?LessThanFunction
+constant http://www.gap-system.org/lib?orders?LessThanFunction
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsOrderingOnFamilyOfAssocWords
+constant http://www.gap-system.org/lib?orders?IsOrderingOnFamilyOfAssocWords
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?OrderingOnGenerators
+constant http://www.gap-system.org/lib?orders?OrderingOnGenerators
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsTotalOrdering
+constant http://www.gap-system.org/lib?orders?IsTotalOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsShortLexOrdering
+constant http://www.gap-system.org/lib?orders?IsShortLexOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsLessThanOrEqualUnder
+constant http://www.gap-system.org/lib?orders?IsLessThanOrEqualUnder
+Includes http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?OrderingByLessThanFunctionNC
+constant http://www.gap-system.org/lib?orders?OrderingByLessThanFunctionNC
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsWellFoundedOrdering
+constant http://www.gap-system.org/lib?orders?IsWellFoundedOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsTranslationInvariantOrdering
+constant http://www.gap-system.org/lib?orders?IsTranslationInvariantOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsReductionOrdering
+constant http://www.gap-system.org/lib?orders?IsReductionOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?OrderingByLessThanOrEqualFunctionNC
+constant http://www.gap-system.org/lib?orders?OrderingByLessThanOrEqualFunctionNC
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsLessThanUnder
+constant http://www.gap-system.org/lib?orders?IsLessThanUnder
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?OrderingsFamily
+constant http://www.gap-system.org/lib?orders?OrderingsFamily
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsBasicWreathProductOrdering
+constant http://www.gap-system.org/lib?orders?IsBasicWreathProductOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsIncomparableUnder
+constant http://www.gap-system.org/lib?orders?IsIncomparableUnder
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsWeightLexOrdering
+constant http://www.gap-system.org/lib?orders?IsWeightLexOrdering
+Includes http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?word
+Includes http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?LexicographicOrdering
+constant http://www.gap-system.org/lib?orders?LexicographicOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?IsWreathProductOrdering
+constant http://www.gap-system.org/lib?orders?IsWreathProductOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?LevelsOfGenerators
+constant http://www.gap-system.org/lib?orders?LevelsOfGenerators
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?ShortLexOrdering
+constant http://www.gap-system.org/lib?orders?ShortLexOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?LetterRepWordsLessFunc
+constant http://www.gap-system.org/lib?orders?LetterRepWordsLessFunc
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?FamilyForOrdering
+constant http://www.gap-system.org/lib?orders?FamilyForOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?WeightOfGenerators
+constant http://www.gap-system.org/lib?orders?WeightOfGenerators
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?LessThanOrEqualFunction
+constant http://www.gap-system.org/lib?orders?LessThanOrEqualFunction
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?WeightLexOrdering
+constant http://www.gap-system.org/lib?orders?WeightLexOrdering
+Declares http://www.gap-system.org/lib?orders http://www.gap-system.org/lib?orders?BasicWreathProductOrdering
+constant http://www.gap-system.org/lib?orders?BasicWreathProductOrdering

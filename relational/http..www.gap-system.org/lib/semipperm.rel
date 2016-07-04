@@ -1,0 +1,23 @@
+theory http://www.gap-system.org/lib?semipperm
+HasMeta http://www.gap-system.org/lib?semipperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?IsomorphismPartialPermMonoid
+constant http://www.gap-system.org/lib?semipperm?IsomorphismPartialPermMonoid
+Includes http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?pperm
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?IsPartialPermMonoid
+constant http://www.gap-system.org/lib?semipperm?IsPartialPermMonoid
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?CodegreeOfPartialPermSemigroup
+constant http://www.gap-system.org/lib?semipperm?CodegreeOfPartialPermSemigroup
+Includes http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?SymmetricInverseSemigroup
+constant http://www.gap-system.org/lib?semipperm?SymmetricInverseSemigroup
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?IsPartialPermSemigroup
+constant http://www.gap-system.org/lib?semipperm?IsPartialPermSemigroup
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?RankOfPartialPermSemigroup
+constant http://www.gap-system.org/lib?semipperm?RankOfPartialPermSemigroup
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?IsomorphismPartialPermSemigroup
+constant http://www.gap-system.org/lib?semipperm?IsomorphismPartialPermSemigroup
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?DegreeOfPartialPermSemigroup
+constant http://www.gap-system.org/lib?semipperm?DegreeOfPartialPermSemigroup
+Declares http://www.gap-system.org/lib?semipperm http://www.gap-system.org/lib?semipperm?IsSymmetricInverseSemigroup
+constant http://www.gap-system.org/lib?semipperm?IsSymmetricInverseSemigroup

@@ -1,0 +1,21 @@
+theory http://www.gap-system.org/lib?semitran
+HasMeta http://www.gap-system.org/lib?semitran http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?IsomorphismTransformationMonoid
+constant http://www.gap-system.org/lib?semitran?IsomorphismTransformationMonoid
+Includes http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?trans
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?IsTransformationMonoid
+constant http://www.gap-system.org/lib?semitran?IsTransformationMonoid
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?IsomorphismTransformationSemigroup
+constant http://www.gap-system.org/lib?semitran?IsomorphismTransformationSemigroup
+Includes http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?mgmcong
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?HomomorphismTransformationSemigroup
+constant http://www.gap-system.org/lib?semitran?HomomorphismTransformationSemigroup
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?AntiIsomorphismTransformationSemigroup
+constant http://www.gap-system.org/lib?semitran?AntiIsomorphismTransformationSemigroup
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?DegreeOfTransformationSemigroup
+constant http://www.gap-system.org/lib?semitran?DegreeOfTransformationSemigroup
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?IsFullTransformationSemigroup
+constant http://www.gap-system.org/lib?semitran?IsFullTransformationSemigroup
+Declares http://www.gap-system.org/lib?semitran http://www.gap-system.org/lib?semitran?IsTransformationSemigroup
+constant http://www.gap-system.org/lib?semitran?IsTransformationSemigroup

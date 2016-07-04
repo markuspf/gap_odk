@@ -1,0 +1,58 @@
+theory http://www.gap-system.org/lib?listcoef
+HasMeta http://www.gap-system.org/lib?listcoef http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?ffe
+Includes http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?AClosestVectorCombinationsMatFFEVecFFE
+constant http://www.gap-system.org/lib?listcoef?AClosestVectorCombinationsMatFFEVecFFE
+Includes http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?RemoveOuterCoeffs
+constant http://www.gap-system.org/lib?listcoef?RemoveOuterCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?LeftShiftRowVector
+constant http://www.gap-system.org/lib?listcoef?LeftShiftRowVector
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?ShiftedCoeffs
+constant http://www.gap-system.org/lib?listcoef?ShiftedCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?ShrinkRowVector
+constant http://www.gap-system.org/lib?listcoef?ShrinkRowVector
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?DistanceVecFFE
+constant http://www.gap-system.org/lib?listcoef?DistanceVecFFE
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?PadCoeffs
+constant http://www.gap-system.org/lib?listcoef?PadCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?PowerModCoeffs
+constant http://www.gap-system.org/lib?listcoef?PowerModCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?ValuePol
+constant http://www.gap-system.org/lib?listcoef?ValuePol
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?WeightVecFFE
+constant http://www.gap-system.org/lib?listcoef?WeightVecFFE
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?CosetLeadersMatFFE
+constant http://www.gap-system.org/lib?listcoef?CosetLeadersMatFFE
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?AddToListEntries
+constant http://www.gap-system.org/lib?listcoef?AddToListEntries
+Includes http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?MultRowVector
+constant http://www.gap-system.org/lib?listcoef?MultRowVector
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?ReduceCoeffsMod
+constant http://www.gap-system.org/lib?listcoef?ReduceCoeffsMod
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?AClosestVectorCombinationsMatFFEVecFFECoords
+constant http://www.gap-system.org/lib?listcoef?AClosestVectorCombinationsMatFFEVecFFECoords
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?QuotRemCoeffs
+constant http://www.gap-system.org/lib?listcoef?QuotRemCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?AddCoeffs
+constant http://www.gap-system.org/lib?listcoef?AddCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?AddRowVector
+constant http://www.gap-system.org/lib?listcoef?AddRowVector
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?DistancesDistributionVecFFEsVecFFE
+constant http://www.gap-system.org/lib?listcoef?DistancesDistributionVecFFEsVecFFE
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?ReduceCoeffs
+constant http://www.gap-system.org/lib?listcoef?ReduceCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?ProductCoeffs
+constant http://www.gap-system.org/lib?listcoef?ProductCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?RightShiftRowVector
+constant http://www.gap-system.org/lib?listcoef?RightShiftRowVector
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?DistancesDistributionMatFFEVecFFE
+constant http://www.gap-system.org/lib?listcoef?DistancesDistributionMatFFEVecFFE
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?MultCoeffs
+constant http://www.gap-system.org/lib?listcoef?MultCoeffs
+Declares http://www.gap-system.org/lib?listcoef http://www.gap-system.org/lib?listcoef?CoeffsMod
+constant http://www.gap-system.org/lib?listcoef?CoeffsMod

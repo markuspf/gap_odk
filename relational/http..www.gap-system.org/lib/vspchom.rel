@@ -1,0 +1,102 @@
+theory http://www.gap-system.org/lib?vspchom
+HasMeta http://www.gap-system.org/lib?vspchom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingByMatrixDefaultRep
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingByMatrixDefaultRep
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingByMatrixDefaultRep_st0
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingByMatrixDefaultRep_st0
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingByMatrixDefaultRep_st1
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingByMatrixDefaultRep_st1
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?addmagma
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?NaturalHomomorphismBySubspace
+constant http://www.gap-system.org/lib?vspchom?NaturalHomomorphismBySubspace
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?basis
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?LeftModuleHomomorphismByMatrix
+constant http://www.gap-system.org/lib?vspchom?LeftModuleHomomorphismByMatrix
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?AsLeftModuleGeneralMappingByImages
+constant http://www.gap-system.org/lib?vspchom?AsLeftModuleGeneralMappingByImages
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsFullHomModule
+constant http://www.gap-system.org/lib?vspchom?IsFullHomModule
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?End
+constant http://www.gap-system.org/lib?vspchom?End
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsPseudoCanonicalBasisFullHomModule
+constant http://www.gap-system.org/lib?vspchom?IsPseudoCanonicalBasisFullHomModule
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st0
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st0
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st1
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st1
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st2
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st2
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st3
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st3
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st4
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st4
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st5
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st5
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st6
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st6
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st7
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st7
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st8
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st8
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st9
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st9
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st10
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st10
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st11
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st11
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st12
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st12
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st13
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st13
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st14
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st14
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st15
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st15
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st16
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st16
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st17
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st17
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st18
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st18
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st19
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st19
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st20
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st20
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st21
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st21
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st22
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st22
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st23
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st23
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st24
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st24
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st25
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st25
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st26
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st26
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st27
+constant http://www.gap-system.org/lib?vspchom?IsLinearMappingsModule_st27
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?LeftModuleHomomorphismByImagesNC
+constant http://www.gap-system.org/lib?vspchom?LeftModuleHomomorphismByImagesNC
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?Hom
+constant http://www.gap-system.org/lib?vspchom?Hom
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearGeneralMappingByImagesDefaultRep
+constant http://www.gap-system.org/lib?vspchom?IsLinearGeneralMappingByImagesDefaultRep
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearGeneralMappingByImagesDefaultRep_st0
+constant http://www.gap-system.org/lib?vspchom?IsLinearGeneralMappingByImagesDefaultRep_st0
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?IsLinearGeneralMappingByImagesDefaultRep_st1
+constant http://www.gap-system.org/lib?vspchom?IsLinearGeneralMappingByImagesDefaultRep_st1
+Declares http://www.gap-system.org/lib?vspchom http://www.gap-system.org/lib?vspchom?LeftModuleGeneralMappingByImages
+constant http://www.gap-system.org/lib?vspchom?LeftModuleGeneralMappingByImages

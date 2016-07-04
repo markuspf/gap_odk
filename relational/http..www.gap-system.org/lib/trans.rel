@@ -1,0 +1,105 @@
+theory http://www.gap-system.org/lib?trans
+HasMeta http://www.gap-system.org/lib?trans http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?function
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TransformationOp
+constant http://www.gap-system.org/lib?trans?TransformationOp
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?RandomTransformation
+constant http://www.gap-system.org/lib?trans?RandomTransformation
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation
+constant http://www.gap-system.org/lib?trans?IsTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation_st0
+constant http://www.gap-system.org/lib?trans?IsTransformation_st0
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation_st1
+constant http://www.gap-system.org/lib?trans?IsTransformation_st1
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation_st2
+constant http://www.gap-system.org/lib?trans?IsTransformation_st2
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation_st3
+constant http://www.gap-system.org/lib?trans?IsTransformation_st3
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation_st4
+constant http://www.gap-system.org/lib?trans?IsTransformation_st4
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTransformation_st5
+constant http://www.gap-system.org/lib?trans?IsTransformation_st5
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?OnKernelAntiAction
+constant http://www.gap-system.org/lib?trans?OnKernelAntiAction
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?Idempotent
+constant http://www.gap-system.org/lib?trans?Idempotent
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?Transformation
+constant http://www.gap-system.org/lib?trans?Transformation
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?pperm
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?SmallestImageOfMovedPoint
+constant http://www.gap-system.org/lib?trans?SmallestImageOfMovedPoint
+Includes http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTrans4Rep
+constant http://www.gap-system.org/lib?trans?IsTrans4Rep
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTrans4Rep_st0
+constant http://www.gap-system.org/lib?trans?IsTrans4Rep_st0
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?AsPermutation
+constant http://www.gap-system.org/lib?trans?AsPermutation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?ComponentsOfTransformation
+constant http://www.gap-system.org/lib?trans?ComponentsOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?ConstantTransformation
+constant http://www.gap-system.org/lib?trans?ConstantTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?NrComponentsOfTransformation
+constant http://www.gap-system.org/lib?trans?NrComponentsOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?CycleTransformationInt
+constant http://www.gap-system.org/lib?trans?CycleTransformationInt
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TransformationByImageAndKernel
+constant http://www.gap-system.org/lib?trans?TransformationByImageAndKernel
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTrans2Rep
+constant http://www.gap-system.org/lib?trans?IsTrans2Rep
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsTrans2Rep_st0
+constant http://www.gap-system.org/lib?trans?IsTrans2Rep_st0
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?KernelOfTransformation
+constant http://www.gap-system.org/lib?trans?KernelOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?SmallestIdempotentPower
+constant http://www.gap-system.org/lib?trans?SmallestIdempotentPower
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TransformationOpNC
+constant http://www.gap-system.org/lib?trans?TransformationOpNC
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?NumberTransformation
+constant http://www.gap-system.org/lib?trans?NumberTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?ImageListOfTransformation
+constant http://www.gap-system.org/lib?trans?ImageListOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TransformationNumber
+constant http://www.gap-system.org/lib?trans?TransformationNumber
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TransformationList
+constant http://www.gap-system.org/lib?trans?TransformationList
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?ImageSetOfTransformation
+constant http://www.gap-system.org/lib?trans?ImageSetOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TrimTransformation
+constant http://www.gap-system.org/lib?trans?TrimTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?ComponentTransformationInt
+constant http://www.gap-system.org/lib?trans?ComponentTransformationInt
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?RightOne
+constant http://www.gap-system.org/lib?trans?RightOne
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?LeftOne
+constant http://www.gap-system.org/lib?trans?LeftOne
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?FlatKernelOfTransformation
+constant http://www.gap-system.org/lib?trans?FlatKernelOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?AsTransformation
+constant http://www.gap-system.org/lib?trans?AsTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?CyclesOfTransformation
+constant http://www.gap-system.org/lib?trans?CyclesOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?PreImagesOfTransformation
+constant http://www.gap-system.org/lib?trans?PreImagesOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?AsBinaryRelation
+constant http://www.gap-system.org/lib?trans?AsBinaryRelation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?TransformationListList
+constant http://www.gap-system.org/lib?trans?TransformationListList
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?IsFlatKernelOfTransformation
+constant http://www.gap-system.org/lib?trans?IsFlatKernelOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?ComponentRepsOfTransformation
+constant http://www.gap-system.org/lib?trans?ComponentRepsOfTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?LargestImageOfMovedPoint
+constant http://www.gap-system.org/lib?trans?LargestImageOfMovedPoint
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?DegreeOfTransformationCollection
+constant http://www.gap-system.org/lib?trans?DegreeOfTransformationCollection
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?PermLeftQuoTransformation
+constant http://www.gap-system.org/lib?trans?PermLeftQuoTransformation
+Declares http://www.gap-system.org/lib?trans http://www.gap-system.org/lib?trans?RankOfTransformation
+constant http://www.gap-system.org/lib?trans?RankOfTransformation

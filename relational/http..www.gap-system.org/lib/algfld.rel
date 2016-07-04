@@ -1,0 +1,375 @@
+theory http://www.gap-system.org/lib?algfld
+HasMeta http://www.gap-system.org/lib?algfld http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?semigrp
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?ring
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st0
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st0
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st1
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st1
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st2
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st2
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st3
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st3
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st4
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st4
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st5
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st5
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st6
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st6
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st7
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st7
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st8
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st8
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st9
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st9
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st10
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st10
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st11
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st11
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st12
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st12
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st13
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st13
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st14
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st14
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st15
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st15
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st16
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st16
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st17
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st17
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st18
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st18
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st19
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st19
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st20
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st20
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st21
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st21
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st22
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st22
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st23
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st23
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st24
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st24
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st25
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st25
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st26
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st26
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st27
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st27
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st28
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st28
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st29
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st29
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st30
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st30
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st31
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st31
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st32
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st32
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st33
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st33
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st34
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st34
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st35
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st35
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st36
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st36
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st37
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st37
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st38
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st38
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st39
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st39
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st40
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st40
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st41
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st41
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st42
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st42
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st43
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st43
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st44
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st44
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st45
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st45
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st46
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st46
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st47
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st47
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st48
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st48
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st49
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st49
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st50
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st50
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st51
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st51
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st52
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st52
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st53
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtension_st53
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?DefectApproximation
+constant http://www.gap-system.org/lib?algfld?DefectApproximation
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?AlgebraicExtension
+constant http://www.gap-system.org/lib?algfld?AlgebraicExtension
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?AlgebraicElementsFamily
+constant http://www.gap-system.org/lib?algfld?AlgebraicElementsFamily
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st0
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st0
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st1
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st1
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st2
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st2
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st3
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st3
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st4
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st4
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st5
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st5
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st6
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st6
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st7
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st7
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st8
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st8
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st9
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st9
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st10
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st10
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st11
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st11
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st12
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st12
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st13
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st13
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st14
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st14
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st15
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st15
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st16
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st16
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st17
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st17
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st18
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st18
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st19
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st19
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st20
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st20
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st21
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st21
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st22
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st22
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st23
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st23
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st24
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st24
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st25
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st25
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st26
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st26
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st27
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st27
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st28
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st28
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st29
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st29
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st30
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st30
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st31
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st31
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st32
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st32
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st33
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st33
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st34
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st34
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st35
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st35
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st36
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st36
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st37
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st37
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st38
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st38
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st39
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st39
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st40
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st40
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st41
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st41
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st42
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st42
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st43
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st43
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st44
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st44
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st45
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st45
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st46
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st46
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st47
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st47
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st48
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st48
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st49
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st49
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st50
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st50
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st51
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st51
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st52
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st52
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st53
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st53
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st54
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st54
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st55
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st55
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st56
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicExtensionDefaultRep_st56
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st0
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st0
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st1
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st1
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st2
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st2
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st3
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st3
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st4
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st4
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st5
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st5
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st6
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st6
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st7
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st7
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st8
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st8
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st9
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st9
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st10
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st10
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st11
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st11
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st12
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st12
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st13
+constant http://www.gap-system.org/lib?algfld?IsAlgebraicElement_st13
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st0
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st0
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st1
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st1
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st2
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st2
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st3
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st3
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st4
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st4
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st5
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st5
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st6
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st6
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st7
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st7
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st8
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st8
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st9
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st9
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st10
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st10
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st11
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st11
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st12
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st12
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st13
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st13
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st14
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st14
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsAlgBFRep_st15
+constant http://www.gap-system.org/lib?algfld?IsAlgBFRep_st15
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?MaxNumeratorCoeffAlgElm
+constant http://www.gap-system.org/lib?algfld?MaxNumeratorCoeffAlgElm
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st0
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st0
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st1
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st1
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st2
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st2
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st3
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st3
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st4
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st4
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st5
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st5
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st6
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st6
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st7
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st7
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st8
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st8
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st9
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st9
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st10
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st10
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st11
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st11
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st12
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st12
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st13
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st13
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st14
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st14
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st15
+constant http://www.gap-system.org/lib?algfld?IsKroneckerConstRep_st15
+Includes http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st0
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st0
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st1
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st1
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st2
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st2
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st3
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st3
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st4
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st4
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st5
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st5
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st6
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st6
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st7
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st7
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st8
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st8
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st9
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st9
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st10
+constant http://www.gap-system.org/lib?algfld?IsCanonicalBasisAlgebraicExtension_st10
+Declares http://www.gap-system.org/lib?algfld http://www.gap-system.org/lib?algfld?AlgebraicElementsFamilies
+constant http://www.gap-system.org/lib?algfld?AlgebraicElementsFamilies

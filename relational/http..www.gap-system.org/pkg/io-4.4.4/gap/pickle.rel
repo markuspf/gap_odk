@@ -1,0 +1,8 @@
+theory http://www.gap-system.org/pkg/io-4.4.4/gap?pickle
+HasMeta http://www.gap-system.org/pkg/io-4.4.4/gap?pickle http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?pickle http://www.gap-system.org/pkg/io-4.4.4/gap?io
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?pickle http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?pickle http://www.gap-system.org/pkg/io-4.4.4/gap?pickle?IO_Unpickle
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?pickle?IO_Unpickle
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?pickle http://www.gap-system.org/pkg/io-4.4.4/gap?pickle?IO_Pickle
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?pickle?IO_Pickle

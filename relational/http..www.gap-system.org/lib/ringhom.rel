@@ -1,0 +1,111 @@
+theory http://www.gap-system.org/lib?ringhom
+HasMeta http://www.gap-system.org/lib?ringhom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st0
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st0
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st1
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st1
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st2
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st2
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st3
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st3
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st4
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st4
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st5
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st5
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st6
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st6
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st7
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st7
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st8
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st8
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st9
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st9
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st10
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st10
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st11
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st11
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st12
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st12
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st13
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st13
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st14
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st14
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st15
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st15
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st16
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st16
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st17
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st17
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st18
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st18
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st19
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st19
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st20
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st20
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st21
+constant http://www.gap-system.org/lib?ringhom?IsRingGeneralMappingByImagesDefaultRep_st21
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?RingGeneralMappingByImages
+constant http://www.gap-system.org/lib?ringhom?RingGeneralMappingByImages
+Includes http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st0
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st0
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st1
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st1
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st2
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st2
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st3
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st3
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st4
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st4
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st5
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st5
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st6
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st6
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st7
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st7
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st8
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st8
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st9
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st9
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st10
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st10
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st11
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st11
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st12
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st12
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st13
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st13
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st14
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st14
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st15
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st15
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st16
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st16
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st17
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st17
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st18
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st18
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st19
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st19
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st20
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st20
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st21
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st21
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st22
+constant http://www.gap-system.org/lib?ringhom?IsSCRingGeneralMappingByImagesDefaultRep_st22
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?NaturalHomomorphismByIdeal
+constant http://www.gap-system.org/lib?ringhom?NaturalHomomorphismByIdeal
+Declares http://www.gap-system.org/lib?ringhom http://www.gap-system.org/lib?ringhom?RingHomomorphismByImagesNC
+constant http://www.gap-system.org/lib?ringhom?RingHomomorphismByImagesNC

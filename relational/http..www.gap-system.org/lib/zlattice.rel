@@ -1,0 +1,11 @@
+theory http://www.gap-system.org/lib?zlattice
+HasMeta http://www.gap-system.org/lib?zlattice http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?zlattice?Decomposition
+constant http://www.gap-system.org/lib?zlattice?Decomposition
+Includes http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?module
+Includes http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?matobj1
+Includes http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?zlattice http://www.gap-system.org/lib?zlattice?ScalarProduct
+constant http://www.gap-system.org/lib?zlattice?ScalarProduct

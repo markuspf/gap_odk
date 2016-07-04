@@ -1,0 +1,89 @@
+theory http://www.gap-system.org/lib?extaset
+HasMeta http://www.gap-system.org/lib?extaset http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet
+constant http://www.gap-system.org/lib?extaset?IsExtASet
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st0
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st0
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st1
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st1
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st2
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st2
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st3
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st3
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st4
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st4
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st5
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st5
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st6
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st6
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsExtASet_st7
+constant http://www.gap-system.org/lib?extaset?IsExtASet_st7
+Includes http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st0
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st0
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st1
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st1
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st2
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st2
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st3
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st3
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st4
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st4
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st5
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st5
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st6
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st6
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st7
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st7
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st8
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpESum_st8
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st0
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st0
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st1
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st1
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st2
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st2
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st3
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st3
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st4
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st4
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st5
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st5
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st6
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st6
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st7
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st7
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st8
+constant http://www.gap-system.org/lib?extaset?IsTrivialAOpEZero_st8
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?GeneratorsOfExtASet
+constant http://www.gap-system.org/lib?extaset?GeneratorsOfExtASet
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st0
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st0
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st1
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st1
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st2
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st2
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st3
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st3
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st4
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st4
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st5
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st5
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st6
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st6
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st7
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st7
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st8
+constant http://www.gap-system.org/lib?extaset?IsAssociativeAOpDSum_st8
+Declares http://www.gap-system.org/lib?extaset http://www.gap-system.org/lib?extaset?AdditivelyActingDomain
+constant http://www.gap-system.org/lib?extaset?AdditivelyActingDomain

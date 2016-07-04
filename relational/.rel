@@ -1,0 +1,7 @@
+document http://www.gap-system.org
+Declares http://www.gap-system.org http://www.gap-system.org/grp.omdoc
+Declares http://www.gap-system.org http://www.gap-system.org/lib.omdoc
+Declares http://www.gap-system.org http://www.gap-system.org/pkg
+Declares http://www.gap-system.org http://www.gap-system.org/prim.omdoc
+Declares http://www.gap-system.org http://www.gap-system.org/small.omdoc
+Declares http://www.gap-system.org http://www.gap-system.org/types.omdoc

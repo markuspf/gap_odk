@@ -1,0 +1,47 @@
+theory http://www.gap-system.org/lib?type
+HasMeta http://www.gap-system.org/lib?type http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamily
+constant http://www.gap-system.org/lib?type?IsFamily
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsComponentObjectRep
+constant http://www.gap-system.org/lib?type?IsComponentObjectRep
+Includes http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsAttributeStoringRep
+constant http://www.gap-system.org/lib?type?IsAttributeStoringRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsAttributeStoringRep_st0
+constant http://www.gap-system.org/lib?type?IsAttributeStoringRep_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsInternalRep
+constant http://www.gap-system.org/lib?type?IsInternalRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsPositionalObjectRep
+constant http://www.gap-system.org/lib?type?IsPositionalObjectRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamilyOfFamilies
+constant http://www.gap-system.org/lib?type?IsFamilyOfFamilies
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamilyOfFamilies_st0
+constant http://www.gap-system.org/lib?type?IsFamilyOfFamilies_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamilyDefaultRep
+constant http://www.gap-system.org/lib?type?IsFamilyDefaultRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamilyDefaultRep_st0
+constant http://www.gap-system.org/lib?type?IsFamilyDefaultRep_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsDataObjectRep
+constant http://www.gap-system.org/lib?type?IsDataObjectRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsNonAtomicComponentObjectRep
+constant http://www.gap-system.org/lib?type?IsNonAtomicComponentObjectRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsNonAtomicComponentObjectRep_st0
+constant http://www.gap-system.org/lib?type?IsNonAtomicComponentObjectRep_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamilyOfTypes
+constant http://www.gap-system.org/lib?type?IsFamilyOfTypes
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsFamilyOfTypes_st0
+constant http://www.gap-system.org/lib?type?IsFamilyOfTypes_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsTypeDefaultRep
+constant http://www.gap-system.org/lib?type?IsTypeDefaultRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsTypeDefaultRep_st0
+constant http://www.gap-system.org/lib?type?IsTypeDefaultRep_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsType
+constant http://www.gap-system.org/lib?type?IsType
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsReadOnlyPositionalObjectRep
+constant http://www.gap-system.org/lib?type?IsReadOnlyPositionalObjectRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsReadOnlyPositionalObjectRep_st0
+constant http://www.gap-system.org/lib?type?IsReadOnlyPositionalObjectRep_st0
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsAtomicPositionalObjectRep
+constant http://www.gap-system.org/lib?type?IsAtomicPositionalObjectRep
+Declares http://www.gap-system.org/lib?type http://www.gap-system.org/lib?type?IsAtomicPositionalObjectRep_st0
+constant http://www.gap-system.org/lib?type?IsAtomicPositionalObjectRep_st0

@@ -1,0 +1,224 @@
+theory http://www.gap-system.org/lib?basis
+HasMeta http://www.gap-system.org/lib?basis http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?UglyVector
+constant http://www.gap-system.org/lib?basis?UglyVector
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis
+constant http://www.gap-system.org/lib?basis?IsBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis_st0
+constant http://www.gap-system.org/lib?basis?IsBasis_st0
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis_st1
+constant http://www.gap-system.org/lib?basis?IsBasis_st1
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis_st2
+constant http://www.gap-system.org/lib?basis?IsBasis_st2
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis_st3
+constant http://www.gap-system.org/lib?basis?IsBasis_st3
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis_st4
+constant http://www.gap-system.org/lib?basis?IsBasis_st4
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasis_st5
+constant http://www.gap-system.org/lib?basis?IsBasis_st5
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?BasisVectors
+constant http://www.gap-system.org/lib?basis?BasisVectors
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSemiEchelonized
+constant http://www.gap-system.org/lib?basis?IsSemiEchelonized
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?SemiEchelonBasis
+constant http://www.gap-system.org/lib?basis?SemiEchelonBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st0
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st0
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st1
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st1
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st2
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st2
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st3
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st3
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st4
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st4
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st5
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st5
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st6
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st6
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st7
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st7
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st8
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st8
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st9
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st9
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st10
+constant http://www.gap-system.org/lib?basis?IsBasisByNiceBasis_st10
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?NiceBasisNC
+constant http://www.gap-system.org/lib?basis?NiceBasisNC
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?Basis
+constant http://www.gap-system.org/lib?basis?Basis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IteratorByBasis
+constant http://www.gap-system.org/lib?basis?IteratorByBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?NiceFreeLeftModule
+constant http://www.gap-system.org/lib?basis?NiceFreeLeftModule
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisWithReplacedLeftModuleRep
+constant http://www.gap-system.org/lib?basis?IsBasisWithReplacedLeftModuleRep
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisWithReplacedLeftModuleRep_st0
+constant http://www.gap-system.org/lib?basis?IsBasisWithReplacedLeftModuleRep_st0
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsBasisWithReplacedLeftModuleRep_st1
+constant http://www.gap-system.org/lib?basis?IsBasisWithReplacedLeftModuleRep_st1
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?addmagma
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st0
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st0
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st1
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st1
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st2
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st2
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st3
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st3
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st4
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st4
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st5
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st5
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st6
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st6
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st7
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st7
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st8
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st8
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st9
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st9
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st10
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st10
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st11
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st11
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st12
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st12
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st13
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st13
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st14
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st14
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st15
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st15
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st16
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st16
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st17
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st17
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st18
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st18
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st19
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st19
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st20
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st20
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st21
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st21
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st22
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st22
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st23
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st23
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st24
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st24
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st25
+constant http://www.gap-system.org/lib?basis?IsGenericFiniteSpace_st25
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?EnumeratorByBasis
+constant http://www.gap-system.org/lib?basis?EnumeratorByBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsIntegralBasis
+constant http://www.gap-system.org/lib?basis?IsIntegralBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsRelativeBasisDefaultRep
+constant http://www.gap-system.org/lib?basis?IsRelativeBasisDefaultRep
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsRelativeBasisDefaultRep_st0
+constant http://www.gap-system.org/lib?basis?IsRelativeBasisDefaultRep_st0
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsRelativeBasisDefaultRep_st1
+constant http://www.gap-system.org/lib?basis?IsRelativeBasisDefaultRep_st1
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?BasisNC
+constant http://www.gap-system.org/lib?basis?BasisNC
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsCanonicalBasis
+constant http://www.gap-system.org/lib?basis?IsCanonicalBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsCanonicalBasisFullMatrixModule
+constant http://www.gap-system.org/lib?basis?IsCanonicalBasisFullMatrixModule
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?NiceFreeLeftModuleInfo
+constant http://www.gap-system.org/lib?basis?NiceFreeLeftModuleInfo
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?SiftedVector
+constant http://www.gap-system.org/lib?basis?SiftedVector
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?Coefficients
+constant http://www.gap-system.org/lib?basis?Coefficients
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsCanonicalBasisFullRowModule
+constant http://www.gap-system.org/lib?basis?IsCanonicalBasisFullRowModule
+Includes http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsFiniteBasisDefault
+constant http://www.gap-system.org/lib?basis?IsFiniteBasisDefault
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st0
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st0
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st1
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st1
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st2
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st2
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st3
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st3
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st4
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st4
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st5
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st5
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st6
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st6
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st7
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st7
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st8
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st8
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st9
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st9
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st10
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st10
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st11
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st11
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st12
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st12
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st13
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st13
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st14
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st14
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st15
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st15
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st16
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st16
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st17
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st17
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st18
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st18
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st19
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st19
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st20
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st20
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st21
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st21
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st22
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st22
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st23
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st23
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st24
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st24
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st25
+constant http://www.gap-system.org/lib?basis?IsSpaceOfRationalFunctions_st25
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?NiceVector
+constant http://www.gap-system.org/lib?basis?NiceVector
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?StructureConstantsTable
+constant http://www.gap-system.org/lib?basis?StructureConstantsTable
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?NiceBasis
+constant http://www.gap-system.org/lib?basis?NiceBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?UnderlyingLeftModule
+constant http://www.gap-system.org/lib?basis?UnderlyingLeftModule
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?IsNormalBasis
+constant http://www.gap-system.org/lib?basis?IsNormalBasis
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?SemiEchelonBasisNC
+constant http://www.gap-system.org/lib?basis?SemiEchelonBasisNC
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?LinearCombination
+constant http://www.gap-system.org/lib?basis?LinearCombination
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?RelativeBasisNC
+constant http://www.gap-system.org/lib?basis?RelativeBasisNC
+Declares http://www.gap-system.org/lib?basis http://www.gap-system.org/lib?basis?RelativeBasis
+constant http://www.gap-system.org/lib?basis?RelativeBasis

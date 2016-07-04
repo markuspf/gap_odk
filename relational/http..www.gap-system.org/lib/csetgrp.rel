@@ -1,0 +1,167 @@
+theory http://www.gap-system.org/lib?csetgrp
+HasMeta http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?ComputedAscendingChains
+constant http://www.gap-system.org/lib?csetgrp?ComputedAscendingChains
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?grp
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st0
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st0
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st1
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st1
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st2
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st2
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st3
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st3
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st4
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st4
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st5
+constant http://www.gap-system.org/lib?csetgrp?IsRightTransversalViaCosetsRep_st5
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?extrset
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st0
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st0
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st1
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st1
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st2
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st2
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st3
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st3
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st4
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st4
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st5
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st5
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st6
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCoset_st6
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?LeftActingGroup
+constant http://www.gap-system.org/lib?csetgrp?LeftActingGroup
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?RightCosetsNC
+constant http://www.gap-system.org/lib?csetgrp?RightCosetsNC
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?oprt
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st0
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st0
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st1
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st1
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st2
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st2
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st3
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st3
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st4
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st4
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st5
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st5
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st6
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st6
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st7
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st7
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st8
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st8
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st9
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st9
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st10
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st10
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st11
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st11
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st12
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st12
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st13
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st13
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCoset_st14
+constant http://www.gap-system.org/lib?csetgrp?IsRightCoset_st14
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st0
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st0
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st1
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st1
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st2
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st2
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st3
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st3
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st4
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st4
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st5
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st5
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st6
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st6
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st7
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st7
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st8
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st8
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st9
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st9
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st10
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st10
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st11
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st11
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st12
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st12
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st13
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st13
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st14
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st14
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st15
+constant http://www.gap-system.org/lib?csetgrp?IsRightCosetDefaultRep_st15
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?DoubleCoset
+constant http://www.gap-system.org/lib?csetgrp?DoubleCoset
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?RightCoset
+constant http://www.gap-system.org/lib?csetgrp?RightCoset
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?DoubleCosetRepsAndSizes
+constant http://www.gap-system.org/lib?csetgrp?DoubleCosetRepsAndSizes
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?CanonicalRightCosetElement
+constant http://www.gap-system.org/lib?csetgrp?CanonicalRightCosetElement
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?AscendingChainOp
+constant http://www.gap-system.org/lib?csetgrp?AscendingChainOp
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st0
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st0
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st1
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st1
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st2
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st2
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st3
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st3
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st4
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st4
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st5
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st5
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st6
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st6
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st7
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st7
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st8
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st8
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st9
+constant http://www.gap-system.org/lib?csetgrp?IsDoubleCosetDefaultRep_st9
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?RightActingGroup
+constant http://www.gap-system.org/lib?csetgrp?RightActingGroup
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?DoubleCosetsNC
+constant http://www.gap-system.org/lib?csetgrp?DoubleCosetsNC
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st0
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st0
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st1
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st1
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st2
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st2
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st3
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st3
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st4
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st4
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st5
+constant http://www.gap-system.org/lib?csetgrp?IsFactoredTransversalRep_st5
+Declares http://www.gap-system.org/lib?csetgrp http://www.gap-system.org/lib?csetgrp?RepresentativesContainedRightCosets
+constant http://www.gap-system.org/lib?csetgrp?RepresentativesContainedRightCosets

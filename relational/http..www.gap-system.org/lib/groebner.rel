@@ -1,0 +1,42 @@
+theory http://www.gap-system.org/lib?groebner
+HasMeta http://www.gap-system.org/lib?groebner http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsMonomialOrdering
+constant http://www.gap-system.org/lib?groebner?IsMonomialOrdering
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep
+constant http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st0
+constant http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st0
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st1
+constant http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st1
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st2
+constant http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st2
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st3
+constant http://www.gap-system.org/lib?groebner?IsMonomialOrderingDefaultRep_st3
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?MonomialComparisonFunction
+constant http://www.gap-system.org/lib?groebner?MonomialComparisonFunction
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?ratfun
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?ideal
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?ReducedGroebnerBasis
+constant http://www.gap-system.org/lib?groebner?ReducedGroebnerBasis
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?GroebnerBasis
+constant http://www.gap-system.org/lib?groebner?GroebnerBasis
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?StoredGroebnerBasis
+constant http://www.gap-system.org/lib?groebner?StoredGroebnerBasis
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?LeadingTermOfPolynomial
+constant http://www.gap-system.org/lib?groebner?LeadingTermOfPolynomial
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?LeadingCoefficientOfPolynomial
+constant http://www.gap-system.org/lib?groebner?LeadingCoefficientOfPolynomial
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?OccuringVariableIndices
+constant http://www.gap-system.org/lib?groebner?OccuringVariableIndices
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?MonomialExtrepComparisonFun
+constant http://www.gap-system.org/lib?groebner?MonomialExtrepComparisonFun
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?IsPolynomialRingIdeal
+constant http://www.gap-system.org/lib?groebner?IsPolynomialRingIdeal
+Declares http://www.gap-system.org/lib?groebner http://www.gap-system.org/lib?groebner?LeadingMonomialOfPolynomial
+constant http://www.gap-system.org/lib?groebner?LeadingMonomialOfPolynomial

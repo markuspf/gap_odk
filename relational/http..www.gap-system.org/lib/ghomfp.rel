@@ -1,0 +1,228 @@
+theory http://www.gap-system.org/lib?ghomfp
+HasMeta http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?Extrarankfilter
+constant http://www.gap-system.org/lib?ghomfp?Extrarankfilter
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st0
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st0
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st1
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st1
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st2
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st2
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st3
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st3
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st4
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st4
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st5
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st5
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st6
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st6
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st7
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st7
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st8
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st8
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st9
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st9
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st10
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st10
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st11
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st11
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st12
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st12
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st13
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMapping_st13
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghom
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st17
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st17
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st18
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupGeneralMappingByImages_st18
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st17
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st17
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st18
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st18
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st19
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensGeneralMappingByImages_st19
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensHomomorphismByImages
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupStdGensHomomorphismByImages
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupGeneralMappingByImages_st16
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?EpimorphismFromFreeGroup
+constant http://www.gap-system.org/lib?ghomfp?EpimorphismFromFreeGroup
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupHomomorphismByImages
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupHomomorphismByImages
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?CosetTableFpHom
+constant http://www.gap-system.org/lib?ghomfp?CosetTableFpHom
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsWordDecompHomomorphism
+constant http://www.gap-system.org/lib?ghomfp?IsWordDecompHomomorphism
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsFromFpGroupHomomorphism
+constant http://www.gap-system.org/lib?ghomfp?IsFromFpGroupHomomorphism
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?grpfp
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsomorphismSimplifiedFpGroup
+constant http://www.gap-system.org/lib?ghomfp?IsomorphismSimplifiedFpGroup
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?oper
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st0
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st0
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st1
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st1
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st2
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st2
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st3
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st3
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st4
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st4
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st5
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st5
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st6
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st6
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st7
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st7
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st8
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st8
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st9
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st9
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st10
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st10
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st11
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st11
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st12
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st12
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st13
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st13
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st14
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st14
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st15
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st15
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st16
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st16
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st17
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st17
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st18
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st18
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st19
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st19
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st20
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st20
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st21
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st21
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st22
+constant http://www.gap-system.org/lib?ghomfp?IsModuloPcgsFpGroupRep_st22
+Declares http://www.gap-system.org/lib?ghomfp http://www.gap-system.org/lib?ghomfp?IsToFpGroupHomomorphismByImages
+constant http://www.gap-system.org/lib?ghomfp?IsToFpGroupHomomorphismByImages

@@ -1,0 +1,127 @@
+theory http://www.gap-system.org/lib?ffe
+HasMeta http://www.gap-system.org/lib?ffe http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE
+constant http://www.gap-system.org/lib?ffe?IsFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st0
+constant http://www.gap-system.org/lib?ffe?IsFFE_st0
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st1
+constant http://www.gap-system.org/lib?ffe?IsFFE_st1
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st2
+constant http://www.gap-system.org/lib?ffe?IsFFE_st2
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st3
+constant http://www.gap-system.org/lib?ffe?IsFFE_st3
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st4
+constant http://www.gap-system.org/lib?ffe?IsFFE_st4
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st5
+constant http://www.gap-system.org/lib?ffe?IsFFE_st5
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st6
+constant http://www.gap-system.org/lib?ffe?IsFFE_st6
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st7
+constant http://www.gap-system.org/lib?ffe?IsFFE_st7
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st8
+constant http://www.gap-system.org/lib?ffe?IsFFE_st8
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st9
+constant http://www.gap-system.org/lib?ffe?IsFFE_st9
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st10
+constant http://www.gap-system.org/lib?ffe?IsFFE_st10
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st11
+constant http://www.gap-system.org/lib?ffe?IsFFE_st11
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st12
+constant http://www.gap-system.org/lib?ffe?IsFFE_st12
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsFFE_st13
+constant http://www.gap-system.org/lib?ffe?IsFFE_st13
+Includes http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st0
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st0
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st1
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st1
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st2
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st2
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st3
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st3
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st4
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st4
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st5
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st5
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st6
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st6
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st7
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st7
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st8
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st8
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st9
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st9
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st10
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st10
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st11
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st11
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st12
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st12
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st13
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st13
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st14
+constant http://www.gap-system.org/lib?ffe?IsLogOrderedFFE_st14
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?AsInternalFFE
+constant http://www.gap-system.org/lib?ffe?AsInternalFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IntFFE
+constant http://www.gap-system.org/lib?ffe?IntFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?DegreeFFE
+constant http://www.gap-system.org/lib?ffe?DegreeFFE
+Includes http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?DIFF_FFE_LARGE
+constant http://www.gap-system.org/lib?ffe?DIFF_FFE_LARGE
+Includes http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?LargeGaloisField
+constant http://www.gap-system.org/lib?ffe?LargeGaloisField
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?ZOp
+constant http://www.gap-system.org/lib?ffe?ZOp
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st0
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st0
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st1
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st1
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st2
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st2
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st3
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st3
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st4
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st4
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st5
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st5
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st6
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st6
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st7
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st7
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st8
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st8
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st9
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st9
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st10
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st10
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st11
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st11
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st12
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st12
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st13
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st13
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st14
+constant http://www.gap-system.org/lib?ffe?IsLexOrderedFFE_st14
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?RootFFE
+constant http://www.gap-system.org/lib?ffe?RootFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?QUO_FFE_LARGE
+constant http://www.gap-system.org/lib?ffe?QUO_FFE_LARGE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IntFFESymm
+constant http://www.gap-system.org/lib?ffe?IntFFESymm
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?LogFFE
+constant http://www.gap-system.org/lib?ffe?LogFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?SUM_FFE_LARGE
+constant http://www.gap-system.org/lib?ffe?SUM_FFE_LARGE
+Includes http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?IntVecFFE
+constant http://www.gap-system.org/lib?ffe?IntVecFFE
+Declares http://www.gap-system.org/lib?ffe http://www.gap-system.org/lib?ffe?PROD_FFE_LARGE
+constant http://www.gap-system.org/lib?ffe?PROD_FFE_LARGE

@@ -1,0 +1,82 @@
+theory http://www.gap-system.org/lib?adjoin
+HasMeta http://www.gap-system.org/lib?adjoin http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st0
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st0
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st1
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st1
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st2
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st2
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st3
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st3
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st4
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityElt_st4
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?UnderlyingSemigroupElementOfMonoidByAdjoiningIdentityElt
+constant http://www.gap-system.org/lib?adjoin?UnderlyingSemigroupElementOfMonoidByAdjoiningIdentityElt
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?UnderlyingSemigroupFamily
+constant http://www.gap-system.org/lib?adjoin?UnderlyingSemigroupFamily
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?MonoidByAdjoiningIdentityElt
+constant http://www.gap-system.org/lib?adjoin?MonoidByAdjoiningIdentityElt
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?AdjoinedIdentityFamily
+constant http://www.gap-system.org/lib?adjoin?AdjoinedIdentityFamily
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?MonoidByAdjoiningIdentity
+constant http://www.gap-system.org/lib?adjoin?MonoidByAdjoiningIdentity
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?semigrp
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st0
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st0
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st1
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st1
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st2
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st2
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st3
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st3
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st4
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st4
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st5
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st5
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st6
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st6
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st7
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st7
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st8
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st8
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st9
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st9
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st10
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st10
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st11
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st11
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st12
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st12
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st13
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st13
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st14
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st14
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st15
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st15
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st16
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st16
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st17
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st17
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st18
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st18
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st19
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentity_st19
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?UnderlyingSemigroupOfMonoidByAdjoiningIdentity
+constant http://www.gap-system.org/lib?adjoin?UnderlyingSemigroupOfMonoidByAdjoiningIdentity
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?AdjoinedIdentityDefaultType
+constant http://www.gap-system.org/lib?adjoin?AdjoinedIdentityDefaultType
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityEltRep
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityEltRep
+Declares http://www.gap-system.org/lib?adjoin http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityEltRep_st0
+constant http://www.gap-system.org/lib?adjoin?IsMonoidByAdjoiningIdentityEltRep_st0

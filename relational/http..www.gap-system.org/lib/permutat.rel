@@ -1,0 +1,53 @@
+theory http://www.gap-system.org/lib?permutat
+HasMeta http://www.gap-system.org/lib?permutat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm
+constant http://www.gap-system.org/lib?permutat?IsPerm
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st0
+constant http://www.gap-system.org/lib?permutat?IsPerm_st0
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st1
+constant http://www.gap-system.org/lib?permutat?IsPerm_st1
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st2
+constant http://www.gap-system.org/lib?permutat?IsPerm_st2
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st3
+constant http://www.gap-system.org/lib?permutat?IsPerm_st3
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st4
+constant http://www.gap-system.org/lib?permutat?IsPerm_st4
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st5
+constant http://www.gap-system.org/lib?permutat?IsPerm_st5
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm_st6
+constant http://www.gap-system.org/lib?permutat?IsPerm_st6
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?SmallestGeneratorPerm
+constant http://www.gap-system.org/lib?permutat?SmallestGeneratorPerm
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm4Rep
+constant http://www.gap-system.org/lib?permutat?IsPerm4Rep
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm4Rep_st0
+constant http://www.gap-system.org/lib?permutat?IsPerm4Rep_st0
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?trans
+Includes http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?pperm
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?SmallestMovedPoint
+constant http://www.gap-system.org/lib?permutat?SmallestMovedPoint
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm2Rep
+constant http://www.gap-system.org/lib?permutat?IsPerm2Rep
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?IsPerm2Rep_st0
+constant http://www.gap-system.org/lib?permutat?IsPerm2Rep_st0
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?LargestMovedPoint
+constant http://www.gap-system.org/lib?permutat?LargestMovedPoint
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?RestrictedPermNC
+constant http://www.gap-system.org/lib?permutat?RestrictedPermNC
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?CycleStructurePerm
+constant http://www.gap-system.org/lib?permutat?CycleStructurePerm
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?RestrictedPerm
+constant http://www.gap-system.org/lib?permutat?RestrictedPerm
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?SignPerm
+constant http://www.gap-system.org/lib?permutat?SignPerm
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?NrMovedPoints
+constant http://www.gap-system.org/lib?permutat?NrMovedPoints
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?MovedPoints
+constant http://www.gap-system.org/lib?permutat?MovedPoints
+Declares http://www.gap-system.org/lib?permutat http://www.gap-system.org/lib?permutat?DistancePerms
+constant http://www.gap-system.org/lib?permutat?DistancePerms

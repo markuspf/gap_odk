@@ -1,0 +1,11 @@
+theory http://www.gap-system.org/lib?objset
+HasMeta http://www.gap-system.org/lib?objset http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?objset http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?objset http://www.gap-system.org/lib?objset?IsObjMap
+constant http://www.gap-system.org/lib?objset?IsObjMap
+Declares http://www.gap-system.org/lib?objset http://www.gap-system.org/lib?objset?IsObjMap_st0
+constant http://www.gap-system.org/lib?objset?IsObjMap_st0
+Declares http://www.gap-system.org/lib?objset http://www.gap-system.org/lib?objset?IsObjSet
+constant http://www.gap-system.org/lib?objset?IsObjSet
+Declares http://www.gap-system.org/lib?objset http://www.gap-system.org/lib?objset?IsObjSet_st0
+constant http://www.gap-system.org/lib?objset?IsObjSet_st0

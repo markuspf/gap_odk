@@ -1,0 +1,165 @@
+theory http://www.gap-system.org/lib?magma
+HasMeta http://www.gap-system.org/lib?magma http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma
+constant http://www.gap-system.org/lib?magma?IsMagma
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st0
+constant http://www.gap-system.org/lib?magma?IsMagma_st0
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st1
+constant http://www.gap-system.org/lib?magma?IsMagma_st1
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st2
+constant http://www.gap-system.org/lib?magma?IsMagma_st2
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st3
+constant http://www.gap-system.org/lib?magma?IsMagma_st3
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st4
+constant http://www.gap-system.org/lib?magma?IsMagma_st4
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st5
+constant http://www.gap-system.org/lib?magma?IsMagma_st5
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st6
+constant http://www.gap-system.org/lib?magma?IsMagma_st6
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st7
+constant http://www.gap-system.org/lib?magma?IsMagma_st7
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st8
+constant http://www.gap-system.org/lib?magma?IsMagma_st8
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagma_st9
+constant http://www.gap-system.org/lib?magma?IsMagma_st9
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?MultiplicativeNeutralElement
+constant http://www.gap-system.org/lib?magma?MultiplicativeNeutralElement
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st0
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st0
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st1
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st1
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st2
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st2
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st3
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st3
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st4
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st4
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st5
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st5
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st6
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st6
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st7
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st7
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st8
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st8
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st9
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st9
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st10
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st10
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st11
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st11
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithOne_st12
+constant http://www.gap-system.org/lib?magma?IsMagmaWithOne_st12
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st0
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st0
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st1
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st1
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st2
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st2
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st3
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st3
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st4
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st4
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st5
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st5
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st6
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st6
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st7
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st7
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st8
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st8
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st9
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st9
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st10
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st10
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st11
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st11
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st12
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st12
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st13
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInversesIfNonzero_st13
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st0
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st0
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st1
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st1
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st2
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st2
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st3
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st3
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st4
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st4
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st5
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st5
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st6
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st6
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st7
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st7
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st8
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st8
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st9
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st9
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st10
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st10
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st11
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st11
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st12
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st12
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st13
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st13
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st14
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st14
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st15
+constant http://www.gap-system.org/lib?magma?IsMagmaWithInverses_st15
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsAssociative
+constant http://www.gap-system.org/lib?magma?IsAssociative
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsCommutative
+constant http://www.gap-system.org/lib?magma?IsCommutative
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsCentral
+constant http://www.gap-system.org/lib?magma?IsCentral
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?GeneratorsOfMagmaWithInverses
+constant http://www.gap-system.org/lib?magma?GeneratorsOfMagmaWithInverses
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?AsSubmagma
+constant http://www.gap-system.org/lib?magma?AsSubmagma
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?AsMagma
+constant http://www.gap-system.org/lib?magma?AsMagma
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?CentralizerInParent
+constant http://www.gap-system.org/lib?magma?CentralizerInParent
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?GeneratorsOfMagmaWithOne
+constant http://www.gap-system.org/lib?magma?GeneratorsOfMagmaWithOne
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?CentralizerOp
+constant http://www.gap-system.org/lib?magma?CentralizerOp
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?IsGeneratorsOfMagmaWithInverses
+constant http://www.gap-system.org/lib?magma?IsGeneratorsOfMagmaWithInverses
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?TrivialSubmagmaWithOne
+constant http://www.gap-system.org/lib?magma?TrivialSubmagmaWithOne
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?Centralizer
+constant http://www.gap-system.org/lib?magma?Centralizer
+Includes http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?MagmaGeneratorsOfFamily
+constant http://www.gap-system.org/lib?magma?MagmaGeneratorsOfFamily
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?MagmaByGenerators
+constant http://www.gap-system.org/lib?magma?MagmaByGenerators
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?Idempotents
+constant http://www.gap-system.org/lib?magma?Idempotents
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?GeneratorsOfMagma
+constant http://www.gap-system.org/lib?magma?GeneratorsOfMagma
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?MagmaWithOneByGenerators
+constant http://www.gap-system.org/lib?magma?MagmaWithOneByGenerators
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?MagmaWithInversesByGenerators
+constant http://www.gap-system.org/lib?magma?MagmaWithInversesByGenerators
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?Centre
+constant http://www.gap-system.org/lib?magma?Centre
+Declares http://www.gap-system.org/lib?magma http://www.gap-system.org/lib?magma?SquareRoots
+constant http://www.gap-system.org/lib?magma?SquareRoots

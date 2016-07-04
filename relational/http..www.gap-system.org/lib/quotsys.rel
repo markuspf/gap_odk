@@ -1,0 +1,53 @@
+theory http://www.gap-system.org/lib?quotsys
+HasMeta http://www.gap-system.org/lib?quotsys http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?IsQuotientSystem
+constant http://www.gap-system.org/lib?quotsys?IsQuotientSystem
+Includes http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?DefineNewGenerators
+constant http://www.gap-system.org/lib?quotsys?DefineNewGenerators
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?IsPQuotientSystem
+constant http://www.gap-system.org/lib?quotsys?IsPQuotientSystem
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?CheckConsistencyOfDefinitions
+constant http://www.gap-system.org/lib?quotsys?CheckConsistencyOfDefinitions
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?IncorporateCentralRelations
+constant http://www.gap-system.org/lib?quotsys?IncorporateCentralRelations
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?EvaluateRelators
+constant http://www.gap-system.org/lib?quotsys?EvaluateRelators
+Includes http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?GeneratorsOfLayer
+constant http://www.gap-system.org/lib?quotsys?GeneratorsOfLayer
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?GetDefinitionNC
+constant http://www.gap-system.org/lib?quotsys?GetDefinitionNC
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?RenumberHighestWeightGenerators
+constant http://www.gap-system.org/lib?quotsys?RenumberHighestWeightGenerators
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?GeneratorNumberOfQuotient
+constant http://www.gap-system.org/lib?quotsys?GeneratorNumberOfQuotient
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?TailsInverses
+constant http://www.gap-system.org/lib?quotsys?TailsInverses
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?LengthOfDescendingSeries
+constant http://www.gap-system.org/lib?quotsys?LengthOfDescendingSeries
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?IsNilpQuotientSystem
+constant http://www.gap-system.org/lib?quotsys?IsNilpQuotientSystem
+Includes http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?ExtRepByTailVector
+constant http://www.gap-system.org/lib?quotsys?ExtRepByTailVector
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?EvaluateConsistency
+constant http://www.gap-system.org/lib?quotsys?EvaluateConsistency
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?LiftEpimorphism
+constant http://www.gap-system.org/lib?quotsys?LiftEpimorphism
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?TraceDefinition
+constant http://www.gap-system.org/lib?quotsys?TraceDefinition
+Includes http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?word
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?SplitWordTail
+constant http://www.gap-system.org/lib?quotsys?SplitWordTail
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?ComputeTails
+constant http://www.gap-system.org/lib?quotsys?ComputeTails
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?RanksOfDescendingSeries
+constant http://www.gap-system.org/lib?quotsys?RanksOfDescendingSeries
+Includes http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?QuotientSystem
+constant http://www.gap-system.org/lib?quotsys?QuotientSystem
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?GroupByQuotientSystem
+constant http://www.gap-system.org/lib?quotsys?GroupByQuotientSystem
+Declares http://www.gap-system.org/lib?quotsys http://www.gap-system.org/lib?quotsys?ClearDefinitionNC
+constant http://www.gap-system.org/lib?quotsys?ClearDefinitionNC

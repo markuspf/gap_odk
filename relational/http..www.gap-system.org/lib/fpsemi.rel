@@ -1,0 +1,35 @@
+theory http://www.gap-system.org/lib?fpsemi
+HasMeta http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st0
+constant http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st0
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st1
+constant http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st1
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st2
+constant http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st2
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st3
+constant http://www.gap-system.org/lib?fpsemi?IsElementOfFpSemigroup_st3
+Includes http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi
+Includes http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?word
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?ElementOfFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?ElementOfFpSemigroup
+Includes http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?RelationsOfFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?RelationsOfFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsomorphismFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?IsomorphismFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?FreeSemigroupOfFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?FreeSemigroupOfFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?FpSemigroupOfElementOfFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?FpSemigroupOfElementOfFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?FpGrpMonSmgOfFpGrpMonSmgElement
+constant http://www.gap-system.org/lib?fpsemi?FpGrpMonSmgOfFpGrpMonSmgElement
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?IsFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?FreeGeneratorsOfFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?FreeGeneratorsOfFpSemigroup
+Declares http://www.gap-system.org/lib?fpsemi http://www.gap-system.org/lib?fpsemi?IsSubsemigroupFpSemigroup
+constant http://www.gap-system.org/lib?fpsemi?IsSubsemigroupFpSemigroup

@@ -1,0 +1,177 @@
+theory http://www.gap-system.org/lib?algfp
+HasMeta http://www.gap-system.org/lib?algfp http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsNormalForm
+constant http://www.gap-system.org/lib?algfp?IsNormalForm
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st0
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st0
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st1
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st1
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st2
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st2
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st3
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st3
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st4
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st4
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st5
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st5
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st6
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st6
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st7
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st7
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st8
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st8
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st9
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st9
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st10
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st10
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st11
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st11
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st12
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st12
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st13
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st13
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st14
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st14
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st15
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st15
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st16
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st16
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st17
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st17
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st18
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st18
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st19
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st19
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st20
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st20
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st21
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st21
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st22
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st22
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st23
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st23
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st24
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st24
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st25
+constant http://www.gap-system.org/lib?algfp?IsFpAlgebraElementsSpace_st25
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st0
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st0
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st1
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st1
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st2
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st2
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st3
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st3
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st4
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st4
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st5
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st5
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st6
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st6
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st7
+constant http://www.gap-system.org/lib?algfp?IsElementOfFpAlgebra_st7
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?NiceNormalFormByExtRepFunction
+constant http://www.gap-system.org/lib?algfp?NiceNormalFormByExtRepFunction
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st0
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st0
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st1
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st1
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st2
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st2
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st3
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st3
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st4
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st4
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st5
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st5
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st6
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st6
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st7
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st7
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st8
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st8
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st9
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st9
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st10
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st10
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st11
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st11
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st12
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st12
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st13
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st13
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st14
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st14
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st15
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st15
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st16
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st16
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st17
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st17
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st18
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st18
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st19
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st19
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st20
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st20
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st21
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st21
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st22
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st22
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st23
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st23
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st24
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st24
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st25
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st25
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st26
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st26
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st27
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st27
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st28
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st28
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st29
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st29
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st30
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st30
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st31
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st31
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st32
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st32
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st33
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st33
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st34
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st34
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st35
+constant http://www.gap-system.org/lib?algfp?IsSubalgebraFpAlgebra_st35
+Includes http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?IsFullFpAlgebra
+constant http://www.gap-system.org/lib?algfp?IsFullFpAlgebra
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?FreeAlgebraOfFpAlgebra
+constant http://www.gap-system.org/lib?algfp?FreeAlgebraOfFpAlgebra
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?ElementOfFpAlgebra
+constant http://www.gap-system.org/lib?algfp?ElementOfFpAlgebra
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?FreeGeneratorsOfFpAlgebra
+constant http://www.gap-system.org/lib?algfp?FreeGeneratorsOfFpAlgebra
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?NiceAlgebraMonomorphism
+constant http://www.gap-system.org/lib?algfp?NiceAlgebraMonomorphism
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?MappedExpression
+constant http://www.gap-system.org/lib?algfp?MappedExpression
+Declares http://www.gap-system.org/lib?algfp http://www.gap-system.org/lib?algfp?RelatorsOfFpAlgebra
+constant http://www.gap-system.org/lib?algfp?RelatorsOfFpAlgebra

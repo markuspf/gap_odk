@@ -1,0 +1,406 @@
+theory http://www.gap-system.org/lib?semirel
+HasMeta http://www.gap-system.org/lib?semirel http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensLRelation
+constant http://www.gap-system.org/lib?semirel?GreensLRelation
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?fpsemi
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsFpSemigpReducedElt
+constant http://www.gap-system.org/lib?semirel?IsFpSemigpReducedElt
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?relation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st7
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st8
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st9
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st10
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st11
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st12
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st12
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRelation_st13
+constant http://www.gap-system.org/lib?semirel?IsGreensRelation_st13
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensRRelation
+constant http://www.gap-system.org/lib?semirel?GreensRRelation
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass
+constant http://www.gap-system.org/lib?semirel?IsGreensClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensClass_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensClass_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensClass_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensClass_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensClass_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensClass_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensClass_st5
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJClass_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensJClass_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?DisplayEggBoxesOfSemigroup
+constant http://www.gap-system.org/lib?semirel?DisplayEggBoxesOfSemigroup
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?FroidurePinSimpleAlg
+constant http://www.gap-system.org/lib?semirel?FroidurePinSimpleAlg
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDClass_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensDClass_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensRClasses
+constant http://www.gap-system.org/lib?semirel?GreensRClasses
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRClass_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensRClass_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st7
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st8
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st9
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st10
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st11
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st12
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st12
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st13
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st13
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensDRelation_st14
+constant http://www.gap-system.org/lib?semirel?IsGreensDRelation_st14
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHClass_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensHClass_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?LClassOfHClass
+constant http://www.gap-system.org/lib?semirel?LClassOfHClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?AssociatedFpSemigroup
+constant http://www.gap-system.org/lib?semirel?AssociatedFpSemigroup
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?InternalRepGreensRelation
+constant http://www.gap-system.org/lib?semirel?InternalRepGreensRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st7
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st8
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st9
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st10
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st11
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st12
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st12
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st13
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st13
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensHRelation_st14
+constant http://www.gap-system.org/lib?semirel?IsGreensHRelation_st14
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensDClassOfElement
+constant http://www.gap-system.org/lib?semirel?GreensDClassOfElement
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensDClasses
+constant http://www.gap-system.org/lib?semirel?GreensDClasses
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensRClassOfElement
+constant http://www.gap-system.org/lib?semirel?GreensRClassOfElement
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGroupHClass
+constant http://www.gap-system.org/lib?semirel?IsGroupHClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensHClassOfElement
+constant http://www.gap-system.org/lib?semirel?GreensHClassOfElement
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?EggBoxOfDClass
+constant http://www.gap-system.org/lib?semirel?EggBoxOfDClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensDRelation
+constant http://www.gap-system.org/lib?semirel?GreensDRelation
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMapping
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMapping
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?CanonicalGreensClass
+constant http://www.gap-system.org/lib?semirel?CanonicalGreensClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLessThanOrEqual
+constant http://www.gap-system.org/lib?semirel?IsGreensLessThanOrEqual
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLClass_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensLClass_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?SemigroupHomomorphismByImagesNC
+constant http://www.gap-system.org/lib?semirel?SemigroupHomomorphismByImagesNC
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphismByImagesRep
+constant http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphismByImagesRep
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphismByImagesRep_st0
+constant http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphismByImagesRep_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphismByImagesRep_st1
+constant http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphismByImagesRep_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st7
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st8
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st9
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st10
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st11
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st12
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st12
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st13
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st13
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensJRelation_st14
+constant http://www.gap-system.org/lib?semirel?IsGreensJRelation_st14
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensLClassOfElement
+constant http://www.gap-system.org/lib?semirel?GreensLClassOfElement
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensJClassOfElement
+constant http://www.gap-system.org/lib?semirel?GreensJClassOfElement
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?RClassOfHClass
+constant http://www.gap-system.org/lib?semirel?RClassOfHClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?DClassOfHClass
+constant http://www.gap-system.org/lib?semirel?DClassOfHClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?FroidurePinExtendedAlg
+constant http://www.gap-system.org/lib?semirel?FroidurePinExtendedAlg
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensHClasses
+constant http://www.gap-system.org/lib?semirel?GreensHClasses
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st7
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st8
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st9
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st10
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st11
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st12
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st12
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st13
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st13
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensLRelation_st14
+constant http://www.gap-system.org/lib?semirel?IsGreensLRelation_st14
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?AssociatedConcreteSemigroup
+constant http://www.gap-system.org/lib?semirel?AssociatedConcreteSemigroup
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?DClassOfRClass
+constant http://www.gap-system.org/lib?semirel?DClassOfRClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?DClassOfLClass
+constant http://www.gap-system.org/lib?semirel?DClassOfLClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensHRelation
+constant http://www.gap-system.org/lib?semirel?GreensHRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st0
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st1
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st2
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st3
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st4
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st5
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st6
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st7
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st8
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st9
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st10
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st11
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st12
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st12
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st13
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st13
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsGreensRRelation_st14
+constant http://www.gap-system.org/lib?semirel?IsGreensRRelation_st14
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GroupHClassOfGreensDClass
+constant http://www.gap-system.org/lib?semirel?GroupHClassOfGreensDClass
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st0
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st0
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st1
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st1
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st2
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st2
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st3
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st3
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st4
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st4
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st5
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st5
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st6
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st6
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st7
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st7
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st8
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st8
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st9
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st9
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st10
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st10
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st11
+constant http://www.gap-system.org/lib?semirel?IsSemigroupGeneralMappingRep_st11
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensJClasses
+constant http://www.gap-system.org/lib?semirel?GreensJClasses
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsRegularDClass
+constant http://www.gap-system.org/lib?semirel?IsRegularDClass
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsFiniteSemigroupGreensRelation
+constant http://www.gap-system.org/lib?semirel?IsFiniteSemigroupGreensRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensJRelation
+constant http://www.gap-system.org/lib?semirel?GreensJRelation
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphism
+constant http://www.gap-system.org/lib?semirel?IsSemigroupHomomorphism
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?GreensLClasses
+constant http://www.gap-system.org/lib?semirel?GreensLClasses
+Includes http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?fpmon
+Declares http://www.gap-system.org/lib?semirel http://www.gap-system.org/lib?semirel?IsFpMonoidReducedElt
+constant http://www.gap-system.org/lib?semirel?IsFpMonoidReducedElt

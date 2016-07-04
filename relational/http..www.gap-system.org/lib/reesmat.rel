@@ -1,0 +1,76 @@
+theory http://www.gap-system.org/lib?reesmat
+HasMeta http://www.gap-system.org/lib?reesmat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroup
+Includes http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ReesMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?ReesMatrixSemigroup
+Includes http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?semirel
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?AssociatedReesMatrixSemigroupOfDClass
+constant http://www.gap-system.org/lib?reesmat?AssociatedReesMatrixSemigroupOfDClass
+Includes http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st0
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st0
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st1
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st1
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st2
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st2
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st3
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroupElement_st3
+Includes http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?GeneratorsOfReesMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?GeneratorsOfReesMatrixSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st0
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st0
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st1
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st1
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st2
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st2
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st3
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSemigroupElement_st3
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSubsemigroup
+constant http://www.gap-system.org/lib?reesmat?IsReesZeroMatrixSubsemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ColumnOfReesMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?ColumnOfReesMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ReesMatrixSubsemigroup
+constant http://www.gap-system.org/lib?reesmat?ReesMatrixSubsemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?Rows
+constant http://www.gap-system.org/lib?reesmat?Rows
+Includes http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ReesMatrixSemigroupOfFamily
+constant http://www.gap-system.org/lib?reesmat?ReesMatrixSemigroupOfFamily
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?UnderlyingSemigroup
+constant http://www.gap-system.org/lib?reesmat?UnderlyingSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsomorphismReesZeroMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?IsomorphismReesZeroMatrixSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?UnderlyingElementOfReesMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?UnderlyingElementOfReesMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ColumnOfReesZeroMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?ColumnOfReesZeroMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ReesZeroMatrixSubsemigroup
+constant http://www.gap-system.org/lib?reesmat?ReesZeroMatrixSubsemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?Columns
+constant http://www.gap-system.org/lib?reesmat?Columns
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsomorphismReesMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?IsomorphismReesMatrixSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?UnderlyingElementOfReesZeroMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?UnderlyingElementOfReesZeroMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?ReesZeroMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?ReesZeroMatrixSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?GeneratorsOfReesZeroMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?GeneratorsOfReesZeroMatrixSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroup
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSemigroup
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?RowOfReesMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?RowOfReesMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?RowOfReesZeroMatrixSemigroupElement
+constant http://www.gap-system.org/lib?reesmat?RowOfReesZeroMatrixSemigroupElement
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?TypeReesMatrixSemigroupElements
+constant http://www.gap-system.org/lib?reesmat?TypeReesMatrixSemigroupElements
+Declares http://www.gap-system.org/lib?reesmat http://www.gap-system.org/lib?reesmat?IsReesMatrixSubsemigroup
+constant http://www.gap-system.org/lib?reesmat?IsReesMatrixSubsemigroup

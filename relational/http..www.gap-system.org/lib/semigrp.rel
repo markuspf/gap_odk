@@ -1,0 +1,94 @@
+theory http://www.gap-system.org/lib?semigrp
+HasMeta http://www.gap-system.org/lib?semigrp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsRegularSemigroupElement
+constant http://www.gap-system.org/lib?semigrp?IsRegularSemigroupElement
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsRegularSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsRegularSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsZeroSimpleSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsZeroSimpleSemigroup
+Includes http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsGeneratorsOfSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsGeneratorsOfSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsMonoidAsSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsMonoidAsSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsSimpleSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsSimpleSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsInverseSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsInverseSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsCompletelyRegularSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsCompletelyRegularSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsGroupAsSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsGroupAsSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsOrthodoxSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsOrthodoxSemigroup
+Includes http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semicong
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?FactorSemigroup
+constant http://www.gap-system.org/lib?semigrp?FactorSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?AsSemigroup
+constant http://www.gap-system.org/lib?semigrp?AsSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?CayleyGraphDualSemigroup
+constant http://www.gap-system.org/lib?semigrp?CayleyGraphDualSemigroup
+Includes http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?AsSubsemigroup
+constant http://www.gap-system.org/lib?semigrp?AsSubsemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsReesCongruenceSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsReesCongruenceSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?SemigroupByGenerators
+constant http://www.gap-system.org/lib?semigrp?SemigroupByGenerators
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsSubsemigroup
+constant http://www.gap-system.org/lib?semigrp?IsSubsemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsCliffordSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsCliffordSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsMonogenicSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsMonogenicSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?CayleyGraphSemigroup
+constant http://www.gap-system.org/lib?semigrp?CayleyGraphSemigroup
+Includes http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?HomomorphismFactorSemigroupByClosure
+constant http://www.gap-system.org/lib?semigrp?HomomorphismFactorSemigroupByClosure
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsCompletelySimpleSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsCompletelySimpleSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsRectangularBand
+constant http://www.gap-system.org/lib?semigrp?IsRectangularBand
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?DisplaySemigroup
+constant http://www.gap-system.org/lib?semigrp?DisplaySemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsNilpotentSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsNilpotentSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsSemilattice
+constant http://www.gap-system.org/lib?semigrp?IsSemilattice
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?HomomorphismFactorSemigroup
+constant http://www.gap-system.org/lib?semigrp?HomomorphismFactorSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsLeftZeroSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsLeftZeroSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsBand
+constant http://www.gap-system.org/lib?semigrp?IsBand
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsCommutativeSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsCommutativeSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsZeroSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsZeroSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsZeroGroup
+constant http://www.gap-system.org/lib?semigrp?IsZeroGroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsIdempotentGenerated
+constant http://www.gap-system.org/lib?semigrp?IsIdempotentGenerated
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsBrandtSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsBrandtSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?NilpotencyDegree
+constant http://www.gap-system.org/lib?semigrp?NilpotencyDegree
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?FactorSemigroupByClosure
+constant http://www.gap-system.org/lib?semigrp?FactorSemigroupByClosure
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsRightZeroSemigroup
+constant http://www.gap-system.org/lib?semigrp?IsRightZeroSemigroup
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?IsSemiband
+constant http://www.gap-system.org/lib?semigrp?IsSemiband
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?InversesOfSemigroupElement
+constant http://www.gap-system.org/lib?semigrp?InversesOfSemigroupElement
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?SemigroupViewStringSuffix
+constant http://www.gap-system.org/lib?semigrp?SemigroupViewStringSuffix
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?SemigroupViewStringPrefix
+constant http://www.gap-system.org/lib?semigrp?SemigroupViewStringPrefix
+Declares http://www.gap-system.org/lib?semigrp http://www.gap-system.org/lib?semigrp?ANonReesCongruenceOfSemigroup
+constant http://www.gap-system.org/lib?semigrp?ANonReesCongruenceOfSemigroup

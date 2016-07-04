@@ -1,0 +1,71 @@
+theory http://www.gap-system.org/lib?grpmat
+HasMeta http://www.gap-system.org/lib?grpmat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsFullSubgroupGLorSLRespectingBilinearForm
+constant http://www.gap-system.org/lib?grpmat?IsFullSubgroupGLorSLRespectingBilinearForm
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsGeneralLinearGroup
+constant http://www.gap-system.org/lib?grpmat?IsGeneralLinearGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsFullSubgroupGLorSLRespectingSesquilinearForm
+constant http://www.gap-system.org/lib?grpmat?IsFullSubgroupGLorSLRespectingSesquilinearForm
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?FieldOfMatrixGroup
+constant http://www.gap-system.org/lib?grpmat?FieldOfMatrixGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsNaturalSL
+constant http://www.gap-system.org/lib?grpmat?IsNaturalSL
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsNaturalGL
+constant http://www.gap-system.org/lib?grpmat?IsNaturalGL
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?InvariantSesquilinearForm
+constant http://www.gap-system.org/lib?grpmat?InvariantSesquilinearForm
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsSubgroupSL
+constant http://www.gap-system.org/lib?grpmat?IsSubgroupSL
+Includes http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st0
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st0
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st1
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st1
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st2
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st2
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st3
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st3
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st4
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st4
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st5
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st5
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st6
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st6
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st7
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st7
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st8
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st8
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st9
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st9
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st10
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st10
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st11
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st11
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st12
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st12
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st13
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st13
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st14
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st14
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st15
+constant http://www.gap-system.org/lib?grpmat?IsBlowUpIsomorphism_st15
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?DefaultFieldOfMatrixGroup
+constant http://www.gap-system.org/lib?grpmat?DefaultFieldOfMatrixGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?DimensionOfMatrixGroup
+constant http://www.gap-system.org/lib?grpmat?DimensionOfMatrixGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?InvariantQuadraticForm
+constant http://www.gap-system.org/lib?grpmat?InvariantQuadraticForm
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsMatrixGroup
+constant http://www.gap-system.org/lib?grpmat?IsMatrixGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?TransposedMatrixGroup
+constant http://www.gap-system.org/lib?grpmat?TransposedMatrixGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsSpecialLinearGroup
+constant http://www.gap-system.org/lib?grpmat?IsSpecialLinearGroup
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?IsFullSubgroupGLorSLRespectingQuadraticForm
+constant http://www.gap-system.org/lib?grpmat?IsFullSubgroupGLorSLRespectingQuadraticForm
+Declares http://www.gap-system.org/lib?grpmat http://www.gap-system.org/lib?grpmat?InvariantBilinearForm
+constant http://www.gap-system.org/lib?grpmat?InvariantBilinearForm

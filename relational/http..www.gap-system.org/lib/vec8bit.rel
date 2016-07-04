@@ -1,0 +1,28 @@
+theory http://www.gap-system.org/lib?vec8bit
+HasMeta http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st0
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st0
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st1
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st1
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st2
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st2
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st3
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st3
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st4
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st4
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st5
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st5
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st6
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st6
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st7
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st7
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st8
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st8
+Declares http://www.gap-system.org/lib?vec8bit http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st9
+constant http://www.gap-system.org/lib?vec8bit?Is8BitVectorRep_st9

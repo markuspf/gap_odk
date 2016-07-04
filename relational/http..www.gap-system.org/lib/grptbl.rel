@@ -1,0 +1,22 @@
+theory http://www.gap-system.org/lib?grptbl
+HasMeta http://www.gap-system.org/lib?grptbl http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?MultiplicationTable
+constant http://www.gap-system.org/lib?grptbl?MultiplicationTable
+Includes http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st0
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st0
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st1
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st1
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st2
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st2
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st3
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st3
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st4
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st4
+Declares http://www.gap-system.org/lib?grptbl http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st5
+constant http://www.gap-system.org/lib?grptbl?IsMagmaByMultiplicationTableObj_st5

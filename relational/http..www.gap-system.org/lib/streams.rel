@@ -1,0 +1,126 @@
+theory http://www.gap-system.org/lib?streams
+HasMeta http://www.gap-system.org/lib?streams http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsStream
+constant http://www.gap-system.org/lib?streams?IsStream
+Includes http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputStream
+constant http://www.gap-system.org/lib?streams?IsOutputStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputStream_st0
+constant http://www.gap-system.org/lib?streams?IsOutputStream_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextStream
+constant http://www.gap-system.org/lib?streams?IsOutputTextStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextStream_st0
+constant http://www.gap-system.org/lib?streams?IsOutputTextStream_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextStream_st1
+constant http://www.gap-system.org/lib?streams?IsOutputTextStream_st1
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextNone
+constant http://www.gap-system.org/lib?streams?IsOutputTextNone
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextNone_st0
+constant http://www.gap-system.org/lib?streams?IsOutputTextNone_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextNone_st1
+constant http://www.gap-system.org/lib?streams?IsOutputTextNone_st1
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextNone_st2
+constant http://www.gap-system.org/lib?streams?IsOutputTextNone_st2
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputStream
+constant http://www.gap-system.org/lib?streams?IsInputStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputStream_st0
+constant http://www.gap-system.org/lib?streams?IsInputStream_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?PositionStream
+constant http://www.gap-system.org/lib?streams?PositionStream
+Includes http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputOutputStreamByPtyRep
+constant http://www.gap-system.org/lib?streams?IsInputOutputStreamByPtyRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputOutputStreamByPtyRep_st0
+constant http://www.gap-system.org/lib?streams?IsInputOutputStreamByPtyRep_st0
+Includes http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?ReadAllLine
+constant http://www.gap-system.org/lib?streams?ReadAllLine
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputOutputStream
+constant http://www.gap-system.org/lib?streams?IsInputOutputStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputOutputStream_st0
+constant http://www.gap-system.org/lib?streams?IsInputOutputStream_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputOutputStream_st1
+constant http://www.gap-system.org/lib?streams?IsInputOutputStream_st1
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputOutputStream_st2
+constant http://www.gap-system.org/lib?streams?IsInputOutputStream_st2
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?PrintFormattingStatus
+constant http://www.gap-system.org/lib?streams?PrintFormattingStatus
+Includes http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?WriteLine
+constant http://www.gap-system.org/lib?streams?WriteLine
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?InputTextString
+constant http://www.gap-system.org/lib?streams?InputTextString
+Includes http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?SeekPositionStream
+constant http://www.gap-system.org/lib?streams?SeekPositionStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextStream
+constant http://www.gap-system.org/lib?streams?IsInputTextStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextStream_st0
+constant http://www.gap-system.org/lib?streams?IsInputTextStream_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextStream_st1
+constant http://www.gap-system.org/lib?streams?IsInputTextStream_st1
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextStringRep
+constant http://www.gap-system.org/lib?streams?IsOutputTextStringRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextStringRep_st0
+constant http://www.gap-system.org/lib?streams?IsOutputTextStringRep_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsClosedStream
+constant http://www.gap-system.org/lib?streams?IsClosedStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextNoneRep
+constant http://www.gap-system.org/lib?streams?IsInputTextNoneRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextNoneRep_st0
+constant http://www.gap-system.org/lib?streams?IsInputTextNoneRep_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?InputTextFile
+constant http://www.gap-system.org/lib?streams?InputTextFile
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsEndOfStream
+constant http://www.gap-system.org/lib?streams?IsEndOfStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?OutputTextFile
+constant http://www.gap-system.org/lib?streams?OutputTextFile
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?WriteByte
+constant http://www.gap-system.org/lib?streams?WriteByte
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?ReadByte
+constant http://www.gap-system.org/lib?streams?ReadByte
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?CloseStream
+constant http://www.gap-system.org/lib?streams?CloseStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextNoneRep
+constant http://www.gap-system.org/lib?streams?IsOutputTextNoneRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextNoneRep_st0
+constant http://www.gap-system.org/lib?streams?IsOutputTextNoneRep_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextFileRep
+constant http://www.gap-system.org/lib?streams?IsInputTextFileRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextFileRep_st0
+constant http://www.gap-system.org/lib?streams?IsInputTextFileRep_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?LogTo
+constant http://www.gap-system.org/lib?streams?LogTo
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?InputLogTo
+constant http://www.gap-system.org/lib?streams?InputLogTo
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?RewindStream
+constant http://www.gap-system.org/lib?streams?RewindStream
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?ReadAll
+constant http://www.gap-system.org/lib?streams?ReadAll
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?FileDescriptorOfStream
+constant http://www.gap-system.org/lib?streams?FileDescriptorOfStream
+Includes http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?OutputTextString
+constant http://www.gap-system.org/lib?streams?OutputTextString
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextFileRep
+constant http://www.gap-system.org/lib?streams?IsOutputTextFileRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsOutputTextFileRep_st0
+constant http://www.gap-system.org/lib?streams?IsOutputTextFileRep_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?WriteAll
+constant http://www.gap-system.org/lib?streams?WriteAll
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?OutputLogTo
+constant http://www.gap-system.org/lib?streams?OutputLogTo
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextNone
+constant http://www.gap-system.org/lib?streams?IsInputTextNone
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextNone_st0
+constant http://www.gap-system.org/lib?streams?IsInputTextNone_st0
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextNone_st1
+constant http://www.gap-system.org/lib?streams?IsInputTextNone_st1
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextNone_st2
+constant http://www.gap-system.org/lib?streams?IsInputTextNone_st2
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?ReadLine
+constant http://www.gap-system.org/lib?streams?ReadLine
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextStringRep
+constant http://www.gap-system.org/lib?streams?IsInputTextStringRep
+Declares http://www.gap-system.org/lib?streams http://www.gap-system.org/lib?streams?IsInputTextStringRep_st0
+constant http://www.gap-system.org/lib?streams?IsInputTextStringRep_st0

@@ -1,0 +1,5 @@
+theory http://www.gap-system.org/lib?galois
+HasMeta http://www.gap-system.org/lib?galois http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?galois http://www.gap-system.org/lib?ratfun
+Declares http://www.gap-system.org/lib?galois http://www.gap-system.org/lib?galois?GaloisType
+constant http://www.gap-system.org/lib?galois?GaloisType

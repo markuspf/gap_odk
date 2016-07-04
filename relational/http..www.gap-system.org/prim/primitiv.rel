@@ -1,0 +1,11 @@
+theory http://www.gap-system.org/prim?primitiv
+HasMeta http://www.gap-system.org/prim?primitiv http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/prim?primitiv http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/prim?primitiv http://www.gap-system.org/prim?primitiv?IsPrimGrpIterRep
+constant http://www.gap-system.org/prim?primitiv?IsPrimGrpIterRep
+Declares http://www.gap-system.org/prim?primitiv http://www.gap-system.org/prim?primitiv?IsPrimGrpIterRep_st0
+constant http://www.gap-system.org/prim?primitiv?IsPrimGrpIterRep_st0
+Includes http://www.gap-system.org/prim?primitiv http://www.gap-system.org/lib?permutat
+Includes http://www.gap-system.org/prim?primitiv http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/prim?primitiv http://www.gap-system.org/prim?primitiv?SimsNo
+constant http://www.gap-system.org/prim?primitiv?SimsNo

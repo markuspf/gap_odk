@@ -1,0 +1,372 @@
+theory http://www.gap-system.org/lib?grp
+HasMeta http://www.gap-system.org/lib?grp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NaturalHomomorphism
+constant http://www.gap-system.org/lib?grp?NaturalHomomorphism
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RationalClasses
+constant http://www.gap-system.org/lib?grp?RationalClasses
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedPRumps
+constant http://www.gap-system.org/lib?grp?ComputedPRumps
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPSolvable
+constant http://www.gap-system.org/lib?grp?IsPSolvable
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedSylowComplements
+constant http://www.gap-system.org/lib?grp?ComputedSylowComplements
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PRump
+constant http://www.gap-system.org/lib?grp?PRump
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedAgemos
+constant http://www.gap-system.org/lib?grp?ComputedAgemos
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SylowSubgroupOp
+constant http://www.gap-system.org/lib?grp?SylowSubgroupOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RepresentativesPerfectSubgroups
+constant http://www.gap-system.org/lib?grp?RepresentativesPerfectSubgroups
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?string
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismFpGroupByCompositionSeries
+constant http://www.gap-system.org/lib?grp?IsomorphismFpGroupByCompositionSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SylowSubgroup
+constant http://www.gap-system.org/lib?grp?SylowSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Normalizer
+constant http://www.gap-system.org/lib?grp?Normalizer
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RightTransversal
+constant http://www.gap-system.org/lib?grp?RightTransversal
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalClosureInParent
+constant http://www.gap-system.org/lib?grp?NormalClosureInParent
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismFpGroupByGeneratorsNC
+constant http://www.gap-system.org/lib?grp?IsomorphismFpGroupByGeneratorsNC
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugateSubgroup
+constant http://www.gap-system.org/lib?grp?ConjugateSubgroup
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CanComputeSizeAnySubgroup
+constant http://www.gap-system.org/lib?grp?CanComputeSizeAnySubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CanComputeSizeAnySubgroup_st0
+constant http://www.gap-system.org/lib?grp?CanComputeSizeAnySubgroup_st0
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsSolvableGroup
+constant http://www.gap-system.org/lib?grp?IsSolvableGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalClosureOp
+constant http://www.gap-system.org/lib?grp?NormalClosureOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?GrowthFunctionOfGroup
+constant http://www.gap-system.org/lib?grp?GrowthFunctionOfGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversal
+constant http://www.gap-system.org/lib?grp?IsRightTransversal
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversal_st0
+constant http://www.gap-system.org/lib?grp?IsRightTransversal_st0
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversal_st1
+constant http://www.gap-system.org/lib?grp?IsRightTransversal_st1
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPNilpotentOp
+constant http://www.gap-system.org/lib?grp?IsPNilpotentOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RightTransversalInParent
+constant http://www.gap-system.org/lib?grp?RightTransversalInParent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IndependentGeneratorsOfAbelianGroup
+constant http://www.gap-system.org/lib?grp?IndependentGeneratorsOfAbelianGroup
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversalRep
+constant http://www.gap-system.org/lib?grp?IsRightTransversalRep
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversalRep_st0
+constant http://www.gap-system.org/lib?grp?IsRightTransversalRep_st0
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversalRep_st1
+constant http://www.gap-system.org/lib?grp?IsRightTransversalRep_st1
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversalRep_st2
+constant http://www.gap-system.org/lib?grp?IsRightTransversalRep_st2
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversalRep_st3
+constant http://www.gap-system.org/lib?grp?IsRightTransversalRep_st3
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsRightTransversalRep_st4
+constant http://www.gap-system.org/lib?grp?IsRightTransversalRep_st4
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedHallSubgroups
+constant http://www.gap-system.org/lib?grp?ComputedHallSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsFinitelyGeneratedGroup
+constant http://www.gap-system.org/lib?grp?IsFinitelyGeneratedGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugateGroup
+constant http://www.gap-system.org/lib?grp?ConjugateGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPGroup
+constant http://www.gap-system.org/lib?grp?IsPGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RankPGroup
+constant http://www.gap-system.org/lib?grp?RankPGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?MaximalSubgroups
+constant http://www.gap-system.org/lib?grp?MaximalSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsConjugate
+constant http://www.gap-system.org/lib?grp?IsConjugate
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PrefrattiniSubgroup
+constant http://www.gap-system.org/lib?grp?PrefrattiniSubgroup
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?ctbl
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?AbelianInvariants
+constant http://www.gap-system.org/lib?grp?AbelianInvariants
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsSubsetLocallyFiniteGroup
+constant http://www.gap-system.org/lib?grp?IsSubsetLocallyFiniteGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CosetTableNormalClosure
+constant http://www.gap-system.org/lib?grp?CosetTableNormalClosure
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?MinimalGeneratingSet
+constant http://www.gap-system.org/lib?grp?MinimalGeneratingSet
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedSylowSubgroups
+constant http://www.gap-system.org/lib?grp?ComputedSylowSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?HallSystem
+constant http://www.gap-system.org/lib?grp?HallSystem
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPSolvableOp
+constant http://www.gap-system.org/lib?grp?IsPSolvableOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PrimePowerComponents
+constant http://www.gap-system.org/lib?grp?PrimePowerComponents
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPolycyclicGroup
+constant http://www.gap-system.org/lib?grp?IsPolycyclicGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CoreInParent
+constant http://www.gap-system.org/lib?grp?CoreInParent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComplementSystem
+constant http://www.gap-system.org/lib?grp?ComplementSystem
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CommutatorFactorGroup
+constant http://www.gap-system.org/lib?grp?CommutatorFactorGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?GeneratorsSmallest
+constant http://www.gap-system.org/lib?grp?GeneratorsSmallest
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CanEasilyComputeWithIndependentGensAbelianGroup
+constant http://www.gap-system.org/lib?grp?CanEasilyComputeWithIndependentGensAbelianGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Index
+constant http://www.gap-system.org/lib?grp?Index
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PRumpOp
+constant http://www.gap-system.org/lib?grp?PRumpOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsSporadicSimpleGroup
+constant http://www.gap-system.org/lib?grp?IsSporadicSimpleGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CosetTable
+constant http://www.gap-system.org/lib?grp?CosetTable
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugacyClassesSubgroups
+constant http://www.gap-system.org/lib?grp?ConjugacyClassesSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?OmegaOp
+constant http://www.gap-system.org/lib?grp?OmegaOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsSubnormal
+constant http://www.gap-system.org/lib?grp?IsSubnormal
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsAlmostSimpleGroup
+constant http://www.gap-system.org/lib?grp?IsAlmostSimpleGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?AsSubgroup
+constant http://www.gap-system.org/lib?grp?AsSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IndexInParent
+constant http://www.gap-system.org/lib?grp?IndexInParent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugacyClassesPerfectSubgroups
+constant http://www.gap-system.org/lib?grp?ConjugacyClassesPerfectSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?KnowsHowToDecompose
+constant http://www.gap-system.org/lib?grp?KnowsHowToDecompose
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SylowSystem
+constant http://www.gap-system.org/lib?grp?SylowSystem
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?FrattiniSubgroup
+constant http://www.gap-system.org/lib?grp?FrattiniSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsGroupOfFamily
+constant http://www.gap-system.org/lib?grp?IsGroupOfFamily
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?semirel
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismPermGroup
+constant http://www.gap-system.org/lib?grp?IsomorphismPermGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?JenningsSeries
+constant http://www.gap-system.org/lib?grp?JenningsSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CanEasilyTestMembership
+constant http://www.gap-system.org/lib?grp?CanEasilyTestMembership
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?DerivedSeriesOfGroup
+constant http://www.gap-system.org/lib?grp?DerivedSeriesOfGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PCore
+constant http://www.gap-system.org/lib?grp?PCore
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IndexOp
+constant http://www.gap-system.org/lib?grp?IndexOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsElementaryAbelian
+constant http://www.gap-system.org/lib?grp?IsElementaryAbelian
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismFpGroupBySubnormalSeries
+constant http://www.gap-system.org/lib?grp?IsomorphismFpGroupBySubnormalSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismFpGroup
+constant http://www.gap-system.org/lib?grp?IsomorphismFpGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PCoreOp
+constant http://www.gap-system.org/lib?grp?PCoreOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalSubgroups
+constant http://www.gap-system.org/lib?grp?NormalSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalClosure
+constant http://www.gap-system.org/lib?grp?NormalClosure
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?LowIndexSubgroups
+constant http://www.gap-system.org/lib?grp?LowIndexSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?LargestElementGroup
+constant http://www.gap-system.org/lib?grp?LargestElementGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsNormal
+constant http://www.gap-system.org/lib?grp?IsNormal
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RadicalGroup
+constant http://www.gap-system.org/lib?grp?RadicalGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsMonomialGroup
+constant http://www.gap-system.org/lib?grp?IsMonomialGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugateSubgroups
+constant http://www.gap-system.org/lib?grp?ConjugateSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?FactorGroupNC
+constant http://www.gap-system.org/lib?grp?FactorGroupNC
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?DerivedSubgroup
+constant http://www.gap-system.org/lib?grp?DerivedSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsCyclic
+constant http://www.gap-system.org/lib?grp?IsCyclic
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsCharacteristicSubgroup
+constant http://www.gap-system.org/lib?grp?IsCharacteristicSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsNormalOp
+constant http://www.gap-system.org/lib?grp?IsNormalOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ClassMultiplicationCoefficient
+constant http://www.gap-system.org/lib?grp?ClassMultiplicationCoefficient
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedPCentralSeriess
+constant http://www.gap-system.org/lib?grp?ComputedPCentralSeriess
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IndexInWholeGroup
+constant http://www.gap-system.org/lib?grp?IndexInWholeGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CanComputeIndex
+constant http://www.gap-system.org/lib?grp?CanComputeIndex
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?UpperCentralSeriesOfGroup
+constant http://www.gap-system.org/lib?grp?UpperCentralSeriesOfGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Exponent
+constant http://www.gap-system.org/lib?grp?Exponent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IntermediateSubgroups
+constant http://www.gap-system.org/lib?grp?IntermediateSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CentralizerModulo
+constant http://www.gap-system.org/lib?grp?CentralizerModulo
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?MaximalAbelianQuotient
+constant http://www.gap-system.org/lib?grp?MaximalAbelianQuotient
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SubnormalSeries
+constant http://www.gap-system.org/lib?grp?SubnormalSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NrConjugacyClassesInSupergroup
+constant http://www.gap-system.org/lib?grp?NrConjugacyClassesInSupergroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Core
+constant http://www.gap-system.org/lib?grp?Core
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ElementaryAbelianSeriesLargeSteps
+constant http://www.gap-system.org/lib?grp?ElementaryAbelianSeriesLargeSteps
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?MinimalNormalSubgroups
+constant http://www.gap-system.org/lib?grp?MinimalNormalSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?LowerCentralSeriesOfGroup
+constant http://www.gap-system.org/lib?grp?LowerCentralSeriesOfGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NrConjugacyClasses
+constant http://www.gap-system.org/lib?grp?NrConjugacyClasses
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RightTransversalOp
+constant http://www.gap-system.org/lib?grp?RightTransversalOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?HallSubgroupOp
+constant http://www.gap-system.org/lib?grp?HallSubgroupOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismTypeInfoFiniteSimpleGroup
+constant http://www.gap-system.org/lib?grp?IsomorphismTypeInfoFiniteSimpleGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?AgemoOp
+constant http://www.gap-system.org/lib?grp?AgemoOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ClosureGroup
+constant http://www.gap-system.org/lib?grp?ClosureGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Socle
+constant http://www.gap-system.org/lib?grp?Socle
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PowerMapOfGroup
+constant http://www.gap-system.org/lib?grp?PowerMapOfGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?MaximalSubgroupClassReps
+constant http://www.gap-system.org/lib?grp?MaximalSubgroupClassReps
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalIntersection
+constant http://www.gap-system.org/lib?grp?NormalIntersection
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CommutatorLength
+constant http://www.gap-system.org/lib?grp?CommutatorLength
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ChiefSeriesThrough
+constant http://www.gap-system.org/lib?grp?ChiefSeriesThrough
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalizerOp
+constant http://www.gap-system.org/lib?grp?NormalizerOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedPCores
+constant http://www.gap-system.org/lib?grp?ComputedPCores
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?MaximalNormalSubgroups
+constant http://www.gap-system.org/lib?grp?MaximalNormalSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?LatticeSubgroups
+constant http://www.gap-system.org/lib?grp?LatticeSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsSupersolvableGroup
+constant http://www.gap-system.org/lib?grp?IsSupersolvableGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismSpecialPcGroup
+constant http://www.gap-system.org/lib?grp?IsomorphismSpecialPcGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismPcGroup
+constant http://www.gap-system.org/lib?grp?IsomorphismPcGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?HirschLength
+constant http://www.gap-system.org/lib?grp?HirschLength
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?AsGroup
+constant http://www.gap-system.org/lib?grp?AsGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PCentralSeriesOp
+constant http://www.gap-system.org/lib?grp?PCentralSeriesOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalHallSubgroups
+constant http://www.gap-system.org/lib?grp?NormalHallSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PCentralSeries
+constant http://www.gap-system.org/lib?grp?PCentralSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?RepresentativesSimpleSubgroups
+constant http://www.gap-system.org/lib?grp?RepresentativesSimpleSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedOmegas
+constant http://www.gap-system.org/lib?grp?ComputedOmegas
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPNilpotent
+constant http://www.gap-system.org/lib?grp?IsPNilpotent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SylowComplementOp
+constant http://www.gap-system.org/lib?grp?SylowComplementOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?GroupByGenerators
+constant http://www.gap-system.org/lib?grp?GroupByGenerators
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedIsPNilpotents
+constant http://www.gap-system.org/lib?grp?ComputedIsPNilpotents
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsNilpotentGroup
+constant http://www.gap-system.org/lib?grp?IsNilpotentGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CommutatorSubgroup
+constant http://www.gap-system.org/lib?grp?CommutatorSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?GroupString
+constant http://www.gap-system.org/lib?grp?GroupString
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SylowComplement
+constant http://www.gap-system.org/lib?grp?SylowComplement
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?HallSubgroup
+constant http://www.gap-system.org/lib?grp?HallSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SubnormalSeriesInParent
+constant http://www.gap-system.org/lib?grp?SubnormalSeriesInParent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PerfectResiduum
+constant http://www.gap-system.org/lib?grp?PerfectResiduum
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SmallGeneratingSet
+constant http://www.gap-system.org/lib?grp?SmallGeneratingSet
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PrimePGroup
+constant http://www.gap-system.org/lib?grp?PrimePGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ChiefSeries
+constant http://www.gap-system.org/lib?grp?ChiefSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?FittingSubgroup
+constant http://www.gap-system.org/lib?grp?FittingSubgroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalMaximalSubgroups
+constant http://www.gap-system.org/lib?grp?NormalMaximalSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CoreOp
+constant http://www.gap-system.org/lib?grp?CoreOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?CompositionSeries
+constant http://www.gap-system.org/lib?grp?CompositionSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?EulerianFunction
+constant http://www.gap-system.org/lib?grp?EulerianFunction
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NormalizerInParent
+constant http://www.gap-system.org/lib?grp?NormalizerInParent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?InvariantForm
+constant http://www.gap-system.org/lib?grp?InvariantForm
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?DerivedLength
+constant http://www.gap-system.org/lib?grp?DerivedLength
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?NilpotencyClassOfGroup
+constant http://www.gap-system.org/lib?grp?NilpotencyClassOfGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SubnormalSeriesOp
+constant http://www.gap-system.org/lib?grp?SubnormalSeriesOp
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ElementaryAbelianSeries
+constant http://www.gap-system.org/lib?grp?ElementaryAbelianSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?SupersolvableResiduum
+constant http://www.gap-system.org/lib?grp?SupersolvableResiduum
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugacyClassesMaximalSubgroups
+constant http://www.gap-system.org/lib?grp?ConjugacyClassesMaximalSubgroups
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsSimpleGroup
+constant http://www.gap-system.org/lib?grp?IsSimpleGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IndexNC
+constant http://www.gap-system.org/lib?grp?IndexNC
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ChiefSeriesUnderAction
+constant http://www.gap-system.org/lib?grp?ChiefSeriesUnderAction
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IndependentGeneratorExponents
+constant http://www.gap-system.org/lib?grp?IndependentGeneratorExponents
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Factorization
+constant http://www.gap-system.org/lib?grp?Factorization
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsPerfectGroup
+constant http://www.gap-system.org/lib?grp?IsPerfectGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsomorphismFpGroupByChiefSeries
+constant http://www.gap-system.org/lib?grp?IsomorphismFpGroupByChiefSeries
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ConjugacyClasses
+constant http://www.gap-system.org/lib?grp?ConjugacyClasses
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsInfiniteAbelianizationGroup
+constant http://www.gap-system.org/lib?grp?IsInfiniteAbelianizationGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsGroup
+constant http://www.gap-system.org/lib?grp?IsGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PrimePowerComponent
+constant http://www.gap-system.org/lib?grp?PrimePowerComponent
+Includes http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?function
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?Omega
+constant http://www.gap-system.org/lib?grp?Omega
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ComputedIsPSolvables
+constant http://www.gap-system.org/lib?grp?ComputedIsPSolvables
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?PClassPGroup
+constant http://www.gap-system.org/lib?grp?PClassPGroup
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?ElementTestFunction
+constant http://www.gap-system.org/lib?grp?ElementTestFunction
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?IsNormalInParent
+constant http://www.gap-system.org/lib?grp?IsNormalInParent
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?DimensionsLoewyFactors
+constant http://www.gap-system.org/lib?grp?DimensionsLoewyFactors
+Declares http://www.gap-system.org/lib?grp http://www.gap-system.org/lib?grp?GroupWithGenerators
+constant http://www.gap-system.org/lib?grp?GroupWithGenerators

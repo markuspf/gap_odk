@@ -1,0 +1,46 @@
+theory http://www.gap-system.org/lib?ideal
+HasMeta http://www.gap-system.org/lib?ideal http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?TwoSidedIdealByGenerators
+constant http://www.gap-system.org/lib?ideal?TwoSidedIdealByGenerators
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsRightIdeal
+constant http://www.gap-system.org/lib?ideal?IsRightIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsLeftIdeal
+constant http://www.gap-system.org/lib?ideal?IsLeftIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsTwoSidedIdeal
+constant http://www.gap-system.org/lib?ideal?IsTwoSidedIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?AsTwoSidedIdeal
+constant http://www.gap-system.org/lib?ideal?AsTwoSidedIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?LeftActingRingOfIdeal
+constant http://www.gap-system.org/lib?ideal?LeftActingRingOfIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?RightActingRingOfIdeal
+constant http://www.gap-system.org/lib?ideal?RightActingRingOfIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsRightIdealOp
+constant http://www.gap-system.org/lib?ideal?IsRightIdealOp
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?GeneratorsOfRightIdeal
+constant http://www.gap-system.org/lib?ideal?GeneratorsOfRightIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsLeftIdealInParent
+constant http://www.gap-system.org/lib?ideal?IsLeftIdealInParent
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsTwoSidedIdealInParent
+constant http://www.gap-system.org/lib?ideal?IsTwoSidedIdealInParent
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?GeneratorsOfLeftIdeal
+constant http://www.gap-system.org/lib?ideal?GeneratorsOfLeftIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsTwoSidedIdealOp
+constant http://www.gap-system.org/lib?ideal?IsTwoSidedIdealOp
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?RightIdealByGenerators
+constant http://www.gap-system.org/lib?ideal?RightIdealByGenerators
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?AsRightIdeal
+constant http://www.gap-system.org/lib?ideal?AsRightIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?AsLeftIdeal
+constant http://www.gap-system.org/lib?ideal?AsLeftIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsLeftIdealOp
+constant http://www.gap-system.org/lib?ideal?IsLeftIdealOp
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?LeftIdealByGenerators
+constant http://www.gap-system.org/lib?ideal?LeftIdealByGenerators
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?GeneratorsOfTwoSidedIdeal
+constant http://www.gap-system.org/lib?ideal?GeneratorsOfTwoSidedIdeal
+Declares http://www.gap-system.org/lib?ideal http://www.gap-system.org/lib?ideal?IsRightIdealInParent
+constant http://www.gap-system.org/lib?ideal?IsRightIdealInParent

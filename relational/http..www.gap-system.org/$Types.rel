@@ -1,0 +1,54 @@
+theory http://www.gap-system.org/?Types
+HasMeta http://www.gap-system.org/?Types http://cds.omdoc.org/urtheories?PLF
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?object
+constant http://www.gap-system.org/?Types?object
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?category
+constant http://www.gap-system.org/?Types?category
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?filter
+constant http://www.gap-system.org/?Types?filter
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?%23
+constant http://www.gap-system.org/?Types?%23
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?filter_and
+constant http://www.gap-system.org/?Types?filter_and
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?filter_and_hasFilter1
+constant http://www.gap-system.org/?Types?filter_and_hasFilter1
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?filter_and_hasFilter2
+constant http://www.gap-system.org/?Types?filter_and_hasFilter2
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?filter_and_hasFilter3
+constant http://www.gap-system.org/?Types?filter_and_hasFilter3
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?ded
+constant http://www.gap-system.org/?Types?ded
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?info.kwarc.mmt.odk.GAP.Booleans
+constant http://www.gap-system.org/?Types?info.kwarc.mmt.odk.GAP.Booleans
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?info.kwarc.mmt.odk.GAP.Integers
+constant http://www.gap-system.org/?Types?info.kwarc.mmt.odk.GAP.Integers
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?info.kwarc.mmt.odk.GAP.Floats
+constant http://www.gap-system.org/?Types?info.kwarc.mmt.odk.GAP.Floats
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?booleans
+constant http://www.gap-system.org/?Types?booleans
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?integers
+constant http://www.gap-system.org/?Types?integers
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?floats
+constant http://www.gap-system.org/?Types?floats
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?gapbool
+constant http://www.gap-system.org/?Types?gapbool
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?gapint
+constant http://www.gap-system.org/?Types?gapint
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?gapfloat
+constant http://www.gap-system.org/?Types?gapfloat
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?trueI
+constant http://www.gap-system.org/?Types?trueI
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?catFilter
+constant http://www.gap-system.org/?Types?catFilter
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?propertyFilter
+constant http://www.gap-system.org/?Types?propertyFilter
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?Has
+constant http://www.gap-system.org/?Types?Has
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?CategoryCollection
+constant http://www.gap-system.org/?Types?CategoryCollection
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?Set
+constant http://www.gap-system.org/?Types?Set
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?IsBool
+constant http://www.gap-system.org/?Types?IsBool
+Declares http://www.gap-system.org/?Types http://www.gap-system.org/?Types?IsObject
+constant http://www.gap-system.org/?Types?IsObject

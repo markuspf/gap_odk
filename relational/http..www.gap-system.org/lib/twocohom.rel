@@ -1,0 +1,10 @@
+theory http://www.gap-system.org/lib?twocohom
+HasMeta http://www.gap-system.org/lib?twocohom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?twocohom http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?twocohom http://www.gap-system.org/lib?rwspcgrp
+Declares http://www.gap-system.org/lib?twocohom http://www.gap-system.org/lib?twocohom?TwoCoboundaries
+constant http://www.gap-system.org/lib?twocohom?TwoCoboundaries
+Declares http://www.gap-system.org/lib?twocohom http://www.gap-system.org/lib?twocohom?TwoCohomology
+constant http://www.gap-system.org/lib?twocohom?TwoCohomology
+Declares http://www.gap-system.org/lib?twocohom http://www.gap-system.org/lib?twocohom?TwoCocycles
+constant http://www.gap-system.org/lib?twocohom?TwoCocycles

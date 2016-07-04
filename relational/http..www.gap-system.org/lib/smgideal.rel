@@ -1,0 +1,13 @@
+theory http://www.gap-system.org/lib?smgideal
+HasMeta http://www.gap-system.org/lib?smgideal http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?extrset
+Includes http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?smgideal?IsRightSemigroupIdeal
+constant http://www.gap-system.org/lib?smgideal?IsRightSemigroupIdeal
+Includes http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?extlset
+Declares http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?smgideal?IsSemigroupIdeal
+constant http://www.gap-system.org/lib?smgideal?IsSemigroupIdeal
+Declares http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?smgideal?IsLeftSemigroupIdeal
+constant http://www.gap-system.org/lib?smgideal?IsLeftSemigroupIdeal
+Declares http://www.gap-system.org/lib?smgideal http://www.gap-system.org/lib?smgideal?ReesCongruenceOfSemigroupIdeal
+constant http://www.gap-system.org/lib?smgideal?ReesCongruenceOfSemigroupIdeal

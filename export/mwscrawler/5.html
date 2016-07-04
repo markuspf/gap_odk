@@ -1,0 +1,51 @@
+<html> 
+      <head>
+        <title>2.1 Various types of text</title>
+        <meta name="url" content="http://www.gap-system.org/Manuals/doc/ref/TODO#X7A480B9A795EF264"></meta>
+      </head>
+      <body> <h4 xmlns="http://www.w3.org/1999/xhtml">2.1 <span class="Heading">Various types of text</span></h4><p xmlns="http://www.w3.org/1999/xhtml">[→ <a shape="rect" href="chapB_mj.html#X82A731CA83FB9ADD"><span class="RefLink">B.5</span></a>]</p><p xmlns="http://www.w3.org/1999/xhtml">In this section we present examples for all the various types of text that are possible in <strong class="pkg">GAPDoc</strong>:</p><ul xmlns="http://www.w3.org/1999/xhtml"><li><p><em>This</em> is <em>emphasized</em>.</p>
+
+</li><li><p><em>Keywords</em> are typeset like <code class="keyw">this</code> and <code class="keyw">that</code>.</p>
+
+</li><li><p><em>Arguments</em> of functions have an element. They look like this: <var class="Arg">x</var> and <var class="Arg">y</var>.</p>
+
+</li><li><p><em>Code</em> can be written with the Code element: <code class="code">if x = y then Print(&quot;Equal&quot;); fi;</code> or <code class="code">while true do Print(&quot;Hello&quot;); od;</code>.</p>
+
+</li><li><p><em>Filenames</em> have their own element: <code class="file">/usr/local/ca/gap4r2</code> or <code class="file">pkg/xgap/doc</code>.</p>
+
+</li><li><p><em>Buttons</em>, <em>menus</em>, <em>menu entries</em>, and such things are also supported: <strong class="button">OK</strong> or <strong class="button">Cancel</strong>.</p>
+
+</li><li><p><em>Packages</em> are typeset like this: <strong class="pkg">Small Groups Library</strong></p>
+
+</li><li><p><em>Quoted</em> text: &quot;This is a text in quotes.&quot;</p>
+
+</li></ul><p xmlns="http://www.w3.org/1999/xhtml"><em>Paragraphs</em> are separated by the empty <code class="code">Par</code> or <code class="code">P</code> element.</p><p xmlns="http://www.w3.org/1999/xhtml"><em>Alternatives</em> for different output formats: This is other than LaTeX output, namely: <b>HTML</b> output.</p><p xmlns="http://www.w3.org/1999/xhtml">There are also three elements to typeset &quot;verbatim-like&quot; text. (→ <a shape="rect" href="chapB_mj.html#X824BD70087820CF0"><span class="RefLink">B.6</span></a>)</p><p xmlns="http://www.w3.org/1999/xhtml">The first is a <em>Listing</em>:</p><div class="example" xmlns="http://www.w3.org/1999/xhtml"><pre xml:space="preserve">
+Sieve := function(n)
+  # Returns the primes less than n
+  local l,p,i;
+  l := [1..n]; Unbind(l[1]);
+  p := 2;
+  while p^2 &lt;= n do
+      if IsBound(l[p]) then
+          i := 2 * p;
+          while i &lt;= n do Unbind(l[i]); i := i + p; od;
+      fi;
+      p := p + 1;
+  od;
+  return Compacted(l);
+end;
+</pre></div><p xmlns="http://www.w3.org/1999/xhtml">Here is a <em>Log</em> of a <strong class="pkg">GAP</strong> session using this function:</p><div class="example" xmlns="http://www.w3.org/1999/xhtml"><pre xml:space="preserve">
+<span class="GAPprompt">gap&gt;</span> <span class="GAPinput">Sieve(100);</span>
+[ 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61,
+  67, 71, 73, 79, 83, 89, 97 ]
+<span class="GAPprompt">gap&gt;</span> <span class="GAPinput">Length(last);</span>
+25
+</pre></div><p xmlns="http://www.w3.org/1999/xhtml">Here is a <strong class="pkg">GAP</strong> <em>Example</em> session that is automatically tested:</p><div class="example" xmlns="http://www.w3.org/1999/xhtml"><pre xml:space="preserve">
+<span class="GAPprompt">gap&gt;</span> <span class="GAPinput">s := Size(CharacterTable(&quot;M&quot;));</span>
+808017424794512875886459904961710757005754368000000000
+<span class="GAPprompt">gap&gt;</span> <span class="GAPinput">s &lt; 10^53;                     </span>
+false
+<span class="GAPprompt">gap&gt;</span> <span class="GAPinput">s &lt; 10^54;</span>
+true
+</pre></div> </body>
+    </html>

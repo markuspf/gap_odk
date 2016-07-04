@@ -1,0 +1,35 @@
+theory http://www.gap-system.org/lib?macfloat
+HasMeta http://www.gap-system.org/lib?macfloat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?float
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st0
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st0
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st1
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st1
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st2
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st2
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st3
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st3
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st4
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st4
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st5
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st5
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st6
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st6
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st7
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st7
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st8
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st8
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st9
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st9
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st10
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st10
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st11
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st11
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st12
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st12
+Declares http://www.gap-system.org/lib?macfloat http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st13
+constant http://www.gap-system.org/lib?macfloat?IsIEEE754FloatRep_st13

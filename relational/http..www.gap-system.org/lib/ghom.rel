@@ -1,0 +1,147 @@
+theory http://www.gap-system.org/lib?ghom
+HasMeta http://www.gap-system.org/lib?ghom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsConjugatorIsomorphism
+constant http://www.gap-system.org/lib?ghom?IsConjugatorIsomorphism
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsConjugatorAutomorphism
+constant http://www.gap-system.org/lib?ghom?IsConjugatorAutomorphism
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghom?IsPreimagesByAsGroupGeneralMappingByImages_st15
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?NaturalHomomorphismByNormalSubgroupNCOp
+constant http://www.gap-system.org/lib?ghom?NaturalHomomorphismByNormalSubgroupNCOp
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?ConjugatorAutomorphismNC
+constant http://www.gap-system.org/lib?ghom?ConjugatorAutomorphismNC
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?ConjugatorOfConjugatorIsomorphism
+constant http://www.gap-system.org/lib?ghom?ConjugatorOfConjugatorIsomorphism
+Includes http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?GroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghom?GroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?InnerAutomorphismNC
+constant http://www.gap-system.org/lib?ghom?InnerAutomorphismNC
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?ImagesSmallestGenerators
+constant http://www.gap-system.org/lib?ghom?ImagesSmallestGenerators
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?ConjugatorIsomorphism
+constant http://www.gap-system.org/lib?ghom?ConjugatorIsomorphism
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?RegularActionHomomorphism
+constant http://www.gap-system.org/lib?ghom?RegularActionHomomorphism
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?NaturalHomomorphismByNormalSubgroupNC
+constant http://www.gap-system.org/lib?ghom?NaturalHomomorphismByNormalSubgroupNC
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?MappingOfWhichItIsAsGGMBI
+constant http://www.gap-system.org/lib?ghom?MappingOfWhichItIsAsGGMBI
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?AsGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghom?AsGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?NaturalHomomorphismByNormalSubgroupNCInParent
+constant http://www.gap-system.org/lib?ghom?NaturalHomomorphismByNormalSubgroupNCInParent
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?GroupGeneralMappingByImagesNC
+constant http://www.gap-system.org/lib?ghom?GroupGeneralMappingByImagesNC
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghom?IsGroupGeneralMappingByAsGroupGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?GroupHomomorphismByImagesNC
+constant http://www.gap-system.org/lib?ghom?GroupHomomorphismByImagesNC
+Declares http://www.gap-system.org/lib?ghom http://www.gap-system.org/lib?ghom?IsInnerAutomorphism
+constant http://www.gap-system.org/lib?ghom?IsInnerAutomorphism

@@ -1,0 +1,92 @@
+theory http://www.gap-system.org/lib?relation
+HasMeta http://www.gap-system.org/lib?relation http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?TransitiveClosureBinaryRelation
+constant http://www.gap-system.org/lib?relation?TransitiveClosureBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsPreOrderBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsPreOrderBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsReflexiveBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsReflexiveBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsSymmetricBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsSymmetricBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsTransitiveBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsTransitiveBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceRelation
+constant http://www.gap-system.org/lib?relation?IsEquivalenceRelation
+Includes http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClass
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClass
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClass_st0
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClass_st0
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClass_st1
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClass_st1
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClass_st2
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClass_st2
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClass_st3
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClass_st3
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClass_st4
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClass_st4
+Includes http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?EquivalenceClassRelation
+constant http://www.gap-system.org/lib?relation?EquivalenceClassRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?PartialOrderOfHasseDiagram
+constant http://www.gap-system.org/lib?relation?PartialOrderOfHasseDiagram
+Includes http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsBinaryRelationDefaultRep
+constant http://www.gap-system.org/lib?relation?IsBinaryRelationDefaultRep
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsBinaryRelationDefaultRep_st0
+constant http://www.gap-system.org/lib?relation?IsBinaryRelationDefaultRep_st0
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsBinaryRelationDefaultRep_st1
+constant http://www.gap-system.org/lib?relation?IsBinaryRelationDefaultRep_st1
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?EquivalenceClassOfElementNC
+constant http://www.gap-system.org/lib?relation?EquivalenceClassOfElementNC
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?DegreeOfBinaryRelation
+constant http://www.gap-system.org/lib?relation?DegreeOfBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsHasseDiagram
+constant http://www.gap-system.org/lib?relation?IsHasseDiagram
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?EquivalenceRelationPartition
+constant http://www.gap-system.org/lib?relation?EquivalenceRelationPartition
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?EquivalenceClassOfElement
+constant http://www.gap-system.org/lib?relation?EquivalenceClassOfElement
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsLatticeOrderBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsLatticeOrderBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsBinaryRelationOnPointsRep
+constant http://www.gap-system.org/lib?relation?IsBinaryRelationOnPointsRep
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsBinaryRelationOnPointsRep_st0
+constant http://www.gap-system.org/lib?relation?IsBinaryRelationOnPointsRep_st0
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsBinaryRelationOnPointsRep_st1
+constant http://www.gap-system.org/lib?relation?IsBinaryRelationOnPointsRep_st1
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?SymmetricClosureBinaryRelation
+constant http://www.gap-system.org/lib?relation?SymmetricClosureBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?StronglyConnectedComponents
+constant http://www.gap-system.org/lib?relation?StronglyConnectedComponents
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?MeetEquivalenceRelations
+constant http://www.gap-system.org/lib?relation?MeetEquivalenceRelations
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?ReflexiveClosureBinaryRelation
+constant http://www.gap-system.org/lib?relation?ReflexiveClosureBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?GeneratorsOfEquivalenceRelationPartition
+constant http://www.gap-system.org/lib?relation?GeneratorsOfEquivalenceRelationPartition
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsPartialOrderBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsPartialOrderBinaryRelation
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?Successors
+constant http://www.gap-system.org/lib?relation?Successors
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?EquivalenceClasses
+constant http://www.gap-system.org/lib?relation?EquivalenceClasses
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?JoinEquivalenceRelations
+constant http://www.gap-system.org/lib?relation?JoinEquivalenceRelations
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceRelationDefaultRep
+constant http://www.gap-system.org/lib?relation?IsEquivalenceRelationDefaultRep
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceRelationDefaultRep_st0
+constant http://www.gap-system.org/lib?relation?IsEquivalenceRelationDefaultRep_st0
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceRelationDefaultRep_st1
+constant http://www.gap-system.org/lib?relation?IsEquivalenceRelationDefaultRep_st1
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClassDefaultRep
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClassDefaultRep
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClassDefaultRep_st0
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClassDefaultRep_st0
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsEquivalenceClassDefaultRep_st1
+constant http://www.gap-system.org/lib?relation?IsEquivalenceClassDefaultRep_st1
+Declares http://www.gap-system.org/lib?relation http://www.gap-system.org/lib?relation?IsAntisymmetricBinaryRelation
+constant http://www.gap-system.org/lib?relation?IsAntisymmetricBinaryRelation

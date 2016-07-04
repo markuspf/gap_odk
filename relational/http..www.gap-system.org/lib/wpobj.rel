@@ -1,0 +1,18 @@
+theory http://www.gap-system.org/lib?wpobj
+HasMeta http://www.gap-system.org/lib?wpobj http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st0
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st0
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st1
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st1
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st2
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st2
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st3
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st3
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st4
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st4
+Declares http://www.gap-system.org/lib?wpobj http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st5
+constant http://www.gap-system.org/lib?wpobj?IsWeakPointerObject_st5

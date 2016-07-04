@@ -1,0 +1,29 @@
+theory http://www.gap-system.org/lib?memory
+HasMeta http://www.gap-system.org/lib?memory http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemoryRankFilter
+constant http://www.gap-system.org/lib?memory?IsObjWithMemoryRankFilter
+Includes http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st0
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st0
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st1
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st1
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st2
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st2
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st3
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st3
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st4
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st4
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st5
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st5
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?IsObjWithMemory_st6
+constant http://www.gap-system.org/lib?memory?IsObjWithMemory_st6
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?StripMemory
+constant http://www.gap-system.org/lib?memory?StripMemory
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?TypeOfObjWithMemory
+constant http://www.gap-system.org/lib?memory?TypeOfObjWithMemory
+Declares http://www.gap-system.org/lib?memory http://www.gap-system.org/lib?memory?ForgetMemory
+constant http://www.gap-system.org/lib?memory?ForgetMemory

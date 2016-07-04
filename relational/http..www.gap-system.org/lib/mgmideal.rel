@@ -1,0 +1,27 @@
+theory http://www.gap-system.org/lib?mgmideal
+HasMeta http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?AsRightMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?AsRightMagmaIdeal
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?AsMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?AsMagmaIdeal
+Includes http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?IsLeftMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?IsLeftMagmaIdeal
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?AsLeftMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?AsLeftMagmaIdeal
+Includes http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?extrset
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?IsRightMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?IsRightMagmaIdeal
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?GeneratorsOfMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?GeneratorsOfMagmaIdeal
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?IsMagmaIdeal
+constant http://www.gap-system.org/lib?mgmideal?IsMagmaIdeal
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?MagmaIdealByGenerators
+constant http://www.gap-system.org/lib?mgmideal?MagmaIdealByGenerators
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?LeftMagmaIdealByGenerators
+constant http://www.gap-system.org/lib?mgmideal?LeftMagmaIdealByGenerators
+Declares http://www.gap-system.org/lib?mgmideal http://www.gap-system.org/lib?mgmideal?RightMagmaIdealByGenerators
+constant http://www.gap-system.org/lib?mgmideal?RightMagmaIdealByGenerators

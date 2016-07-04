@@ -1,0 +1,11 @@
+theory http://www.gap-system.org/lib?factgrp
+HasMeta http://www.gap-system.org/lib?factgrp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?factgrp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?factgrp http://www.gap-system.org/lib?factgrp?FindActionKernel
+constant http://www.gap-system.org/lib?factgrp?FindActionKernel
+Declares http://www.gap-system.org/lib?factgrp http://www.gap-system.org/lib?factgrp?FactorCosetAction
+constant http://www.gap-system.org/lib?factgrp?FactorCosetAction
+Declares http://www.gap-system.org/lib?factgrp http://www.gap-system.org/lib?factgrp?NaturalHomomorphismsPool
+constant http://www.gap-system.org/lib?factgrp?NaturalHomomorphismsPool
+Declares http://www.gap-system.org/lib?factgrp http://www.gap-system.org/lib?factgrp?DoCheapActionImages
+constant http://www.gap-system.org/lib?factgrp?DoCheapActionImages

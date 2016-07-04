@@ -1,0 +1,79 @@
+theory http://www.gap-system.org/lib?zmodnz
+HasMeta http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st0
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st0
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st1
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st1
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st2
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st2
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st3
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st3
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st4
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st4
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st5
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st5
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st6
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st6
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st7
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st7
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st8
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st8
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st9
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st9
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st10
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st10
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st11
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st11
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st12
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObj_st12
+Includes http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?ffe
+Includes http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodpZObjSmall
+constant http://www.gap-system.org/lib?zmodnz?IsZmodpZObjSmall
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st0
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st0
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st1
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st1
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st2
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st2
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st3
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st3
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st4
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st4
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st5
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st5
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st6
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st6
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st7
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st7
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st8
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st8
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st9
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st9
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st10
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st10
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st11
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st11
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st12
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st12
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st13
+constant http://www.gap-system.org/lib?zmodnz?IsZmodnZObjNonprime_st13
+Includes http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?ZmodnZObj
+constant http://www.gap-system.org/lib?zmodnz?ZmodnZObj
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodpZObjLarge
+constant http://www.gap-system.org/lib?zmodnz?IsZmodpZObjLarge
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?ModulusOfZmodnZObj
+constant http://www.gap-system.org/lib?zmodnz?ModulusOfZmodnZObj
+Includes http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsModulusRep
+constant http://www.gap-system.org/lib?zmodnz?IsModulusRep
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsModulusRep_st0
+constant http://www.gap-system.org/lib?zmodnz?IsModulusRep_st0
+Declares http://www.gap-system.org/lib?zmodnz http://www.gap-system.org/lib?zmodnz?IsZmodpZObj
+constant http://www.gap-system.org/lib?zmodnz?IsZmodpZObj

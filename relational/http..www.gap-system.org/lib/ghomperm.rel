@@ -1,0 +1,165 @@
+theory http://www.gap-system.org/lib?ghomperm
+HasMeta http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?mapphomo
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghom
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?oprt
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st0
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st0
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st1
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st1
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st2
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st2
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st3
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st3
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st4
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st4
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st5
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st5
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st6
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st6
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st7
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st7
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st8
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st8
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st9
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st9
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st10
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st10
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st11
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st11
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st12
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st12
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st13
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st13
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st14
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st14
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st15
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st15
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st16
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st16
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st17
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st17
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st18
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st18
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st19
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st19
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st20
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st20
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st21
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st21
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st22
+constant http://www.gap-system.org/lib?ghomperm?IsBlocksOfActionHomomorphism_st22
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st0
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st0
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st1
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st1
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st2
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st2
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st3
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st3
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st4
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st4
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st5
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st5
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st6
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st6
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st7
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st7
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st8
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st8
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st9
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st9
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st10
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st10
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st11
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st11
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st12
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMapping_st12
+Includes http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st17
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupGeneralMappingByImages_st17
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st0
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st0
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st1
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st1
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st2
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st2
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st3
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st3
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st4
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st4
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st5
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st5
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st6
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st6
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st7
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st7
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st8
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st8
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st9
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st9
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st10
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st10
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st11
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st11
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st12
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st12
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st13
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st13
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st14
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st14
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st15
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st15
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st16
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupGeneralMappingByImages_st16
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupHomomorphism
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupHomomorphism
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsPermGroupHomomorphismByImages
+constant http://www.gap-system.org/lib?ghomperm?IsPermGroupHomomorphismByImages
+Declares http://www.gap-system.org/lib?ghomperm http://www.gap-system.org/lib?ghomperm?IsToPermGroupHomomorphismByImages
+constant http://www.gap-system.org/lib?ghomperm?IsToPermGroupHomomorphismByImages

@@ -1,0 +1,66 @@
+theory http://www.gap-system.org/lib?matobjplist
+HasMeta http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsCheckingVector
+constant http://www.gap-system.org/lib?matobjplist?IsCheckingVector
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsFFEVector
+constant http://www.gap-system.org/lib?matobjplist?IsFFEVector
+Includes http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st0
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st0
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st1
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st1
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st2
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st2
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st3
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st3
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st4
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st4
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st5
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st5
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st6
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st6
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st7
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st7
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st8
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st8
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st9
+constant http://www.gap-system.org/lib?matobjplist?IsPlistVectorRep_st9
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st0
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st0
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st1
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st1
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st2
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st2
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st3
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st3
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st4
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st4
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st5
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st5
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st6
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st6
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st7
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st7
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st8
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st8
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st9
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st9
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st10
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st10
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st11
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st11
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st12
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st12
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st13
+constant http://www.gap-system.org/lib?matobjplist?IsPlistMatrixRep_st13
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsIntVector
+constant http://www.gap-system.org/lib?matobjplist?IsIntVector
+Declares http://www.gap-system.org/lib?matobjplist http://www.gap-system.org/lib?matobjplist?IsCheckingMatrix
+constant http://www.gap-system.org/lib?matobjplist?IsCheckingMatrix

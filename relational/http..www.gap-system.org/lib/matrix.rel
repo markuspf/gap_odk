@@ -1,0 +1,189 @@
+theory http://www.gap-system.org/lib?matrix
+HasMeta http://www.gap-system.org/lib?matrix http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SolutionMat
+constant http://www.gap-system.org/lib?matrix?SolutionMat
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?object
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TriangulizedNullspaceMatDestructive
+constant http://www.gap-system.org/lib?matrix?TriangulizedNullspaceMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TriangulizedNullspaceMat
+constant http://www.gap-system.org/lib?matrix?TriangulizedNullspaceMat
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DimensionsMat
+constant http://www.gap-system.org/lib?matrix?DimensionsMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsUpperTriangularMat
+constant http://www.gap-system.org/lib?matrix?IsUpperTriangularMat
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?coll
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st0
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st0
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st1
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st1
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st2
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st2
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st3
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st3
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st4
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st4
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st5
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st5
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st6
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st6
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st7
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st7
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st8
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st8
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st9
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st9
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st10
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st10
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st11
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st11
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st12
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st12
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st13
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st13
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st14
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st14
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st15
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st15
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st16
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st16
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st17
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st17
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st18
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st18
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st19
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st19
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st20
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st20
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st21
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st21
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st22
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st22
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st23
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st23
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st24
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st24
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st25
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st25
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st26
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st26
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st27
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st27
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st28
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st28
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st29
+constant http://www.gap-system.org/lib?matrix?IsNullMapMatrix_st29
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SemiEchelonMat
+constant http://www.gap-system.org/lib?matrix?SemiEchelonMat
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?GeneralisedEigenvalues
+constant http://www.gap-system.org/lib?matrix?GeneralisedEigenvalues
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?NullspaceMatDestructive
+constant http://www.gap-system.org/lib?matrix?NullspaceMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?InverseMatMod
+constant http://www.gap-system.org/lib?matrix?InverseMatMod
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?FieldOfMatrixList
+constant http://www.gap-system.org/lib?matrix?FieldOfMatrixList
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TransposedMatImmutable
+constant http://www.gap-system.org/lib?matrix?TransposedMatImmutable
+Includes http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?CharacteristicPolynomialMatrixNC
+constant http://www.gap-system.org/lib?matrix?CharacteristicPolynomialMatrixNC
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?ElementaryDivisorsMat
+constant http://www.gap-system.org/lib?matrix?ElementaryDivisorsMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?Eigenvectors
+constant http://www.gap-system.org/lib?matrix?Eigenvectors
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TransposedMatDestructive
+constant http://www.gap-system.org/lib?matrix?TransposedMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsGeneralizedCartanMatrix
+constant http://www.gap-system.org/lib?matrix?IsGeneralizedCartanMatrix
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?BaseOrthogonalSpaceMat
+constant http://www.gap-system.org/lib?matrix?BaseOrthogonalSpaceMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?NullspaceMat
+constant http://www.gap-system.org/lib?matrix?NullspaceMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TriangulizedMat
+constant http://www.gap-system.org/lib?matrix?TriangulizedMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?MutableTransposedMatDestructive
+constant http://www.gap-system.org/lib?matrix?MutableTransposedMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TransposedMatMutable
+constant http://www.gap-system.org/lib?matrix?TransposedMatMutable
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DiagonalizeMat
+constant http://www.gap-system.org/lib?matrix?DiagonalizeMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DeterminantMat
+constant http://www.gap-system.org/lib?matrix?DeterminantMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?KroneckerProduct
+constant http://www.gap-system.org/lib?matrix?KroneckerProduct
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?ProjectiveOrder
+constant http://www.gap-system.org/lib?matrix?ProjectiveOrder
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsDiagonalMat
+constant http://www.gap-system.org/lib?matrix?IsDiagonalMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsLowerTriangularMat
+constant http://www.gap-system.org/lib?matrix?IsLowerTriangularMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?ElementaryDivisorsTransformationsMat
+constant http://www.gap-system.org/lib?matrix?ElementaryDivisorsTransformationsMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TriangulizeMat
+constant http://www.gap-system.org/lib?matrix?TriangulizeMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?GeneralisedEigenspaces
+constant http://www.gap-system.org/lib?matrix?GeneralisedEigenspaces
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TraceMat
+constant http://www.gap-system.org/lib?matrix?TraceMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?RankMat
+constant http://www.gap-system.org/lib?matrix?RankMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?UpperSubdiagonal
+constant http://www.gap-system.org/lib?matrix?UpperSubdiagonal
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SolutionMatDestructive
+constant http://www.gap-system.org/lib?matrix?SolutionMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DepthOfUpperTriangularMatrix
+constant http://www.gap-system.org/lib?matrix?DepthOfUpperTriangularMatrix
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?JordanDecomposition
+constant http://www.gap-system.org/lib?matrix?JordanDecomposition
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?BaseMat
+constant http://www.gap-system.org/lib?matrix?BaseMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DefaultScalarDomainOfMatrixList
+constant http://www.gap-system.org/lib?matrix?DefaultScalarDomainOfMatrixList
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?RankMatDestructive
+constant http://www.gap-system.org/lib?matrix?RankMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?Eigenspaces
+constant http://www.gap-system.org/lib?matrix?Eigenspaces
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?BaseMatDestructive
+constant http://www.gap-system.org/lib?matrix?BaseMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SemiEchelonMatTransformation
+constant http://www.gap-system.org/lib?matrix?SemiEchelonMatTransformation
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DeterminantMatDestructive
+constant http://www.gap-system.org/lib?matrix?DeterminantMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?TriangulizedNullspaceMatNT
+constant http://www.gap-system.org/lib?matrix?TriangulizedNullspaceMatNT
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SemiEchelonMatTransformationDestructive
+constant http://www.gap-system.org/lib?matrix?SemiEchelonMatTransformationDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?CharacteristicPolynomial
+constant http://www.gap-system.org/lib?matrix?CharacteristicPolynomial
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DeterminantMatDivFree
+constant http://www.gap-system.org/lib?matrix?DeterminantMatDivFree
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SemiEchelonMats
+constant http://www.gap-system.org/lib?matrix?SemiEchelonMats
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?Eigenvalues
+constant http://www.gap-system.org/lib?matrix?Eigenvalues
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SolutionMatNoCo
+constant http://www.gap-system.org/lib?matrix?SolutionMatNoCo
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?MinimalPolynomialMatrixNC
+constant http://www.gap-system.org/lib?matrix?MinimalPolynomialMatrixNC
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SemiEchelonMatsDestructive
+constant http://www.gap-system.org/lib?matrix?SemiEchelonMatsDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SumIntersectionMat
+constant http://www.gap-system.org/lib?matrix?SumIntersectionMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?BaseField
+constant http://www.gap-system.org/lib?matrix?BaseField
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?DefaultFieldOfMatrix
+constant http://www.gap-system.org/lib?matrix?DefaultFieldOfMatrix
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?SemiEchelonMatDestructive
+constant http://www.gap-system.org/lib?matrix?SemiEchelonMatDestructive
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?MutableCopyMat
+constant http://www.gap-system.org/lib?matrix?MutableCopyMat
+Declares http://www.gap-system.org/lib?matrix http://www.gap-system.org/lib?matrix?IsMonomialMatrix
+constant http://www.gap-system.org/lib?matrix?IsMonomialMatrix

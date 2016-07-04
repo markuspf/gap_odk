@@ -1,0 +1,7 @@
+theory http://www.gap-system.org/lib?grppccom
+HasMeta http://www.gap-system.org/lib?grppccom http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grppccom http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grppccom http://www.gap-system.org/lib?grppccom?ComplementClassesRepresentatives
+constant http://www.gap-system.org/lib?grppccom?ComplementClassesRepresentatives
+Declares http://www.gap-system.org/lib?grppccom http://www.gap-system.org/lib?grppccom?ComplementClassesRepresentativesSolvableNC
+constant http://www.gap-system.org/lib?grppccom?ComplementClassesRepresentativesSolvableNC

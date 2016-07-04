@@ -1,0 +1,261 @@
+theory http://www.gap-system.org/lib?pcgs
+HasMeta http://www.gap-system.org/lib?pcgs http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsDefaultRep
+constant http://www.gap-system.org/lib?pcgs?IsPcgsDefaultRep
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsDefaultRep_st0
+constant http://www.gap-system.org/lib?pcgs?IsPcgsDefaultRep_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsDefaultRep_st1
+constant http://www.gap-system.org/lib?pcgs?IsPcgsDefaultRep_st1
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?oper
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st0
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st1
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st1
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st2
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st2
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st3
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st3
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st4
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st4
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st5
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st5
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st6
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st6
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st7
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st7
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st8
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st8
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st9
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st9
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st10
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st10
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st11
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st11
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st12
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st12
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st13
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st13
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st14
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st14
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st15
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st15
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st16
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st16
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st17
+constant http://www.gap-system.org/lib?pcgs?IsGeneralPcgs_st17
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsFiniteOrdersPcgs
+constant http://www.gap-system.org/lib?pcgs?IsFiniteOrdersPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st0
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st1
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st1
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st2
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st2
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st3
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st3
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st4
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st4
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st5
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st5
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st6
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st6
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st7
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st7
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st8
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st8
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st9
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st9
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st10
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st10
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st11
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st11
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st12
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st12
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st13
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st13
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st14
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st14
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st15
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st15
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st16
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st16
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st17
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st17
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st18
+constant http://www.gap-system.org/lib?pcgs?IsModuloPcgs_st18
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?NormalIntersectionPcgs
+constant http://www.gap-system.org/lib?pcgs?NormalIntersectionPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs
+constant http://www.gap-system.org/lib?pcgs?IsPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st0
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st1
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st1
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st2
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st2
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st3
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st3
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st4
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st4
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st5
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st5
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st6
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st6
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st7
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st7
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st8
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st8
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st9
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st9
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st10
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st10
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st11
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st11
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st12
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st12
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st13
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st13
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st14
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st14
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st15
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st15
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st16
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st16
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st17
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st17
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st18
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st18
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgs_st19
+constant http://www.gap-system.org/lib?pcgs?IsPcgs_st19
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExtendedPcgs
+constant http://www.gap-system.org/lib?pcgs?ExtendedPcgs
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?CleanedTailPcElement
+constant http://www.gap-system.org/lib?pcgs?CleanedTailPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsFamily
+constant http://www.gap-system.org/lib?pcgs?IsPcgsFamily
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsFamily_st0
+constant http://www.gap-system.org/lib?pcgs?IsPcgsFamily_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcGroupWithPcgs
+constant http://www.gap-system.org/lib?pcgs?PcGroupWithPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcSeries
+constant http://www.gap-system.org/lib?pcgs?PcSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExponentsOfConjugate
+constant http://www.gap-system.org/lib?pcgs?ExponentsOfConjugate
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?SumOfPcElement
+constant http://www.gap-system.org/lib?pcgs?SumOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?HeadPcElementByNumber
+constant http://www.gap-system.org/lib?pcgs?HeadPcElementByNumber
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PCentralNormalSeriesByPcgsPGroup
+constant http://www.gap-system.org/lib?pcgs?PCentralNormalSeriesByPcgsPGroup
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExponentsOfPcElement
+constant http://www.gap-system.org/lib?pcgs?ExponentsOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?GroupOfPcgs
+constant http://www.gap-system.org/lib?pcgs?GroupOfPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ChiefNormalSeriesByPcgs
+constant http://www.gap-system.org/lib?pcgs?ChiefNormalSeriesByPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?LeadingExponentOfPcElement
+constant http://www.gap-system.org/lib?pcgs?LeadingExponentOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?CentralNormalSeriesByPcgs
+constant http://www.gap-system.org/lib?pcgs?CentralNormalSeriesByPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?NormalSeriesByPcgs
+constant http://www.gap-system.org/lib?pcgs?NormalSeriesByPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExponentsOfRelativePower
+constant http://www.gap-system.org/lib?pcgs?ExponentsOfRelativePower
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsEnumeratorByPcgsRep
+constant http://www.gap-system.org/lib?pcgs?IsEnumeratorByPcgsRep
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsEnumeratorByPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgs?IsEnumeratorByPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsEnumeratorByPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgs?IsEnumeratorByPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IndicesPCentralNormalStepsPGroup
+constant http://www.gap-system.org/lib?pcgs?IndicesPCentralNormalStepsPGroup
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?rwspcgrp
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?RefinedPcGroup
+constant http://www.gap-system.org/lib?pcgs?RefinedPcGroup
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?DepthAndLeadingExponentOfPcElement
+constant http://www.gap-system.org/lib?pcgs?DepthAndLeadingExponentOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?OneOfPcgs
+constant http://www.gap-system.org/lib?pcgs?OneOfPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsChiefSeries
+constant http://www.gap-system.org/lib?pcgs?IsPcgsChiefSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsPCentralSeriesPGroup
+constant http://www.gap-system.org/lib?pcgs?PcgsPCentralSeriesPGroup
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IntersectionSumPcgs
+constant http://www.gap-system.org/lib?pcgs?IntersectionSumPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExponentOfPcElement
+constant http://www.gap-system.org/lib?pcgs?ExponentOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep
+constant http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st3
+constant http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st3
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st4
+constant http://www.gap-system.org/lib?pcgs?IsPcgsByPcgsRep_st4
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IndicesEANormalSteps
+constant http://www.gap-system.org/lib?pcgs?IndicesEANormalSteps
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExtendedIntersectionSumPcgs
+constant http://www.gap-system.org/lib?pcgs?ExtendedIntersectionSumPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsElementaryAbelianSeries
+constant http://www.gap-system.org/lib?pcgs?IsPcgsElementaryAbelianSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?RelativeOrderOfPcElement
+constant http://www.gap-system.org/lib?pcgs?RelativeOrderOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IndicesCentralNormalSteps
+constant http://www.gap-system.org/lib?pcgs?IndicesCentralNormalSteps
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsElementaryAbelianSeries
+constant http://www.gap-system.org/lib?pcgs?PcgsElementaryAbelianSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsByPcSequenceNC
+constant http://www.gap-system.org/lib?pcgs?PcgsByPcSequenceNC
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IndicesNormalSteps
+constant http://www.gap-system.org/lib?pcgs?IndicesNormalSteps
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ReducedPcElement
+constant http://www.gap-system.org/lib?pcgs?ReducedPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPrimeOrdersPcgs
+constant http://www.gap-system.org/lib?pcgs?IsPrimeOrdersPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsByPcSequence
+constant http://www.gap-system.org/lib?pcgs?PcgsByPcSequence
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IndicesChiefNormalSteps
+constant http://www.gap-system.org/lib?pcgs?IndicesChiefNormalSteps
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsCentralSeries
+constant http://www.gap-system.org/lib?pcgs?IsPcgsCentralSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?EANormalSeriesByPcgs
+constant http://www.gap-system.org/lib?pcgs?EANormalSeriesByPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcElementByExponentsNC
+constant http://www.gap-system.org/lib?pcgs?PcElementByExponentsNC
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?EnumeratorByPcgs
+constant http://www.gap-system.org/lib?pcgs?EnumeratorByPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsChiefSeries
+constant http://www.gap-system.org/lib?pcgs?PcgsChiefSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsomorphismRefinedPcGroup
+constant http://www.gap-system.org/lib?pcgs?IsomorphismRefinedPcGroup
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?DifferenceOfPcElement
+constant http://www.gap-system.org/lib?pcgs?DifferenceOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?IsPcgsPCentralSeriesPGroup
+constant http://www.gap-system.org/lib?pcgs?IsPcgsPCentralSeriesPGroup
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsCentralSeries
+constant http://www.gap-system.org/lib?pcgs?PcgsCentralSeries
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?SumPcgs
+constant http://www.gap-system.org/lib?pcgs?SumPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?DepthOfPcElement
+constant http://www.gap-system.org/lib?pcgs?DepthOfPcElement
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?ExponentsOfCommutator
+constant http://www.gap-system.org/lib?pcgs?ExponentsOfCommutator
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?SumFactorizationFunctionPcgs
+constant http://www.gap-system.org/lib?pcgs?SumFactorizationFunctionPcgs
+Declares http://www.gap-system.org/lib?pcgs http://www.gap-system.org/lib?pcgs?PcgsByPcSequenceCons
+constant http://www.gap-system.org/lib?pcgs?PcgsByPcSequenceCons

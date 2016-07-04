@@ -1,0 +1,299 @@
+theory http://www.gap-system.org/lib?grpfp
+HasMeta http://www.gap-system.org/lib?grpfp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?TryCosetTableInWholeGroup
+constant http://www.gap-system.org/lib?grpfp?TryCosetTableInWholeGroup
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?semigrp
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st0
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st0
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st1
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st1
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st2
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st2
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st3
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st3
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st4
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st4
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st5
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st5
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st6
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st6
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st7
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st7
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st8
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st8
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st9
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st9
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st10
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st10
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st11
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st11
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st12
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st12
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st13
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st13
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st14
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st14
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st15
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st15
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st16
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st16
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st17
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st17
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st18
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st18
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st19
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st19
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st20
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st20
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st21
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st21
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st22
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st22
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st23
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st23
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st24
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st24
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st25
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st25
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st26
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st26
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st27
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st27
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st28
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st28
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st29
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st29
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st30
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st30
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st31
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st31
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st32
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st32
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st33
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st33
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st34
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFgGroup_st34
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st0
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st0
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st1
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st1
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st2
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st2
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st3
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st3
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st4
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st4
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st5
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st5
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st6
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st6
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st7
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st7
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st8
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st8
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st9
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st9
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st10
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st10
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st11
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st11
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st12
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st12
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st13
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st13
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st14
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st14
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st15
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st15
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st16
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st16
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st17
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st17
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st18
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st18
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st19
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st19
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st20
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st20
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st21
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st21
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st22
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st22
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st23
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st23
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st24
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st24
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st25
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st25
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st26
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st26
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st27
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st27
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st28
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st28
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st29
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st29
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st30
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st30
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st31
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st31
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st32
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st32
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st33
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st33
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st34
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st34
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st35
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupFpGroup_st35
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FreeGeneratorsOfWholeGroup
+constant http://www.gap-system.org/lib?grpfp?FreeGeneratorsOfWholeGroup
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grp
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st0
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st0
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st1
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st1
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st2
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st2
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st3
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st3
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st4
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st4
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st5
+constant http://www.gap-system.org/lib?grpfp?IsRightTransversalFpGroupRep_st5
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st0
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st0
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st1
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st1
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st2
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st2
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st3
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st3
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st4
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st4
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st5
+constant http://www.gap-system.org/lib?grpfp?IsElementOfFpGroup_st5
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FpElmComparisonMethod
+constant http://www.gap-system.org/lib?grpfp?FpElmComparisonMethod
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st0
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st0
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st1
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st1
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st2
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st2
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st3
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st3
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st4
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st4
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st5
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st5
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st6
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st6
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st7
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st7
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st8
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st8
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st9
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st9
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st10
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st10
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st11
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st11
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st12
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st12
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st13
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st13
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st14
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st14
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st15
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st15
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st16
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st16
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st17
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st17
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st18
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st18
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st19
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st19
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st20
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st20
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st21
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st21
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st22
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st22
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st23
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st23
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st24
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st24
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st25
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st25
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st26
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st26
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st27
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st27
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st28
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st28
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st29
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st29
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st30
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st30
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st31
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st31
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st32
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st32
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st33
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st33
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st34
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st34
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st35
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st35
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st36
+constant http://www.gap-system.org/lib?grpfp?IsSubgroupOfWholeGroupByQuotientRep_st36
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IndicesInvolutaryGenerators
+constant http://www.gap-system.org/lib?grpfp?IndicesInvolutaryGenerators
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?StoredExcludedOrders
+constant http://www.gap-system.org/lib?grpfp?StoredExcludedOrders
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FpElementNFFunction
+constant http://www.gap-system.org/lib?grpfp?FpElementNFFunction
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?LowIndexSubgroupsFpGroup
+constant http://www.gap-system.org/lib?grpfp?LowIndexSubgroupsFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?RelatorsOfFpGroup
+constant http://www.gap-system.org/lib?grpfp?RelatorsOfFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?IsFpGroup
+constant http://www.gap-system.org/lib?grpfp?IsFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FreeGroupOfFpGroup
+constant http://www.gap-system.org/lib?grpfp?FreeGroupOfFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?CosetTableNormalClosureInWholeGroup
+constant http://www.gap-system.org/lib?grpfp?CosetTableNormalClosureInWholeGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FPFaithHom
+constant http://www.gap-system.org/lib?grpfp?FPFaithHom
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FpElmEqualityMethod
+constant http://www.gap-system.org/lib?grpfp?FpElmEqualityMethod
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?FreeGeneratorsOfFpGroup
+constant http://www.gap-system.org/lib?grpfp?FreeGeneratorsOfFpGroup
+Includes http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?word
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?ElementOfFpGroup
+constant http://www.gap-system.org/lib?grpfp?ElementOfFpGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?LowIndexSubgroupsFpGroupIterator
+constant http://www.gap-system.org/lib?grpfp?LowIndexSubgroupsFpGroupIterator
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?CosetTableInWholeGroup
+constant http://www.gap-system.org/lib?grpfp?CosetTableInWholeGroup
+Declares http://www.gap-system.org/lib?grpfp http://www.gap-system.org/lib?grpfp?AsSubgroupOfWholeGroupByQuotient
+constant http://www.gap-system.org/lib?grpfp?AsSubgroupOfWholeGroupByQuotient

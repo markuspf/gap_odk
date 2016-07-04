@@ -1,0 +1,224 @@
+theory http://www.gap-system.org/lib?vspc
+HasMeta http://www.gap-system.org/lib?vspc http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpaceDefaultRep
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpaceDefaultRep
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpaceDefaultRep_st0
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpaceDefaultRep_st0
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st0
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st0
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st1
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st1
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st2
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st2
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st3
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st3
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st4
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st4
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st5
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st5
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st6
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st6
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st7
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st7
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st8
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st8
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st9
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st9
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st10
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st10
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st11
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st11
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st12
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st12
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st13
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st13
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st14
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st14
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st15
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st15
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st16
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st16
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st17
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st17
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st18
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st18
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st19
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st19
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st20
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st20
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st21
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st21
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st22
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st22
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st23
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st23
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st24
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st24
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st25
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianRowSpace_st25
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsLeftVectorSpace
+constant http://www.gap-system.org/lib?vspc?IsLeftVectorSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsMatrixSpace
+constant http://www.gap-system.org/lib?vspc?IsMatrixSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st0
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st0
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st1
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st1
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st2
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st2
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st3
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st3
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st4
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st4
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st5
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st5
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st6
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st6
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st7
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st7
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st8
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st8
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st9
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st9
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st10
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st10
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st11
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st11
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st12
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st12
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st13
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st13
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st14
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st14
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st15
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st15
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st16
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st16
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st17
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st17
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st18
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st18
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st19
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st19
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st20
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st20
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st21
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st21
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st22
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st22
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st23
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st23
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianSpace_st24
+constant http://www.gap-system.org/lib?vspc?IsGaussianSpace_st24
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?OrthogonalSpaceInFullRowSpace
+constant http://www.gap-system.org/lib?vspc?OrthogonalSpaceInFullRowSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?CanonicalBasis
+constant http://www.gap-system.org/lib?vspc?CanonicalBasis
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?AsSubspace
+constant http://www.gap-system.org/lib?vspc?AsSubspace
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?Subspaces
+constant http://www.gap-system.org/lib?vspc?Subspaces
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st0
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st0
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st1
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st1
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st2
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st2
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st3
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st3
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st4
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st4
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st5
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st5
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st6
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st6
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st7
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st7
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st8
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st8
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st9
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st9
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st10
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st10
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st11
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st11
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st12
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st12
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st13
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st13
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st14
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st14
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st15
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st15
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st16
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st16
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st17
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st17
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st18
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st18
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st19
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st19
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st20
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st20
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st21
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st21
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st22
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st22
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st23
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st23
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st24
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st24
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st25
+constant http://www.gap-system.org/lib?vspc?IsNonGaussianMatrixSpace_st25
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?semiring
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsLeftOperatorRingWithOne
+constant http://www.gap-system.org/lib?vspc?IsLeftOperatorRingWithOne
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsRowSpace
+constant http://www.gap-system.org/lib?vspc?IsRowSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsLeftOperatorRing
+constant http://www.gap-system.org/lib?vspc?IsLeftOperatorRing
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsDivisionRing
+constant http://www.gap-system.org/lib?vspc?IsDivisionRing
+Includes http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?mapping
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsVectorSpaceHomomorphism
+constant http://www.gap-system.org/lib?vspc?IsVectorSpaceHomomorphism
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st0
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st0
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st1
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st1
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st2
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st2
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st3
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st3
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st4
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st4
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st5
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st5
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st6
+constant http://www.gap-system.org/lib?vspc?IsSubspacesVectorSpace_st6
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianRowSpace
+constant http://www.gap-system.org/lib?vspc?IsGaussianRowSpace
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?NormedRowVectors
+constant http://www.gap-system.org/lib?vspc?NormedRowVectors
+Declares http://www.gap-system.org/lib?vspc http://www.gap-system.org/lib?vspc?IsGaussianMatrixSpace
+constant http://www.gap-system.org/lib?vspc?IsGaussianMatrixSpace

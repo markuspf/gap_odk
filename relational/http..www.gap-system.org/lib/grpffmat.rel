@@ -1,0 +1,7 @@
+theory http://www.gap-system.org/lib?grpffmat
+HasMeta http://www.gap-system.org/lib?grpffmat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpffmat http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?grpffmat http://www.gap-system.org/lib?ffe
+Includes http://www.gap-system.org/lib?grpffmat http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?grpffmat http://www.gap-system.org/lib?grpffmat?IsFFEMatrixGroup
+constant http://www.gap-system.org/lib?grpffmat?IsFFEMatrixGroup

@@ -1,0 +1,21 @@
+theory http://www.gap-system.org/lib?kbsemi
+HasMeta http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?orders
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?KnuthBendixRewritingSystem
+constant http://www.gap-system.org/lib?kbsemi?KnuthBendixRewritingSystem
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystemRep
+constant http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystemRep
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystemRep_st0
+constant http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystemRep_st0
+Includes http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?rws
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystem
+constant http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystem
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystem_st0
+constant http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystem_st0
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystem_st1
+constant http://www.gap-system.org/lib?kbsemi?IsKnuthBendixRewritingSystem_st1
+Includes http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi
+Declares http://www.gap-system.org/lib?kbsemi http://www.gap-system.org/lib?kbsemi?TzRules
+constant http://www.gap-system.org/lib?kbsemi?TzRules

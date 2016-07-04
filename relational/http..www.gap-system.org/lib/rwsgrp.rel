@@ -1,0 +1,30 @@
+theory http://www.gap-system.org/lib?rwsgrp
+HasMeta http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws
+constant http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st0
+constant http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st0
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st1
+constant http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st1
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st2
+constant http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st2
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st3
+constant http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st3
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st4
+constant http://www.gap-system.org/lib?rwsgrp?IsMultiplicativeElementWithInverseByRws_st4
+Includes http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rws
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?GroupByRwsNC
+constant http://www.gap-system.org/lib?rwsgrp?GroupByRwsNC
+Includes http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsElementsFamilyByRws
+constant http://www.gap-system.org/lib?rwsgrp?IsElementsFamilyByRws
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?IsElementsFamilyByRws_st0
+constant http://www.gap-system.org/lib?rwsgrp?IsElementsFamilyByRws_st0
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?MultiplicativeElementsWithInversesFamilyByRws
+constant http://www.gap-system.org/lib?rwsgrp?MultiplicativeElementsWithInversesFamilyByRws
+Includes http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?ElementByRws
+constant http://www.gap-system.org/lib?rwsgrp?ElementByRws
+Declares http://www.gap-system.org/lib?rwsgrp http://www.gap-system.org/lib?rwsgrp?GroupByRws
+constant http://www.gap-system.org/lib?rwsgrp?GroupByRws

@@ -1,0 +1,59 @@
+theory http://www.gap-system.org/pkg/io-4.4.4/gap?background
+HasMeta http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/lib?function
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/lib?record
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?BackgroundJobByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?BackgroundJobByFork
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarm
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarm
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarm_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarm_st0
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarm_st1
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarm_st1
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork_st0
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork_st1
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork_st1
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork_st2
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsWorkerFarmByFork_st2
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?DoQueues
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?DoQueues
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJob
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJob
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJob_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJob_st0
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJob_st1
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJob_st1
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?WaitUntilIdle
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?WaitUntilIdle
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?Pickup
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?Pickup
+Includes http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParMapReduceByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParMapReduceByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?Kill
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?Kill
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParDoByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParDoByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParWorkerFarmByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParWorkerFarmByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork_st0
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork_st0
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork_st1
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork_st1
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork_st2
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsBackgroundJobByFork_st2
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParTakeFirstResultByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParTakeFirstResultByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?Submit
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?Submit
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParListByFork
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?ParListByFork
+Declares http://www.gap-system.org/pkg/io-4.4.4/gap?background http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsIdle
+constant http://www.gap-system.org/pkg/io-4.4.4/gap?background?IsIdle

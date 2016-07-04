@@ -1,0 +1,7 @@
+theory http://www.gap-system.org/grp?imf
+HasMeta http://www.gap-system.org/grp?imf http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/grp?imf http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/grp?imf http://www.gap-system.org/grp?imf?ImfRecord
+constant http://www.gap-system.org/grp?imf?ImfRecord
+Declares http://www.gap-system.org/grp?imf http://www.gap-system.org/grp?imf?IsImfMatrixGroup
+constant http://www.gap-system.org/grp?imf?IsImfMatrixGroup

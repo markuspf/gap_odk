@@ -1,0 +1,7 @@
+theory http://www.gap-system.org/lib?ffeconway
+HasMeta http://www.gap-system.org/lib?ffeconway http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?ffeconway http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?ffeconway http://www.gap-system.org/lib?ffeconway?IsCoeffsModConwayPolRep
+constant http://www.gap-system.org/lib?ffeconway?IsCoeffsModConwayPolRep
+Declares http://www.gap-system.org/lib?ffeconway http://www.gap-system.org/lib?ffeconway?IsCoeffsModConwayPolRep_st0
+constant http://www.gap-system.org/lib?ffeconway?IsCoeffsModConwayPolRep_st0

@@ -1,0 +1,66 @@
+theory http://www.gap-system.org/lib?vecmat
+HasMeta http://www.gap-system.org/lib?vecmat http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?NumberFFVector
+constant http://www.gap-system.org/lib?vecmat?NumberFFVector
+Includes http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?object
+Includes http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?matobj1
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st0
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st0
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st1
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st1
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st2
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st2
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st3
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st3
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st4
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st4
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st5
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st5
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st6
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st6
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st7
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st7
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st8
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st8
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st9
+constant http://www.gap-system.org/lib?vecmat?IsGF2VectorRep_st9
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsLockedRepresentationVector
+constant http://www.gap-system.org/lib?vecmat?IsLockedRepresentationVector
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st0
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st0
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st1
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st1
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st2
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st2
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st3
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st3
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st4
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st4
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st5
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st5
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st6
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st6
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st7
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st7
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st8
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st8
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st9
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st9
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st10
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st10
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st11
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st11
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st12
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st12
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st13
+constant http://www.gap-system.org/lib?vecmat?IsGF2MatrixRep_st13
+Declares http://www.gap-system.org/lib?vecmat http://www.gap-system.org/lib?vecmat?ImmutableMatrix
+constant http://www.gap-system.org/lib?vecmat?ImmutableMatrix

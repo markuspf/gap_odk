@@ -1,0 +1,43 @@
+theory http://www.gap-system.org/lib?stbcbckt
+HasMeta http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?permutat
+Includes http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st0
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st0
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st1
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st1
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st2
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st2
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st3
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st3
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st4
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st4
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st5
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st5
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st6
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st6
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st7
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPermInv_st7
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st0
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st0
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st1
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st1
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st2
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st2
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st3
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st3
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st4
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st4
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st5
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st5
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st6
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st6
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st7
+constant http://www.gap-system.org/lib?stbcbckt?IsSlicedPerm_st7
+Includes http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?stbcbckt http://www.gap-system.org/lib?stbcbckt?TwoClosure
+constant http://www.gap-system.org/lib?stbcbckt?TwoClosure

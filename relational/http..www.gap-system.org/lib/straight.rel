@@ -1,0 +1,40 @@
+theory http://www.gap-system.org/lib?straight
+HasMeta http://www.gap-system.org/lib?straight http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgram
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgram
+Includes http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?LinesOfStraightLineProgram
+constant http://www.gap-system.org/lib?straight?LinesOfStraightLineProgram
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?LargestNrSlots
+constant http://www.gap-system.org/lib?straight?LargestNrSlots
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?StraightLineProgramElmRankFilter
+constant http://www.gap-system.org/lib?straight?StraightLineProgramElmRankFilter
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?NrInputsOfStraightLineProgram
+constant http://www.gap-system.org/lib?straight?NrInputsOfStraightLineProgram
+Includes http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?StraightLineProgElmType
+constant http://www.gap-system.org/lib?straight?StraightLineProgElmType
+Includes http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st0
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st0
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st1
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st1
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st2
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st2
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st3
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st3
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st4
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st4
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st5
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st5
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st6
+constant http://www.gap-system.org/lib?straight?IsStraightLineProgElm_st6
+Includes http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?ResultOfStraightLineProgram
+constant http://www.gap-system.org/lib?straight?ResultOfStraightLineProgram
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?StretchImportantSLPElement
+constant http://www.gap-system.org/lib?straight?StretchImportantSLPElement
+Declares http://www.gap-system.org/lib?straight http://www.gap-system.org/lib?straight?SlotUsagePattern
+constant http://www.gap-system.org/lib?straight?SlotUsagePattern

@@ -1,13 +1,52 @@
-namespace http://www.gap-system.org 
+namespace http://www.gap-system.org/ 
 
-theory Types : odk:?Math =
+theory Types : ur:?PLF =
+	object : type 
+	category : type 
+	
+	filter = object → type 
+	
+	constant # : object → filter → type  //  = [o][f] f o  # 1 # 2 
+	
+	filter_and : filter → filter → filter  # 1 and 2 
+	filter_and_hasFilter1 : {x,f : filter,g : filter} x # f → x # g → x # (f and g) 
+	filter_and_hasFilter2 : {x,f : filter,g : filter} x # (f and g) → x # f 
+	filter_and_hasFilter3 : {x,f : filter,g : filter} x # (f and g) → x # g 
+	
+	ded : object → type 
+	
+	rule info.kwarc.mmt.odk.GAP.Booleans 
+	rule info.kwarc.mmt.odk.GAP.Integers 
+	rule info.kwarc.mmt.odk.GAP.Floats 
+	
+	booleans : type 
+	integers : type 
+	floats : type 
+	gapbool : booleans → object 
+	gapint : integers → object 
+	gapfloat : floats → object 
+	
+	trueI : ded (gapbool true) 
+	catFilter : category → filter 
+	propertyFilter : (object → object) → filter  = [p] [o] ded (p o) 
+	
+	Has : (object → object) → filter 
+	CategoryCollection : filter → category 
+	Set : filter → (object → object) 
+	IsBool : category 
+	IsObject : category 
+	// HasIsProperty : {o,x} x # (propertyFilter o) → ((Has o) x) # catFilter IsBool 
+	
+
+
+//   theory Types : odk:?Math =
 	Object : tp 
 
 	Family : tp 
 	Family_Of_Families : tm Family 
 	Families_are_Objects : Family < Object 
-	Family_Of_Object : tm Object → tm Family  # FamilyOf 1 
-	// Family_Of_Family_is_Family_of_Families : {F:tm Family} ⊦ eq Family (FamilyOf (tpCast Families_are_Objects F)) Family_Of_Families 
+	Family_Of_Object : tm Object → tm Family  # FamilyOfObj 1 
+	Family_Of_Family_is_Family_of_Families : {F:tm Family} ⊦ eq Family (FamilyOfObj (tpCast Families_are_Objects F)) Family_Of_Families 
 
 	Filter : tp 
 	Elementary_Filter : tp 
@@ -24,7 +63,7 @@ theory Types : odk:?Math =
 	filter_def_application : {F,O} ⊦ ((MakeFilter F) _ O) ≐ F O 
 
 	GAPtype : tp 
-	Family_of_GAPtype : tm GAPtype → tm Family  # FamilyOf 1 
+	Family_of_GAPtype : tm GAPtype → tm Family  # FamilyOfTp 1 
 	Filter_of_GAPtype : tm GAPtype → tm list Elementary_Filter   # FilterOf 1 
 	GAPtype_Constructor : tm Family → tm list Elementary_Filter → tm GAPtype  # GAPtp 1 2 
 	// Filter_applies_to_type_object : {O} ⊦ (FilterOf O) _ O 

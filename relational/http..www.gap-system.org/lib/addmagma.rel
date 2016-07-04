@@ -1,0 +1,99 @@
+theory http://www.gap-system.org/lib?addmagma
+HasMeta http://www.gap-system.org/lib?addmagma http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?domain
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st0
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st0
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st1
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st1
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st2
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st2
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st3
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st3
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st4
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st4
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st5
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st5
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st6
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st6
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st7
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagma_st7
+Includes http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st0
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st0
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st1
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st1
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st2
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st2
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st3
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st3
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st4
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st4
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st5
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st5
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st6
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st6
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st7
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st7
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st8
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st8
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st9
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveMagmaWithZero_st9
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st0
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st0
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st1
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st1
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st2
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st2
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st3
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st3
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st4
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st4
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st5
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st5
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st6
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st6
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st7
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st7
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st8
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st8
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st9
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st9
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st10
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st10
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st11
+constant http://www.gap-system.org/lib?addmagma?IsNearAdditiveGroup_st11
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsAdditivelyCommutative
+constant http://www.gap-system.org/lib?addmagma?IsAdditivelyCommutative
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?NearAdditiveMagmaWithZeroByGenerators
+constant http://www.gap-system.org/lib?addmagma?NearAdditiveMagmaWithZeroByGenerators
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?NearAdditiveGroupByGenerators
+constant http://www.gap-system.org/lib?addmagma?NearAdditiveGroupByGenerators
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?AdditiveNeutralElement
+constant http://www.gap-system.org/lib?addmagma?AdditiveNeutralElement
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?GeneratorsOfNearAdditiveMagmaWithZero
+constant http://www.gap-system.org/lib?addmagma?GeneratorsOfNearAdditiveMagmaWithZero
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsAdditiveMagma
+constant http://www.gap-system.org/lib?addmagma?IsAdditiveMagma
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?TrivialSubnearAdditiveMagmaWithZero
+constant http://www.gap-system.org/lib?addmagma?TrivialSubnearAdditiveMagmaWithZero
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsAdditiveGroup
+constant http://www.gap-system.org/lib?addmagma?IsAdditiveGroup
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?GeneratorsOfNearAdditiveGroup
+constant http://www.gap-system.org/lib?addmagma?GeneratorsOfNearAdditiveGroup
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?GeneratorsOfNearAdditiveMagma
+constant http://www.gap-system.org/lib?addmagma?GeneratorsOfNearAdditiveMagma
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?NearAdditiveMagmaByGenerators
+constant http://www.gap-system.org/lib?addmagma?NearAdditiveMagmaByGenerators
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?ClosureNearAdditiveGroup
+constant http://www.gap-system.org/lib?addmagma?ClosureNearAdditiveGroup
+Declares http://www.gap-system.org/lib?addmagma http://www.gap-system.org/lib?addmagma?IsAdditiveMagmaWithZero
+constant http://www.gap-system.org/lib?addmagma?IsAdditiveMagmaWithZero

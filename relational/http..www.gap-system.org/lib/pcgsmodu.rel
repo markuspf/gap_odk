@@ -1,0 +1,84 @@
+theory http://www.gap-system.org/lib?pcgsmodu
+HasMeta http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgs
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?DenominatorOfModuloPcgs
+constant http://www.gap-system.org/lib?pcgsmodu?DenominatorOfModuloPcgs
+Includes http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?list
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?ModuloPcgsByPcSequenceNC
+constant http://www.gap-system.org/lib?pcgsmodu?ModuloPcgsByPcSequenceNC
+Includes http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st3
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsRep_st3
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st0
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st0
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st1
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st1
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st2
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st2
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st3
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st3
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st4
+constant http://www.gap-system.org/lib?pcgsmodu?IsModuloTailPcgsByListRep_st4
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st0
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st0
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st1
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st1
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st2
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st2
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st3
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentLayersForExponentsRep_st3
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?NumeratorOfModuloPcgs
+constant http://www.gap-system.org/lib?pcgsmodu?NumeratorOfModuloPcgs
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st0
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st0
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st1
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st1
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st2
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st2
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st3
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentForExponentsRep_st3
+Includes http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?magma
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?ModuloPcgs
+constant http://www.gap-system.org/lib?pcgsmodu?ModuloPcgs
+Includes http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?ExponentsConjugateLayer
+constant http://www.gap-system.org/lib?pcgsmodu?ExponentsConjugateLayer
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?ModuloPcgsByPcSequence
+constant http://www.gap-system.org/lib?pcgsmodu?ModuloPcgsByPcSequence
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentPcgsFamilyPcgs
+constant http://www.gap-system.org/lib?pcgsmodu?IsNumeratorParentPcgsFamilyPcgs
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep
+constant http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st0
+constant http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st0
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st1
+constant http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st1
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st2
+constant http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st2
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st3
+constant http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st3
+Declares http://www.gap-system.org/lib?pcgsmodu http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st4
+constant http://www.gap-system.org/lib?pcgsmodu?IsSubsetInducedNumeratorModuloTailPcgsRep_st4

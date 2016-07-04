@@ -1,0 +1,19 @@
+theory http://www.gap-system.org/lib?csetpc
+HasMeta http://www.gap-system.org/lib?csetpc http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?grp
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st0
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st0
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st1
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st1
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st2
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st2
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st3
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st3
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st4
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st4
+Declares http://www.gap-system.org/lib?csetpc http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st5
+constant http://www.gap-system.org/lib?csetpc?IsRightTransversalPcGroupRep_st5

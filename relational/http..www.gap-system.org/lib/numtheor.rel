@@ -1,0 +1,10 @@
+theory http://www.gap-system.org/lib?numtheor
+HasMeta http://www.gap-system.org/lib?numtheor http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?numtheor http://www.gap-system.org/lib?numtheor?Phi
+constant http://www.gap-system.org/lib?numtheor?Phi
+Declares http://www.gap-system.org/lib?numtheor http://www.gap-system.org/lib?numtheor?Sigma
+constant http://www.gap-system.org/lib?numtheor?Sigma
+Declares http://www.gap-system.org/lib?numtheor http://www.gap-system.org/lib?numtheor?Tau
+constant http://www.gap-system.org/lib?numtheor?Tau
+Declares http://www.gap-system.org/lib?numtheor http://www.gap-system.org/lib?numtheor?Lambda
+constant http://www.gap-system.org/lib?numtheor?Lambda

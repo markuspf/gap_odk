@@ -1,0 +1,236 @@
+<omdoc xmlns="http://omdoc.org/ns" xmlns:om="http://www.openmath.org/OpenMath"><theory name="Types" base="http://www.gap-system.org/" meta="http://cds.omdoc.org/urtheories?PLF"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#40.2.0:1161.39.1"/></metadata><constant name="object">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#66.3.1:81.3.16"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#75.3.10:78.3.13"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="category">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#83.4.1:100.4.18"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#94.4.12:97.4.15"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="filter">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#104.6.1:128.6.25"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://cds.omdoc.org/urtheories" module="Kinded" name="kind"></om:OMS></om:OMOBJ></type>
+       <definition><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#943.32.27:948.32.32"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#122.6.19:125.6.22"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></definition>
+       
+     </constant><constant name="%23">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#132.8.1:198.8.67"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#145.8.14:166.8.35"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#154.8.23:159.8.28"/></metadata></om:OMS><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#163.8.32:166.8.35"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       <notations><notation dimension="1" precedence="0" fixity="mixfix" arguments="1 # 2"> <scope languages="" priority="0"/> </notation></notations>
+     </constant><constant name="filter_and">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#202.10.1:253.10.52"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#215.10.14:238.10.37"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#215.10.14:220.10.19"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#224.10.23:229.10.28"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#233.10.32:238.10.37"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       <notations><notation dimension="1" precedence="0" fixity="mixfix" arguments="1 and 2"> <scope languages="" priority="0"/> </notation></notations>
+     </constant><constant name="filter_and_hasFilter1">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#255.11.1:336.11.82"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#279.11.25:333.11.79"/></metadata>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><metadata><tag property="http://cds.omdoc.org/mmt?mmt?inferred-type"/><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#280.11.26:280.11.26"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#282.11.28:282.11.28"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#286.11.32:291.11.37"/></metadata></om:OMS></type></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#293.11.39:293.11.39"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#297.11.43:302.11.48"/></metadata></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#305.11.51:333.11.79"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#305.11.51:309.11.55"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#305.11.51:305.11.51"/></metadata></om:OMV><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#309.11.55:309.11.55"/></metadata></om:OMV>
+      </om:OMA><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#313.11.59:317.11.63"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#313.11.59:313.11.59"/></metadata></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#317.11.63:317.11.63"/></metadata></om:OMV>
+      </om:OMA><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#321.11.67:333.11.79"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#321.11.67:321.11.67"/></metadata></om:OMV><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#325.11.71:333.11.79"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#326.11.72:326.11.72"/></metadata></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#332.11.78:332.11.78"/></metadata></om:OMV>
+      </om:OMA>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="filter_and_hasFilter2">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#338.12.1:411.12.74"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#362.12.25:408.12.71"/></metadata>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><metadata><tag property="http://cds.omdoc.org/mmt?mmt?inferred-type"/><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#363.12.26:363.12.26"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#365.12.28:365.12.28"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#369.12.32:374.12.37"/></metadata></om:OMS></type></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#376.12.39:376.12.39"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#380.12.43:385.12.48"/></metadata></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#388.12.51:408.12.71"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#388.12.51:400.12.63"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#388.12.51:388.12.51"/></metadata></om:OMV><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#392.12.55:400.12.63"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#393.12.56:393.12.56"/></metadata></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#399.12.62:399.12.62"/></metadata></om:OMV>
+      </om:OMA>
+      </om:OMA><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#404.12.67:408.12.71"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#404.12.67:404.12.67"/></metadata></om:OMV><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#408.12.71:408.12.71"/></metadata></om:OMV>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="filter_and_hasFilter3">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#413.13.1:486.13.74"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#437.13.25:483.13.71"/></metadata>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="x"><metadata><tag property="http://cds.omdoc.org/mmt?mmt?inferred-type"/><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#438.13.26:438.13.26"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#440.13.28:440.13.28"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#444.13.32:449.13.37"/></metadata></om:OMS></type></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#451.13.39:451.13.39"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#455.13.43:460.13.48"/></metadata></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#463.13.51:483.13.71"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#463.13.51:475.13.63"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#463.13.51:463.13.51"/></metadata></om:OMV><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#467.13.55:475.13.63"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter_and"></om:OMS><om:OMV name="f"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#468.13.56:468.13.56"/></metadata></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#474.13.62:474.13.62"/></metadata></om:OMV>
+      </om:OMA>
+      </om:OMA><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#479.13.67:483.13.71"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="%23"></om:OMS><om:OMV name="x"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#479.13.67:479.13.67"/></metadata></om:OMV><om:OMV name="g"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#483.13.71:483.13.71"/></metadata></om:OMV>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND></om:OMOBJ></type>
+       
+       
+     </constant><constant name="ded">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#490.15.1:511.15.22"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#496.15.7:508.15.19"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#496.15.7:501.15.12"/></metadata></om:OMS><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#505.15.16:508.15.19"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><ruleconstant name="info.kwarc.mmt.odk.GAP.Booleans"/><ruleconstant name="info.kwarc.mmt.odk.GAP.Integers"/><ruleconstant name="info.kwarc.mmt.odk.GAP.Floats"/><constant name="booleans">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#635.21.1:652.21.18"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#646.21.12:649.21.15"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="integers">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#654.22.1:671.22.18"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#665.22.12:668.22.15"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="floats">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#673.23.1:688.23.16"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://cds.omdoc.org/urtheories" module="Typed" name="type"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#682.23.10:685.23.13"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="gapbool">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#690.24.1:719.24.30"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#700.24.11:716.24.27"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="booleans"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#700.24.11:707.24.18"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#711.24.22:716.24.27"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="gapint">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#721.25.1:749.25.29"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#730.25.10:746.25.26"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="integers"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#730.25.10:737.25.17"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#741.25.21:746.25.26"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="gapfloat">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#751.26.1:779.26.29"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#762.26.12:776.26.26"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="floats"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#762.26.12:767.26.17"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#771.26.21:776.26.26"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="trueI">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#783.28.1:811.28.29"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#791.28.9:808.28.26"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="ded"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#791.28.9:793.28.11"/></metadata></om:OMS><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#795.28.13:808.28.26"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="gapbool"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#796.28.14:802.28.20"/></metadata></om:OMS><om:OMLIT type="http://www.gap-system.org/?Types?booleans" value="true"/>
+      </om:OMA>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="catFilter">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#813.29.1:844.29.32"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#825.29.13:841.29.29"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="category"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#825.29.13:832.29.20"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#836.29.24:841.29.29"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="propertyFilter">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#846.30.1:913.30.68"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#863.30.18:888.30.43"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMA>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#864.30.19:869.30.24"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#873.30.28:878.30.33"/></metadata></om:OMS>
+      </om:OMA><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#883.30.38:888.30.43"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       <definition><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMBIND><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#894.30.49:910.30.65"/></metadata>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="lambda"></om:OMS>
+                 <om:OMBVAR><om:OMV name="p"><metadata><tag property="http://cds.omdoc.org/mmt?mmt?inferred-type"/><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#895.30.50:895.30.50"/></metadata><type><om:OMBIND>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="Pi"></om:OMS>
+                 <om:OMBVAR><om:OMV name="_"><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#864.30.19:869.30.24"/></metadata></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#873.30.28:878.30.33"/></metadata></om:OMS>
+      </om:OMBIND></type></om:OMV></om:OMBVAR>
+                 <om:OMBIND><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#898.30.53:910.30.65"/></metadata>
+                 <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="lambda"></om:OMS>
+                 <om:OMBVAR><om:OMV name="o"><metadata><tag property="http://cds.omdoc.org/mmt?mmt?inferred-type"/><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#899.30.54:899.30.54"/></metadata><type><om:OMS base="http://www.gap-system.org/" module="Types" name="object"></om:OMS></type></om:OMV></om:OMBVAR>
+                 <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#902.30.57:910.30.65"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="ded"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#902.30.57:904.30.59"/></metadata></om:OMS><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#906.30.61:910.30.65"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="apply"></om:OMS>
+              <om:OMV name="p"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#907.30.62:907.30.62"/></metadata></om:OMV><om:OMV name="o"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#909.30.64:909.30.64"/></metadata></om:OMV>
+      </om:OMA>
+      </om:OMA>
+      </om:OMBIND>
+      </om:OMBIND></om:OMOBJ></definition>
+       
+     </constant><constant name="Has">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#917.32.1:951.32.35"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#923.32.7:948.32.32"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#923.32.7:939.32.23"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#924.32.8:929.32.13"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#933.32.17:938.32.22"/></metadata></om:OMS>
+      </om:OMA><om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#943.32.27:948.32.32"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="CategoryCollection">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#953.33.1:993.33.41"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#974.33.22:990.33.38"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#974.33.22:979.33.27"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="category"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#983.33.31:990.33.38"/></metadata></om:OMS>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="Set">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#995.34.1:1029.34.35"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1001.34.7:1026.34.32"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="filter"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1001.34.7:1006.34.12"/></metadata></om:OMS><om:OMA><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1010.34.16:1026.34.32"/></metadata>
+              <om:OMS base="http://cds.omdoc.org/urtheories" module="LambdaPi" name="arrow"></om:OMS>
+              <om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1011.34.17:1016.34.22"/></metadata></om:OMS><om:OMS base="http://www.gap-system.org/" module="Types" name="object"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1020.34.26:1025.34.31"/></metadata></om:OMS>
+      </om:OMA>
+      </om:OMA></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsBool">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1031.35.1:1050.35.20"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1040.35.10:1047.35.17"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant><constant name="IsObject">
+       <metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1052.36.1:1073.36.22"/></metadata>
+       <type><om:OMOBJ xmlns:om="http://www.openmath.org/OpenMath"><om:OMS base="http://www.gap-system.org/" module="Types" name="category"><metadata><link rel="http://cds.omdoc.org/mmt?metadata?sourceRef" resource="http://www.gap-system.org/types.mmt#1063.36.12:1070.36.19"/></metadata></om:OMS></om:OMOBJ></type>
+       
+       
+     </constant></theory></omdoc>

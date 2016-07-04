@@ -1,0 +1,15 @@
+theory http://www.gap-system.org/lib?grpreps
+HasMeta http://www.gap-system.org/lib?grpreps http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?ring
+Includes http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?grpreps?IrreducibleModules
+constant http://www.gap-system.org/lib?grpreps?IrreducibleModules
+Declares http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?grpreps?AbsolutIrreducibleModules
+constant http://www.gap-system.org/lib?grpreps?AbsolutIrreducibleModules
+Declares http://www.gap-system.org/lib?grpreps http://www.gap-system.org/lib?grpreps?RegularModule
+constant http://www.gap-system.org/lib?grpreps?RegularModule

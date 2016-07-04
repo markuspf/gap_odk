@@ -1,0 +1,219 @@
+theory http://www.gap-system.org/lib?alglie
+HasMeta http://www.gap-system.org/lib?alglie http://www.gap-system.org/?Types
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsRootSystem
+constant http://www.gap-system.org/lib?alglie?IsRootSystem
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?SimpleSystem
+constant http://www.gap-system.org/lib?alglie?SimpleSystem
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?ring
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?UniversalEnvelopingAlgebra
+constant http://www.gap-system.org/lib?alglie?UniversalEnvelopingAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PCentralLieAlgebra
+constant http://www.gap-system.org/lib?alglie?PCentralLieAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieCentre
+constant http://www.gap-system.org/lib?alglie?LieCentre
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?NonNilpotentElement
+constant http://www.gap-system.org/lib?alglie?NonNilpotentElement
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?basis
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?arith
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?AdjointMatrix
+constant http://www.gap-system.org/lib?alglie?AdjointMatrix
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieDerivedSubalgebra
+constant http://www.gap-system.org/lib?alglie?LieDerivedSubalgebra
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?type
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?mgmring
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra
+constant http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st0
+constant http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st0
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st1
+constant http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st1
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st2
+constant http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st2
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st3
+constant http://www.gap-system.org/lib?alglie?IsFamilyElementOfFreeLieAlgebra_st3
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieCentralizerInParent
+constant http://www.gap-system.org/lib?alglie?LieCentralizerInParent
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PowerS
+constant http://www.gap-system.org/lib?alglie?PowerS
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?KappaPerp
+constant http://www.gap-system.org/lib?alglie?KappaPerp
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsRootSystemFromLieAlgebra
+constant http://www.gap-system.org/lib?alglie?IsRootSystemFromLieAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsRootSystemFromLieAlgebra_st0
+constant http://www.gap-system.org/lib?alglie?IsRootSystemFromLieAlgebra_st0
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PositiveRootVectors
+constant http://www.gap-system.org/lib?alglie?PositiveRootVectors
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PositiveRoots
+constant http://www.gap-system.org/lib?alglie?PositiveRoots
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?RootSystem
+constant http://www.gap-system.org/lib?alglie?RootSystem
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?CartanSubalgebra
+constant http://www.gap-system.org/lib?alglie?CartanSubalgebra
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st0
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st0
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st1
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st1
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st2
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st2
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st3
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st3
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st4
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st4
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st5
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st5
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st6
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st6
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st7
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st7
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st8
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st8
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st9
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st9
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st10
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st10
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st11
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st11
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st12
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st12
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st13
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st13
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st14
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st14
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st15
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st15
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st16
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st16
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st17
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st17
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st18
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st18
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st19
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st19
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st20
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st20
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st21
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st21
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st22
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st22
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st23
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st23
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st24
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st24
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st25
+constant http://www.gap-system.org/lib?alglie?IsSpaceOfUEAElements_st25
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?UnderlyingLieAlgebra
+constant http://www.gap-system.org/lib?alglie?UnderlyingLieAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsLieSolvable
+constant http://www.gap-system.org/lib?alglie?IsLieSolvable
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?SemiSimpleType
+constant http://www.gap-system.org/lib?alglie?SemiSimpleType
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?KillingMatrix
+constant http://www.gap-system.org/lib?alglie?KillingMatrix
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieUpperCentralSeries
+constant http://www.gap-system.org/lib?alglie?LieUpperCentralSeries
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieCentralizer
+constant http://www.gap-system.org/lib?alglie?LieCentralizer
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PClosureSubalgebra
+constant http://www.gap-system.org/lib?alglie?PClosureSubalgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?BilinearFormMat
+constant http://www.gap-system.org/lib?alglie?BilinearFormMat
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieNormalizerInParent
+constant http://www.gap-system.org/lib?alglie?LieNormalizerInParent
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LeftDerivations
+constant http://www.gap-system.org/lib?alglie?LeftDerivations
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?CanonicalGenerators
+constant http://www.gap-system.org/lib?alglie?CanonicalGenerators
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?NaturalHomomorphismOfLieAlgebraFromNilpotentGroup
+constant http://www.gap-system.org/lib?alglie?NaturalHomomorphismOfLieAlgebraFromNilpotentGroup
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?NegativeRootVectors
+constant http://www.gap-system.org/lib?alglie?NegativeRootVectors
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieNilRadical
+constant http://www.gap-system.org/lib?alglie?LieNilRadical
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieSolvableRadical
+constant http://www.gap-system.org/lib?alglie?LieSolvableRadical
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?ChevalleyBasis
+constant http://www.gap-system.org/lib?alglie?ChevalleyBasis
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?CartanMatrix
+constant http://www.gap-system.org/lib?alglie?CartanMatrix
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieLowerCentralSeries
+constant http://www.gap-system.org/lib?alglie?LieLowerCentralSeries
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsLieNilpotent
+constant http://www.gap-system.org/lib?alglie?IsLieNilpotent
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieNormalizer
+constant http://www.gap-system.org/lib?alglie?LieNormalizer
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PthPowerImages
+constant http://www.gap-system.org/lib?alglie?PthPowerImages
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?LieDerivedSeries
+constant http://www.gap-system.org/lib?alglie?LieDerivedSeries
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?NegativeRoots
+constant http://www.gap-system.org/lib?alglie?NegativeRoots
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsLieAbelian
+constant http://www.gap-system.org/lib?alglie?IsLieAbelian
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?JenningsLieAlgebra
+constant http://www.gap-system.org/lib?alglie?JenningsLieAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?RightDerivations
+constant http://www.gap-system.org/lib?alglie?RightDerivations
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsRestrictedLieAlgebra
+constant http://www.gap-system.org/lib?alglie?IsRestrictedLieAlgebra
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?AdjointAssociativeAlgebra
+constant http://www.gap-system.org/lib?alglie?AdjointAssociativeAlgebra
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?mapping
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?mapphomo
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st0
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st0
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st1
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st1
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st2
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st2
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st3
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st3
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st4
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st4
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st5
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st5
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st6
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st6
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st7
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st7
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st8
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st8
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st9
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st9
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st10
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st10
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st11
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st11
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st12
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st12
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st13
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st13
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st14
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st14
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st15
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st15
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st16
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st16
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st17
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st17
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st18
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st18
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st19
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st19
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st20
+constant http://www.gap-system.org/lib?alglie?IsFptoSCAMorphism_st20
+Includes http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?alglie http://www.gap-system.org/lib?alglie?PthPowerImage
+constant http://www.gap-system.org/lib?alglie?PthPowerImage

@@ -1,0 +1,298 @@
+theory http://www.gap-system.org/lib?integer
+HasMeta http://www.gap-system.org/lib?integer http://www.gap-system.org/?Types
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?cyclotom
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?CoefficientsQadic
+constant http://www.gap-system.org/lib?integer?CoefficientsQadic
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?type
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsCanonicalBasisIntegersRep
+constant http://www.gap-system.org/lib?integer?IsCanonicalBasisIntegersRep
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsCanonicalBasisIntegersRep_st0
+constant http://www.gap-system.org/lib?integer?IsCanonicalBasisIntegersRep_st0
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsCanonicalBasisIntegersRep_st1
+constant http://www.gap-system.org/lib?integer?IsCanonicalBasisIntegersRep_st1
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?coll
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?list
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?arith
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?domain
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?extlset
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?magma
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?addmagma
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?semiring
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?ring
+Includes http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?module
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st0
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st0
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st1
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st1
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st2
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st2
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st3
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st3
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st4
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st4
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st5
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st5
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st6
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st6
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st7
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st7
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st8
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st8
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st9
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st9
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st10
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st10
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st11
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st11
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st12
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st12
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st13
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st13
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st14
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st14
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st15
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st15
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st16
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st16
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st17
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st17
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st18
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st18
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st19
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st19
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st20
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st20
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st21
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st21
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st22
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st22
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st23
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st23
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st24
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st24
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st25
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st25
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st26
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st26
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st27
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st27
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st28
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st28
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st29
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st29
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st30
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st30
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st31
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st31
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st32
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st32
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st33
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st33
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st34
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st34
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st35
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st35
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st36
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st36
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st37
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st37
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st38
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st38
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st39
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st39
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsGaussianIntegers_st40
+constant http://www.gap-system.org/lib?integer?IsGaussianIntegers_st40
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers
+constant http://www.gap-system.org/lib?integer?IsIntegers
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st0
+constant http://www.gap-system.org/lib?integer?IsIntegers_st0
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st1
+constant http://www.gap-system.org/lib?integer?IsIntegers_st1
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st2
+constant http://www.gap-system.org/lib?integer?IsIntegers_st2
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st3
+constant http://www.gap-system.org/lib?integer?IsIntegers_st3
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st4
+constant http://www.gap-system.org/lib?integer?IsIntegers_st4
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st5
+constant http://www.gap-system.org/lib?integer?IsIntegers_st5
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st6
+constant http://www.gap-system.org/lib?integer?IsIntegers_st6
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st7
+constant http://www.gap-system.org/lib?integer?IsIntegers_st7
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st8
+constant http://www.gap-system.org/lib?integer?IsIntegers_st8
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st9
+constant http://www.gap-system.org/lib?integer?IsIntegers_st9
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st10
+constant http://www.gap-system.org/lib?integer?IsIntegers_st10
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st11
+constant http://www.gap-system.org/lib?integer?IsIntegers_st11
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st12
+constant http://www.gap-system.org/lib?integer?IsIntegers_st12
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st13
+constant http://www.gap-system.org/lib?integer?IsIntegers_st13
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st14
+constant http://www.gap-system.org/lib?integer?IsIntegers_st14
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st15
+constant http://www.gap-system.org/lib?integer?IsIntegers_st15
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st16
+constant http://www.gap-system.org/lib?integer?IsIntegers_st16
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st17
+constant http://www.gap-system.org/lib?integer?IsIntegers_st17
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st18
+constant http://www.gap-system.org/lib?integer?IsIntegers_st18
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st19
+constant http://www.gap-system.org/lib?integer?IsIntegers_st19
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st20
+constant http://www.gap-system.org/lib?integer?IsIntegers_st20
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st21
+constant http://www.gap-system.org/lib?integer?IsIntegers_st21
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st22
+constant http://www.gap-system.org/lib?integer?IsIntegers_st22
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st23
+constant http://www.gap-system.org/lib?integer?IsIntegers_st23
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st24
+constant http://www.gap-system.org/lib?integer?IsIntegers_st24
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st25
+constant http://www.gap-system.org/lib?integer?IsIntegers_st25
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st26
+constant http://www.gap-system.org/lib?integer?IsIntegers_st26
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st27
+constant http://www.gap-system.org/lib?integer?IsIntegers_st27
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st28
+constant http://www.gap-system.org/lib?integer?IsIntegers_st28
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st29
+constant http://www.gap-system.org/lib?integer?IsIntegers_st29
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st30
+constant http://www.gap-system.org/lib?integer?IsIntegers_st30
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st31
+constant http://www.gap-system.org/lib?integer?IsIntegers_st31
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st32
+constant http://www.gap-system.org/lib?integer?IsIntegers_st32
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st33
+constant http://www.gap-system.org/lib?integer?IsIntegers_st33
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st34
+constant http://www.gap-system.org/lib?integer?IsIntegers_st34
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st35
+constant http://www.gap-system.org/lib?integer?IsIntegers_st35
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st36
+constant http://www.gap-system.org/lib?integer?IsIntegers_st36
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st37
+constant http://www.gap-system.org/lib?integer?IsIntegers_st37
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsIntegers_st38
+constant http://www.gap-system.org/lib?integer?IsIntegers_st38
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st0
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st0
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st1
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st1
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st2
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st2
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st3
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st3
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st4
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st4
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st5
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st5
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st6
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st6
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st7
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st7
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st8
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st8
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st9
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st9
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st10
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st10
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st11
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st11
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st12
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st12
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st13
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st13
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st14
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st14
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st15
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st15
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st16
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st16
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st17
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st17
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st18
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st18
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st19
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st19
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st20
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st20
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st21
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st21
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st22
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st22
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st23
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st23
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st24
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st24
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st25
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st25
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st26
+constant http://www.gap-system.org/lib?integer?IsNonnegativeIntegers_st26
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?PartialFactorization
+constant http://www.gap-system.org/lib?integer?PartialFactorization
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?PrimeDivisors
+constant http://www.gap-system.org/lib?integer?PrimeDivisors
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st0
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st0
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st1
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st1
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st2
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st2
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st3
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st3
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st4
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st4
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st5
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st5
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st6
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st6
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st7
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st7
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st8
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st8
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st9
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st9
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st10
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st10
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st11
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st11
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st12
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st12
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st13
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st13
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st14
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st14
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st15
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st15
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st16
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st16
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st17
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st17
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st18
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st18
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st19
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st19
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st20
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st20
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st21
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st21
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st22
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st22
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st23
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st23
+Declares http://www.gap-system.org/lib?integer http://www.gap-system.org/lib?integer?IsPositiveIntegers_st24
+constant http://www.gap-system.org/lib?integer?IsPositiveIntegers_st24
